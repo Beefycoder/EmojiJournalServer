@@ -13,11 +13,11 @@ I built this with Xcode 10.2 using Swift 5. The project is built and run in a do
 
 I learned a great deal from this project. I was most impressed with the way Kitura handles some of the more mundane tasks in making API's. I like the OpenAPI module alot and like the way that the book seems to be written from a devops-centric perspective. The book outlines what some best practices are for building real world RESTful API's which I appreciate.
 
-I learned about the OpenAPI standard and swagger and how to use the KituraOpenAPI package to leverage it for making documentation & code generation easy for client side projects, and for making testing API endpoints easy for developers.
+I learned about the OpenAPI standard and swagger and how to use the KituraOpenAPI package to leverage it for making documentation & code generation easy for client side projects, and for making the testing of API endpoints easy for developers.
 
 Through the SwiftKueryORM & SwiftKueryPostgreSQL packages I learned how to persist the typical CRUD based operations from the API & companion iOS app for a postgreSQL server that was installed locally. It would be just as easy to use a docker container with postgres in it as well for persistence I think, I'm not sure why the authors chose to do it this way. I also learned how to make core complex database queries in the Kitura environment.
 
-I learned about Kitura's various methods for authentication via middleware like Kitura-CredentialsHTTP & thier 3rd part packages for OAuth based authentication from Facebook, Google & Github. In the book and this project only focussed on the HTTP basic authentication.
+I learned about Kitura's various methods for authentication via middleware like Kitura-CredentialsHTTP & thier 3rd party packages for OAuth based authentication from Facebook, Google & Github. In the book and this project only focussed on the HTTP basic authentication.
 
 I learned about how to add multi-user support to the API and the iOS app and how to manage the users to restrict their ability to make changes in the database to entries that were associated with them.
 
@@ -34,6 +34,12 @@ Using the helm cli to initialize the project creates a Kubernetes cluster compon
 Environment variables for the API need to be configured in your `chart/<your app name>/bindings.yaml` as this file describes how to populate a number of environment variables in the environment of the app from **Kubernetes Secrets** which are config variables like usernames & passwords. After this is done and you ensure your app builds and runs correctly you can use `helm install --name <whatever> chart/<your app name>` to deploy your app as a Kubernetes pod. I learned to test whether the app is running successfully or not is as simple as using the KituraOpenAPI UI with the deployed instance once you have mapped the Kubernetes port back to your localhost.
 
 I then learned how to scale a Kubernetes cluster by adding replicas (extremely easy - was really impressed). The book seemed to reccommend having 3 replicas at a minumim for triple redundancy when deploying for resilience & availability. The next thing I learned was how to add NGINX as what Kubernetes would call an **Ingress Controller**. It seems that Kubernetes has a simple built in load balancer that you can use, but in production, you would want to use something like NGINX that provides a high performance load balancer & web proxy. NGINX also was used to carry out TLS termination for the project so I learned how to generate a Kubernetes **secret** from the certificate I had in the directory. 
+
+The book also covered how Kitura's SwiftMetrics package provides API's for monitoring data like CPU & memory usage and HTTP responsiveness. It also provides built in intergration with [Prometheus](https://prometheus.io) which is an open source monitoring solution that is part of the Cloud Native Computing Foundation projects. As Prometheus can integrate easily with a Kubernetes environment and already has a Helm Chart in the Stable Helm Repository, I installed the chart and configured Prometheus to a server port. This allowed me to create simple graphs of the resource data the server was using. I could see this as being especially useful in calculating costs and anticipating scaling requirements for your app. The alerts feature can be useful. Grafana is a more comprehensive graphing and dashboard solution that also has a stable Helm Chart avaialbe. The book covers setting up an additional Kubernetes pod for it and covers some of the dashboard setup required for monitoring a Kubernetes cluster. 
+
+At the end, the project had a Kubernetes Cluster configured with 3 instances of the emojijournalserver in one pod, an NGINX server as a load balancer & proxy server in a pod, a postgreSQL database in a pod, a prometheus pod & a grafana pod for monitoring. Not bad!! 
+
+I learned alot and have found plenty of more places to read up on these technologies since. I did have some issues along the way, but managed to get through all of them without exception. Some of the issues I experienced along with way can be found on the Ray Wenderlich forums for the book.
 
 **The remainder of this README has been generated by the Kitura Application**
 
