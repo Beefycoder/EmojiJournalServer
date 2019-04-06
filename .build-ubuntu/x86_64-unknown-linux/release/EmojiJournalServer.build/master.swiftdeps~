@@ -1,0 +1,5 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "5b66533d1139386f89731356fe7a70ba"
+build_time: [1553635619, 74730500]
+inputs:
+  "/swift-project/Sources/EmojiJournalServer/main.swift": [9223372036, 854775807]

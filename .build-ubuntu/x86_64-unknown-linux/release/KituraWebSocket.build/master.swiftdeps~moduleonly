@@ -1,0 +1,14 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "add2c7f853e8b1c5b67f87dc528513aa"
+build_time: [1554239875, 361367000]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WSConnectionUpgradeFactory.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WSFrame.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WSFrameParser.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WSServerRequest.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WSSocketProcessor.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WebSocket.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WebSocketCloseReasonCode.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WebSocketConnection.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WebSocketError.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WebSocketService.swift": [9223372036, 854775807]

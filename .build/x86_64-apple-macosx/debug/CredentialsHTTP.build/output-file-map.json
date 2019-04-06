@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/master.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-CredentialsHTTP/Sources/CredentialsHTTP/CredentialsHTTPBasic.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/CredentialsHTTPBasic.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/CredentialsHTTPBasic.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/CredentialsHTTPBasic~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/CredentialsHTTPBasic.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-CredentialsHTTP/Sources/CredentialsHTTP/CredentialsHTTPDigest.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/CredentialsHTTPDigest.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/CredentialsHTTPDigest.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/CredentialsHTTPDigest~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/CredentialsHTTPDigest.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-CredentialsHTTP/Sources/CredentialsHTTP/TypeSafeHTTPBasic.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/TypeSafeHTTPBasic.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/TypeSafeHTTPBasic.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/TypeSafeHTTPBasic~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/TypeSafeHTTPBasic.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-CredentialsHTTP/Sources/CredentialsHTTP/UserProfileLoader.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/UserProfileLoader.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/UserProfileLoader.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/UserProfileLoader~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/UserProfileLoader.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-CredentialsHTTP/Sources/CredentialsHTTP/VerifyPassword.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/VerifyPassword.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/VerifyPassword.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/VerifyPassword~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.build/VerifyPassword.swiftdeps"
+  }
+}

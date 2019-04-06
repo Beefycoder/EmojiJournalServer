@@ -1,0 +1,7 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "f79f6cef34f25e8319f085a6a0a64164"
+build_time: [1553552545, 253517297]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/Kitura-OpenAPI.git-7274841771006586300/Sources/KituraOpenAPI/KituraOpenAPI.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-OpenAPI.git-7274841771006586300/Sources/KituraOpenAPI/KituraOpenAPIConfig.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-OpenAPI.git-7274841771006586300/Sources/KituraOpenAPI/Utils.swift": [9223372036, 854775807]

@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/EmojiJournalServer.build/EmojiJournalServer.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/EmojiJournalServer.build/EmojiJournalServer.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/EmojiJournalServer.build/master.swiftdeps"
+  },
+  "/swift-project/Sources/EmojiJournalServer/main.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/EmojiJournalServer.build/main.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/EmojiJournalServer.build/main~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/EmojiJournalServer.build/main.swiftdeps"
+  }
+}

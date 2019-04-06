@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/master.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Configuration.git--5220375755568029896/Sources/Configuration/ConfigurationManager.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/ConfigurationManager.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/ConfigurationManager.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/ConfigurationManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/ConfigurationManager.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Configuration.git--5220375755568029896/Sources/Configuration/ConfigurationNode.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/ConfigurationNode.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/ConfigurationNode.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/ConfigurationNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/ConfigurationNode.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Configuration.git--5220375755568029896/Sources/Configuration/Deserializer.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializer.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializer.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializer.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Configuration.git--5220375755568029896/Sources/Configuration/Deserializers/JSONDeserializer.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializers/JSONDeserializer.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializers/JSONDeserializer.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializers/JSONDeserializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializers/JSONDeserializer.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Configuration.git--5220375755568029896/Sources/Configuration/Deserializers/PLISTDeserializer.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializers/PLISTDeserializer.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializers/PLISTDeserializer.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializers/PLISTDeserializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.build/Deserializers/PLISTDeserializer.swiftdeps"
+  }
+}

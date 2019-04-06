@@ -1,0 +1,1919 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "QParams"
+- "SwaggerDocumentFormat"
+- "SwaggerGenerationError"
+- "SwaggerResponseType"
+- "SwaggerInfo"
+- "SingleReference"
+- "ArrayReference"
+- "ResponseSchema"
+- "CollectionFormat"
+- "BodyParameter"
+- "PathParameter"
+- "QueryParamArrayItems"
+- "QueryParamArray"
+- "QueryParamSingle"
+- "QueryParameter"
+- "SwaggerParameter"
+- "SwaggerResponse"
+- "SwaggerResponses"
+- "SwaggerMethod"
+- "SwaggerMethods"
+- "NativeArraySchema"
+- "PropertyValue"
+- "SwaggerProperty"
+- "SwaggerProperties"
+- "SwaggerModel"
+- "SwiftType"
+- "SwaggerDocument"
+provides-nominal:
+- "6Kitura21SwaggerDocumentFormatO"
+- "6Kitura22SwaggerGenerationErrorO"
+- "6Kitura19SwaggerResponseTypeV"
+- "6Kitura11SwaggerInfoV"
+- "6Kitura15SingleReferenceV"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura14ArrayReferenceV"
+- "6Kitura14ResponseSchemaO"
+- "6Kitura16CollectionFormatO"
+- "6Kitura13BodyParameterV"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura15QueryParamArrayV"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura16QueryParamSingleV"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura14QueryParameterO"
+- "6Kitura16SwaggerParameterO"
+- "6Kitura15SwaggerResponseV"
+- "6Kitura13SwaggerMethodV"
+- "6Kitura17NativeArraySchemaV"
+- "6Kitura13PropertyValueO"
+- "6Kitura12SwaggerModelV"
+- "6Kitura9SwiftTypeO"
+- "6Kitura15SwaggerDocumentV"
+provides-member:
+- ["6Kitura21SwaggerDocumentFormatO", ""]
+- ["6Kitura22SwaggerGenerationErrorO", ""]
+- ["6Kitura19SwaggerResponseTypeV", ""]
+- ["6Kitura11SwaggerInfoV", ""]
+- ["6Kitura15SingleReferenceV", ""]
+- ["6Kitura15SingleReferenceV10CodingKeysO", ""]
+- ["6Kitura14ArrayReferenceV", ""]
+- ["6Kitura14ResponseSchemaO", ""]
+- ["6Kitura16CollectionFormatO", ""]
+- ["6Kitura13BodyParameterV", ""]
+- ["6Kitura13BodyParameterV10CodingKeysO", ""]
+- ["6Kitura13PathParameterV", ""]
+- ["6Kitura13PathParameterV10CodingKeysO", ""]
+- ["6Kitura20QueryParamArrayItemsV", ""]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", ""]
+- ["6Kitura15QueryParamArrayV", ""]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", ""]
+- ["6Kitura16QueryParamSingleV", ""]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", ""]
+- ["6Kitura14QueryParameterO", ""]
+- ["6Kitura16SwaggerParameterO", ""]
+- ["6Kitura15SwaggerResponseV", ""]
+- ["6Kitura13SwaggerMethodV", ""]
+- ["6Kitura17NativeArraySchemaV", ""]
+- ["6Kitura13PropertyValueO", ""]
+- ["6Kitura12SwaggerModelV", ""]
+- ["6Kitura9SwiftTypeO", ""]
+- ["6Kitura15SwaggerDocumentV", ""]
+- ["6Kitura6RouterC", ""]
+- ["6Kitura6RouterC", "registerRoute"]
+- ["6Kitura6RouterC", "registerRoute"]
+- ["6Kitura6RouterC", "registerRoute"]
+- ["6Kitura6RouterC", "registerRoute"]
+- ["6Kitura6RouterC", "registerRoute"]
+- ["6Kitura6RouterC", "registerDelete"]
+- ["6Kitura6RouterC", "registerDelete"]
+- ["6Kitura6RouterC", "registerDelete"]
+- ["6Kitura6RouterC", "registerGetRoute"]
+- ["6Kitura6RouterC", "registerGetRoute"]
+- ["6Kitura6RouterC", "registerGetRoute"]
+- ["6Kitura6RouterC", "registerDeleteRoute"]
+- ["6Kitura6RouterC", "registerDeleteRoute"]
+- ["6Kitura6RouterC", "registerDeleteRoute"]
+- ["6Kitura6RouterC", "registerPostRoute"]
+- ["6Kitura6RouterC", "registerPostRoute"]
+- ["6Kitura6RouterC", "registerPutRoute"]
+- ["6Kitura6RouterC", "registerPatchRoute"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- !private "+"
+- !private "+="
+- !private "..."
+- !private "<"
+- "=="
+- !private ">"
+- !private "Array"
+- "ArrayReference"
+- "AssignmentPrecedence"
+- "BodyParameter"
+- "Bool"
+- "BooleanLiteralType"
+- "CastingPrecedence"
+- "Codable"
+- "CodingKey"
+- "CollectionFormat"
+- "Dictionary"
+- !private "Double"
+- "Encodable"
+- "Encoder"
+- !private "EncodingError"
+- !private "Float"
+- !private "Float32"
+- !private "Float64"
+- "Identifier"
+- "Int"
+- !private "Int16"
+- !private "Int32"
+- !private "Int64"
+- !private "Int8"
+- !private "JSONEncoder"
+- !private "Kitura"
+- !private "Log"
+- !private "NSRange"
+- "NSRegularExpression"
+- !private "NSString"
+- "NativeArraySchema"
+- "OrderedDictionary"
+- "PathParameter"
+- "PropertyValue"
+- "QParams"
+- "QueryParamArray"
+- "QueryParamArrayItems"
+- "QueryParamSingle"
+- "QueryParameter"
+- "QueryParams"
+- "ResponseSchema"
+- "Router"
+- "Set"
+- "SingleReference"
+- "String"
+- "SwaggerDocument"
+- "SwaggerDocumentFormat"
+- "SwaggerGenerationError"
+- "SwaggerInfo"
+- "SwaggerMethod"
+- "SwaggerMethods"
+- "SwaggerModel"
+- "SwaggerParameter"
+- "SwaggerProperties"
+- "SwaggerProperty"
+- "SwaggerResponse"
+- "SwaggerResponseType"
+- "SwaggerResponses"
+- "Swift"
+- "SwiftType"
+- "TernaryPrecedence"
+- !private "TypeDecoder"
+- !private "TypeDecodingError"
+- "TypeInfo"
+- !private "UInt"
+- !private "UInt16"
+- !private "UInt32"
+- !private "UInt64"
+- !private "UInt8"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "count"]
+- !private ["Sa", "filter"]
+- !private ["Sa", "init"]
+- !private ["Sa", "isEmpty"]
+- !private ["Sa", "sorted"]
+- !private ["Sa", "subscript"]
+- ["6Kitura14ArrayReferenceV", "SingleReference"]
+- ["6Kitura14ArrayReferenceV", "String"]
+- ["6Kitura14ArrayReferenceV", "deinit"]
+- ["6Kitura14ArrayReferenceV", "encode"]
+- ["6Kitura14ArrayReferenceV", "init"]
+- ["6Kitura14ArrayReferenceV", "items"]
+- ["6Kitura14ArrayReferenceV", "type"]
+- !private ["SK", "append"]
+- !private ["SK", "components"]
+- !private ["SK", "count"]
+- !private ["SK", "filter"]
+- !private ["SK", "hasSuffix"]
+- !private ["SK", "init"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "lowerBound"]
+- !private ["SK", "lowercased"]
+- !private ["SK", "range"]
+- !private ["SK", "replaceSubrange"]
+- !private ["SK", "sorted"]
+- !private ["SK", "subscript"]
+- !private ["15KituraContracts11BodyEncoderP", "encode"]
+- !private ["15KituraContracts11BodyEncoderP", "init"]
+- !private ["15KituraContracts11BodyEncoderP", "outputFormatting"]
+- ["6Kitura13BodyParameterV", "Bool"]
+- ["6Kitura13BodyParameterV", "CodingKey"]
+- ["6Kitura13BodyParameterV", "CodingKeys"]
+- ["6Kitura13BodyParameterV", "SingleReference"]
+- ["6Kitura13BodyParameterV", "String"]
+- !private ["6Kitura13BodyParameterV", "_findStringSwitchCase"]
+- ["6Kitura13BodyParameterV", "deinit"]
+- ["6Kitura13BodyParameterV", "encode"]
+- ["6Kitura13BodyParameterV", "init"]
+- ["6Kitura13BodyParameterV", "invalue"]
+- ["6Kitura13BodyParameterV", "name"]
+- ["6Kitura13BodyParameterV", "required"]
+- ["6Kitura13BodyParameterV", "schema"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "components"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "filter"]
+- !private ["s7CVarArgP", "hasSuffix"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "insert"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "keys"]
+- !private ["s7CVarArgP", "lock"]
+- !private ["s7CVarArgP", "lowercased"]
+- !private ["s7CVarArgP", "matches"]
+- !private ["s7CVarArgP", "range"]
+- !private ["s7CVarArgP", "remove"]
+- !private ["s7CVarArgP", "replaceSubrange"]
+- !private ["s7CVarArgP", "sorted"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "substring"]
+- !private ["s7CVarArgP", "unlock"]
+- ["s9CodingKeyP", "=="]
+- ["s9CodingKeyP", "RawValue"]
+- ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_Default_RawValue"]
+- !private ["s9CodingKeyP", "_findStringSwitchCase"]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- !private ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "rawValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "=="]
+- ["6Kitura13PathParameterV10CodingKeysO", "=="]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "=="]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "=="]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "=="]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "=="]
+- ["6Kitura13BodyParameterV10CodingKeysO", "RawValue"]
+- ["6Kitura13PathParameterV10CodingKeysO", "RawValue"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "RawValue"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "RawValue"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "RawValue"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "RawValue"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "_Default_RawValue"]
+- ["6Kitura13PathParameterV10CodingKeysO", "_Default_RawValue"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "_Default_RawValue"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "_Default_RawValue"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "_Default_RawValue"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "_Default_RawValue"]
+- !private ["6Kitura13BodyParameterV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["6Kitura13PathParameterV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["6Kitura15QueryParamArrayV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["6Kitura15SingleReferenceV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["6Kitura16QueryParamSingleV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "_findStringSwitchCase"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "_rawHashValue"]
+- ["6Kitura13PathParameterV10CodingKeysO", "_rawHashValue"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "_rawHashValue"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "_rawHashValue"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "_rawHashValue"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "_rawHashValue"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "collectionFormat"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "debugDescription"]
+- ["6Kitura13PathParameterV10CodingKeysO", "debugDescription"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "debugDescription"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "debugDescription"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "debugDescription"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "debugDescription"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "deinit"]
+- ["6Kitura13PathParameterV10CodingKeysO", "deinit"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "deinit"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "deinit"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "deinit"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "deinit"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "description"]
+- ["6Kitura13PathParameterV10CodingKeysO", "description"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "description"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "description"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "description"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "description"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "format"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "format"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "hash"]
+- ["6Kitura13PathParameterV10CodingKeysO", "hash"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "hash"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "hash"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "hash"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "hash"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "hashValue"]
+- ["6Kitura13PathParameterV10CodingKeysO", "hashValue"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "hashValue"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "hashValue"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "hashValue"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "hashValue"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "init"]
+- ["6Kitura13PathParameterV10CodingKeysO", "init"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "init"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "init"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "init"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "init"]
+- !private ["6Kitura13BodyParameterV10CodingKeysO", "init"]
+- !private ["6Kitura13PathParameterV10CodingKeysO", "init"]
+- !private ["6Kitura15QueryParamArrayV10CodingKeysO", "init"]
+- !private ["6Kitura15SingleReferenceV10CodingKeysO", "init"]
+- !private ["6Kitura16QueryParamSingleV10CodingKeysO", "init"]
+- !private ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "init"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "intValue"]
+- ["6Kitura13PathParameterV10CodingKeysO", "intValue"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "intValue"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "intValue"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "intValue"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "intValue"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "invalue"]
+- ["6Kitura13PathParameterV10CodingKeysO", "invalue"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "invalue"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "invalue"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "items"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "name"]
+- ["6Kitura13PathParameterV10CodingKeysO", "name"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "name"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "name"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "rawValue"]
+- ["6Kitura13PathParameterV10CodingKeysO", "rawValue"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "rawValue"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "rawValue"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "rawValue"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "rawValue"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "ref"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "required"]
+- ["6Kitura13PathParameterV10CodingKeysO", "required"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "required"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "required"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "schema"]
+- ["6Kitura13BodyParameterV10CodingKeysO", "stringValue"]
+- ["6Kitura13PathParameterV10CodingKeysO", "stringValue"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "stringValue"]
+- ["6Kitura15SingleReferenceV10CodingKeysO", "stringValue"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "stringValue"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "stringValue"]
+- ["6Kitura13PathParameterV10CodingKeysO", "type"]
+- ["6Kitura15QueryParamArrayV10CodingKeysO", "type"]
+- ["6Kitura16QueryParamSingleV10CodingKeysO", "type"]
+- ["6Kitura20QueryParamArrayItemsV10CodingKeysO", "type"]
+- !private ["Sl", "append"]
+- !private ["Sl", "components"]
+- !private ["Sl", "contains"]
+- !private ["Sl", "count"]
+- !private ["Sl", "filter"]
+- !private ["Sl", "hasSuffix"]
+- ["Sl", "init"]
+- !private ["Sl", "insert"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "keys"]
+- !private ["Sl", "lowerBound"]
+- !private ["Sl", "lowercased"]
+- !private ["Sl", "range"]
+- !private ["Sl", "remove"]
+- !private ["Sl", "replaceSubrange"]
+- !private ["Sl", "sorted"]
+- !private ["Sl", "subscript"]
+- ["6Kitura16CollectionFormatO", "=="]
+- ["6Kitura16CollectionFormatO", "Encoder"]
+- ["6Kitura16CollectionFormatO", "RawValue"]
+- ["6Kitura16CollectionFormatO", "_Default_RawValue"]
+- !private ["6Kitura16CollectionFormatO", "_findStringSwitchCase"]
+- ["6Kitura16CollectionFormatO", "_rawHashValue"]
+- ["6Kitura16CollectionFormatO", "csv"]
+- ["6Kitura16CollectionFormatO", "deinit"]
+- ["6Kitura16CollectionFormatO", "encode"]
+- ["6Kitura16CollectionFormatO", "hash"]
+- ["6Kitura16CollectionFormatO", "hashValue"]
+- ["6Kitura16CollectionFormatO", "init"]
+- ["6Kitura16CollectionFormatO", "multi"]
+- ["6Kitura16CollectionFormatO", "pipes"]
+- ["6Kitura16CollectionFormatO", "rawValue"]
+- ["6Kitura16CollectionFormatO", "ssv"]
+- ["6Kitura16CollectionFormatO", "tsv"]
+- !private ["SL", "append"]
+- !private ["SL", "components"]
+- !private ["SL", "count"]
+- !private ["SL", "hasSuffix"]
+- !private ["SL", "init"]
+- !private ["SL", "lowercased"]
+- !private ["SL", "range"]
+- !private ["SL", "replaceSubrange"]
+- !private ["So22NSStringCompareOptionsV", "backwards"]
+- !private ["s13DecodingErrorO7ContextV", "debugDescription"]
+- !private ["s13DecodingErrorO7ContextV", "underlyingError"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "filter"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "sorted"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", "RawValue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_Default_RawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "_findStringSwitchCase"]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "array"]
+- !private ["s28CustomDebugStringConvertibleP", "arrayref"]
+- !private ["s28CustomDebugStringConvertibleP", "components"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- ["s28CustomDebugStringConvertibleP", "cyclic"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "dict"]
+- ["s28CustomDebugStringConvertibleP", "dynamicKeyed"]
+- !private ["s28CustomDebugStringConvertibleP", "filter"]
+- !private ["s28CustomDebugStringConvertibleP", "hasSuffix"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "insert"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- ["s28CustomDebugStringConvertibleP", "keyed"]
+- !private ["s28CustomDebugStringConvertibleP", "keys"]
+- !private ["s28CustomDebugStringConvertibleP", "lock"]
+- !private ["s28CustomDebugStringConvertibleP", "lowerBound"]
+- !private ["s28CustomDebugStringConvertibleP", "lowercased"]
+- !private ["s28CustomDebugStringConvertibleP", "matches"]
+- !private ["s28CustomDebugStringConvertibleP", "nativearray"]
+- ["s28CustomDebugStringConvertibleP", "opaque"]
+- ["s28CustomDebugStringConvertibleP", "optional"]
+- !private ["s28CustomDebugStringConvertibleP", "range"]
+- ["s28CustomDebugStringConvertibleP", "rawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "replaceSubrange"]
+- ["s28CustomDebugStringConvertibleP", "single"]
+- !private ["s28CustomDebugStringConvertibleP", "sorted"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "substring"]
+- ["s28CustomDebugStringConvertibleP", "unkeyed"]
+- !private ["s28CustomDebugStringConvertibleP", "unlock"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "array"]
+- !private ["s17CustomReflectableP", "arrayref"]
+- !private ["s17CustomReflectableP", "components"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "dict"]
+- !private ["s17CustomReflectableP", "filter"]
+- !private ["s17CustomReflectableP", "hasSuffix"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "insert"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "keys"]
+- !private ["s17CustomReflectableP", "lowerBound"]
+- !private ["s17CustomReflectableP", "lowercased"]
+- !private ["s17CustomReflectableP", "nativearray"]
+- !private ["s17CustomReflectableP", "range"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s17CustomReflectableP", "replaceSubrange"]
+- !private ["s17CustomReflectableP", "single"]
+- !private ["s17CustomReflectableP", "sorted"]
+- !private ["s17CustomReflectableP", "string"]
+- !private ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", "RawValue"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_RawValue"]
+- !private ["s23CustomStringConvertibleP", "_findStringSwitchCase"]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "components"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- ["s23CustomStringConvertibleP", "cyclic"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "dynamicKeyed"]
+- !private ["s23CustomStringConvertibleP", "filter"]
+- !private ["s23CustomStringConvertibleP", "hasSuffix"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "insert"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- ["s23CustomStringConvertibleP", "keyed"]
+- !private ["s23CustomStringConvertibleP", "keys"]
+- !private ["s23CustomStringConvertibleP", "lock"]
+- !private ["s23CustomStringConvertibleP", "lowerBound"]
+- !private ["s23CustomStringConvertibleP", "lowercased"]
+- !private ["s23CustomStringConvertibleP", "matches"]
+- ["s23CustomStringConvertibleP", "opaque"]
+- ["s23CustomStringConvertibleP", "optional"]
+- !private ["s23CustomStringConvertibleP", "range"]
+- ["s23CustomStringConvertibleP", "rawValue"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["s23CustomStringConvertibleP", "replaceSubrange"]
+- ["s23CustomStringConvertibleP", "single"]
+- !private ["s23CustomStringConvertibleP", "sorted"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "substring"]
+- ["s23CustomStringConvertibleP", "unkeyed"]
+- !private ["s23CustomStringConvertibleP", "unlock"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "filter"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["10Foundation12DataProtocolP", "sorted"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "append"]
+- !private ["Se", "array"]
+- !private ["Se", "arrayref"]
+- !private ["Se", "components"]
+- !private ["Se", "contains"]
+- !private ["Se", "count"]
+- !private ["Se", "dict"]
+- !private ["Se", "filter"]
+- !private ["Se", "hasSuffix"]
+- ["Se", "init"]
+- !private ["Se", "insert"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "keys"]
+- !private ["Se", "lowerBound"]
+- !private ["Se", "lowercased"]
+- !private ["Se", "nativearray"]
+- !private ["Se", "range"]
+- !private ["Se", "remove"]
+- !private ["Se", "replaceSubrange"]
+- !private ["Se", "single"]
+- !private ["Se", "sorted"]
+- !private ["Se", "string"]
+- !private ["Se", "subscript"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "count"]
+- !private ["SD", "init"]
+- !private ["SD", "keys"]
+- !private ["SD", "subscript"]
+- !private ["11TypeDecoder010DictionaryA0P", "count"]
+- !private ["11TypeDecoder010DictionaryA0P", "init"]
+- !private ["11TypeDecoder010DictionaryA0P", "keys"]
+- !private ["11TypeDecoder010DictionaryA0P", "subscript"]
+- ["SE", "=="]
+- !private ["SE", "Array"]
+- !private ["SE", "ArrayReference"]
+- !private ["SE", "BodyParameter"]
+- !private ["SE", "CollectionFormat"]
+- !private ["SE", "JSONEncodeDefinitions"]
+- !private ["SE", "JSONEncodeModel"]
+- !private ["SE", "JSONEncodeModelContent"]
+- !private ["SE", "JSONEncodeModelProperties"]
+- !private ["SE", "JSONEncoder"]
+- !private ["SE", "Kitura"]
+- !private ["SE", "Log"]
+- !private ["SE", "NSRange"]
+- ["SE", "NSRegularExpression"]
+- !private ["SE", "NSString"]
+- !private ["SE", "NativeArraySchema"]
+- !private ["SE", "PathParameter"]
+- !private ["SE", "QueryParamArray"]
+- !private ["SE", "QueryParamArrayItems"]
+- !private ["SE", "QueryParamSingle"]
+- !private ["SE", "QueryParameter"]
+- ["SE", "RawValue"]
+- ["SE", "Set"]
+- !private ["SE", "SingleReference"]
+- !private ["SE", "String"]
+- !private ["SE", "SwaggerGenerationError"]
+- !private ["SE", "SwaggerInfo"]
+- !private ["SE", "SwaggerMethod"]
+- !private ["SE", "SwaggerMethods"]
+- !private ["SE", "SwaggerModel"]
+- !private ["SE", "SwaggerParameter"]
+- !private ["SE", "SwaggerProperties"]
+- !private ["SE", "SwaggerProperty"]
+- !private ["SE", "SwaggerResponse"]
+- !private ["SE", "SwaggerResponses"]
+- !private ["SE", "SwiftType"]
+- ["SE", ""]
+- ["SE", "_Default_RawValue"]
+- !private ["SE", "_findStringSwitchCase"]
+- ["SE", "_rawHashValue"]
+- !private ["SE", "addModel"]
+- !private ["SE", "addPath"]
+- !private ["SE", "addQueryParameters"]
+- !private ["SE", "append"]
+- ["SE", "array"]
+- ["SE", "arrayref"]
+- !private ["SE", "basePath"]
+- ["SE", "body"]
+- !private ["SE", "buildModel"]
+- !private ["SE", "buildParameter"]
+- !private ["SE", "buildResponse"]
+- !private ["SE", "components"]
+- !private ["SE", "contains"]
+- !private ["SE", "count"]
+- !private ["SE", "csv"]
+- !private ["SE", "decomposeType"]
+- !private ["SE", "definitions"]
+- ["SE", "dict"]
+- ["SE", "encode"]
+- !private ["SE", "filter"]
+- !private ["SE", "format"]
+- !private ["SE", "getUnkeyedTypeName"]
+- !private ["SE", "hasSuffix"]
+- ["SE", "hash"]
+- ["SE", "hashValue"]
+- !private ["SE", "info"]
+- ["SE", "init"]
+- !private ["SE", "insert"]
+- !private ["SE", "isDictEncodedAsTuple"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "keys"]
+- !private ["SE", "lowerBound"]
+- !private ["SE", "lowercased"]
+- ["SE", "nativearray"]
+- ["SE", "path"]
+- !private ["SE", "paths"]
+- !private ["SE", "processQueryParameter"]
+- !private ["SE", "processedSet"]
+- ["SE", "query"]
+- !private ["SE", "range"]
+- ["SE", "rawValue"]
+- !private ["SE", "remove"]
+- !private ["SE", "replaceSubrange"]
+- !private ["SE", "schemes"]
+- !private ["SE", "serializeAPIToJSON"]
+- ["SE", "single"]
+- ["SE", "singleref"]
+- !private ["SE", "sorted"]
+- ["SE", "string"]
+- !private ["SE", "subscript"]
+- !private ["SE", "swagger"]
+- !private ["SE", "swaggerPropertyFromSwiftType"]
+- !private ["SE", "tupleRegex"]
+- !private ["SE", "type"]
+- !private ["SE", "unkeyedTypeRegex"]
+- !private ["SE", "unprocessedSet"]
+- !private ["SE", "unprocessedTypes"]
+- !private ["s7EncoderP", "container"]
+- !private ["s7EncoderP", "singleValueContainer"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- ["SQ", "=="]
+- ["SQ", "Bool"]
+- ["SQ", "Dictionary"]
+- ["SQ", "Double"]
+- ["SQ", "Float"]
+- ["SQ", "Float32"]
+- ["SQ", "Float64"]
+- ["SQ", "Int"]
+- ["SQ", "Int16"]
+- ["SQ", "Int32"]
+- ["SQ", "Int64"]
+- ["SQ", "Int8"]
+- ["SQ", "RawValue"]
+- ["SQ", "String"]
+- ["SQ", "UInt"]
+- ["SQ", "UInt16"]
+- ["SQ", "UInt32"]
+- ["SQ", "UInt64"]
+- ["SQ", "UInt8"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_code"]
+- ["SQ", "_domain"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_getEmbeddedNSError"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "_userInfo"]
+- !private ["SQ", "append"]
+- !private ["SQ", "array"]
+- !private ["SQ", "arrayref"]
+- !private ["SQ", "backwards"]
+- !private ["SQ", "components"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "count"]
+- !private ["SQ", "csv"]
+- ["SQ", "cyclic"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- !private ["SQ", "dict"]
+- ["SQ", "dynamicKeyed"]
+- ["SQ", "encode"]
+- !private ["SQ", "encodingError"]
+- !private ["SQ", "filter"]
+- !private ["SQ", "hasSuffix"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "inputType"]
+- !private ["SQ", "insert"]
+- ["SQ", "intValue"]
+- !private ["SQ", "invalidSwiftType"]
+- !private ["SQ", "isBaseType"]
+- !private ["SQ", "isEmpty"]
+- ["SQ", "json"]
+- ["SQ", "keyed"]
+- !private ["SQ", "keys"]
+- !private ["SQ", "lock"]
+- !private ["SQ", "lowerBound"]
+- !private ["SQ", "lowercased"]
+- !private ["SQ", "matches"]
+- !private ["SQ", "nativearray"]
+- !private ["SQ", "notImplemented"]
+- ["SQ", "opaque"]
+- ["SQ", "optional"]
+- !private ["SQ", "outputType"]
+- !private ["SQ", "prettyPrinted"]
+- !private ["SQ", "queryParamType"]
+- !private ["SQ", "range"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "remove"]
+- !private ["SQ", "replaceSubrange"]
+- ["SQ", "single"]
+- !private ["SQ", "sorted"]
+- !private ["SQ", "sortedKeys"]
+- !private ["SQ", "string"]
+- ["SQ", "stringValue"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "substring"]
+- !private ["SQ", "swaggerFormat"]
+- !private ["SQ", "swaggerType"]
+- ["SQ", "unkeyed"]
+- !private ["SQ", "unlock"]
+- !private ["SQ", "utf8"]
+- ["SQ", "yaml"]
+- ["s5ErrorP", "=="]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_rawHashValue"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "context"]
+- !private ["s5ErrorP", "encodingError"]
+- ["s5ErrorP", "hash"]
+- ["s5ErrorP", "hashValue"]
+- !private ["s5ErrorP", "invalidSwiftType"]
+- !private ["s5ErrorP", "notImplemented"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "backwards"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "filter"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "insert"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", "prettyPrinted"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["s25ExpressibleByArrayLiteralP", "sorted"]
+- !private ["s25ExpressibleByArrayLiteralP", "sortedKeys"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "count"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "keys"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "append"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "components"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "count"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "range"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "replaceSubrange"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "substring"]
+- !private ["s23ExpressibleByNilLiteralP", "array"]
+- !private ["s23ExpressibleByNilLiteralP", "arrayref"]
+- !private ["s23ExpressibleByNilLiteralP", "dict"]
+- !private ["s23ExpressibleByNilLiteralP", "nativearray"]
+- !private ["s23ExpressibleByNilLiteralP", "single"]
+- !private ["s23ExpressibleByNilLiteralP", "string"]
+- !private ["s32ExpressibleByStringInterpolationP", "append"]
+- !private ["s32ExpressibleByStringInterpolationP", "components"]
+- !private ["s32ExpressibleByStringInterpolationP", "count"]
+- !private ["s32ExpressibleByStringInterpolationP", "hasSuffix"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "lowercased"]
+- !private ["s32ExpressibleByStringInterpolationP", "range"]
+- !private ["s32ExpressibleByStringInterpolationP", "replaceSubrange"]
+- !private ["s26ExpressibleByStringLiteralP", "append"]
+- !private ["s26ExpressibleByStringLiteralP", "components"]
+- !private ["s26ExpressibleByStringLiteralP", "count"]
+- !private ["s26ExpressibleByStringLiteralP", "hasSuffix"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "lowercased"]
+- !private ["s26ExpressibleByStringLiteralP", "range"]
+- !private ["s26ExpressibleByStringLiteralP", "replaceSubrange"]
+- !private ["s26ExpressibleByStringLiteralP", "substring"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "append"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "components"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "count"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "lowercased"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "range"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "replaceSubrange"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "substring"]
+- !private ["9KituraNet10HTTPServerC", "sslConfig"]
+- ["SH", "=="]
+- ["SH", "Bool"]
+- ["SH", "Dictionary"]
+- ["SH", "Double"]
+- ["SH", "Float"]
+- ["SH", "Float32"]
+- ["SH", "Float64"]
+- ["SH", "Int"]
+- ["SH", "Int16"]
+- ["SH", "Int32"]
+- ["SH", "Int64"]
+- ["SH", "Int8"]
+- ["SH", "RawValue"]
+- ["SH", "String"]
+- ["SH", "UInt"]
+- ["SH", "UInt16"]
+- ["SH", "UInt32"]
+- ["SH", "UInt64"]
+- ["SH", "UInt8"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_code"]
+- ["SH", "_domain"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_getEmbeddedNSError"]
+- ["SH", "_rawHashValue"]
+- ["SH", "_userInfo"]
+- !private ["SH", "append"]
+- !private ["SH", "array"]
+- !private ["SH", "arrayref"]
+- !private ["SH", "components"]
+- !private ["SH", "contains"]
+- !private ["SH", "count"]
+- !private ["SH", "csv"]
+- ["SH", "cyclic"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- !private ["SH", "dict"]
+- ["SH", "dynamicKeyed"]
+- ["SH", "encode"]
+- !private ["SH", "encodingError"]
+- !private ["SH", "filter"]
+- !private ["SH", "hasSuffix"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "inputType"]
+- !private ["SH", "insert"]
+- ["SH", "intValue"]
+- !private ["SH", "invalidSwiftType"]
+- !private ["SH", "isBaseType"]
+- !private ["SH", "isEmpty"]
+- ["SH", "json"]
+- ["SH", "keyed"]
+- !private ["SH", "keys"]
+- !private ["SH", "lock"]
+- !private ["SH", "lowerBound"]
+- !private ["SH", "lowercased"]
+- !private ["SH", "matches"]
+- !private ["SH", "nativearray"]
+- !private ["SH", "notImplemented"]
+- ["SH", "opaque"]
+- ["SH", "optional"]
+- !private ["SH", "outputType"]
+- !private ["SH", "queryParamType"]
+- !private ["SH", "range"]
+- ["SH", "rawValue"]
+- !private ["SH", "remove"]
+- !private ["SH", "replaceSubrange"]
+- ["SH", "single"]
+- !private ["SH", "sorted"]
+- !private ["SH", "string"]
+- ["SH", "stringValue"]
+- !private ["SH", "subscript"]
+- !private ["SH", "substring"]
+- !private ["SH", "swaggerFormat"]
+- !private ["SH", "swaggerType"]
+- ["SH", "unkeyed"]
+- !private ["SH", "unlock"]
+- !private ["SH", "utf8"]
+- ["SH", "yaml"]
+- !private ["s6HasherV", "combine"]
+- !private ["15KituraContracts10IdentifierP", "append"]
+- !private ["15KituraContracts10IdentifierP", "components"]
+- !private ["15KituraContracts10IdentifierP", "count"]
+- !private ["15KituraContracts10IdentifierP", "hasSuffix"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["15KituraContracts10IdentifierP", "lowercased"]
+- !private ["15KituraContracts10IdentifierP", "range"]
+- !private ["15KituraContracts10IdentifierP", "replaceSubrange"]
+- !private ["St", "count"]
+- !private ["St", "init"]
+- !private ["St", "subscript"]
+- !private ["10Foundation11JSONEncoderC", "encode"]
+- !private ["10Foundation11JSONEncoderC", "init"]
+- !private ["10Foundation11JSONEncoderC", "outputFormatting"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- !private ["SD4KeysV", "sorted"]
+- !private ["6KituraAAC", "httpServersAndPorts"]
+- !private ["6KituraAAC", "serverLock"]
+- !private ["9LoggerAPI3LogC", "debug"]
+- !private ["9LoggerAPI3LogC", "error"]
+- !private ["9LoggerAPI3LogC", "verbose"]
+- !private ["9LoggerAPI3LogC", "warning"]
+- !private ["s25LosslessStringConvertibleP", "append"]
+- !private ["s25LosslessStringConvertibleP", "components"]
+- !private ["s25LosslessStringConvertibleP", "count"]
+- !private ["s25LosslessStringConvertibleP", "hasSuffix"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "lowercased"]
+- !private ["s25LosslessStringConvertibleP", "range"]
+- !private ["s25LosslessStringConvertibleP", "replaceSubrange"]
+- !private ["s10MirrorPathP", "append"]
+- !private ["s10MirrorPathP", "components"]
+- !private ["s10MirrorPathP", "count"]
+- !private ["s10MirrorPathP", "hasSuffix"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "lowercased"]
+- !private ["s10MirrorPathP", "range"]
+- !private ["s10MirrorPathP", "replaceSubrange"]
+- !private ["SM", "append"]
+- !private ["SM", "count"]
+- !private ["SM", "filter"]
+- !private ["SM", "init"]
+- !private ["SM", "isEmpty"]
+- !private ["SM", "sorted"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "filter"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "sorted"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "append"]
+- !private ["So8NSCodingP", "components"]
+- !private ["So8NSCodingP", "count"]
+- !private ["So8NSCodingP", "hasSuffix"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lowercased"]
+- !private ["So8NSCodingP", "matches"]
+- !private ["So8NSCodingP", "range"]
+- !private ["So8NSCodingP", "replaceSubrange"]
+- !private ["So8NSCodingP", "substring"]
+- !private ["So9NSCopyingP", "append"]
+- !private ["So9NSCopyingP", "components"]
+- !private ["So9NSCopyingP", "count"]
+- !private ["So9NSCopyingP", "hasSuffix"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "lowercased"]
+- !private ["So9NSCopyingP", "matches"]
+- !private ["So9NSCopyingP", "range"]
+- !private ["So9NSCopyingP", "replaceSubrange"]
+- !private ["So9NSCopyingP", "substring"]
+- !private ["So21NSItemProviderReadingP", "append"]
+- !private ["So21NSItemProviderReadingP", "components"]
+- !private ["So21NSItemProviderReadingP", "count"]
+- !private ["So21NSItemProviderReadingP", "hasSuffix"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "lowercased"]
+- !private ["So21NSItemProviderReadingP", "range"]
+- !private ["So21NSItemProviderReadingP", "replaceSubrange"]
+- !private ["So21NSItemProviderReadingP", "substring"]
+- !private ["So21NSItemProviderWritingP", "append"]
+- !private ["So21NSItemProviderWritingP", "components"]
+- !private ["So21NSItemProviderWritingP", "count"]
+- !private ["So21NSItemProviderWritingP", "hasSuffix"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "lowercased"]
+- !private ["So21NSItemProviderWritingP", "range"]
+- !private ["So21NSItemProviderWritingP", "replaceSubrange"]
+- !private ["So21NSItemProviderWritingP", "substring"]
+- !private ["So6NSLockC", "lock"]
+- !private ["So6NSLockC", "unlock"]
+- !private ["So9NSLockingP", "lock"]
+- !private ["So9NSLockingP", "unlock"]
+- !private ["So16NSMutableCopyingP", "append"]
+- !private ["So16NSMutableCopyingP", "components"]
+- !private ["So16NSMutableCopyingP", "count"]
+- !private ["So16NSMutableCopyingP", "hasSuffix"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "lowercased"]
+- !private ["So16NSMutableCopyingP", "range"]
+- !private ["So16NSMutableCopyingP", "replaceSubrange"]
+- !private ["So16NSMutableCopyingP", "substring"]
+- !private ["So8NSObjectC", "append"]
+- !private ["So8NSObjectC", "components"]
+- !private ["So8NSObjectC", "count"]
+- !private ["So8NSObjectC", "hasSuffix"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "lock"]
+- !private ["So8NSObjectC", "lowercased"]
+- !private ["So8NSObjectC", "matches"]
+- !private ["So8NSObjectC", "range"]
+- !private ["So8NSObjectC", "replaceSubrange"]
+- !private ["So8NSObjectC", "substring"]
+- !private ["So8NSObjectC", "unlock"]
+- !private ["So8NSObjectP", "append"]
+- !private ["So8NSObjectP", "components"]
+- !private ["So8NSObjectP", "count"]
+- !private ["So8NSObjectP", "hasSuffix"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lock"]
+- !private ["So8NSObjectP", "lowercased"]
+- !private ["So8NSObjectP", "matches"]
+- !private ["So8NSObjectP", "range"]
+- !private ["So8NSObjectP", "replaceSubrange"]
+- !private ["So8NSObjectP", "substring"]
+- !private ["So8NSObjectP", "unlock"]
+- ["So19NSRegularExpressionC", "init"]
+- !private ["So19NSRegularExpressionC", "matches"]
+- !private ["So14NSSecureCodingP", "append"]
+- !private ["So14NSSecureCodingP", "components"]
+- !private ["So14NSSecureCodingP", "count"]
+- !private ["So14NSSecureCodingP", "hasSuffix"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "lowercased"]
+- !private ["So14NSSecureCodingP", "matches"]
+- !private ["So14NSSecureCodingP", "range"]
+- !private ["So14NSSecureCodingP", "replaceSubrange"]
+- !private ["So14NSSecureCodingP", "substring"]
+- !private ["So8NSStringC", "append"]
+- !private ["So8NSStringC", "components"]
+- !private ["So8NSStringC", "count"]
+- !private ["So8NSStringC", "hasSuffix"]
+- !private ["So8NSStringC", "init"]
+- !private ["So8NSStringC", "lowercased"]
+- !private ["So8NSStringC", "range"]
+- !private ["So8NSStringC", "replaceSubrange"]
+- !private ["So8NSStringC", "substring"]
+- !private ["So20NSTextCheckingResultC", "range"]
+- ["6Kitura17NativeArraySchemaV", "String"]
+- ["6Kitura17NativeArraySchemaV", "deinit"]
+- ["6Kitura17NativeArraySchemaV", "encode"]
+- ["6Kitura17NativeArraySchemaV", "format"]
+- ["6Kitura17NativeArraySchemaV", "init"]
+- ["6Kitura17NativeArraySchemaV", "type"]
+- !private ["s9OptionSetP", "backwards"]
+- !private ["s9OptionSetP", "contains"]
+- !private ["s9OptionSetP", "prettyPrinted"]
+- !private ["s9OptionSetP", "sortedKeys"]
+- !private ["Sq", "array"]
+- !private ["Sq", "arrayref"]
+- !private ["Sq", "dict"]
+- !private ["Sq", "nativearray"]
+- !private ["Sq", "single"]
+- !private ["Sq", "string"]
+- !private ["11TypeDecoder17OrderedDictionaryV", "count"]
+- !private ["11TypeDecoder17OrderedDictionaryV", "init"]
+- !private ["11TypeDecoder17OrderedDictionaryV", "subscript"]
+- !private ["10Foundation11JSONEncoderC16OutputFormattingV", "contains"]
+- !private ["10Foundation11JSONEncoderC16OutputFormattingV", "prettyPrinted"]
+- !private ["10Foundation11JSONEncoderC16OutputFormattingV", "sortedKeys"]
+- ["6Kitura13PathParameterV", "Bool"]
+- ["6Kitura13PathParameterV", "CodingKey"]
+- ["6Kitura13PathParameterV", "CodingKeys"]
+- ["6Kitura13PathParameterV", "String"]
+- !private ["6Kitura13PathParameterV", "_findStringSwitchCase"]
+- ["6Kitura13PathParameterV", "deinit"]
+- ["6Kitura13PathParameterV", "encode"]
+- ["6Kitura13PathParameterV", "init"]
+- ["6Kitura13PathParameterV", "invalue"]
+- ["6Kitura13PathParameterV", "name"]
+- ["6Kitura13PathParameterV", "required"]
+- ["6Kitura13PathParameterV", "type"]
+- ["6Kitura13PropertyValueO", "Encoder"]
+- ["6Kitura13PropertyValueO", "NativeArraySchema"]
+- ["6Kitura13PropertyValueO", "SingleReference"]
+- ["6Kitura13PropertyValueO", "String"]
+- ["6Kitura13PropertyValueO", "SwaggerProperty"]
+- ["6Kitura13PropertyValueO", "arrayref"]
+- ["6Kitura13PropertyValueO", "deinit"]
+- ["6Kitura13PropertyValueO", "dict"]
+- ["6Kitura13PropertyValueO", "encode"]
+- ["6Kitura13PropertyValueO", "nativearray"]
+- ["6Kitura13PropertyValueO", "singleref"]
+- ["6Kitura13PropertyValueO", "string"]
+- ["6Kitura15QueryParamArrayV", "Bool"]
+- ["6Kitura15QueryParamArrayV", "CodingKey"]
+- ["6Kitura15QueryParamArrayV", "CodingKeys"]
+- ["6Kitura15QueryParamArrayV", "CollectionFormat"]
+- ["6Kitura15QueryParamArrayV", "QueryParamArrayItems"]
+- ["6Kitura15QueryParamArrayV", "String"]
+- !private ["6Kitura15QueryParamArrayV", "_findStringSwitchCase"]
+- ["6Kitura15QueryParamArrayV", "collectionFormat"]
+- ["6Kitura15QueryParamArrayV", "deinit"]
+- ["6Kitura15QueryParamArrayV", "encode"]
+- ["6Kitura15QueryParamArrayV", "init"]
+- ["6Kitura15QueryParamArrayV", "invalue"]
+- ["6Kitura15QueryParamArrayV", "items"]
+- ["6Kitura15QueryParamArrayV", "name"]
+- ["6Kitura15QueryParamArrayV", "required"]
+- ["6Kitura15QueryParamArrayV", "type"]
+- ["6Kitura20QueryParamArrayItemsV", "CodingKey"]
+- ["6Kitura20QueryParamArrayItemsV", "CodingKeys"]
+- ["6Kitura20QueryParamArrayItemsV", "String"]
+- !private ["6Kitura20QueryParamArrayItemsV", "_findStringSwitchCase"]
+- ["6Kitura20QueryParamArrayItemsV", "deinit"]
+- ["6Kitura20QueryParamArrayItemsV", "encode"]
+- ["6Kitura20QueryParamArrayItemsV", "format"]
+- ["6Kitura20QueryParamArrayItemsV", "init"]
+- ["6Kitura20QueryParamArrayItemsV", "type"]
+- ["6Kitura16QueryParamSingleV", "Bool"]
+- ["6Kitura16QueryParamSingleV", "CodingKey"]
+- ["6Kitura16QueryParamSingleV", "CodingKeys"]
+- ["6Kitura16QueryParamSingleV", "String"]
+- !private ["6Kitura16QueryParamSingleV", "_findStringSwitchCase"]
+- ["6Kitura16QueryParamSingleV", "deinit"]
+- ["6Kitura16QueryParamSingleV", "encode"]
+- ["6Kitura16QueryParamSingleV", "format"]
+- ["6Kitura16QueryParamSingleV", "init"]
+- ["6Kitura16QueryParamSingleV", "invalue"]
+- ["6Kitura16QueryParamSingleV", "name"]
+- ["6Kitura16QueryParamSingleV", "required"]
+- ["6Kitura16QueryParamSingleV", "type"]
+- ["6Kitura14QueryParameterO", "Encoder"]
+- ["6Kitura14QueryParameterO", "QueryParamArray"]
+- ["6Kitura14QueryParameterO", "QueryParamSingle"]
+- ["6Kitura14QueryParameterO", "array"]
+- ["6Kitura14QueryParameterO", "deinit"]
+- ["6Kitura14QueryParameterO", "encode"]
+- ["6Kitura14QueryParameterO", "single"]
+- !private ["Sk", "append"]
+- !private ["Sk", "count"]
+- !private ["Sk", "filter"]
+- !private ["Sk", "init"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sk", "lowerBound"]
+- !private ["Sk", "sorted"]
+- !private ["Sk", "subscript"]
+- !private ["Sn", "lowerBound"]
+- !private ["SX", "lowerBound"]
+- !private ["Sm", "append"]
+- !private ["Sm", "components"]
+- !private ["Sm", "count"]
+- !private ["Sm", "filter"]
+- !private ["Sm", "hasSuffix"]
+- !private ["Sm", "init"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "lowercased"]
+- !private ["Sm", "range"]
+- !private ["Sm", "replaceSubrange"]
+- !private ["Sm", "sorted"]
+- !private ["Sm", "subscript"]
+- ["SY", "=="]
+- ["SY", "Bool"]
+- ["SY", "Dictionary"]
+- ["SY", "Double"]
+- ["SY", "Float"]
+- ["SY", "Float32"]
+- ["SY", "Float64"]
+- ["SY", "Int"]
+- ["SY", "Int16"]
+- ["SY", "Int32"]
+- ["SY", "Int64"]
+- ["SY", "Int8"]
+- ["SY", "RawValue"]
+- ["SY", "String"]
+- ["SY", "UInt"]
+- ["SY", "UInt16"]
+- ["SY", "UInt32"]
+- ["SY", "UInt64"]
+- ["SY", "UInt8"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- !private ["SY", "backwards"]
+- !private ["SY", "contains"]
+- !private ["SY", "csv"]
+- ["SY", "debugDescription"]
+- ["SY", "description"]
+- ["SY", "encode"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- !private ["SY", "init"]
+- !private ["SY", "inputType"]
+- ["SY", "intValue"]
+- !private ["SY", "isBaseType"]
+- !private ["SY", "outputType"]
+- !private ["SY", "prettyPrinted"]
+- !private ["SY", "queryParamType"]
+- ["SY", "rawValue"]
+- !private ["SY", "sortedKeys"]
+- ["SY", "stringValue"]
+- !private ["SY", "swaggerFormat"]
+- !private ["SY", "swaggerType"]
+- !private ["SY", "utf8"]
+- ["6Kitura14ResponseSchemaO", "ArrayReference"]
+- ["6Kitura14ResponseSchemaO", "Encoder"]
+- ["6Kitura14ResponseSchemaO", "SingleReference"]
+- ["6Kitura14ResponseSchemaO", "array"]
+- ["6Kitura14ResponseSchemaO", "deinit"]
+- ["6Kitura14ResponseSchemaO", "encode"]
+- ["6Kitura14ResponseSchemaO", "single"]
+- !private ["6Kitura6RouterC", "Array"]
+- ["6Kitura6RouterC", "Bool"]
+- ["6Kitura6RouterC", "Codable"]
+- ["6Kitura6RouterC", "Identifier"]
+- !private ["6Kitura6RouterC", "Log"]
+- !private ["6Kitura6RouterC", "OrderedDictionary"]
+- ["6Kitura6RouterC", "ParamType"]
+- ["6Kitura6RouterC", "QueryParams"]
+- ["6Kitura6RouterC", "String"]
+- ["6Kitura6RouterC", "SwaggerResponseType"]
+- ["6Kitura6RouterC", "Swift"]
+- !private ["6Kitura6RouterC", "TypeDecoder"]
+- !private ["6Kitura6RouterC", "TypeDecodingError"]
+- !private ["6Kitura6RouterC", "TypeInfo"]
+- !private ["6Kitura6RouterC", "_findStringSwitchCase"]
+- !private ["6Kitura6RouterC", "logTypeDecodeError"]
+- ["6Kitura6RouterC", "registerDelete"]
+- ["6Kitura6RouterC", "registerDeleteRoute"]
+- ["6Kitura6RouterC", "registerGetRoute"]
+- ["6Kitura6RouterC", "registerPatchRoute"]
+- ["6Kitura6RouterC", "registerPostRoute"]
+- ["6Kitura6RouterC", "registerPutRoute"]
+- ["6Kitura6RouterC", "registerRoute"]
+- !private ["6Kitura6RouterC", "swagger"]
+- !private ["6Kitura16RouterMiddlewareP", "Array"]
+- !private ["6Kitura16RouterMiddlewareP", "Log"]
+- !private ["6Kitura16RouterMiddlewareP", "SwaggerResponseType"]
+- !private ["6Kitura16RouterMiddlewareP", "TypeDecoder"]
+- !private ["6Kitura16RouterMiddlewareP", "_findStringSwitchCase"]
+- !private ["6Kitura16RouterMiddlewareP", "logTypeDecodeError"]
+- !private ["6Kitura16RouterMiddlewareP", "registerDelete"]
+- !private ["6Kitura16RouterMiddlewareP", "registerRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "swagger"]
+- !private ["ST", "append"]
+- !private ["ST", "components"]
+- !private ["ST", "contains"]
+- !private ["ST", "count"]
+- !private ["ST", "filter"]
+- !private ["ST", "hasSuffix"]
+- ["ST", "init"]
+- !private ["ST", "insert"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "keys"]
+- !private ["ST", "lowerBound"]
+- !private ["ST", "lowercased"]
+- !private ["ST", "range"]
+- !private ["ST", "remove"]
+- !private ["ST", "replaceSubrange"]
+- !private ["ST", "sorted"]
+- !private ["ST", "subscript"]
+- !private ["9KituraNet6ServerP", "sslConfig"]
+- !private ["9KituraNet14ServerDelegateP", "Array"]
+- !private ["9KituraNet14ServerDelegateP", "Log"]
+- !private ["9KituraNet14ServerDelegateP", "SwaggerResponseType"]
+- !private ["9KituraNet14ServerDelegateP", "TypeDecoder"]
+- !private ["9KituraNet14ServerDelegateP", "_findStringSwitchCase"]
+- !private ["9KituraNet14ServerDelegateP", "logTypeDecodeError"]
+- !private ["9KituraNet14ServerDelegateP", "registerDelete"]
+- !private ["9KituraNet14ServerDelegateP", "registerRoute"]
+- !private ["9KituraNet14ServerDelegateP", "swagger"]
+- !private ["Sh", "contains"]
+- !private ["Sh", "count"]
+- ["Sh", "init"]
+- !private ["Sh", "insert"]
+- !private ["Sh", "remove"]
+- !private ["s10SetAlgebraP", "backwards"]
+- !private ["s10SetAlgebraP", "contains"]
+- !private ["s10SetAlgebraP", "count"]
+- ["s10SetAlgebraP", "init"]
+- !private ["s10SetAlgebraP", "insert"]
+- !private ["s10SetAlgebraP", "prettyPrinted"]
+- !private ["s10SetAlgebraP", "remove"]
+- !private ["s10SetAlgebraP", "sortedKeys"]
+- ["6Kitura15SingleReferenceV", "CodingKey"]
+- ["6Kitura15SingleReferenceV", "CodingKeys"]
+- ["6Kitura15SingleReferenceV", "String"]
+- !private ["6Kitura15SingleReferenceV", "_findStringSwitchCase"]
+- ["6Kitura15SingleReferenceV", "deinit"]
+- ["6Kitura15SingleReferenceV", "encode"]
+- ["6Kitura15SingleReferenceV", "init"]
+- ["6Kitura15SingleReferenceV", "ref"]
+- !private ["s28SingleValueEncodingContainerP", "encode"]
+- !private ["SS", "append"]
+- !private ["SS", "components"]
+- !private ["SS", "count"]
+- !private ["SS", "hasSuffix"]
+- !private ["SS", "init"]
+- !private ["SS", "lowercased"]
+- !private ["SS", "range"]
+- !private ["SS", "replaceSubrange"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "append"]
+- !private ["Sy", "components"]
+- !private ["Sy", "count"]
+- !private ["Sy", "hasSuffix"]
+- !private ["Sy", "init"]
+- !private ["Sy", "lowercased"]
+- !private ["Sy", "range"]
+- !private ["Sy", "replaceSubrange"]
+- !private ["6Kitura15SwaggerDocumentV", "Array"]
+- !private ["6Kitura15SwaggerDocumentV", "ArrayReference"]
+- !private ["6Kitura15SwaggerDocumentV", "BodyParameter"]
+- ["6Kitura15SwaggerDocumentV", "Bool"]
+- ["6Kitura15SwaggerDocumentV", "CodingKey"]
+- !private ["6Kitura15SwaggerDocumentV", "CodingKeys"]
+- !private ["6Kitura15SwaggerDocumentV", "CollectionFormat"]
+- ["6Kitura15SwaggerDocumentV", "Dictionary"]
+- !private ["6Kitura15SwaggerDocumentV", "EncodingError"]
+- ["6Kitura15SwaggerDocumentV", "Int"]
+- ["6Kitura15SwaggerDocumentV", "JSONEncodeDefinitions"]
+- ["6Kitura15SwaggerDocumentV", "JSONEncodeModel"]
+- ["6Kitura15SwaggerDocumentV", "JSONEncodeModelContent"]
+- ["6Kitura15SwaggerDocumentV", "JSONEncodeModelProperties"]
+- !private ["6Kitura15SwaggerDocumentV", "JSONEncoder"]
+- !private ["6Kitura15SwaggerDocumentV", "Kitura"]
+- !private ["6Kitura15SwaggerDocumentV", "Log"]
+- !private ["6Kitura15SwaggerDocumentV", "NSRange"]
+- ["6Kitura15SwaggerDocumentV", "NSRegularExpression"]
+- !private ["6Kitura15SwaggerDocumentV", "NSString"]
+- !private ["6Kitura15SwaggerDocumentV", "NativeArraySchema"]
+- !private ["6Kitura15SwaggerDocumentV", "PathParameter"]
+- ["6Kitura15SwaggerDocumentV", "QParams"]
+- !private ["6Kitura15SwaggerDocumentV", "QueryParamArray"]
+- !private ["6Kitura15SwaggerDocumentV", "QueryParamArrayItems"]
+- !private ["6Kitura15SwaggerDocumentV", "QueryParamSingle"]
+- !private ["6Kitura15SwaggerDocumentV", "QueryParameter"]
+- ["6Kitura15SwaggerDocumentV", "Set"]
+- !private ["6Kitura15SwaggerDocumentV", "SingleReference"]
+- ["6Kitura15SwaggerDocumentV", "String"]
+- ["6Kitura15SwaggerDocumentV", "SwaggerDocumentFormat"]
+- !private ["6Kitura15SwaggerDocumentV", "SwaggerGenerationError"]
+- ["6Kitura15SwaggerDocumentV", "SwaggerInfo"]
+- !private ["6Kitura15SwaggerDocumentV", "SwaggerMethod"]
+- ["6Kitura15SwaggerDocumentV", "SwaggerMethods"]
+- ["6Kitura15SwaggerDocumentV", "SwaggerModel"]
+- ["6Kitura15SwaggerDocumentV", "SwaggerParameter"]
+- ["6Kitura15SwaggerDocumentV", "SwaggerProperties"]
+- ["6Kitura15SwaggerDocumentV", "SwaggerProperty"]
+- ["6Kitura15SwaggerDocumentV", "SwaggerResponse"]
+- ["6Kitura15SwaggerDocumentV", "SwaggerResponseType"]
+- !private ["6Kitura15SwaggerDocumentV", "SwaggerResponses"]
+- !private ["6Kitura15SwaggerDocumentV", "SwiftType"]
+- ["6Kitura15SwaggerDocumentV", "TypeInfo"]
+- !private ["6Kitura15SwaggerDocumentV", "_findStringSwitchCase"]
+- ["6Kitura15SwaggerDocumentV", "addModel"]
+- ["6Kitura15SwaggerDocumentV", "addPath"]
+- ["6Kitura15SwaggerDocumentV", "addQueryParameters"]
+- !private ["6Kitura15SwaggerDocumentV", "basePath"]
+- ["6Kitura15SwaggerDocumentV", "buildModel"]
+- ["6Kitura15SwaggerDocumentV", "buildParameter"]
+- ["6Kitura15SwaggerDocumentV", "buildResponse"]
+- ["6Kitura15SwaggerDocumentV", "decomposeType"]
+- !private ["6Kitura15SwaggerDocumentV", "definitions"]
+- ["6Kitura15SwaggerDocumentV", "deinit"]
+- ["6Kitura15SwaggerDocumentV", "encode"]
+- ["6Kitura15SwaggerDocumentV", "getUnkeyedTypeName"]
+- !private ["6Kitura15SwaggerDocumentV", "info"]
+- ["6Kitura15SwaggerDocumentV", "init"]
+- ["6Kitura15SwaggerDocumentV", "isDictEncodedAsTuple"]
+- !private ["6Kitura15SwaggerDocumentV", "paths"]
+- ["6Kitura15SwaggerDocumentV", "processQueryParameter"]
+- !private ["6Kitura15SwaggerDocumentV", "processedSet"]
+- ["6Kitura15SwaggerDocumentV", "processedTypes"]
+- !private ["6Kitura15SwaggerDocumentV", "schemes"]
+- ["6Kitura15SwaggerDocumentV", "serializeAPI"]
+- ["6Kitura15SwaggerDocumentV", "serializeAPIToJSON"]
+- !private ["6Kitura15SwaggerDocumentV", "swagger"]
+- ["6Kitura15SwaggerDocumentV", "swaggerPropertyFromSwiftType"]
+- !private ["6Kitura15SwaggerDocumentV", "tupleRegex"]
+- !private ["6Kitura15SwaggerDocumentV", "unkeyedTypeRegex"]
+- !private ["6Kitura15SwaggerDocumentV", "unprocessedSet"]
+- ["6Kitura15SwaggerDocumentV", "unprocessedTypes"]
+- ["6Kitura21SwaggerDocumentFormatO", "=="]
+- ["6Kitura21SwaggerDocumentFormatO", "__derived_enum_equals"]
+- ["6Kitura21SwaggerDocumentFormatO", "_rawHashValue"]
+- ["6Kitura21SwaggerDocumentFormatO", "deinit"]
+- ["6Kitura21SwaggerDocumentFormatO", "hash"]
+- ["6Kitura21SwaggerDocumentFormatO", "hashValue"]
+- ["6Kitura21SwaggerDocumentFormatO", "json"]
+- ["6Kitura21SwaggerDocumentFormatO", "yaml"]
+- ["6Kitura22SwaggerGenerationErrorO", "=="]
+- ["6Kitura22SwaggerGenerationErrorO", "__derived_enum_equals"]
+- ["6Kitura22SwaggerGenerationErrorO", "_code"]
+- ["6Kitura22SwaggerGenerationErrorO", "_domain"]
+- ["6Kitura22SwaggerGenerationErrorO", "_getEmbeddedNSError"]
+- ["6Kitura22SwaggerGenerationErrorO", "_rawHashValue"]
+- ["6Kitura22SwaggerGenerationErrorO", "_userInfo"]
+- ["6Kitura22SwaggerGenerationErrorO", "deinit"]
+- ["6Kitura22SwaggerGenerationErrorO", "encodingError"]
+- ["6Kitura22SwaggerGenerationErrorO", "hash"]
+- ["6Kitura22SwaggerGenerationErrorO", "hashValue"]
+- ["6Kitura22SwaggerGenerationErrorO", "invalidSwiftType"]
+- ["6Kitura22SwaggerGenerationErrorO", "notImplemented"]
+- ["6Kitura11SwaggerInfoV", "String"]
+- ["6Kitura11SwaggerInfoV", "deinit"]
+- ["6Kitura11SwaggerInfoV", "description"]
+- ["6Kitura11SwaggerInfoV", "encode"]
+- ["6Kitura11SwaggerInfoV", "init"]
+- ["6Kitura11SwaggerInfoV", "title"]
+- ["6Kitura11SwaggerInfoV", "version"]
+- ["6Kitura13SwaggerMethodV", "String"]
+- ["6Kitura13SwaggerMethodV", "SwaggerParameter"]
+- ["6Kitura13SwaggerMethodV", "SwaggerResponses"]
+- ["6Kitura13SwaggerMethodV", "consumes"]
+- ["6Kitura13SwaggerMethodV", "deinit"]
+- ["6Kitura13SwaggerMethodV", "encode"]
+- ["6Kitura13SwaggerMethodV", "init"]
+- ["6Kitura13SwaggerMethodV", "parameters"]
+- ["6Kitura13SwaggerMethodV", "produces"]
+- ["6Kitura13SwaggerMethodV", "responses"]
+- ["6Kitura12SwaggerModelV", "String"]
+- ["6Kitura12SwaggerModelV", "SwaggerProperties"]
+- ["6Kitura12SwaggerModelV", "init"]
+- ["6Kitura12SwaggerModelV", "properties"]
+- ["6Kitura12SwaggerModelV", "required"]
+- ["6Kitura12SwaggerModelV", "type"]
+- ["6Kitura16SwaggerParameterO", "BodyParameter"]
+- ["6Kitura16SwaggerParameterO", "Encoder"]
+- ["6Kitura16SwaggerParameterO", "PathParameter"]
+- ["6Kitura16SwaggerParameterO", "QueryParameter"]
+- ["6Kitura16SwaggerParameterO", "body"]
+- ["6Kitura16SwaggerParameterO", "deinit"]
+- ["6Kitura16SwaggerParameterO", "encode"]
+- ["6Kitura16SwaggerParameterO", "path"]
+- ["6Kitura16SwaggerParameterO", "query"]
+- ["6Kitura15SwaggerResponseV", "ResponseSchema"]
+- ["6Kitura15SwaggerResponseV", "String"]
+- ["6Kitura15SwaggerResponseV", "deinit"]
+- ["6Kitura15SwaggerResponseV", "description"]
+- ["6Kitura15SwaggerResponseV", "encode"]
+- ["6Kitura15SwaggerResponseV", "init"]
+- ["6Kitura15SwaggerResponseV", "schema"]
+- ["6Kitura19SwaggerResponseTypeV", "Bool"]
+- ["6Kitura19SwaggerResponseTypeV", "String"]
+- ["6Kitura19SwaggerResponseTypeV", "array"]
+- ["6Kitura19SwaggerResponseTypeV", "init"]
+- ["6Kitura19SwaggerResponseTypeV", "optional"]
+- ["6Kitura19SwaggerResponseTypeV", "type"]
+- ["6Kitura9SwiftTypeO", "=="]
+- ["6Kitura9SwiftTypeO", "Bool"]
+- ["6Kitura9SwiftTypeO", "Dictionary"]
+- ["6Kitura9SwiftTypeO", "Double"]
+- ["6Kitura9SwiftTypeO", "Float"]
+- ["6Kitura9SwiftTypeO", "Float32"]
+- ["6Kitura9SwiftTypeO", "Float64"]
+- ["6Kitura9SwiftTypeO", "Int"]
+- ["6Kitura9SwiftTypeO", "Int16"]
+- ["6Kitura9SwiftTypeO", "Int32"]
+- ["6Kitura9SwiftTypeO", "Int64"]
+- ["6Kitura9SwiftTypeO", "Int8"]
+- ["6Kitura9SwiftTypeO", "RawValue"]
+- ["6Kitura9SwiftTypeO", "String"]
+- ["6Kitura9SwiftTypeO", "UInt"]
+- ["6Kitura9SwiftTypeO", "UInt16"]
+- ["6Kitura9SwiftTypeO", "UInt32"]
+- ["6Kitura9SwiftTypeO", "UInt64"]
+- ["6Kitura9SwiftTypeO", "UInt8"]
+- ["6Kitura9SwiftTypeO", "_Default_RawValue"]
+- !private ["6Kitura9SwiftTypeO", "_findStringSwitchCase"]
+- ["6Kitura9SwiftTypeO", "_rawHashValue"]
+- ["6Kitura9SwiftTypeO", "deinit"]
+- ["6Kitura9SwiftTypeO", "hash"]
+- ["6Kitura9SwiftTypeO", "hashValue"]
+- ["6Kitura9SwiftTypeO", "init"]
+- ["6Kitura9SwiftTypeO", "isBaseType"]
+- ["6Kitura9SwiftTypeO", "rawValue"]
+- ["6Kitura9SwiftTypeO", "swaggerFormat"]
+- ["6Kitura9SwiftTypeO", "swaggerType"]
+- !private ["s16TextOutputStreamP", "append"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "components"]
+- !private ["s16TextOutputStreamP", "count"]
+- !private ["s16TextOutputStreamP", "hasSuffix"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "lowercased"]
+- !private ["s16TextOutputStreamP", "range"]
+- !private ["s16TextOutputStreamP", "replaceSubrange"]
+- !private ["s20TextOutputStreamableP", "append"]
+- !private ["s20TextOutputStreamableP", "components"]
+- !private ["s20TextOutputStreamableP", "count"]
+- !private ["s20TextOutputStreamableP", "hasSuffix"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "lowercased"]
+- !private ["s20TextOutputStreamableP", "range"]
+- !private ["s20TextOutputStreamableP", "replaceSubrange"]
+- !private ["11TypeDecoderAAV", "decode"]
+- !private ["11TypeDecoder0A13DecodingErrorV", "context"]
+- ["11TypeDecoder0A4InfoO", "cyclic"]
+- !private ["11TypeDecoder0A4InfoO", "debugDescription"]
+- ["11TypeDecoder0A4InfoO", "dynamicKeyed"]
+- ["11TypeDecoder0A4InfoO", "keyed"]
+- ["11TypeDecoder0A4InfoO", "opaque"]
+- ["11TypeDecoder0A4InfoO", "optional"]
+- ["11TypeDecoder0A4InfoO", "single"]
+- ["11TypeDecoder0A4InfoO", "unkeyed"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "filter"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s14_ArrayProtocolP", "sorted"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "append"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "components"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "count"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hasSuffix"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "lowercased"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "range"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "replaceSubrange"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "substring"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "filter"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "sorted"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "append"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "components"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "count"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "range"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "replaceSubrange"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "append"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "components"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "count"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hasSuffix"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "lowercased"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "range"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "replaceSubrange"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "append"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "components"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "count"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "lowercased"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "range"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "replaceSubrange"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "components"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "filter"]
+- !private ["s19_HasContiguousBytesP", "hasSuffix"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "lowercased"]
+- !private ["s19_HasContiguousBytesP", "range"]
+- !private ["s19_HasContiguousBytesP", "replaceSubrange"]
+- !private ["s19_HasContiguousBytesP", "sorted"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "components"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "filter"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hasSuffix"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "insert"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "keys"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "lowercased"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "range"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "remove"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "replaceSubrange"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "sorted"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "substring"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "append"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "components"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "count"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasSuffix"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lock"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lowercased"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "matches"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "range"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "replaceSubrange"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "substring"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "unlock"]
+- !private ["So8_NSRangeV", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "array"]
+- !private ["s21_ObjectiveCBridgeableP", "arrayref"]
+- !private ["s21_ObjectiveCBridgeableP", "components"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "dict"]
+- !private ["s21_ObjectiveCBridgeableP", "filter"]
+- !private ["s21_ObjectiveCBridgeableP", "hasSuffix"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "insert"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "keys"]
+- !private ["s21_ObjectiveCBridgeableP", "lowercased"]
+- !private ["s21_ObjectiveCBridgeableP", "nativearray"]
+- !private ["s21_ObjectiveCBridgeableP", "range"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+- !private ["s21_ObjectiveCBridgeableP", "replaceSubrange"]
+- !private ["s21_ObjectiveCBridgeableP", "single"]
+- !private ["s21_ObjectiveCBridgeableP", "sorted"]
+- !private ["s21_ObjectiveCBridgeableP", "string"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- "6Kitura14ArrayReferenceV"
+- !private "SK"
+- !private "15KituraContracts11BodyEncoderP"
+- "6Kitura13BodyParameterV"
+- "s7CVarArgP"
+- "s9CodingKeyP"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- !private "6Kitura13BodyParameterV10CodingKeysO"
+- !private "6Kitura13PathParameterV10CodingKeysO"
+- !private "6Kitura15QueryParamArrayV10CodingKeysO"
+- !private "6Kitura15SingleReferenceV10CodingKeysO"
+- !private "6Kitura16QueryParamSingleV10CodingKeysO"
+- !private "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- !private "6Kitura13BodyParameterV10CodingKeysO"
+- !private "6Kitura13PathParameterV10CodingKeysO"
+- !private "6Kitura15QueryParamArrayV10CodingKeysO"
+- !private "6Kitura15SingleReferenceV10CodingKeysO"
+- !private "6Kitura16QueryParamSingleV10CodingKeysO"
+- !private "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13BodyParameterV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura15SingleReferenceV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "6Kitura13PathParameterV10CodingKeysO"
+- "6Kitura15QueryParamArrayV10CodingKeysO"
+- "6Kitura16QueryParamSingleV10CodingKeysO"
+- "6Kitura20QueryParamArrayItemsV10CodingKeysO"
+- "Sl"
+- "6Kitura16CollectionFormatO"
+- !private "SL"
+- !private "So22NSStringCompareOptionsV"
+- !private "s13DecodingErrorO7ContextV"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "11TypeDecoder010DictionaryA0P"
+- "SE"
+- !private "s7EncoderP"
+- !private "SS10FoundationE8EncodingV"
+- "SQ"
+- "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9KituraNet10HTTPServerC"
+- "SH"
+- !private "s6HasherV"
+- !private "15KituraContracts10IdentifierP"
+- !private "St"
+- !private "10Foundation11JSONEncoderC"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- !private "SD4KeysV"
+- !private "6KituraAAC"
+- !private "9LoggerAPI3LogC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So6NSLockC"
+- !private "So9NSLockingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So19NSRegularExpressionC"
+- "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So20NSTextCheckingResultC"
+- "6Kitura17NativeArraySchemaV"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "11TypeDecoder17OrderedDictionaryV"
+- !private "10Foundation11JSONEncoderC16OutputFormattingV"
+- "6Kitura13PathParameterV"
+- "6Kitura13PropertyValueO"
+- "6Kitura15QueryParamArrayV"
+- "6Kitura20QueryParamArrayItemsV"
+- "6Kitura16QueryParamSingleV"
+- "6Kitura14QueryParameterO"
+- !private "Sk"
+- !private "Sn"
+- !private "SX"
+- !private "Sm"
+- "SY"
+- "6Kitura14ResponseSchemaO"
+- "6Kitura6RouterC"
+- !private "6Kitura16RouterMiddlewareP"
+- "ST"
+- !private "9KituraNet6ServerP"
+- !private "9KituraNet14ServerDelegateP"
+- "Sh"
+- "s10SetAlgebraP"
+- "6Kitura15SingleReferenceV"
+- !private "s28SingleValueEncodingContainerP"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- "6Kitura15SwaggerDocumentV"
+- "6Kitura21SwaggerDocumentFormatO"
+- "6Kitura22SwaggerGenerationErrorO"
+- "6Kitura11SwaggerInfoV"
+- "6Kitura13SwaggerMethodV"
+- "6Kitura12SwaggerModelV"
+- "6Kitura16SwaggerParameterO"
+- "6Kitura15SwaggerResponseV"
+- "6Kitura19SwaggerResponseTypeV"
+- "6Kitura9SwiftTypeO"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "11TypeDecoderAAV"
+- !private "11TypeDecoder0A13DecodingErrorV"
+- "11TypeDecoder0A4InfoO"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "So8_NSRangeV"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0b6db46e5c1a08ba3aaa07c832ba8b1f"

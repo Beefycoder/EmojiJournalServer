@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.build/master.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftMetrics.git-2402868093059083009/Sources/SwiftBAMDC/SwiftDataCollector.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.build/SwiftDataCollector.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.build/SwiftDataCollector.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.build/SwiftDataCollector~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.build/SwiftDataCollector.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftMetrics.git-2402868093059083009/Sources/SwiftBAMDC/SwiftMetricsBAMConfig.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.build/SwiftMetricsBAMConfig.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.build/SwiftMetricsBAMConfig.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.build/SwiftMetricsBAMConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.build/SwiftMetricsBAMConfig.swiftdeps"
+  }
+}

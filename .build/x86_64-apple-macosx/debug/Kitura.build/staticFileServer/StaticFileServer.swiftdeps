@@ -1,0 +1,196 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StaticFileServer"
+provides-nominal:
+- "6Kitura16StaticFileServerC"
+- "6Kitura16StaticFileServerC12CacheOptionsV"
+- "6Kitura16StaticFileServerC7OptionsV"
+provides-member:
+- ["6Kitura16StaticFileServerC", ""]
+- ["6Kitura16StaticFileServerC12CacheOptionsV", ""]
+- ["6Kitura16StaticFileServerC7OptionsV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "CompositeRelatedHeadersSetter"
+- !private "FileManager"
+- "Int"
+- !private "Log"
+- !private "ObjCBool"
+- "ResponseHeadersSetter"
+- "RouterMiddleware"
+- "RouterRequest"
+- "RouterResponse"
+- "StaticFileServer"
+- "String"
+- "Void"
+- !private "||"
+depends-member:
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "fileExists"]
+- ["6Kitura16StaticFileServerC12CacheOptionsV", "Bool"]
+- ["6Kitura16StaticFileServerC12CacheOptionsV", "Int"]
+- ["6Kitura16StaticFileServerC12CacheOptionsV", "addLastModifiedHeader"]
+- ["6Kitura16StaticFileServerC12CacheOptionsV", "generateETag"]
+- ["6Kitura16StaticFileServerC12CacheOptionsV", "init"]
+- ["6Kitura16StaticFileServerC12CacheOptionsV", "maxAgeCacheControlHeader"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "deinit"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "init"]
+- !private ["6Kitura29CompositeRelatedHeadersSetterC", "deinit"]
+- !private ["6Kitura29CompositeRelatedHeadersSetterC", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "fileExists"]
+- !private ["s17CustomReflectableP", "boolValue"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "boolValue"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "fileExists"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SQ", "default"]
+- !private ["SQ", "fileExists"]
+- !private ["s27ExpressibleByBooleanLiteralP", "boolValue"]
+- !private ["So13NSFileManagerC", "default"]
+- !private ["So13NSFileManagerC", "fileExists"]
+- !private ["6Kitura16StaticFileServerC0cD0C", "getFilePath"]
+- !private ["6Kitura16StaticFileServerC0cD0C", "init"]
+- !private ["6Kitura16StaticFileServerC0cD0C", "serveFile"]
+- !private ["SH", "default"]
+- !private ["SH", "fileExists"]
+- !private ["9LoggerAPI3LogC", "error"]
+- !private ["9LoggerAPI3LogC", "warning"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "fileExists"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "fileExists"]
+- !private ["10ObjectiveC8ObjCBoolV", "boolValue"]
+- ["6Kitura16StaticFileServerC7OptionsV", "Bool"]
+- ["6Kitura16StaticFileServerC7OptionsV", "CacheOptions"]
+- ["6Kitura16StaticFileServerC7OptionsV", "String"]
+- ["6Kitura16StaticFileServerC7OptionsV", "acceptRanges"]
+- ["6Kitura16StaticFileServerC7OptionsV", "cacheOptions"]
+- ["6Kitura16StaticFileServerC7OptionsV", "init"]
+- ["6Kitura16StaticFileServerC7OptionsV", "possibleExtensions"]
+- ["6Kitura16StaticFileServerC7OptionsV", "redirect"]
+- ["6Kitura16StaticFileServerC7OptionsV", "serveIndexForDirectory"]
+- !private ["6Kitura16StaticFileServerC19ResourcePathHandlerC", "getAbsolutePath"]
+- !private ["6Kitura21ResponseHeadersSetterP", "init"]
+- !private ["6Kitura16RouterMiddlewareP", "CacheOptions"]
+- !private ["6Kitura16RouterMiddlewareP", "CacheRelatedHeadersSetter"]
+- !private ["6Kitura16RouterMiddlewareP", "CompositeRelatedHeadersSetter"]
+- !private ["6Kitura16RouterMiddlewareP", "FileManager"]
+- !private ["6Kitura16RouterMiddlewareP", "FileServer"]
+- !private ["6Kitura16RouterMiddlewareP", "Log"]
+- !private ["6Kitura16RouterMiddlewareP", "ObjCBool"]
+- !private ["6Kitura16RouterMiddlewareP", "Options"]
+- !private ["6Kitura16RouterMiddlewareP", "ResourcePathHandler"]
+- !private ["6Kitura16RouterMiddlewareP", "StaticFileServer"]
+- ["6Kitura16RouterMiddlewareP", ""]
+- !private ["6Kitura16RouterMiddlewareP", "absoluteRootPath"]
+- !private ["6Kitura16RouterMiddlewareP", "fileServer"]
+- ["6Kitura16RouterMiddlewareP", "handle"]
+- !private ["6Kitura13RouterRequestC", "parsedURL"]
+- !private ["6Kitura13RouterRequestC", "serverRequest"]
+- !private ["9KituraNet13ServerRequestP", "method"]
+- ["6Kitura16StaticFileServerC", "Bool"]
+- ["6Kitura16StaticFileServerC", "CacheOptions"]
+- !private ["6Kitura16StaticFileServerC", "CacheRelatedHeadersSetter"]
+- !private ["6Kitura16StaticFileServerC", "CompositeRelatedHeadersSetter"]
+- !private ["6Kitura16StaticFileServerC", "FileManager"]
+- ["6Kitura16StaticFileServerC", "FileServer"]
+- ["6Kitura16StaticFileServerC", "Int"]
+- !private ["6Kitura16StaticFileServerC", "Log"]
+- !private ["6Kitura16StaticFileServerC", "ObjCBool"]
+- ["6Kitura16StaticFileServerC", "Options"]
+- !private ["6Kitura16StaticFileServerC", "ResourcePathHandler"]
+- ["6Kitura16StaticFileServerC", "ResponseHeadersSetter"]
+- ["6Kitura16StaticFileServerC", "RouterRequest"]
+- ["6Kitura16StaticFileServerC", "RouterResponse"]
+- !private ["6Kitura16StaticFileServerC", "StaticFileServer"]
+- ["6Kitura16StaticFileServerC", "String"]
+- ["6Kitura16StaticFileServerC", "Void"]
+- ["6Kitura16StaticFileServerC", "absoluteRootPath"]
+- ["6Kitura16StaticFileServerC", "deinit"]
+- ["6Kitura16StaticFileServerC", "fileServer"]
+- ["6Kitura16StaticFileServerC", "handle"]
+- ["6Kitura16StaticFileServerC", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["9KituraNet9URLParserC", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fileExists"]
+depends-nominal:
+- !private "s7CVarArgP"
+- "6Kitura16StaticFileServerC12CacheOptionsV"
+- !private "6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC"
+- !private "6Kitura29CompositeRelatedHeadersSetterC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s26DefaultStringInterpolationV"
+- !private "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "So13NSFileManagerC"
+- !private "6Kitura16StaticFileServerC0cD0C"
+- !private "SH"
+- !private "9LoggerAPI3LogC"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "10ObjectiveC8ObjCBoolV"
+- "6Kitura16StaticFileServerC7OptionsV"
+- !private "6Kitura16StaticFileServerC19ResourcePathHandlerC"
+- !private "6Kitura21ResponseHeadersSetterP"
+- "6Kitura16RouterMiddlewareP"
+- !private "6Kitura13RouterRequestC"
+- !private "9KituraNet13ServerRequestP"
+- "6Kitura16StaticFileServerC"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "9KituraNet9URLParserC"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "82e511736b135156d769671195766120"

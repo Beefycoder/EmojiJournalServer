@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraTemplateEngine.build/KituraTemplateEngine.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraTemplateEngine.build/KituraTemplateEngine.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraTemplateEngine.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-TemplateEngine.git-7816785356969645644/Sources/KituraTemplateEngine/TemplateEngine.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraTemplateEngine.build/TemplateEngine.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraTemplateEngine.build/TemplateEngine~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraTemplateEngine.build/TemplateEngine.swiftdeps"
+  }
+}

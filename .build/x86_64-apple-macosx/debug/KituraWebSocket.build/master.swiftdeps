@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "1f8854ffce33d580ae02305794699cda"
+build_time: [1554331723, 491032000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-WebSocket.git-3758605576136242329/Sources/KituraWebSocket/WSConnectionUpgradeFactory.swift": [1553213962, 402968809]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-WebSocket.git-3758605576136242329/Sources/KituraWebSocket/WSFrame.swift": [1553213962, 403102741]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-WebSocket.git-3758605576136242329/Sources/KituraWebSocket/WSFrameParser.swift": [1553213962, 403230056]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-WebSocket.git-3758605576136242329/Sources/KituraWebSocket/WSServerRequest.swift": [1553213962, 403349837]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-WebSocket.git-3758605576136242329/Sources/KituraWebSocket/WSSocketProcessor.swift": [1553213962, 403485424]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-WebSocket.git-3758605576136242329/Sources/KituraWebSocket/WebSocket.swift": [1553213962, 403595224]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-WebSocket.git-3758605576136242329/Sources/KituraWebSocket/WebSocketCloseReasonCode.swift": [1553213962, 403705646]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-WebSocket.git-3758605576136242329/Sources/KituraWebSocket/WebSocketConnection.swift": [1553213962, 403904448]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-WebSocket.git-3758605576136242329/Sources/KituraWebSocket/WebSocketError.swift": [1553213962, 404020300]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-WebSocket.git-3758605576136242329/Sources/KituraWebSocket/WebSocketService.swift": [1553213962, 404142862]

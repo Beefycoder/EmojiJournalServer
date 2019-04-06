@@ -1,0 +1,37 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/SwiftKueryORM.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/SwiftKueryORM.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/Database.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/Database.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/Database~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/Database.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/DatabaseDecoder.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/DatabaseDecoder.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/DatabaseDecoder~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/DatabaseDecoder.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/DatabaseEncoder.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/DatabaseEncoder.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/DatabaseEncoder~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/DatabaseEncoder.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/Model.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/Model.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/Model~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/Model.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/TableInfo.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/TableInfo.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/TableInfo~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/TableInfo.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/TypeAliases.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/TypeAliases.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/TypeAliases~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryORM.build/TypeAliases.swiftdeps"
+  }
+}

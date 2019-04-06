@@ -1,0 +1,317 @@
+{
+  "": {
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/master.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/CodableRouter+TypeSafeMiddleware.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/CodableRouter+TypeSafeMiddleware.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/CodableRouter+TypeSafeMiddleware.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/CodableRouter+TypeSafeMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/CodableRouter+TypeSafeMiddleware.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/CodableRouter.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/CodableRouter.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/CodableRouter.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/CodableRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/CodableRouter.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/DecodingError+Extensions.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/DecodingError+Extensions.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/DecodingError+Extensions.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/DecodingError+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/DecodingError+Extensions.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/Error.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Error.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Error.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Error.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/FileResourceServer.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/FileResourceServer.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/FileResourceServer.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/FileResourceServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/FileResourceServer.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/HTTPStatusCode.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/HTTPStatusCode.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/HTTPStatusCode.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/HTTPStatusCode~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/HTTPStatusCode.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/HTTPVersion.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/HTTPVersion.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/HTTPVersion.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/HTTPVersion~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/HTTPVersion.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/Headers.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Headers.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Headers.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Headers~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Headers.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/InternalError.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/InternalError.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/InternalError.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/InternalError~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/InternalError.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/JSONPError.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/JSONPError.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/JSONPError.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/JSONPError~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/JSONPError.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/Kitura.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Kitura.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Kitura.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Kitura~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Kitura.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/LinkParameter.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/LinkParameter.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/LinkParameter.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/LinkParameter~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/LinkParameter.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/MimeTypeAcceptor.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/MimeTypeAcceptor.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/MimeTypeAcceptor.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/MimeTypeAcceptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/MimeTypeAcceptor.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouteRegex.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouteRegex.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouteRegex.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouteRegex~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouteRegex.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/Router.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Router.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Router.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Router~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Router.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterElement.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterElement.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterElement.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterElement.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterElementWalker.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterElementWalker.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterElementWalker.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterElementWalker~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterElementWalker.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterHTTPVerbs+Error.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHTTPVerbs+Error.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHTTPVerbs+Error.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHTTPVerbs+Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHTTPVerbs+Error.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterHTTPVerbs_generated.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHTTPVerbs_generated.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHTTPVerbs_generated.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHTTPVerbs_generated~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHTTPVerbs_generated.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterHandler.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHandler.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHandler.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterHandler.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterMethod.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMethod.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMethod.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMethod.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterMiddleware.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddleware.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddleware.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddleware.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterMiddlewareGenerator.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddlewareGenerator.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddlewareGenerator.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddlewareGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddlewareGenerator.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterMiddlewareWalker.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddlewareWalker.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddlewareWalker.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddlewareWalker~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterMiddlewareWalker.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterParameterWalker.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterParameterWalker.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterParameterWalker.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterParameterWalker~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterParameterWalker.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterRequest.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterRequest.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterRequest.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterRequest.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/RouterResponse.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterResponse.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterResponse.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/RouterResponse.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/SSLConfig.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/SSLConfig.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/SSLConfig.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/SSLConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/SSLConfig.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/Stack.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Stack.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Stack.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Stack~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/Stack.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/String+Extensions.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/String+Extensions.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/String+Extensions.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/String+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/String+Extensions.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/SwaggerGenerator.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/SwaggerGenerator.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/SwaggerGenerator.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/SwaggerGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/SwaggerGenerator.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/TemplatingError.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/TemplatingError.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/TemplatingError.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/TemplatingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/TemplatingError.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/TypeSafeMiddleware.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/TypeSafeMiddleware.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/TypeSafeMiddleware.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/TypeSafeMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/TypeSafeMiddleware.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/bodyParser/BodyParser.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/BodyParser.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/BodyParser.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/BodyParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/BodyParser.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/bodyParser/BodyParserProtocol.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/BodyParserProtocol.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/BodyParserProtocol.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/BodyParserProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/BodyParserProtocol.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/bodyParser/JSONBodyParser.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/JSONBodyParser.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/JSONBodyParser.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/JSONBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/JSONBodyParser.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/bodyParser/MultiPartBodyParser.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/MultiPartBodyParser.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/MultiPartBodyParser.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/MultiPartBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/MultiPartBodyParser.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/bodyParser/ParsedBody.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/ParsedBody.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/ParsedBody.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/ParsedBody~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/ParsedBody.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/bodyParser/Part.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/Part.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/Part.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/Part~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/Part.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/bodyParser/RawBodyParser.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/RawBodyParser.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/RawBodyParser.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/RawBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/RawBodyParser.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/bodyParser/TextBodyParser.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/TextBodyParser.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/TextBodyParser.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/TextBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/TextBodyParser.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/bodyParser/URLEncodedBodyParser.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/URLEncodedBodyParser.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/URLEncodedBodyParser.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/URLEncodedBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/bodyParser/URLEncodedBodyParser.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/contentType/ContentType.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/ContentType.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/ContentType.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/ContentType~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/ContentType.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/contentType/MediaType.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/MediaType.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/MediaType.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/MediaType~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/MediaType.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/contentType/types.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/types.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/types.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/types~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/contentType/types.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/staticFileServer/CacheRelatedHeadersSetter.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/CacheRelatedHeadersSetter.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/CacheRelatedHeadersSetter.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/CacheRelatedHeadersSetter~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/CacheRelatedHeadersSetter.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/staticFileServer/CompositeHeadersSetter.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/CompositeHeadersSetter.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/CompositeHeadersSetter.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/CompositeHeadersSetter~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/CompositeHeadersSetter.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/staticFileServer/FileServer.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/FileServer.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/FileServer.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/FileServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/FileServer.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/staticFileServer/RangeHeader.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/RangeHeader.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/RangeHeader.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/RangeHeader~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/RangeHeader.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/staticFileServer/ResourcePathHandler.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/ResourcePathHandler.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/ResourcePathHandler.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/ResourcePathHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/ResourcePathHandler.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/staticFileServer/ResponseHeadersSetter.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/ResponseHeadersSetter.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/ResponseHeadersSetter.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/ResponseHeadersSetter~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/ResponseHeadersSetter.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura.git--2811809642908056391/Sources/Kitura/staticFileServer/StaticFileServer.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/StaticFileServer.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/StaticFileServer.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/StaticFileServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.build/staticFileServer/StaticFileServer.swiftdeps"
+  }
+}

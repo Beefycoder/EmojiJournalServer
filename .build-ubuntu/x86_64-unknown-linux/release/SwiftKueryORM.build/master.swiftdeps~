@@ -1,0 +1,10 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "e7f6897f786caf810082bd65df8ac98e"
+build_time: [1553552521, 551347492]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/Database.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/DatabaseDecoder.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/DatabaseEncoder.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/Model.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/TableInfo.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-ORM.git--3711531870390282272/Sources/SwiftKueryORM/TypeAliases.swift": [9223372036, 854775807]

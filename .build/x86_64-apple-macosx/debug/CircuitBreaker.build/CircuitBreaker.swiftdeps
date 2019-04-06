@@ -1,0 +1,511 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CircuitBreaker"
+provides-nominal:
+- "14CircuitBreakerAAC"
+provides-member:
+- ["14CircuitBreakerAAC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- !private "+"
+- !private "<="
+- !private "=="
+- !private ">"
+- !private ">="
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "BreakerError"
+- "Bulkhead"
+- "CircuitBreaker"
+- "Date"
+- "DispatchQueue"
+- "DispatchSemaphore"
+- !private "DispatchSource"
+- "DispatchSourceTimer"
+- "DispatchTimeInterval"
+- "FailureQueue"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "Invocation"
+- !private "Log"
+- !private "MonitorCollection"
+- "Snapshot"
+- "State"
+- "Stats"
+- "StatsMonitor"
+- "StatsProvider"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- !private "UInt64"
+- "Void"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["s18AdditiveArithmeticP", "milliseconds"]
+- !private ["Sa", "append"]
+- !private ["Sa", "forEach"]
+- ["So17OS_dispatch_queueC8DispatchE10AttributesV", "concurrent"]
+- !private ["SK", "append"]
+- !private ["SK", "forEach"]
+- !private ["SB", "milliseconds"]
+- !private ["Sz", "init"]
+- !private ["14CircuitBreaker0B5ErrorV", "fastFail"]
+- !private ["14CircuitBreaker0B5ErrorV", "timeout"]
+- !private ["14CircuitBreaker8BulkheadC", "enqueue"]
+- !private ["14CircuitBreaker8BulkheadC", "init"]
+- !private ["14CircuitBreaker8BulkheadC", "init"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "asyncAfter"]
+- !private ["s7CVarArgP", "forEach"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "makeTimerSource"]
+- !private ["s7CVarArgP", "milliseconds"]
+- !private ["s7CVarArgP", "signal"]
+- !private ["s7CVarArgP", "wait"]
+- ["14CircuitBreakerAAC", "AnyContextFunction"]
+- ["14CircuitBreakerAAC", "AnyFallback"]
+- ["14CircuitBreakerAAC", "BreakerError"]
+- ["14CircuitBreakerAAC", "Bulkhead"]
+- ["14CircuitBreakerAAC", "Date"]
+- ["14CircuitBreakerAAC", "DispatchQueue"]
+- ["14CircuitBreakerAAC", "DispatchSemaphore"]
+- !private ["14CircuitBreakerAAC", "DispatchSource"]
+- ["14CircuitBreakerAAC", "DispatchSourceTimer"]
+- ["14CircuitBreakerAAC", "DispatchTimeInterval"]
+- ["14CircuitBreakerAAC", "FailureQueue"]
+- ["14CircuitBreakerAAC", "Int"]
+- ["14CircuitBreakerAAC", "Invocation"]
+- !private ["14CircuitBreakerAAC", "Log"]
+- !private ["14CircuitBreakerAAC", "MonitorCollection"]
+- ["14CircuitBreakerAAC", "Snapshot"]
+- ["14CircuitBreakerAAC", "State"]
+- ["14CircuitBreakerAAC", "Stats"]
+- ["14CircuitBreakerAAC", "StatsMonitor"]
+- ["14CircuitBreakerAAC", "String"]
+- !private ["14CircuitBreakerAAC", "UInt64"]
+- ["14CircuitBreakerAAC", "Void"]
+- ["14CircuitBreakerAAC", "addMonitor"]
+- ["14CircuitBreakerAAC", "breakerState"]
+- ["14CircuitBreakerAAC", "breakerStats"]
+- !private ["14CircuitBreakerAAC", "bulkhead"]
+- !private ["14CircuitBreakerAAC", "callFunction"]
+- !private ["14CircuitBreakerAAC", "close"]
+- !private ["14CircuitBreakerAAC", "command"]
+- ["14CircuitBreakerAAC", "deinit"]
+- !private ["14CircuitBreakerAAC", "failures"]
+- !private ["14CircuitBreakerAAC", "fallback"]
+- !private ["14CircuitBreakerAAC", "fastFail"]
+- ["14CircuitBreakerAAC", "forceClosed"]
+- ["14CircuitBreakerAAC", "forceHalfOpen"]
+- ["14CircuitBreakerAAC", "forceOpen"]
+- ["14CircuitBreakerAAC", "group"]
+- !private ["14CircuitBreakerAAC", "handleFailure"]
+- !private ["14CircuitBreakerAAC", "handleSuccess"]
+- ["14CircuitBreakerAAC", "init"]
+- ["14CircuitBreakerAAC", "logSnapshot"]
+- ["14CircuitBreakerAAC", "maxFailures"]
+- ["14CircuitBreakerAAC", "name"]
+- ["14CircuitBreakerAAC", "notifyFailure"]
+- ["14CircuitBreakerAAC", "notifySuccess"]
+- ["14CircuitBreakerAAC", "numberOfFailures"]
+- !private ["14CircuitBreakerAAC", "open"]
+- !private ["14CircuitBreakerAAC", "queue"]
+- ["14CircuitBreakerAAC", "resetTimeout"]
+- !private ["14CircuitBreakerAAC", "resetTimer"]
+- ["14CircuitBreakerAAC", "rollingWindow"]
+- ["14CircuitBreakerAAC", "run"]
+- !private ["14CircuitBreakerAAC", "semaphoreCircuit"]
+- !private ["14CircuitBreakerAAC", "setTimeout"]
+- ["14CircuitBreakerAAC", "snapshot"]
+- !private ["14CircuitBreakerAAC", "startResetTimer"]
+- ["14CircuitBreakerAAC", "state"]
+- ["14CircuitBreakerAAC", "timeout"]
+- !private ["14CircuitBreaker10CollectionC", "add"]
+- !private ["Sl", "append"]
+- !private ["14CircuitBreaker10CollectionC", "clear"]
+- !private ["14CircuitBreaker10CollectionC", "count"]
+- !private ["14CircuitBreaker10CollectionC", "currentTimeWindow"]
+- !private ["Sl", "forEach"]
+- !private ["14CircuitBreaker10CollectionC", "init"]
+- !private ["SL", "currentTimeMillis"]
+- !private ["SL", "init"]
+- !private ["SL", "milliseconds"]
+- !private ["SL", "now"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "asyncAfter"]
+- !private ["s28CustomDebugStringConvertibleP", "currentTimeMillis"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "makeTimerSource"]
+- !private ["s28CustomDebugStringConvertibleP", "milliseconds"]
+- !private ["s28CustomDebugStringConvertibleP", "signal"]
+- !private ["s28CustomDebugStringConvertibleP", "wait"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "currentTimeMillis"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "milliseconds"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "asyncAfter"]
+- !private ["s23CustomStringConvertibleP", "currentTimeMillis"]
+- !private ["s23CustomStringConvertibleP", "fastFail"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "makeTimerSource"]
+- !private ["s23CustomStringConvertibleP", "milliseconds"]
+- !private ["s23CustomStringConvertibleP", "signal"]
+- !private ["s23CustomStringConvertibleP", "timeout"]
+- !private ["s23CustomStringConvertibleP", "wait"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "forEach"]
+- !private ["10Foundation4DateV", "currentTimeMillis"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["Se", "append"]
+- !private ["Se", "currentTimeMillis"]
+- !private ["Se", "forEach"]
+- !private ["Se", "init"]
+- !private ["Se", "milliseconds"]
+- !private ["So18OS_dispatch_objectC", "asyncAfter"]
+- ["So18OS_dispatch_objectC", "init"]
+- !private ["So18OS_dispatch_objectC", "makeTimerSource"]
+- !private ["So18OS_dispatch_objectC", "signal"]
+- !private ["So18OS_dispatch_objectC", "wait"]
+- !private ["So17OS_dispatch_queueC", "asyncAfter"]
+- ["So17OS_dispatch_queueC", "init"]
+- ["So21OS_dispatch_semaphoreC", "init"]
+- !private ["So21OS_dispatch_semaphoreC", "signal"]
+- !private ["So21OS_dispatch_semaphoreC", "wait"]
+- !private ["So18OS_dispatch_sourceC", "makeTimerSource"]
+- !private ["So24OS_dispatch_source_vnodeP", "makeTimerSource"]
+- !private ["So28OS_dispatch_source_mach_recvP", "makeTimerSource"]
+- !private ["So28OS_dispatch_source_mach_sendP", "makeTimerSource"]
+- !private ["So33OS_dispatch_source_memorypressureP", "makeTimerSource"]
+- !private ["So23OS_dispatch_source_procP", "makeTimerSource"]
+- !private ["So18OS_dispatch_sourceP", "cancel"]
+- !private ["So18OS_dispatch_sourceP", "makeTimerSource"]
+- !private ["So18OS_dispatch_sourceP", "resume"]
+- !private ["So18OS_dispatch_sourceP", "schedule"]
+- !private ["So18OS_dispatch_sourceP", "setEventHandler"]
+- !private ["So23OS_dispatch_source_readP", "makeTimerSource"]
+- !private ["So25OS_dispatch_source_signalP", "makeTimerSource"]
+- !private ["So24OS_dispatch_source_timerP", "cancel"]
+- !private ["So24OS_dispatch_source_timerP", "makeTimerSource"]
+- !private ["So24OS_dispatch_source_timerP", "resume"]
+- !private ["So24OS_dispatch_source_timerP", "schedule"]
+- !private ["So24OS_dispatch_source_timerP", "setEventHandler"]
+- !private ["So27OS_dispatch_source_data_addP", "makeTimerSource"]
+- !private ["So26OS_dispatch_source_data_orP", "makeTimerSource"]
+- !private ["So31OS_dispatch_source_data_replaceP", "makeTimerSource"]
+- !private ["So24OS_dispatch_source_writeP", "makeTimerSource"]
+- !private ["8Dispatch0A4TimeV", "now"]
+- !private ["8Dispatch0A12TimeIntervalO", "milliseconds"]
+- !private ["Sd", "milliseconds"]
+- !private ["SE", "append"]
+- !private ["SE", "currentTimeMillis"]
+- !private ["SE", "forEach"]
+- !private ["SE", "init"]
+- !private ["SE", "milliseconds"]
+- !private ["SQ", "append"]
+- !private ["SQ", "asyncAfter"]
+- ["SQ", "closed"]
+- ["SQ", "concurrent"]
+- !private ["SQ", "currentTimeMillis"]
+- !private ["SQ", "fastFail"]
+- !private ["SQ", "forEach"]
+- ["SQ", "halfopen"]
+- ["SQ", "init"]
+- !private ["SQ", "makeTimerSource"]
+- !private ["SQ", "milliseconds"]
+- !private ["SQ", "now"]
+- ["SQ", "open"]
+- !private ["SQ", "signal"]
+- !private ["SQ", "timeout"]
+- !private ["SQ", "wait"]
+- !private ["s5ErrorP", "fastFail"]
+- !private ["s5ErrorP", "timeout"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- ["s25ExpressibleByArrayLiteralP", "concurrent"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s25ExpressibleByFloatLiteralP", "milliseconds"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "milliseconds"]
+- !private ["14CircuitBreaker12FailureQueueC", "add"]
+- !private ["14CircuitBreaker12FailureQueueC", "clear"]
+- !private ["14CircuitBreaker12FailureQueueC", "count"]
+- !private ["14CircuitBreaker12FailureQueueC", "currentTimeWindow"]
+- !private ["14CircuitBreaker12FailureQueueC", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SF", "milliseconds"]
+- !private ["SH", "append"]
+- !private ["SH", "asyncAfter"]
+- ["SH", "closed"]
+- !private ["SH", "currentTimeMillis"]
+- !private ["SH", "forEach"]
+- ["SH", "halfopen"]
+- ["SH", "init"]
+- !private ["SH", "makeTimerSource"]
+- !private ["SH", "milliseconds"]
+- ["SH", "open"]
+- !private ["SH", "signal"]
+- !private ["SH", "wait"]
+- !private ["14CircuitBreaker10InvocationC", "init"]
+- !private ["14CircuitBreaker10InvocationC", "nofityTimedOut"]
+- !private ["9LoggerAPI3LogC", "verbose"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "milliseconds"]
+- !private ["14CircuitBreaker17MonitorCollectionV", "sharedInstance"]
+- !private ["14CircuitBreaker17MonitorCollectionV", "values"]
+- !private ["SM", "append"]
+- !private ["SM", "forEach"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "forEach"]
+- !private ["So8NSObjectC", "asyncAfter"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "makeTimerSource"]
+- !private ["So8NSObjectC", "signal"]
+- !private ["So8NSObjectC", "wait"]
+- !private ["So8NSObjectP", "asyncAfter"]
+- !private ["So8NSObjectP", "cancel"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "makeTimerSource"]
+- !private ["So8NSObjectP", "resume"]
+- !private ["So8NSObjectP", "schedule"]
+- !private ["So8NSObjectP", "setEventHandler"]
+- !private ["So8NSObjectP", "signal"]
+- !private ["So8NSObjectP", "wait"]
+- !private ["Sj", "init"]
+- !private ["Sj", "milliseconds"]
+- !private ["So9OS_objectC", "asyncAfter"]
+- ["So9OS_objectC", "init"]
+- !private ["So9OS_objectC", "makeTimerSource"]
+- !private ["So9OS_objectC", "signal"]
+- !private ["So9OS_objectC", "wait"]
+- ["s9OptionSetP", "concurrent"]
+- !private ["Sk", "append"]
+- !private ["Sk", "forEach"]
+- !private ["Sm", "append"]
+- !private ["Sm", "forEach"]
+- ["SY", "concurrent"]
+- !private ["10Foundation20ReferenceConvertibleP", "currentTimeMillis"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["s10SIMDScalarP", "milliseconds"]
+- !private ["ST", "append"]
+- !private ["ST", "forEach"]
+- ["s10SetAlgebraP", "concurrent"]
+- !private ["s13SignedNumericP", "milliseconds"]
+- !private ["14CircuitBreaker8SnapshotV", "deinit"]
+- !private ["14CircuitBreaker8SnapshotV", "init"]
+- ["14CircuitBreaker5StateO", "closed"]
+- !private ["14CircuitBreaker5StateO", "deinit"]
+- ["14CircuitBreaker5StateO", "halfopen"]
+- ["14CircuitBreaker5StateO", "open"]
+- ["14CircuitBreaker5StatsC", "init"]
+- !private ["14CircuitBreaker5StatsC", "snapshot"]
+- !private ["14CircuitBreaker5StatsC", "trackFailedResponse"]
+- !private ["14CircuitBreaker5StatsC", "trackRejected"]
+- !private ["14CircuitBreaker5StatsC", "trackRequest"]
+- !private ["14CircuitBreaker5StatsC", "trackSuccessfulResponse"]
+- !private ["14CircuitBreaker5StatsC", "trackTimeouts"]
+- !private ["14CircuitBreaker12StatsMonitorP", "register"]
+- !private ["14CircuitBreaker13StatsProviderP", "Bulkhead"]
+- !private ["14CircuitBreaker13StatsProviderP", "Date"]
+- ["14CircuitBreaker13StatsProviderP", "DispatchQueue"]
+- ["14CircuitBreaker13StatsProviderP", "DispatchSemaphore"]
+- !private ["14CircuitBreaker13StatsProviderP", "DispatchSource"]
+- !private ["14CircuitBreaker13StatsProviderP", "FailureQueue"]
+- !private ["14CircuitBreaker13StatsProviderP", "Invocation"]
+- !private ["14CircuitBreaker13StatsProviderP", "Log"]
+- !private ["14CircuitBreaker13StatsProviderP", "MonitorCollection"]
+- !private ["14CircuitBreaker13StatsProviderP", "Snapshot"]
+- ["14CircuitBreaker13StatsProviderP", "State"]
+- ["14CircuitBreaker13StatsProviderP", "Stats"]
+- !private ["14CircuitBreaker13StatsProviderP", "UInt64"]
+- ["14CircuitBreaker13StatsProviderP", ""]
+- ["14CircuitBreaker13StatsProviderP", "addMonitor"]
+- !private ["14CircuitBreaker13StatsProviderP", "breakerState"]
+- !private ["14CircuitBreaker13StatsProviderP", "breakerStats"]
+- !private ["14CircuitBreaker13StatsProviderP", "bulkhead"]
+- !private ["14CircuitBreaker13StatsProviderP", "callFunction"]
+- !private ["14CircuitBreaker13StatsProviderP", "close"]
+- !private ["14CircuitBreaker13StatsProviderP", "command"]
+- !private ["14CircuitBreaker13StatsProviderP", "failures"]
+- !private ["14CircuitBreaker13StatsProviderP", "fallback"]
+- !private ["14CircuitBreaker13StatsProviderP", "fastFail"]
+- !private ["14CircuitBreaker13StatsProviderP", "forceHalfOpen"]
+- !private ["14CircuitBreaker13StatsProviderP", "group"]
+- !private ["14CircuitBreaker13StatsProviderP", "handleFailure"]
+- !private ["14CircuitBreaker13StatsProviderP", "handleSuccess"]
+- !private ["14CircuitBreaker13StatsProviderP", "maxFailures"]
+- !private ["14CircuitBreaker13StatsProviderP", "name"]
+- !private ["14CircuitBreaker13StatsProviderP", "open"]
+- !private ["14CircuitBreaker13StatsProviderP", "queue"]
+- !private ["14CircuitBreaker13StatsProviderP", "resetTimeout"]
+- !private ["14CircuitBreaker13StatsProviderP", "resetTimer"]
+- !private ["14CircuitBreaker13StatsProviderP", "rollingWindow"]
+- !private ["14CircuitBreaker13StatsProviderP", "semaphoreCircuit"]
+- !private ["14CircuitBreaker13StatsProviderP", "setTimeout"]
+- ["14CircuitBreaker13StatsProviderP", "snapshot"]
+- !private ["14CircuitBreaker13StatsProviderP", "startResetTimer"]
+- !private ["14CircuitBreaker13StatsProviderP", "state"]
+- !private ["14CircuitBreaker13StatsProviderP", "timeout"]
+- !private ["Sx", "init"]
+- !private ["Sx", "milliseconds"]
+- !private ["s20TextOutputStreamableP", "milliseconds"]
+- !private ["s6UInt64V", "init"]
+- !private ["SU", "init"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "forEach"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s15_CVarArgAlignedP", "milliseconds"]
+- !private ["s22_CVarArgPassedAsDoubleP", "milliseconds"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "currentTimeMillis"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "milliseconds"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "milliseconds"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "milliseconds"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "forEach"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forEach"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "milliseconds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "asyncAfter"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "makeTimerSource"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "signal"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "wait"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "currentTimeMillis"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "milliseconds"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- "So17OS_dispatch_queueC8DispatchE10AttributesV"
+- !private "SK"
+- !private "SB"
+- !private "Sz"
+- !private "14CircuitBreaker0B5ErrorV"
+- !private "14CircuitBreaker8BulkheadC"
+- "s7CVarArgP"
+- "14CircuitBreakerAAC"
+- !private "14CircuitBreaker10CollectionC"
+- !private "Sl"
+- !private "14CircuitBreaker10CollectionC"
+- !private "Sl"
+- !private "14CircuitBreaker10CollectionC"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- "So18OS_dispatch_objectC"
+- "So17OS_dispatch_queueC"
+- "So21OS_dispatch_semaphoreC"
+- !private "So18OS_dispatch_sourceC"
+- !private "So24OS_dispatch_source_vnodeP"
+- !private "So28OS_dispatch_source_mach_recvP"
+- !private "So28OS_dispatch_source_mach_sendP"
+- !private "So33OS_dispatch_source_memorypressureP"
+- !private "So23OS_dispatch_source_procP"
+- !private "So18OS_dispatch_sourceP"
+- !private "So23OS_dispatch_source_readP"
+- !private "So25OS_dispatch_source_signalP"
+- !private "So24OS_dispatch_source_timerP"
+- !private "So27OS_dispatch_source_data_addP"
+- !private "So26OS_dispatch_source_data_orP"
+- !private "So31OS_dispatch_source_data_replaceP"
+- !private "So24OS_dispatch_source_writeP"
+- !private "8Dispatch0A4TimeV"
+- !private "8Dispatch0A12TimeIntervalO"
+- !private "Sd"
+- !private "SE"
+- "SQ"
+- !private "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "14CircuitBreaker12FailureQueueC"
+- !private "s17FixedWidthIntegerP"
+- !private "SF"
+- "SH"
+- !private "14CircuitBreaker10InvocationC"
+- !private "9LoggerAPI3LogC"
+- !private "s25LosslessStringConvertibleP"
+- !private "14CircuitBreaker17MonitorCollectionV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- "So9OS_objectC"
+- "s9OptionSetP"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- "s10SetAlgebraP"
+- !private "s13SignedNumericP"
+- !private "14CircuitBreaker8SnapshotV"
+- "14CircuitBreaker5StateO"
+- "14CircuitBreaker5StatsC"
+- !private "14CircuitBreaker12StatsMonitorP"
+- "14CircuitBreaker13StatsProviderP"
+- !private "Sx"
+- !private "s20TextOutputStreamableP"
+- !private "s6UInt64V"
+- !private "SU"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0dbd31f2dcd7f19292a2bb0c5f2ea33a"

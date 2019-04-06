@@ -1,0 +1,542 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Expression"
+- "InfixOperator"
+- "PrefixOperator"
+- "StaticExpression"
+- "VariableExpression"
+- "NotExpression"
+- "InExpression"
+- "OrExpression"
+- "AndExpression"
+- "EqualityExpression"
+- "NumericExpression"
+- "MoreThanExpression"
+- "MoreThanEqualExpression"
+- "LessThanExpression"
+- "LessThanEqualExpression"
+- "InequalityExpression"
+- "toNumber"
+provides-nominal:
+- "7Stencil10ExpressionP"
+- "7Stencil13InfixOperatorP"
+- "7Stencil14PrefixOperatorP"
+- "7Stencil16StaticExpressionC"
+- "7Stencil18VariableExpressionC"
+- "7Stencil13NotExpressionC"
+- "7Stencil12InExpressionC"
+- "7Stencil12OrExpressionC"
+- "7Stencil13AndExpressionC"
+- "7Stencil18EqualityExpressionC"
+- "7Stencil17NumericExpressionC"
+- "7Stencil18MoreThanExpressionC"
+- "7Stencil23MoreThanEqualExpressionC"
+- "7Stencil18LessThanExpressionC"
+- "7Stencil23LessThanEqualExpressionC"
+- "7Stencil20InequalityExpressionC"
+provides-member:
+- ["7Stencil10ExpressionP", ""]
+- ["7Stencil13InfixOperatorP", ""]
+- ["7Stencil14PrefixOperatorP", ""]
+- ["7Stencil16StaticExpressionC", ""]
+- ["7Stencil18VariableExpressionC", ""]
+- ["7Stencil13NotExpressionC", ""]
+- ["7Stencil12InExpressionC", ""]
+- ["7Stencil12OrExpressionC", ""]
+- ["7Stencil13AndExpressionC", ""]
+- ["7Stencil18EqualityExpressionC", ""]
+- ["7Stencil17NumericExpressionC", ""]
+- ["7Stencil18MoreThanExpressionC", ""]
+- ["7Stencil23MoreThanEqualExpressionC", ""]
+- ["7Stencil18LessThanExpressionC", ""]
+- ["7Stencil23LessThanEqualExpressionC", ""]
+- ["7Stencil20InequalityExpressionC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- !private "<"
+- !private "<="
+- !private "=="
+- !private ">"
+- !private ">="
+- "AndExpression"
+- !private "AnyHashable"
+- "AssignmentPrecedence"
+- "Bool"
+- "CastingPrecedence"
+- "Context"
+- !private "CountableClosedRange"
+- !private "CountableRange"
+- "CustomStringConvertible"
+- !private "Double"
+- "EqualityExpression"
+- "Expression"
+- !private "Float"
+- !private "Float32"
+- !private "Float64"
+- "InExpression"
+- "InequalityExpression"
+- "InfixOperator"
+- !private "Int"
+- !private "Int16"
+- !private "Int32"
+- !private "Int64"
+- !private "Int8"
+- "LessThanEqualExpression"
+- "LessThanExpression"
+- "MoreThanEqualExpression"
+- "MoreThanExpression"
+- "NotExpression"
+- "Number"
+- "NumericExpression"
+- "OrExpression"
+- "PrefixOperator"
+- "Resolvable"
+- "StaticExpression"
+- "String"
+- !private "UInt"
+- !private "UInt16"
+- !private "UInt32"
+- !private "UInt64"
+- !private "UInt8"
+- "VariableExpression"
+- "toNumber"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- ["7Stencil13AndExpressionC", "Bool"]
+- ["7Stencil13AndExpressionC", "Context"]
+- ["7Stencil13AndExpressionC", "Expression"]
+- ["7Stencil13AndExpressionC", "String"]
+- ["7Stencil13AndExpressionC", "deinit"]
+- ["7Stencil13AndExpressionC", "description"]
+- ["7Stencil13AndExpressionC", "evaluate"]
+- ["7Stencil13AndExpressionC", "init"]
+- ["7Stencil13AndExpressionC", "lhs"]
+- ["7Stencil13AndExpressionC", "rhs"]
+- !private ["Sa", "contains"]
+- !private ["Sa", "isEmpty"]
+- !private ["SK", "contains"]
+- !private ["SK", "isEmpty"]
+- !private ["SB", "init"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["SN", "contains"]
+- !private ["Sl", "contains"]
+- !private ["Sl", "isEmpty"]
+- !private ["SL", "contains"]
+- !private ["SL", "init"]
+- !private ["SL", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "contains"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- ["s23CustomStringConvertibleP", "Bool"]
+- ["s23CustomStringConvertibleP", "Context"]
+- ["s23CustomStringConvertibleP", "Expression"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "compare"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "evaluate"]
+- !private ["s23CustomStringConvertibleP", "expression"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "lhs"]
+- !private ["s23CustomStringConvertibleP", "op"]
+- !private ["s23CustomStringConvertibleP", "resolve"]
+- !private ["s23CustomStringConvertibleP", "rhs"]
+- !private ["s23CustomStringConvertibleP", "toNumber"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["s23CustomStringConvertibleP", "variable"]
+- !private ["10Foundation12DataProtocolP", "contains"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["Se", "contains"]
+- !private ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "isEmpty"]
+- !private ["SE", "contains"]
+- !private ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- ["7Stencil18EqualityExpressionC", "Bool"]
+- ["7Stencil18EqualityExpressionC", "Context"]
+- ["7Stencil18EqualityExpressionC", "Expression"]
+- ["7Stencil18EqualityExpressionC", "String"]
+- !private ["7Stencil18EqualityExpressionC", "VariableExpression"]
+- ["7Stencil18EqualityExpressionC", ""]
+- ["7Stencil18EqualityExpressionC", "deinit"]
+- ["7Stencil18EqualityExpressionC", "description"]
+- ["7Stencil18EqualityExpressionC", "evaluate"]
+- ["7Stencil18EqualityExpressionC", "init"]
+- !private ["7Stencil18EqualityExpressionC", "init"]
+- ["7Stencil18EqualityExpressionC", "lhs"]
+- ["7Stencil18EqualityExpressionC", "rhs"]
+- !private ["7Stencil18EqualityExpressionC", "toNumber"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "isEmpty"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "contains"]
+- !private ["s32ExpressibleByStringInterpolationP", "isEmpty"]
+- !private ["s26ExpressibleByStringLiteralP", "contains"]
+- !private ["s26ExpressibleByStringLiteralP", "isEmpty"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "contains"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "isEmpty"]
+- ["7Stencil10ExpressionP", "Bool"]
+- ["7Stencil10ExpressionP", "Context"]
+- ["7Stencil10ExpressionP", "Expression"]
+- ["7Stencil10ExpressionP", ""]
+- !private ["7Stencil10ExpressionP", "compare"]
+- ["7Stencil10ExpressionP", "description"]
+- ["7Stencil10ExpressionP", "evaluate"]
+- !private ["7Stencil10ExpressionP", "expression"]
+- ["7Stencil10ExpressionP", "init"]
+- !private ["7Stencil10ExpressionP", "init"]
+- !private ["7Stencil10ExpressionP", "lhs"]
+- !private ["7Stencil10ExpressionP", "op"]
+- !private ["7Stencil10ExpressionP", "resolve"]
+- !private ["7Stencil10ExpressionP", "rhs"]
+- !private ["7Stencil10ExpressionP", "toNumber"]
+- !private ["7Stencil10ExpressionP", "value"]
+- !private ["7Stencil10ExpressionP", "variable"]
+- !private ["Sf", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "contains"]
+- !private ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["7Stencil12InExpressionC", "AnyHashable"]
+- ["7Stencil12InExpressionC", "Bool"]
+- ["7Stencil12InExpressionC", "Context"]
+- !private ["7Stencil12InExpressionC", "CountableClosedRange"]
+- !private ["7Stencil12InExpressionC", "CountableRange"]
+- ["7Stencil12InExpressionC", "Expression"]
+- !private ["7Stencil12InExpressionC", "Int"]
+- ["7Stencil12InExpressionC", "String"]
+- !private ["7Stencil12InExpressionC", "VariableExpression"]
+- ["7Stencil12InExpressionC", "deinit"]
+- ["7Stencil12InExpressionC", "description"]
+- ["7Stencil12InExpressionC", "evaluate"]
+- ["7Stencil12InExpressionC", "init"]
+- ["7Stencil12InExpressionC", "lhs"]
+- ["7Stencil12InExpressionC", "rhs"]
+- ["7Stencil20InequalityExpressionC", "Bool"]
+- ["7Stencil20InequalityExpressionC", "Context"]
+- ["7Stencil20InequalityExpressionC", "String"]
+- ["7Stencil20InequalityExpressionC", "description"]
+- ["7Stencil20InequalityExpressionC", "evaluate"]
+- ["7Stencil20InequalityExpressionC", "init"]
+- !private ["7Stencil20InequalityExpressionC", "lhs"]
+- !private ["7Stencil20InequalityExpressionC", "rhs"]
+- ["7Stencil13InfixOperatorP", "Expression"]
+- ["7Stencil13InfixOperatorP", ""]
+- !private ["7Stencil13InfixOperatorP", "compare"]
+- ["7Stencil13InfixOperatorP", "description"]
+- ["7Stencil13InfixOperatorP", "evaluate"]
+- ["7Stencil13InfixOperatorP", "init"]
+- !private ["7Stencil13InfixOperatorP", "init"]
+- !private ["7Stencil13InfixOperatorP", "lhs"]
+- !private ["7Stencil13InfixOperatorP", "op"]
+- !private ["7Stencil13InfixOperatorP", "rhs"]
+- !private ["7Stencil13InfixOperatorP", "toNumber"]
+- ["7Stencil23LessThanEqualExpressionC", "Bool"]
+- ["7Stencil23LessThanEqualExpressionC", "Number"]
+- ["7Stencil23LessThanEqualExpressionC", "String"]
+- ["7Stencil23LessThanEqualExpressionC", "compare"]
+- ["7Stencil23LessThanEqualExpressionC", "init"]
+- ["7Stencil23LessThanEqualExpressionC", "op"]
+- ["7Stencil18LessThanExpressionC", "Bool"]
+- ["7Stencil18LessThanExpressionC", "Number"]
+- ["7Stencil18LessThanExpressionC", "String"]
+- ["7Stencil18LessThanExpressionC", "compare"]
+- ["7Stencil18LessThanExpressionC", "init"]
+- ["7Stencil18LessThanExpressionC", "op"]
+- !private ["s25LosslessStringConvertibleP", "contains"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "isEmpty"]
+- !private ["s10MirrorPathP", "contains"]
+- !private ["s10MirrorPathP", "isEmpty"]
+- ["7Stencil23MoreThanEqualExpressionC", "Bool"]
+- ["7Stencil23MoreThanEqualExpressionC", "Number"]
+- ["7Stencil23MoreThanEqualExpressionC", "String"]
+- ["7Stencil23MoreThanEqualExpressionC", "compare"]
+- ["7Stencil23MoreThanEqualExpressionC", "init"]
+- ["7Stencil23MoreThanEqualExpressionC", "op"]
+- ["7Stencil18MoreThanExpressionC", "Bool"]
+- ["7Stencil18MoreThanExpressionC", "Number"]
+- ["7Stencil18MoreThanExpressionC", "String"]
+- ["7Stencil18MoreThanExpressionC", "compare"]
+- ["7Stencil18MoreThanExpressionC", "init"]
+- ["7Stencil18MoreThanExpressionC", "op"]
+- !private ["SM", "contains"]
+- !private ["SM", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "contains"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["So8NSCodingP", "contains"]
+- !private ["So8NSCodingP", "isEmpty"]
+- !private ["So9NSCopyingP", "contains"]
+- !private ["So9NSCopyingP", "isEmpty"]
+- !private ["So21NSItemProviderReadingP", "contains"]
+- !private ["So21NSItemProviderReadingP", "isEmpty"]
+- !private ["So21NSItemProviderWritingP", "contains"]
+- !private ["So21NSItemProviderWritingP", "isEmpty"]
+- !private ["So16NSMutableCopyingP", "contains"]
+- !private ["So16NSMutableCopyingP", "isEmpty"]
+- !private ["So8NSObjectC", "contains"]
+- !private ["So8NSObjectC", "isEmpty"]
+- !private ["So8NSObjectP", "contains"]
+- !private ["So8NSObjectP", "isEmpty"]
+- !private ["So14NSSecureCodingP", "contains"]
+- !private ["So14NSSecureCodingP", "isEmpty"]
+- !private ["So8NSStringC", "contains"]
+- !private ["So8NSStringC", "isEmpty"]
+- !private ["7Stencil12NormalizableP", "contains"]
+- !private ["7Stencil12NormalizableP", "isEmpty"]
+- ["7Stencil13NotExpressionC", "Bool"]
+- ["7Stencil13NotExpressionC", "Context"]
+- ["7Stencil13NotExpressionC", "Expression"]
+- ["7Stencil13NotExpressionC", "String"]
+- ["7Stencil13NotExpressionC", "deinit"]
+- ["7Stencil13NotExpressionC", "description"]
+- ["7Stencil13NotExpressionC", "evaluate"]
+- ["7Stencil13NotExpressionC", "expression"]
+- ["7Stencil13NotExpressionC", "init"]
+- !private ["Sj", "init"]
+- ["7Stencil17NumericExpressionC", "Bool"]
+- ["7Stencil17NumericExpressionC", "Context"]
+- ["7Stencil17NumericExpressionC", "Expression"]
+- ["7Stencil17NumericExpressionC", "Number"]
+- ["7Stencil17NumericExpressionC", "String"]
+- !private ["7Stencil17NumericExpressionC", "VariableExpression"]
+- ["7Stencil17NumericExpressionC", ""]
+- ["7Stencil17NumericExpressionC", "compare"]
+- ["7Stencil17NumericExpressionC", "deinit"]
+- ["7Stencil17NumericExpressionC", "description"]
+- ["7Stencil17NumericExpressionC", "evaluate"]
+- ["7Stencil17NumericExpressionC", "init"]
+- !private ["7Stencil17NumericExpressionC", "init"]
+- ["7Stencil17NumericExpressionC", "lhs"]
+- ["7Stencil17NumericExpressionC", "op"]
+- ["7Stencil17NumericExpressionC", "rhs"]
+- !private ["7Stencil17NumericExpressionC", "toNumber"]
+- ["7Stencil12OrExpressionC", "Bool"]
+- ["7Stencil12OrExpressionC", "Context"]
+- ["7Stencil12OrExpressionC", "Expression"]
+- ["7Stencil12OrExpressionC", "String"]
+- ["7Stencil12OrExpressionC", "deinit"]
+- ["7Stencil12OrExpressionC", "description"]
+- ["7Stencil12OrExpressionC", "evaluate"]
+- ["7Stencil12OrExpressionC", "init"]
+- ["7Stencil12OrExpressionC", "lhs"]
+- ["7Stencil12OrExpressionC", "rhs"]
+- ["7Stencil14PrefixOperatorP", "Expression"]
+- ["7Stencil14PrefixOperatorP", ""]
+- ["7Stencil14PrefixOperatorP", "description"]
+- ["7Stencil14PrefixOperatorP", "evaluate"]
+- !private ["7Stencil14PrefixOperatorP", "expression"]
+- ["7Stencil14PrefixOperatorP", "init"]
+- !private ["Sk", "contains"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sn", "contains"]
+- !private ["SX", "contains"]
+- !private ["Sm", "contains"]
+- !private ["Sm", "isEmpty"]
+- !private ["7Stencil10ResolvableP", "resolve"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "contains"]
+- !private ["ST", "isEmpty"]
+- !private ["s13SignedNumericP", "init"]
+- ["7Stencil16StaticExpressionC", "Bool"]
+- ["7Stencil16StaticExpressionC", "Context"]
+- ["7Stencil16StaticExpressionC", "String"]
+- ["7Stencil16StaticExpressionC", "deinit"]
+- ["7Stencil16StaticExpressionC", "description"]
+- ["7Stencil16StaticExpressionC", "evaluate"]
+- ["7Stencil16StaticExpressionC", "init"]
+- ["7Stencil16StaticExpressionC", "value"]
+- !private ["Sx", "init"]
+- !private ["SS", "contains"]
+- !private ["SS", "isEmpty"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "contains"]
+- !private ["Sy", "isEmpty"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "contains"]
+- !private ["s16TextOutputStreamP", "isEmpty"]
+- !private ["s20TextOutputStreamableP", "contains"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "isEmpty"]
+- ["7Stencil18VariableExpressionC", "Bool"]
+- ["7Stencil18VariableExpressionC", "Context"]
+- ["7Stencil18VariableExpressionC", "Resolvable"]
+- ["7Stencil18VariableExpressionC", "String"]
+- ["7Stencil18VariableExpressionC", "deinit"]
+- ["7Stencil18VariableExpressionC", "description"]
+- ["7Stencil18VariableExpressionC", "evaluate"]
+- ["7Stencil18VariableExpressionC", "init"]
+- ["7Stencil18VariableExpressionC", "resolve"]
+- !private ["7Stencil18VariableExpressionC", "toNumber"]
+- ["7Stencil18VariableExpressionC", "variable"]
+- !private ["s14_ArrayProtocolP", "contains"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "contains"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "contains"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "contains"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "isEmpty"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "contains"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "contains"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contains"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- "7Stencil13AndExpressionC"
+- !private "Sa"
+- !private "SK"
+- !private "SB"
+- !private "s7CVarArgP"
+- !private "SN"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "SE"
+- "7Stencil18EqualityExpressionC"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "7Stencil10ExpressionP"
+- !private "Sf"
+- !private "SF"
+- !private "SH"
+- "7Stencil12InExpressionC"
+- "7Stencil20InequalityExpressionC"
+- "7Stencil13InfixOperatorP"
+- "7Stencil23LessThanEqualExpressionC"
+- "7Stencil18LessThanExpressionC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "7Stencil23MoreThanEqualExpressionC"
+- "7Stencil18MoreThanExpressionC"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "7Stencil12NormalizableP"
+- "7Stencil13NotExpressionC"
+- !private "Sj"
+- "7Stencil17NumericExpressionC"
+- "7Stencil12OrExpressionC"
+- "7Stencil14PrefixOperatorP"
+- !private "Sk"
+- !private "Sn"
+- !private "SX"
+- !private "Sm"
+- !private "7Stencil10ResolvableP"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "s13SignedNumericP"
+- "7Stencil16StaticExpressionC"
+- !private "Sx"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "7Stencil18VariableExpressionC"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "fdda68a8adf51222eeb2bc08b42782d0"

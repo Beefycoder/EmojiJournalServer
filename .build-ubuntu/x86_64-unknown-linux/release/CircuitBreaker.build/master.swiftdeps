@@ -1,0 +1,14 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "a68a25c93542923d28017d738f0e2eda"
+build_time: [1554239846, 33589700]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/BreakerError.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Bulkhead.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/CircuitBreaker.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Collection.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Invocation.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Monitor.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/MonitorCollection.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Snapshot.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Stats.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Utils.swift": [9223372036, 854775807]

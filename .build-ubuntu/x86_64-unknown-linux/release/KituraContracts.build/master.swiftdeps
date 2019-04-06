@@ -1,0 +1,13 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "1ba608faf382c64923eb94c2d3ae2e1c"
+build_time: [1554239840, 904638800]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/BodyDecoder.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/BodyEncoder.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/BodyFormat.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/ClosureAliases.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/CodableQuery/Coder.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/CodableQuery/Extensions.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/CodableQuery/QueryDecoder.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/CodableQuery/QueryEncoder.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/Contracts.swift": [9223372036, 854775807]

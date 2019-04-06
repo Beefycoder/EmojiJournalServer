@@ -1,0 +1,32 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/Configuration.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/Configuration.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Configuration.git--2798514624460919024/Sources/Configuration/ConfigurationManager.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/ConfigurationManager.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/ConfigurationManager~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/ConfigurationManager.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Configuration.git--2798514624460919024/Sources/Configuration/ConfigurationNode.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/ConfigurationNode.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/ConfigurationNode~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/ConfigurationNode.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Configuration.git--2798514624460919024/Sources/Configuration/Deserializer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/Deserializer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/Deserializer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/Deserializer.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Configuration.git--2798514624460919024/Sources/Configuration/Deserializers/JSONDeserializer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/Deserializers/JSONDeserializer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/JSONDeserializer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/JSONDeserializer.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Configuration.git--2798514624460919024/Sources/Configuration/Deserializers/PLISTDeserializer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/Deserializers/PLISTDeserializer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/PLISTDeserializer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/PLISTDeserializer.swiftdeps"
+  }
+}

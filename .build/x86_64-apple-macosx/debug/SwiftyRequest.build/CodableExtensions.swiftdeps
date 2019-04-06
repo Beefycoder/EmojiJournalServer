@@ -1,0 +1,214 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DynamicKeys"
+provides-nominal:
+- "13SwiftyRequest11DynamicKeysV"
+provides-member:
+- ["10Foundation11JSONEncoderC", ""]
+- ["s22KeyedEncodingContainerV", ""]
+- ["s22KeyedDecodingContainerV", ""]
+- ["13SwiftyRequest11DynamicKeysV", ""]
+- ["10Foundation11JSONEncoderC", "encodeIfPresent"]
+- ["s22KeyedEncodingContainerV", "encode"]
+- ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- ["s22KeyedDecodingContainerV", "decode"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "CodingKey"
+- "Data"
+- !private "DecodingError"
+- "DynamicKeys"
+- "Encodable"
+- !private "EncodingError"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "JSON"
+- "JSONEncoder"
+- "KeyedDecodingContainer"
+- "KeyedEncodingContainer"
+- "String"
+- "StringLiteralType"
+depends-member:
+- !private ["SK", "init"]
+- !private ["s7CVarArgP", "forEach"]
+- ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- !private ["Sl", "forEach"]
+- !private ["Sl", "init"]
+- !private ["s13DecodingErrorO7ContextV", "init"]
+- !private ["s13EncodingErrorO7ContextV", "init"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["10Foundation4DataV", "init"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["Se", "forEach"]
+- !private ["Se", "init"]
+- ["Se", "object"]
+- !private ["s13DecodingErrorO", "Context"]
+- !private ["s13DecodingErrorO", "dataCorrupted"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "forEach"]
+- ["13SwiftyRequest11DynamicKeysV", "Int"]
+- ["13SwiftyRequest11DynamicKeysV", "String"]
+- ["13SwiftyRequest11DynamicKeysV", "debugDescription"]
+- ["13SwiftyRequest11DynamicKeysV", "deinit"]
+- ["13SwiftyRequest11DynamicKeysV", "description"]
+- ["13SwiftyRequest11DynamicKeysV", "init"]
+- ["13SwiftyRequest11DynamicKeysV", "intValue"]
+- ["13SwiftyRequest11DynamicKeysV", "stringValue"]
+- !private ["SE", "forEach"]
+- !private ["SE", "init"]
+- ["SE", "object"]
+- !private ["s13EncodingErrorO", "Context"]
+- !private ["s13EncodingErrorO", "invalidValue"]
+- !private ["SQ", "forEach"]
+- !private ["SQ", "init"]
+- ["SQ", "object"]
+- !private ["s5ErrorP", "Context"]
+- !private ["s5ErrorP", "dataCorrupted"]
+- !private ["s5ErrorP", "invalidValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "forEach"]
+- !private ["SH", "forEach"]
+- !private ["SH", "init"]
+- !private ["13SwiftyRequest4JSONO", "deinit"]
+- !private ["13SwiftyRequest4JSONO", "init"]
+- ["13SwiftyRequest4JSONO", "object"]
+- ["10Foundation11JSONEncoderC", "Data"]
+- ["10Foundation11JSONEncoderC", "Encodable"]
+- !private ["10Foundation11JSONEncoderC", "encode"]
+- ["10Foundation11JSONEncoderC", "encodeIfPresent"]
+- ["s22KeyedDecodingContainerV", "CodingKey"]
+- !private ["s22KeyedDecodingContainerV", "DecodingError"]
+- ["s22KeyedDecodingContainerV", "DynamicKeys"]
+- ["s22KeyedDecodingContainerV", "JSON"]
+- ["s22KeyedDecodingContainerV", "Key"]
+- ["s22KeyedDecodingContainerV", "String"]
+- !private ["s22KeyedDecodingContainerV", "codingPath"]
+- ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "DecodingError"]
+- !private ["s30KeyedDecodingContainerProtocolP", "JSON"]
+- !private ["s30KeyedDecodingContainerProtocolP", "codingPath"]
+- ["s22KeyedEncodingContainerV", "DynamicKeys"]
+- !private ["s22KeyedEncodingContainerV", "EncodingError"]
+- ["s22KeyedEncodingContainerV", "JSON"]
+- ["s22KeyedEncodingContainerV", "Key"]
+- ["s22KeyedEncodingContainerV", "String"]
+- !private ["s22KeyedEncodingContainerV", "codingPath"]
+- ["s22KeyedEncodingContainerV", "encode"]
+- ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "DynamicKeys"]
+- !private ["s30KeyedEncodingContainerProtocolP", "EncodingError"]
+- !private ["s30KeyedEncodingContainerProtocolP", "codingPath"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["10Foundation14LocalizedErrorP", "Context"]
+- !private ["10Foundation14LocalizedErrorP", "dataCorrupted"]
+- !private ["10Foundation14LocalizedErrorP", "invalidValue"]
+- !private ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["Sk", "init"]
+- !private ["Sm", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["ST", "forEach"]
+- !private ["ST", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "s7CVarArgP"
+- "s9CodingKeyP"
+- !private "Sl"
+- !private "s13DecodingErrorO7ContextV"
+- !private "s13EncodingErrorO7ContextV"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- !private "10Foundation12DataProtocolP"
+- "Se"
+- !private "s13DecodingErrorO"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- "13SwiftyRequest11DynamicKeysV"
+- "SE"
+- !private "s13EncodingErrorO"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "SH"
+- "13SwiftyRequest4JSONO"
+- "10Foundation11JSONEncoderC"
+- "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- !private "10Foundation14LocalizedErrorP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sk"
+- !private "Sm"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CircuitBreaker.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7a45de3ad679c9c951da9c25efd7c128"

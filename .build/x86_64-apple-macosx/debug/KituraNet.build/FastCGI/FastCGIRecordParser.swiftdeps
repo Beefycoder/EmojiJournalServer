@@ -1,0 +1,412 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FastCGIRecordParser"
+provides-nominal:
+- "9KituraNet19FastCGIRecordParserC"
+provides-member:
+- ["9KituraNet19FastCGIRecordParserC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&"
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "..<"
+- !private "<"
+- !private "<="
+- !private "=="
+- !private ">"
+- !private ">>"
+- "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "CFSwapInt16BigToHost"
+- !private "CFSwapInt32BigToHost"
+- "Data"
+- "Dictionary"
+- !private "FastCGI"
+- "FastCGIRecordParser"
+- "Int"
+- "String"
+- "TernaryPrecedence"
+- "UInt16"
+- "UInt32"
+- "UInt8"
+- !private "UnsafeRawPointer"
+- !private "~="
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "append"]
+- ["Sa", "init"]
+- !private ["SK", "append"]
+- !private ["SK", "count"]
+- ["SK", "init"]
+- !private ["SK", "subdata"]
+- !private ["SK", "subscript"]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "count"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "append"]
+- !private ["Sl", "count"]
+- ["Sl", "init"]
+- !private ["Sl", "subdata"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "assumingMemoryBound"]
+- !private ["SL", "count"]
+- !private ["SL", "init"]
+- !private ["SL", "subscript"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FASTCGI_PROTOCOL_VERSION"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_BEGIN_REQUEST"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_END_REQUEST"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_KEEP_CONN"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_PARAMS"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_RESPONDER"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_STDIN"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_STDOUT"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "subdata"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "assumingMemoryBound"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subdata"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "assumingMemoryBound"]
+- !private ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subdata"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subdata"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["10Foundation4DataV", "count"]
+- !private ["10Foundation4DataV", "init"]
+- !private ["10Foundation4DataV", "subdata"]
+- !private ["10Foundation4DataV", "subscript"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "subdata"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "append"]
+- !private ["Se", "assumingMemoryBound"]
+- !private ["Se", "count"]
+- ["Se", "init"]
+- !private ["Se", "subdata"]
+- !private ["Se", "subscript"]
+- !private ["SE", "append"]
+- !private ["SE", "assumingMemoryBound"]
+- !private ["SE", "count"]
+- ["SE", "init"]
+- !private ["SE", "subdata"]
+- !private ["SE", "subscript"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- !private ["SQ", "append"]
+- !private ["SQ", "assumingMemoryBound"]
+- !private ["SQ", "bufferExhausted"]
+- !private ["SQ", "count"]
+- !private ["SQ", "emptyParameters"]
+- ["SQ", "init"]
+- !private ["SQ", "invalidType"]
+- !private ["SQ", "invalidVersion"]
+- !private ["SQ", "subdata"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "unsupportedRole"]
+- !private ["SQ", "utf8"]
+- !private ["s5ErrorP", "bufferExhausted"]
+- !private ["s5ErrorP", "emptyParameters"]
+- !private ["s5ErrorP", "invalidType"]
+- !private ["s5ErrorP", "invalidVersion"]
+- !private ["s5ErrorP", "unsupportedRole"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "count"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "assumingMemoryBound"]
+- !private ["s32ExpressibleByStringInterpolationP", "count"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "count"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "count"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["9KituraNet7FastCGIC", "Constants"]
+- !private ["9KituraNet7FastCGIC", "RecordErrors"]
+- ["9KituraNet19FastCGIRecordParserC", "Array"]
+- ["9KituraNet19FastCGIRecordParserC", "Bool"]
+- !private ["9KituraNet19FastCGIRecordParserC", "CFSwapInt16BigToHost"]
+- !private ["9KituraNet19FastCGIRecordParserC", "CFSwapInt32BigToHost"]
+- ["9KituraNet19FastCGIRecordParserC", "Data"]
+- ["9KituraNet19FastCGIRecordParserC", "Dictionary"]
+- !private ["9KituraNet19FastCGIRecordParserC", "FastCGI"]
+- !private ["9KituraNet19FastCGIRecordParserC", "FastCGIRecordParser"]
+- ["9KituraNet19FastCGIRecordParserC", "Int"]
+- ["9KituraNet19FastCGIRecordParserC", "String"]
+- ["9KituraNet19FastCGIRecordParserC", "UInt16"]
+- ["9KituraNet19FastCGIRecordParserC", "UInt32"]
+- ["9KituraNet19FastCGIRecordParserC", "UInt8"]
+- !private ["9KituraNet19FastCGIRecordParserC", "UnsafeRawPointer"]
+- ["9KituraNet19FastCGIRecordParserC", "advance"]
+- ["9KituraNet19FastCGIRecordParserC", "appStatus"]
+- !private ["9KituraNet19FastCGIRecordParserC", "buffer"]
+- !private ["9KituraNet19FastCGIRecordParserC", "contentLength"]
+- ["9KituraNet19FastCGIRecordParserC", "data"]
+- ["9KituraNet19FastCGIRecordParserC", "flags"]
+- !private ["9KituraNet19FastCGIRecordParserC", "getLocalByteOrderLarge"]
+- !private ["9KituraNet19FastCGIRecordParserC", "getLocalByteOrderSmall"]
+- ["9KituraNet19FastCGIRecordParserC", "headers"]
+- ["9KituraNet19FastCGIRecordParserC", "init"]
+- ["9KituraNet19FastCGIRecordParserC", "keepalive"]
+- !private ["9KituraNet19FastCGIRecordParserC", "paddingLength"]
+- ["9KituraNet19FastCGIRecordParserC", "parse"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parseAppStatus"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parseContentLength"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parseData"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parsePaddingLength"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parseParameterLength"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parseParameters"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parseProtocolStatus"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parseRequestId"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parseRole"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parseType"]
+- !private ["9KituraNet19FastCGIRecordParserC", "parseVersion"]
+- !private ["9KituraNet19FastCGIRecordParserC", "pointer"]
+- ["9KituraNet19FastCGIRecordParserC", "protocolStatus"]
+- ["9KituraNet19FastCGIRecordParserC", "requestId"]
+- ["9KituraNet19FastCGIRecordParserC", "role"]
+- ["9KituraNet19FastCGIRecordParserC", "skip"]
+- !private ["9KituraNet19FastCGIRecordParserC", "skipPaddingThenReturn"]
+- ["9KituraNet19FastCGIRecordParserC", "type"]
+- ["9KituraNet19FastCGIRecordParserC", "version"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "append"]
+- !private ["SH", "assumingMemoryBound"]
+- !private ["SH", "bufferExhausted"]
+- !private ["SH", "count"]
+- !private ["SH", "emptyParameters"]
+- ["SH", "init"]
+- !private ["SH", "invalidType"]
+- !private ["SH", "invalidVersion"]
+- !private ["SH", "subdata"]
+- !private ["SH", "subscript"]
+- !private ["SH", "unsupportedRole"]
+- !private ["SH", "utf8"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "count"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "count"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "append"]
+- !private ["SM", "count"]
+- ["SM", "init"]
+- !private ["SM", "subdata"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "subdata"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "count"]
+- !private ["So9NSCopyingP", "count"]
+- !private ["So21NSItemProviderReadingP", "count"]
+- !private ["So21NSItemProviderWritingP", "count"]
+- !private ["So16NSMutableCopyingP", "count"]
+- !private ["So8NSObjectC", "count"]
+- !private ["So8NSObjectP", "count"]
+- !private ["So14NSSecureCodingP", "count"]
+- !private ["So8NSStringC", "count"]
+- !private ["Sj", "init"]
+- !private ["Sq", "assumingMemoryBound"]
+- !private ["Sk", "append"]
+- !private ["Sk", "count"]
+- ["Sk", "init"]
+- !private ["Sk", "subdata"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "append"]
+- !private ["Sm", "count"]
+- ["Sm", "init"]
+- !private ["Sm", "subdata"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "utf8"]
+- !private ["9KituraNet7FastCGIC12RecordErrorsO", "bufferExhausted"]
+- !private ["9KituraNet7FastCGIC12RecordErrorsO", "deinit"]
+- !private ["9KituraNet7FastCGIC12RecordErrorsO", "emptyParameters"]
+- !private ["9KituraNet7FastCGIC12RecordErrorsO", "invalidType"]
+- !private ["9KituraNet7FastCGIC12RecordErrorsO", "invalidVersion"]
+- !private ["9KituraNet7FastCGIC12RecordErrorsO", "unsupportedRole"]
+- !private ["10Foundation20ReferenceConvertibleP", "count"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "subdata"]
+- !private ["10Foundation20ReferenceConvertibleP", "subscript"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "append"]
+- !private ["ST", "count"]
+- ["ST", "init"]
+- !private ["ST", "subdata"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "assumingMemoryBound"]
+- !private ["Sx", "init"]
+- !private ["Sx", "subscript"]
+- !private ["SS", "count"]
+- !private ["SS", "init"]
+- !private ["Sy", "count"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "count"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "count"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["SP", "subscript"]
+- !private ["SV", "assumingMemoryBound"]
+- !private ["SV", "init"]
+- !private ["s14_ArrayProtocolP", "append"]
+- ["s14_ArrayProtocolP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "assumingMemoryBound"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "count"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "count"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "count"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "count"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "assumingMemoryBound"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subdata"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s8_PointerP", "assumingMemoryBound"]
+- !private ["s8_PointerP", "init"]
+- !private ["s8_PointerP", "subscript"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- "Sa"
+- "SK"
+- !private "Sz"
+- "s7CVarArgP"
+- "Sl"
+- !private "SL"
+- !private "9KituraNet7FastCGIC9ConstantsV"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- "10Foundation12DataProtocolP"
+- "Se"
+- "SE"
+- !private "SS10FoundationE8EncodingV"
+- "SQ"
+- !private "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "9KituraNet7FastCGIC"
+- "9KituraNet19FastCGIRecordParserC"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sj"
+- !private "Sq"
+- "Sk"
+- "Sm"
+- !private "SY"
+- !private "9KituraNet7FastCGIC12RecordErrorsO"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s10SIMDScalarP"
+- "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "SP"
+- !private "SV"
+- "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0e69fad1ba19f1b419520d6746e2914f"

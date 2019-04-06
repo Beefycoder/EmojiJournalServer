@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsKitura.build/master.swiftdeps"
+  },
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftMetrics.git-2402868093059083009/Sources/SwiftMetricsKitura/SwiftMetricsKitura.swift": {
+    "dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsKitura.build/SwiftMetricsKitura.d",
+    "object": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsKitura.build/SwiftMetricsKitura.swift.o",
+    "swiftmodule": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsKitura.build/SwiftMetricsKitura~partial.swiftmodule",
+    "swift-dependencies": "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsKitura.build/SwiftMetricsKitura.swiftdeps"
+  }
+}

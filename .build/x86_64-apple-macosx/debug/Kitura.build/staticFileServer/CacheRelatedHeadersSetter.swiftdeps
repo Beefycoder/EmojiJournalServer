@@ -1,0 +1,266 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC"
+provides-member:
+- ["6Kitura16StaticFileServerC", ""]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", ""]
+- ["6Kitura16StaticFileServerC", "CacheRelatedHeadersSetter"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "Date"
+- "FileAttributeKey"
+- "Int"
+- !private "NSNumber"
+- "ResponseHeadersSetter"
+- "RouterResponse"
+- !private "SPIUtils"
+- "StaticFileServer"
+- "String"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SK", "init"]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "Bool"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "CacheRelatedHeadersSetter"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "Date"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "FileAttributeKey"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "Int"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "NSNumber"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "RouterResponse"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "SPIUtils"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "String"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "addETag"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "addLastModified"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "addLastModifiedHeader"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "calculateETag"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "deinit"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "generateETag"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "init"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "maxAgeCacheControlHeader"]
+- ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "setCustomResponseHeaders"]
+- !private ["6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC", "setMaxAge"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["SL", "timeIntervalSince1970"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "timeIntervalSince1970"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- !private ["10Foundation4DateV", "timeIntervalSince1970"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["Se", "timeIntervalSince1970"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "subscript"]
+- !private ["11TypeDecoder010DictionaryA0P", "subscript"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SE", "timeIntervalSince1970"]
+- !private ["SQ", "init"]
+- !private ["SQ", "modificationDate"]
+- !private ["SQ", "size"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "timeIntervalSince1970"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So18NSFileAttributeKeya", "modificationDate"]
+- !private ["So18NSFileAttributeKeya", "size"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "modificationDate"]
+- !private ["SH", "size"]
+- !private ["SH", "subscript"]
+- !private ["SH", "timeIntervalSince1970"]
+- !private ["6Kitura7HeadersV", "deinit"]
+- !private ["6Kitura7HeadersV", "subscript"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["Sj", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "modificationDate"]
+- !private ["SY", "size"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSince1970"]
+- !private ["6Kitura21ResponseHeadersSetterP", "CacheRelatedHeadersSetter"]
+- !private ["6Kitura21ResponseHeadersSetterP", "FileAttributeKey"]
+- !private ["6Kitura21ResponseHeadersSetterP", "Int"]
+- !private ["6Kitura21ResponseHeadersSetterP", "SPIUtils"]
+- !private ["6Kitura21ResponseHeadersSetterP", "String"]
+- ["6Kitura21ResponseHeadersSetterP", ""]
+- !private ["6Kitura21ResponseHeadersSetterP", "addETag"]
+- !private ["6Kitura21ResponseHeadersSetterP", "addLastModified"]
+- !private ["6Kitura21ResponseHeadersSetterP", "addLastModifiedHeader"]
+- !private ["6Kitura21ResponseHeadersSetterP", "calculateETag"]
+- !private ["6Kitura21ResponseHeadersSetterP", "generateETag"]
+- !private ["6Kitura21ResponseHeadersSetterP", "maxAgeCacheControlHeader"]
+- ["6Kitura21ResponseHeadersSetterP", "setCustomResponseHeaders"]
+- !private ["6Kitura21ResponseHeadersSetterP", "setMaxAge"]
+- !private ["6Kitura16RouterMiddlewareP", "CacheRelatedHeadersSetter"]
+- !private ["6Kitura16RouterMiddlewareP", "FileAttributeKey"]
+- !private ["6Kitura16RouterMiddlewareP", "Int"]
+- !private ["6Kitura16RouterMiddlewareP", "SPIUtils"]
+- !private ["6Kitura16RouterMiddlewareP", "String"]
+- !private ["6Kitura14RouterResponseC", "headers"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["9KituraNet8SPIUtilsC", "httpDate"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- ["6Kitura16StaticFileServerC", "Bool"]
+- ["6Kitura16StaticFileServerC", "CacheRelatedHeadersSetter"]
+- !private ["6Kitura16StaticFileServerC", "Date"]
+- ["6Kitura16StaticFileServerC", "FileAttributeKey"]
+- ["6Kitura16StaticFileServerC", "Int"]
+- !private ["6Kitura16StaticFileServerC", "NSNumber"]
+- ["6Kitura16StaticFileServerC", "ResponseHeadersSetter"]
+- ["6Kitura16StaticFileServerC", "RouterResponse"]
+- !private ["6Kitura16StaticFileServerC", "SPIUtils"]
+- ["6Kitura16StaticFileServerC", "String"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "modificationDate"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "size"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "modificationDate"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSince1970"]
+- !private ["s20_SwiftNewtypeWrapperP", "modificationDate"]
+- !private ["s20_SwiftNewtypeWrapperP", "size"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "Sz"
+- !private "s7CVarArgP"
+- "6Kitura16StaticFileServerC25CacheRelatedHeadersSetterC"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "11TypeDecoder010DictionaryA0P"
+- !private "SE"
+- !private "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So18NSFileAttributeKeya"
+- !private "s17FixedWidthIntegerP"
+- !private "SH"
+- !private "6Kitura7HeadersV"
+- !private "15KituraContracts10IdentifierP"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "Sj"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "6Kitura21ResponseHeadersSetterP"
+- !private "6Kitura16RouterMiddlewareP"
+- !private "6Kitura14RouterResponseC"
+- !private "s10SIMDScalarP"
+- !private "9KituraNet8SPIUtilsC"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- "6Kitura16StaticFileServerC"
+- !private "Sx"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3e377a3b0d95253c2f66d6c64e129b4e"

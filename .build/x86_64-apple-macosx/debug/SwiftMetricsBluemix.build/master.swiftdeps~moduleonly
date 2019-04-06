@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "22009bafe16754307712a63b2791213b"
+build_time: [1554331727, 95291000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftMetrics.git-2402868093059083009/Sources/SwiftMetricsBluemix/SwiftMetricsBluemix.swift": [1553213963, 294797132]

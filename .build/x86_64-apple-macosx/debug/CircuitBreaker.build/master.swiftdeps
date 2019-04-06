@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "eac3f67c2f5ceb9fff84ba0173557df7"
+build_time: [1554331713, 774161000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CircuitBreaker/Sources/CircuitBreaker/BreakerError.swift": [1553732314, 185802708]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CircuitBreaker/Sources/CircuitBreaker/Bulkhead.swift": [1553732314, 160968966]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CircuitBreaker/Sources/CircuitBreaker/CircuitBreaker.swift": [1553732314, 186009615]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CircuitBreaker/Sources/CircuitBreaker/Collection.swift": [1553732314, 161321722]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CircuitBreaker/Sources/CircuitBreaker/Invocation.swift": [1553732314, 186192027]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CircuitBreaker/Sources/CircuitBreaker/Monitor.swift": [1553732314, 186339841]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CircuitBreaker/Sources/CircuitBreaker/MonitorCollection.swift": [1553732314, 161663107]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CircuitBreaker/Sources/CircuitBreaker/Snapshot.swift": [1553732314, 186505600]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CircuitBreaker/Sources/CircuitBreaker/Stats.swift": [1553732314, 186657503]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CircuitBreaker/Sources/CircuitBreaker/Utils.swift": [1553732314, 186821831]

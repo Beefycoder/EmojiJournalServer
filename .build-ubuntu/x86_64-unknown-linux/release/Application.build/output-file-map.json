@@ -1,0 +1,62 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Application.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Application.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/master.swiftdeps"
+  },
+  "/swift-project/Sources/Application/Application.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Application.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Application~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Application.swiftdeps"
+  },
+  "/swift-project/Sources/Application/InitializationError.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/InitializationError.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/InitializationError~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/InitializationError.swiftdeps"
+  },
+  "/swift-project/Sources/Application/Metrics.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Metrics.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Metrics~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Metrics.swiftdeps"
+  },
+  "/swift-project/Sources/Application/Models/Fortune.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Models/Fortune.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Fortune~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Fortune.swiftdeps"
+  },
+  "/swift-project/Sources/Application/Models/JournalEntry.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Models/JournalEntry.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/JournalEntry~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/JournalEntry.swiftdeps"
+  },
+  "/swift-project/Sources/Application/Models/Persistence.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Models/Persistence.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Persistence~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Persistence.swiftdeps"
+  },
+  "/swift-project/Sources/Application/Models/UserAuth.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Models/UserAuth.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/UserAuth~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/UserAuth.swiftdeps"
+  },
+  "/swift-project/Sources/Application/Routes/EntryRoutes.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Routes/EntryRoutes.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/EntryRoutes~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/EntryRoutes.swiftdeps"
+  },
+  "/swift-project/Sources/Application/Routes/HealthRoutes.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Routes/HealthRoutes.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/HealthRoutes~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/HealthRoutes.swiftdeps"
+  },
+  "/swift-project/Sources/Application/Routes/UserRoutes.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Routes/UserRoutes.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/UserRoutes~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/UserRoutes.swiftdeps"
+  },
+  "/swift-project/Sources/Application/Routes/WebClientRoutes.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/Routes/WebClientRoutes.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/WebClientRoutes~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Application.build/WebClientRoutes.swiftdeps"
+  }
+}

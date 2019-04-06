@@ -1,0 +1,890 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CPUSummary"
+- "CData"
+- "CUnits"
+- "MemSummary"
+- "MData"
+- "MUnits"
+- "HttpSummary"
+- "HttpUrlReport"
+- "HUnits"
+- "TimeSummary"
+- "TData"
+- "TUnits"
+- "SMRCollection"
+- "SMRCollectionInstance"
+- "CollectionsList"
+- "CollectionUri"
+- "SwiftMetricsREST"
+provides-nominal:
+- "16SwiftMetricsREST10CPUSummaryV"
+- "16SwiftMetricsREST5CDataV"
+- "16SwiftMetricsREST6CUnitsV"
+- "16SwiftMetricsREST10MemSummaryV"
+- "16SwiftMetricsREST5MDataV"
+- "16SwiftMetricsREST6MUnitsV"
+- "16SwiftMetricsREST11HttpSummaryV"
+- "16SwiftMetricsREST13HttpUrlReportV"
+- "16SwiftMetricsREST6HUnitsV"
+- "16SwiftMetricsREST11TimeSummaryV"
+- "16SwiftMetricsREST5TDataV"
+- "16SwiftMetricsREST6TUnitsV"
+- "16SwiftMetricsREST13SMRCollectionV"
+- "16SwiftMetricsREST21SMRCollectionInstanceV"
+- "16SwiftMetricsREST15CollectionsListV"
+- "16SwiftMetricsREST13CollectionUriV"
+- "16SwiftMetricsRESTAAC"
+provides-member:
+- ["16SwiftMetricsREST10CPUSummaryV", ""]
+- ["16SwiftMetricsREST5CDataV", ""]
+- ["16SwiftMetricsREST6CUnitsV", ""]
+- ["16SwiftMetricsREST10MemSummaryV", ""]
+- ["16SwiftMetricsREST5MDataV", ""]
+- ["16SwiftMetricsREST6MUnitsV", ""]
+- ["16SwiftMetricsREST11HttpSummaryV", ""]
+- ["16SwiftMetricsREST13HttpUrlReportV", ""]
+- ["16SwiftMetricsREST6HUnitsV", ""]
+- ["16SwiftMetricsREST11TimeSummaryV", ""]
+- ["16SwiftMetricsREST5TDataV", ""]
+- ["16SwiftMetricsREST6TUnitsV", ""]
+- ["16SwiftMetricsREST13SMRCollectionV", ""]
+- ["16SwiftMetricsREST21SMRCollectionInstanceV", ""]
+- ["16SwiftMetricsREST15CollectionsListV", ""]
+- ["16SwiftMetricsREST13CollectionUriV", ""]
+- ["16SwiftMetricsRESTAAC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "/"
+- "=="
+- !private ">"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CData"
+- "CPUData"
+- "CPUSummary"
+- "CUnits"
+- "Codable"
+- "CollectionUri"
+- "CollectionsList"
+- !private "ConfigurationManager"
+- !private "Date"
+- "Double"
+- "FloatLiteralType"
+- "HTTPData"
+- !private "HTTPStatusCode"
+- "HUnits"
+- "HttpSummary"
+- "HttpUrlReport"
+- "Int"
+- "IntegerLiteralType"
+- "JSONEncoder"
+- !private "Kitura"
+- "MData"
+- "MUnits"
+- "MemData"
+- "MemSummary"
+- "Router"
+- "RouterMethod"
+- "RouterRequest"
+- "RouterResponse"
+- "SMRCollection"
+- "SMRCollectionInstance"
+- "String"
+- "StringLiteralType"
+- "SwiftMetrics"
+- !private "SwiftMetricsKitura"
+- "SwiftMetricsREST"
+- "TData"
+- "TUnits"
+- "TimeSummary"
+- "UInt"
+- "Void"
+- !private "print"
+- !private "~="
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "append"]
+- !private ["Sa", "index"]
+- !private ["Sa", "subscript"]
+- !private ["s10ArraySliceV", "averageResponseTime"]
+- !private ["s10ArraySliceV", "hits"]
+- !private ["s10ArraySliceV", "longestResponseTime"]
+- !private ["SK", "append"]
+- !private ["SK", "averageResponseTime"]
+- !private ["SK", "hits"]
+- !private ["SK", "index"]
+- !private ["SK", "init"]
+- !private ["SK", "longestResponseTime"]
+- !private ["SK", "subscript"]
+- !private ["SB", "init"]
+- !private ["Sz", "init"]
+- !private ["15KituraContracts11BodyEncoderP", "encode"]
+- ["15KituraContracts11BodyEncoderP", "init"]
+- !private ["15KituraContracts11BodyEncoderP", "outputFormatting"]
+- !private ["16SwiftMetricsREST5CDataV", "CodingKeys"]
+- ["16SwiftMetricsREST5CDataV", "Double"]
+- ["16SwiftMetricsREST5CDataV", "deinit"]
+- ["16SwiftMetricsREST5CDataV", "encode"]
+- ["16SwiftMetricsREST5CDataV", "init"]
+- ["16SwiftMetricsREST5CDataV", "processMean"]
+- ["16SwiftMetricsREST5CDataV", "processPeak"]
+- ["16SwiftMetricsREST5CDataV", "systemMean"]
+- ["16SwiftMetricsREST5CDataV", "systemPeak"]
+- !private ["12SwiftMetrics7CPUDataV", "percentUsedByApplication"]
+- !private ["12SwiftMetrics7CPUDataV", "percentUsedBySystem"]
+- ["16SwiftMetricsREST10CPUSummaryV", "CData"]
+- ["16SwiftMetricsREST10CPUSummaryV", "CUnits"]
+- ["16SwiftMetricsREST10CPUSummaryV", "data"]
+- ["16SwiftMetricsREST10CPUSummaryV", "deinit"]
+- ["16SwiftMetricsREST10CPUSummaryV", "encode"]
+- ["16SwiftMetricsREST10CPUSummaryV", "init"]
+- ["16SwiftMetricsREST10CPUSummaryV", "units"]
+- !private ["16SwiftMetricsREST6CUnitsV", "CodingKeys"]
+- ["16SwiftMetricsREST6CUnitsV", "String"]
+- ["16SwiftMetricsREST6CUnitsV", "deinit"]
+- ["16SwiftMetricsREST6CUnitsV", "encode"]
+- ["16SwiftMetricsREST6CUnitsV", "init"]
+- ["16SwiftMetricsREST6CUnitsV", "processMean"]
+- ["16SwiftMetricsREST6CUnitsV", "processPeak"]
+- ["16SwiftMetricsREST6CUnitsV", "systemMean"]
+- ["16SwiftMetricsREST6CUnitsV", "systemPeak"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "index"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "keys"]
+- !private ["s7CVarArgP", "subscript"]
+- ["s9CodingKeyP", "=="]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- !private ["Sl", "append"]
+- !private ["Sl", "averageResponseTime"]
+- !private ["Sl", "hits"]
+- !private ["Sl", "index"]
+- !private ["Sl", "init"]
+- !private ["Sl", "keys"]
+- !private ["Sl", "longestResponseTime"]
+- !private ["Sl", "sorted"]
+- !private ["Sl", "subscript"]
+- ["16SwiftMetricsREST13CollectionUriV", "String"]
+- ["16SwiftMetricsREST13CollectionUriV", "deinit"]
+- ["16SwiftMetricsREST13CollectionUriV", "encode"]
+- ["16SwiftMetricsREST13CollectionUriV", "init"]
+- ["16SwiftMetricsREST13CollectionUriV", "uri"]
+- ["16SwiftMetricsREST15CollectionsListV", "String"]
+- ["16SwiftMetricsREST15CollectionsListV", "collectionUris"]
+- ["16SwiftMetricsREST15CollectionsListV", "deinit"]
+- ["16SwiftMetricsREST15CollectionsListV", "encode"]
+- ["16SwiftMetricsREST15CollectionsListV", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "timeIntervalSince1970"]
+- !private ["13Configuration0A7ManagerC", "init"]
+- !private ["13Configuration0A7ManagerC", "load"]
+- !private ["13Configuration0A7ManagerC", "port"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "averageResponseTime"]
+- !private ["10Foundation15ContiguousBytesP", "hits"]
+- !private ["10Foundation15ContiguousBytesP", "index"]
+- !private ["10Foundation15ContiguousBytesP", "longestResponseTime"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "averageResponseTime"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "hits"]
+- !private ["s28CustomDebugStringConvertibleP", "index"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "keys"]
+- !private ["s28CustomDebugStringConvertibleP", "longestResponseTime"]
+- !private ["s28CustomDebugStringConvertibleP", "sorted"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "averageResponseTime"]
+- !private ["s17CustomReflectableP", "hits"]
+- !private ["s17CustomReflectableP", "index"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "keys"]
+- !private ["s17CustomReflectableP", "longestResponseTime"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "timeIntervalSince1970"]
+- ["s23CustomStringConvertibleP", "=="]
+- !private ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "averageResponseTime"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "delete"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "get"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- !private ["s23CustomStringConvertibleP", "hits"]
+- !private ["s23CustomStringConvertibleP", "index"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- !private ["s23CustomStringConvertibleP", "keys"]
+- !private ["s23CustomStringConvertibleP", "longestResponseTime"]
+- ["s23CustomStringConvertibleP", "put"]
+- !private ["s23CustomStringConvertibleP", "sorted"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "averageResponseTime"]
+- !private ["10Foundation12DataProtocolP", "hits"]
+- !private ["10Foundation12DataProtocolP", "index"]
+- !private ["10Foundation12DataProtocolP", "longestResponseTime"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["10Foundation4DateV", "timeIntervalSince1970"]
+- ["Se", "CData"]
+- ["Se", "CPUSummary"]
+- ["Se", "CUnits"]
+- ["Se", "HUnits"]
+- ["Se", "HttpSummary"]
+- ["Se", "MData"]
+- ["Se", "MUnits"]
+- ["Se", "MemSummary"]
+- ["Se", "TData"]
+- ["Se", "TUnits"]
+- ["Se", "TimeSummary"]
+- ["Se", ""]
+- !private ["Se", "append"]
+- !private ["Se", "averageResponseTime"]
+- !private ["Se", "collection"]
+- !private ["Se", "collectionUris"]
+- !private ["Se", "cpu"]
+- !private ["Se", "cpuSampleCount"]
+- !private ["Se", "data"]
+- ["Se", "encode"]
+- !private ["Se", "end"]
+- !private ["Se", "hits"]
+- !private ["Se", "httpUrls"]
+- !private ["Se", "id"]
+- !private ["Se", "index"]
+- ["Se", "init"]
+- !private ["Se", "keys"]
+- !private ["Se", "longestResponseTime"]
+- !private ["Se", "memSampleCount"]
+- !private ["Se", "memory"]
+- !private ["Se", "method"]
+- !private ["Se", "processMean"]
+- !private ["Se", "processPeak"]
+- !private ["Se", "start"]
+- !private ["Se", "subscript"]
+- !private ["Se", "systemMean"]
+- !private ["Se", "systemPeak"]
+- !private ["Se", "time"]
+- !private ["Se", "timeIntervalSince1970"]
+- !private ["Se", "units"]
+- !private ["Se", "uri"]
+- !private ["Se", "url"]
+- !private ["s7DecoderP", "container"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "keys"]
+- !private ["SD", "subscript"]
+- !private ["11TypeDecoder010DictionaryA0P", "keys"]
+- !private ["11TypeDecoder010DictionaryA0P", "subscript"]
+- !private ["Sd", "init"]
+- ["SE", "CData"]
+- ["SE", "CPUSummary"]
+- ["SE", "CUnits"]
+- ["SE", "HUnits"]
+- ["SE", "HttpSummary"]
+- ["SE", "MData"]
+- ["SE", "MUnits"]
+- ["SE", "MemSummary"]
+- ["SE", "TData"]
+- ["SE", "TUnits"]
+- ["SE", "TimeSummary"]
+- ["SE", ""]
+- !private ["SE", "append"]
+- !private ["SE", "averageResponseTime"]
+- !private ["SE", "collection"]
+- !private ["SE", "collectionUris"]
+- !private ["SE", "cpu"]
+- !private ["SE", "cpuSampleCount"]
+- !private ["SE", "data"]
+- ["SE", "encode"]
+- !private ["SE", "end"]
+- !private ["SE", "hits"]
+- !private ["SE", "httpUrls"]
+- !private ["SE", "id"]
+- !private ["SE", "index"]
+- ["SE", "init"]
+- !private ["SE", "keys"]
+- !private ["SE", "longestResponseTime"]
+- !private ["SE", "memSampleCount"]
+- !private ["SE", "memory"]
+- !private ["SE", "method"]
+- !private ["SE", "processMean"]
+- !private ["SE", "processPeak"]
+- !private ["SE", "start"]
+- !private ["SE", "subscript"]
+- !private ["SE", "systemMean"]
+- !private ["SE", "systemPeak"]
+- !private ["SE", "time"]
+- !private ["SE", "timeIntervalSince1970"]
+- !private ["SE", "units"]
+- !private ["SE", "uri"]
+- !private ["SE", "url"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- !private ["SQ", "OK"]
+- !private ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "append"]
+- !private ["SQ", "averageResponseTime"]
+- !private ["SQ", "badRequest"]
+- !private ["SQ", "created"]
+- ["SQ", "debugDescription"]
+- ["SQ", "delete"]
+- ["SQ", "description"]
+- !private ["SQ", "environmentVariables"]
+- ["SQ", "get"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "hits"]
+- !private ["SQ", "index"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- !private ["SQ", "keys"]
+- !private ["SQ", "longestResponseTime"]
+- !private ["SQ", "noContent"]
+- !private ["SQ", "notFound"]
+- !private ["SQ", "prettyPrinted"]
+- ["SQ", "put"]
+- !private ["SQ", "sorted"]
+- ["SQ", "stringValue"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "timeIntervalSince1970"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "averageResponseTime"]
+- !private ["s25ExpressibleByArrayLiteralP", "hits"]
+- !private ["s25ExpressibleByArrayLiteralP", "index"]
+- !private ["s25ExpressibleByArrayLiteralP", "longestResponseTime"]
+- !private ["s25ExpressibleByArrayLiteralP", "prettyPrinted"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "keys"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SF", "init"]
+- !private ["18SwiftMetricsKitura8HTTPDataV", "duration"]
+- !private ["18SwiftMetricsKitura8HTTPDataV", "requestMethod"]
+- !private ["18SwiftMetricsKitura8HTTPDataV", "url"]
+- !private ["9KituraNet14HTTPStatusCodeO", "OK"]
+- !private ["9KituraNet14HTTPStatusCodeO", "badRequest"]
+- !private ["9KituraNet14HTTPStatusCodeO", "created"]
+- !private ["9KituraNet14HTTPStatusCodeO", "noContent"]
+- !private ["9KituraNet14HTTPStatusCodeO", "notFound"]
+- !private ["16SwiftMetricsREST6HUnitsV", "CodingKeys"]
+- ["16SwiftMetricsREST6HUnitsV", "String"]
+- ["16SwiftMetricsREST6HUnitsV", "averageResponseTime"]
+- ["16SwiftMetricsREST6HUnitsV", "deinit"]
+- ["16SwiftMetricsREST6HUnitsV", "encode"]
+- ["16SwiftMetricsREST6HUnitsV", "hits"]
+- ["16SwiftMetricsREST6HUnitsV", "init"]
+- ["16SwiftMetricsREST6HUnitsV", "longestResponseTime"]
+- ["SH", "=="]
+- !private ["SH", "OK"]
+- !private ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "append"]
+- !private ["SH", "averageResponseTime"]
+- !private ["SH", "badRequest"]
+- !private ["SH", "created"]
+- ["SH", "debugDescription"]
+- ["SH", "delete"]
+- ["SH", "description"]
+- !private ["SH", "environmentVariables"]
+- ["SH", "get"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "hits"]
+- !private ["SH", "index"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- !private ["SH", "keys"]
+- !private ["SH", "longestResponseTime"]
+- !private ["SH", "noContent"]
+- !private ["SH", "notFound"]
+- ["SH", "put"]
+- ["SH", "stringValue"]
+- !private ["SH", "subscript"]
+- !private ["SH", "timeIntervalSince1970"]
+- !private ["s6HasherV", "combine"]
+- !private ["6Kitura7HeadersV", "append"]
+- ["16SwiftMetricsREST11HttpSummaryV", "HUnits"]
+- ["16SwiftMetricsREST11HttpSummaryV", "HttpUrlReport"]
+- ["16SwiftMetricsREST11HttpSummaryV", "data"]
+- ["16SwiftMetricsREST11HttpSummaryV", "deinit"]
+- ["16SwiftMetricsREST11HttpSummaryV", "encode"]
+- ["16SwiftMetricsREST11HttpSummaryV", "init"]
+- ["16SwiftMetricsREST11HttpSummaryV", "units"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "Double"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "Int"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "String"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "averageResponseTime"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "deinit"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "encode"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "hits"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "init"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "longestResponseTime"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "method"]
+- ["16SwiftMetricsREST13HttpUrlReportV", "url"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["Si", "init"]
+- !private ["10Foundation11JSONEncoderC", "encode"]
+- ["10Foundation11JSONEncoderC", "init"]
+- !private ["10Foundation11JSONEncoderC", "outputFormatting"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["SD4KeysV", "sorted"]
+- !private ["6KituraAAC", "addHTTPServer"]
+- !private ["6KituraAAC", "start"]
+- !private ["6KituraAAC", "stop"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["16SwiftMetricsREST5MDataV", "CodingKeys"]
+- ["16SwiftMetricsREST5MDataV", "UInt"]
+- ["16SwiftMetricsREST5MDataV", "deinit"]
+- ["16SwiftMetricsREST5MDataV", "encode"]
+- ["16SwiftMetricsREST5MDataV", "init"]
+- ["16SwiftMetricsREST5MDataV", "processMean"]
+- ["16SwiftMetricsREST5MDataV", "processPeak"]
+- ["16SwiftMetricsREST5MDataV", "systemMean"]
+- ["16SwiftMetricsREST5MDataV", "systemPeak"]
+- !private ["16SwiftMetricsREST6MUnitsV", "CodingKeys"]
+- ["16SwiftMetricsREST6MUnitsV", "String"]
+- ["16SwiftMetricsREST6MUnitsV", "deinit"]
+- ["16SwiftMetricsREST6MUnitsV", "encode"]
+- ["16SwiftMetricsREST6MUnitsV", "init"]
+- ["16SwiftMetricsREST6MUnitsV", "processMean"]
+- ["16SwiftMetricsREST6MUnitsV", "processPeak"]
+- ["16SwiftMetricsREST6MUnitsV", "systemMean"]
+- ["16SwiftMetricsREST6MUnitsV", "systemPeak"]
+- !private ["12SwiftMetrics7MemDataV", "applicationRAMUsed"]
+- !private ["12SwiftMetrics7MemDataV", "totalRAMUsed"]
+- ["16SwiftMetricsREST10MemSummaryV", "MData"]
+- ["16SwiftMetricsREST10MemSummaryV", "MUnits"]
+- ["16SwiftMetricsREST10MemSummaryV", "data"]
+- ["16SwiftMetricsREST10MemSummaryV", "deinit"]
+- ["16SwiftMetricsREST10MemSummaryV", "encode"]
+- ["16SwiftMetricsREST10MemSummaryV", "init"]
+- ["16SwiftMetricsREST10MemSummaryV", "units"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "append"]
+- !private ["SM", "averageResponseTime"]
+- !private ["SM", "hits"]
+- !private ["SM", "index"]
+- !private ["SM", "longestResponseTime"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "index"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["Sj", "init"]
+- !private ["s9OptionSetP", "prettyPrinted"]
+- !private ["10Foundation11JSONEncoderC16OutputFormattingV", "prettyPrinted"]
+- !private ["Sk", "append"]
+- !private ["Sk", "averageResponseTime"]
+- !private ["Sk", "hits"]
+- !private ["Sk", "index"]
+- !private ["Sk", "longestResponseTime"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "append"]
+- !private ["Sm", "averageResponseTime"]
+- !private ["Sm", "hits"]
+- !private ["Sm", "index"]
+- !private ["Sm", "init"]
+- !private ["Sm", "longestResponseTime"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "OK"]
+- !private ["SY", "badRequest"]
+- !private ["SY", "created"]
+- ["SY", "delete"]
+- ["SY", "get"]
+- !private ["SY", "noContent"]
+- !private ["SY", "notFound"]
+- !private ["SY", "prettyPrinted"]
+- ["SY", "put"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSince1970"]
+- !private ["6Kitura6RouterC", "all"]
+- !private ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "init"]
+- !private ["6Kitura6RouterC", "post"]
+- !private ["6Kitura6RouterC", "route"]
+- ["6Kitura12RouterMethodO", "delete"]
+- ["6Kitura12RouterMethodO", "get"]
+- ["6Kitura12RouterMethodO", "put"]
+- !private ["6Kitura16RouterMiddlewareP", "all"]
+- !private ["6Kitura16RouterMiddlewareP", "get"]
+- ["6Kitura16RouterMiddlewareP", "init"]
+- !private ["6Kitura16RouterMiddlewareP", "post"]
+- !private ["6Kitura16RouterMiddlewareP", "route"]
+- !private ["6Kitura13RouterRequestC", "method"]
+- !private ["6Kitura13RouterRequestC", "parameters"]
+- !private ["6Kitura14RouterResponseC", "end"]
+- !private ["6Kitura14RouterResponseC", "headers"]
+- !private ["6Kitura14RouterResponseC", "send"]
+- !private ["6Kitura14RouterResponseC", "status"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["12SwiftMetrics6SMDataP", "applicationRAMUsed"]
+- !private ["12SwiftMetrics6SMDataP", "duration"]
+- !private ["12SwiftMetrics6SMDataP", "percentUsedByApplication"]
+- !private ["12SwiftMetrics6SMDataP", "percentUsedBySystem"]
+- !private ["12SwiftMetrics6SMDataP", "requestMethod"]
+- !private ["12SwiftMetrics6SMDataP", "totalRAMUsed"]
+- !private ["12SwiftMetrics6SMDataP", "url"]
+- ["16SwiftMetricsREST13SMRCollectionV", "CPUSummary"]
+- ["16SwiftMetricsREST13SMRCollectionV", "HttpSummary"]
+- ["16SwiftMetricsREST13SMRCollectionV", "Int"]
+- ["16SwiftMetricsREST13SMRCollectionV", "MemSummary"]
+- ["16SwiftMetricsREST13SMRCollectionV", "TimeSummary"]
+- ["16SwiftMetricsREST13SMRCollectionV", "UInt"]
+- ["16SwiftMetricsREST13SMRCollectionV", "cpu"]
+- ["16SwiftMetricsREST13SMRCollectionV", "deinit"]
+- ["16SwiftMetricsREST13SMRCollectionV", "encode"]
+- ["16SwiftMetricsREST13SMRCollectionV", "httpUrls"]
+- ["16SwiftMetricsREST13SMRCollectionV", "id"]
+- ["16SwiftMetricsREST13SMRCollectionV", "init"]
+- ["16SwiftMetricsREST13SMRCollectionV", "memory"]
+- ["16SwiftMetricsREST13SMRCollectionV", "time"]
+- ["16SwiftMetricsREST21SMRCollectionInstanceV", "Double"]
+- ["16SwiftMetricsREST21SMRCollectionInstanceV", "SMRCollection"]
+- ["16SwiftMetricsREST21SMRCollectionInstanceV", "UInt"]
+- ["16SwiftMetricsREST21SMRCollectionInstanceV", "collection"]
+- ["16SwiftMetricsREST21SMRCollectionInstanceV", "cpuSampleCount"]
+- ["16SwiftMetricsREST21SMRCollectionInstanceV", "deinit"]
+- ["16SwiftMetricsREST21SMRCollectionInstanceV", "encode"]
+- ["16SwiftMetricsREST21SMRCollectionInstanceV", "init"]
+- ["16SwiftMetricsREST21SMRCollectionInstanceV", "memSampleCount"]
+- !private ["ST", "append"]
+- !private ["ST", "averageResponseTime"]
+- !private ["ST", "hits"]
+- !private ["ST", "index"]
+- !private ["ST", "init"]
+- !private ["ST", "keys"]
+- !private ["ST", "longestResponseTime"]
+- !private ["ST", "sorted"]
+- !private ["ST", "subscript"]
+- !private ["9KituraNet14ServerDelegateP", "all"]
+- !private ["9KituraNet14ServerDelegateP", "get"]
+- ["9KituraNet14ServerDelegateP", "init"]
+- !private ["9KituraNet14ServerDelegateP", "post"]
+- !private ["9KituraNet14ServerDelegateP", "route"]
+- !private ["s10SetAlgebraP", "prettyPrinted"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["13Configuration0A7ManagerC6SourceO", "environmentVariables"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "init"]
+- !private ["12SwiftMetricsAAC", "monitor"]
+- !private ["18SwiftMetricsKituraAAC", "init"]
+- ["16SwiftMetricsRESTAAC", "Bool"]
+- ["16SwiftMetricsRESTAAC", "CPUData"]
+- !private ["16SwiftMetricsRESTAAC", "CollectionUri"]
+- !private ["16SwiftMetricsRESTAAC", "CollectionsList"]
+- !private ["16SwiftMetricsRESTAAC", "ConfigurationManager"]
+- !private ["16SwiftMetricsRESTAAC", "Date"]
+- !private ["16SwiftMetricsRESTAAC", "Double"]
+- ["16SwiftMetricsRESTAAC", "HTTPData"]
+- !private ["16SwiftMetricsRESTAAC", "HTTPStatusCode"]
+- !private ["16SwiftMetricsRESTAAC", "HttpUrlReport"]
+- ["16SwiftMetricsRESTAAC", "Int"]
+- ["16SwiftMetricsRESTAAC", "JSONEncoder"]
+- !private ["16SwiftMetricsRESTAAC", "Kitura"]
+- ["16SwiftMetricsRESTAAC", "MemData"]
+- ["16SwiftMetricsRESTAAC", "Router"]
+- ["16SwiftMetricsRESTAAC", "RouterMethod"]
+- ["16SwiftMetricsRESTAAC", "RouterRequest"]
+- ["16SwiftMetricsRESTAAC", "RouterResponse"]
+- !private ["16SwiftMetricsRESTAAC", "SMRCollection"]
+- ["16SwiftMetricsRESTAAC", "SMRCollectionInstance"]
+- !private ["16SwiftMetricsRESTAAC", "String"]
+- ["16SwiftMetricsRESTAAC", "SwiftMetrics"]
+- !private ["16SwiftMetricsRESTAAC", "SwiftMetricsKitura"]
+- !private ["16SwiftMetricsRESTAAC", "UInt"]
+- ["16SwiftMetricsRESTAAC", "Void"]
+- ["16SwiftMetricsRESTAAC", "checkIDdCollection"]
+- !private ["16SwiftMetricsRESTAAC", "cpuEvent"]
+- ["16SwiftMetricsRESTAAC", "createServer"]
+- ["16SwiftMetricsRESTAAC", "deinit"]
+- ["16SwiftMetricsRESTAAC", "deleteIDdCollection"]
+- ["16SwiftMetricsRESTAAC", "encoder"]
+- ["16SwiftMetricsRESTAAC", "getCollections"]
+- ["16SwiftMetricsRESTAAC", "getIDdCollection"]
+- !private ["16SwiftMetricsRESTAAC", "httpEvent"]
+- ["16SwiftMetricsRESTAAC", "init"]
+- !private ["16SwiftMetricsRESTAAC", "memEvent"]
+- ["16SwiftMetricsRESTAAC", "postCollections"]
+- !private ["16SwiftMetricsRESTAAC", "print"]
+- ["16SwiftMetricsRESTAAC", "processIDdCollection"]
+- ["16SwiftMetricsRESTAAC", "putIDdCollection"]
+- ["16SwiftMetricsRESTAAC", "router"]
+- ["16SwiftMetricsRESTAAC", "smrCollectionList"]
+- ["16SwiftMetricsRESTAAC", "startServer"]
+- !private ["12SwiftMetrics0A7MonitorC", "on"]
+- !private ["16SwiftMetricsREST5TDataV", "CodingKeys"]
+- ["16SwiftMetricsREST5TDataV", "UInt"]
+- ["16SwiftMetricsREST5TDataV", "deinit"]
+- ["16SwiftMetricsREST5TDataV", "encode"]
+- ["16SwiftMetricsREST5TDataV", "end"]
+- ["16SwiftMetricsREST5TDataV", "init"]
+- ["16SwiftMetricsREST5TDataV", "start"]
+- !private ["16SwiftMetricsREST6TUnitsV", "CodingKeys"]
+- ["16SwiftMetricsREST6TUnitsV", "String"]
+- ["16SwiftMetricsREST6TUnitsV", "deinit"]
+- ["16SwiftMetricsREST6TUnitsV", "encode"]
+- ["16SwiftMetricsREST6TUnitsV", "end"]
+- ["16SwiftMetricsREST6TUnitsV", "init"]
+- ["16SwiftMetricsREST6TUnitsV", "start"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- ["16SwiftMetricsREST11TimeSummaryV", "TData"]
+- ["16SwiftMetricsREST11TimeSummaryV", "TUnits"]
+- ["16SwiftMetricsREST11TimeSummaryV", "data"]
+- ["16SwiftMetricsREST11TimeSummaryV", "deinit"]
+- ["16SwiftMetricsREST11TimeSummaryV", "encode"]
+- ["16SwiftMetricsREST11TimeSummaryV", "init"]
+- ["16SwiftMetricsREST11TimeSummaryV", "units"]
+- !private ["Su", "init"]
+- !private ["SU", "init"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "averageResponseTime"]
+- !private ["s14_ArrayProtocolP", "hits"]
+- !private ["s14_ArrayProtocolP", "index"]
+- !private ["s14_ArrayProtocolP", "longestResponseTime"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "averageResponseTime"]
+- !private ["s24_DestructorSafeContainerP", "hits"]
+- !private ["s24_DestructorSafeContainerP", "index"]
+- !private ["s24_DestructorSafeContainerP", "longestResponseTime"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "index"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "index"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "keys"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "index"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "keys"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSince1970"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "s10ArraySliceV"
+- !private "SK"
+- !private "SB"
+- !private "Sz"
+- "15KituraContracts11BodyEncoderP"
+- "16SwiftMetricsREST5CDataV"
+- !private "12SwiftMetrics7CPUDataV"
+- "16SwiftMetricsREST10CPUSummaryV"
+- "16SwiftMetricsREST6CUnitsV"
+- !private "s7CVarArgP"
+- "s9CodingKeyP"
+- !private "Sl"
+- "16SwiftMetricsREST13CollectionUriV"
+- "16SwiftMetricsREST15CollectionsListV"
+- !private "SL"
+- !private "13Configuration0A7ManagerC"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "10Foundation4DateV"
+- "Se"
+- !private "s7DecoderP"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "11TypeDecoder010DictionaryA0P"
+- !private "Sd"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "SF"
+- !private "18SwiftMetricsKitura8HTTPDataV"
+- !private "9KituraNet14HTTPStatusCodeO"
+- "16SwiftMetricsREST6HUnitsV"
+- "SH"
+- !private "s6HasherV"
+- !private "6Kitura7HeadersV"
+- "16SwiftMetricsREST11HttpSummaryV"
+- "16SwiftMetricsREST13HttpUrlReportV"
+- !private "15KituraContracts10IdentifierP"
+- !private "Si"
+- "10Foundation11JSONEncoderC"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- !private "SD4KeysV"
+- !private "6KituraAAC"
+- !private "s25LosslessStringConvertibleP"
+- "16SwiftMetricsREST5MDataV"
+- "16SwiftMetricsREST6MUnitsV"
+- !private "12SwiftMetrics7MemDataV"
+- "16SwiftMetricsREST10MemSummaryV"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sj"
+- !private "s9OptionSetP"
+- !private "10Foundation11JSONEncoderC16OutputFormattingV"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "6Kitura6RouterC"
+- "6Kitura12RouterMethodO"
+- "6Kitura16RouterMiddlewareP"
+- !private "6Kitura13RouterRequestC"
+- !private "6Kitura14RouterResponseC"
+- !private "s10SIMDScalarP"
+- !private "12SwiftMetrics6SMDataP"
+- "16SwiftMetricsREST13SMRCollectionV"
+- "16SwiftMetricsREST21SMRCollectionInstanceV"
+- !private "ST"
+- "9KituraNet14ServerDelegateP"
+- !private "s10SetAlgebraP"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "13Configuration0A7ManagerC6SourceO"
+- !private "Sx"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "12SwiftMetricsAAC"
+- !private "18SwiftMetricsKituraAAC"
+- "16SwiftMetricsRESTAAC"
+- !private "12SwiftMetrics0A7MonitorC"
+- "16SwiftMetricsREST5TDataV"
+- "16SwiftMetricsREST6TUnitsV"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "16SwiftMetricsREST11TimeSummaryV"
+- !private "Su"
+- !private "SU"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsKitura.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetrics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/FileKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CloudFoundryEnv.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/omr-agentcore-1273195304195151760/src/agentcore/include/AgentExtensions.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c87c9744a5171c24c58a636bb058ee1d"

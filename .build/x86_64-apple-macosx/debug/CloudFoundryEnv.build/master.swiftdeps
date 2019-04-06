@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "60bac03e86802d25ce1fae1ef2d9f7a1"
+build_time: [1554331720, 581849000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-cfenv.git-4295136196159558157/Sources/CloudFoundryEnv/App.swift": [1553213962, 972626852]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-cfenv.git-4295136196159558157/Sources/CloudFoundryEnv/AppEnv.swift": [1553213962, 972802533]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-cfenv.git-4295136196159558157/Sources/CloudFoundryEnv/CollectionUtils.swift": [1553213962, 972914541]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-cfenv.git-4295136196159558157/Sources/CloudFoundryEnv/DateUtils.swift": [1553213962, 973024573]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-cfenv.git-4295136196159558157/Sources/CloudFoundryEnv/JSONUtils.swift": [1553213962, 973133045]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-cfenv.git-4295136196159558157/Sources/CloudFoundryEnv/Service.swift": [1553213962, 973240920]

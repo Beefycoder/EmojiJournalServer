@@ -1,0 +1,22 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/KituraOpenAPI.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/KituraOpenAPI.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-OpenAPI.git-7274841771006586300/Sources/KituraOpenAPI/KituraOpenAPI.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/KituraOpenAPI.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/KituraOpenAPI~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/KituraOpenAPI.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-OpenAPI.git-7274841771006586300/Sources/KituraOpenAPI/KituraOpenAPIConfig.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/KituraOpenAPIConfig.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/KituraOpenAPIConfig~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/KituraOpenAPIConfig.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-OpenAPI.git-7274841771006586300/Sources/KituraOpenAPI/Utils.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/Utils.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/Utils~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraOpenAPI.build/Utils.swiftdeps"
+  }
+}

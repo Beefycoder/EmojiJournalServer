@@ -1,0 +1,57 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/CircuitBreaker.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/CircuitBreaker.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/BreakerError.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/BreakerError.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/BreakerError~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/BreakerError.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Bulkhead.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Bulkhead.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Bulkhead~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Bulkhead.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/CircuitBreaker.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/CircuitBreaker.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/CircuitBreaker~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/CircuitBreaker.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Collection.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Collection.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Collection~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Collection.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Invocation.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Invocation.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Invocation~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Invocation.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Monitor.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Monitor.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Monitor~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Monitor.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/MonitorCollection.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/MonitorCollection.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/MonitorCollection~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/MonitorCollection.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Snapshot.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Snapshot.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Snapshot~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Snapshot.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Stats.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Stats.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Stats~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Stats.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CircuitBreaker.git-4892606918829899673/Sources/CircuitBreaker/Utils.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Utils.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Utils~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CircuitBreaker.build/Utils.swiftdeps"
+  }
+}

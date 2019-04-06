@@ -1,0 +1,396 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FastCGIServer"
+provides-nominal:
+- "9KituraNet13FastCGIServerC"
+provides-member:
+- ["9KituraNet13FastCGIServerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- !private "+"
+- !private "=="
+- !private ">"
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "DispatchQueue"
+- !private "DispatchWorkItem"
+- !private "FastCGI"
+- "FastCGIServer"
+- "FastCGIServerRequest"
+- "FastCGIServerResponse"
+- "FloatLiteralType"
+- "Int"
+- !private "Int32"
+- "IntegerLiteralType"
+- !private "ListenerGroup"
+- !private "Log"
+- !private "Monitor"
+- "Server"
+- "ServerDelegate"
+- "ServerLifecycleListener"
+- "ServerRequest"
+- "ServerResponse"
+- "ServerState"
+- "Socket"
+- !private "StringLiteralType"
+- "Swift"
+- !private "UnicodeScalarType"
+- "Void"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "count"]
+- !private ["SK", "count"]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "global"]
+- !private ["s7CVarArgP", "init"]
+- !private ["Sl", "count"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "global"]
+- !private ["s28CustomDebugStringConvertibleP", "notFound"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "notFound"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "errorCode"]
+- !private ["s23CustomStringConvertibleP", "global"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["Se", "count"]
+- !private ["Se", "init"]
+- !private ["Se", "notFound"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- !private ["So18OS_dispatch_objectC", "global"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- !private ["So17OS_dispatch_queueC", "global"]
+- !private ["8Dispatch0A8WorkItemC", "init"]
+- !private ["SE", "count"]
+- !private ["SE", "init"]
+- !private ["SE", "notFound"]
+- !private ["SQ", "async"]
+- !private ["SQ", "count"]
+- !private ["SQ", "failed"]
+- !private ["SQ", "global"]
+- !private ["SQ", "init"]
+- !private ["SQ", "notFound"]
+- !private ["SQ", "started"]
+- !private ["SQ", "stopped"]
+- !private ["SQ", "success"]
+- ["SQ", "unknown"]
+- !private ["SQ", "unsupportedRole"]
+- !private ["6SocketAAC5ErrorV", "errorCode"]
+- !private ["s5ErrorP", "errorCode"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "notFound"]
+- !private ["9KituraNet7FastCGIC", "createServer"]
+- !private ["9KituraNet20FastCGIServerRequestC0C18CGIParserErrorTypeO", "success"]
+- !private ["9KituraNet20FastCGIServerRequestC0C18CGIParserErrorTypeO", "unsupportedRole"]
+- ["9KituraNet13FastCGIServerC", "Bool"]
+- !private ["9KituraNet13FastCGIServerC", "DispatchQueue"]
+- !private ["9KituraNet13FastCGIServerC", "DispatchWorkItem"]
+- !private ["9KituraNet13FastCGIServerC", "FastCGI"]
+- !private ["9KituraNet13FastCGIServerC", "FastCGIDummyServerDelegate"]
+- ["9KituraNet13FastCGIServerC", "FastCGIServer"]
+- ["9KituraNet13FastCGIServerC", "FastCGIServerRequest"]
+- ["9KituraNet13FastCGIServerC", "FastCGIServerResponse"]
+- ["9KituraNet13FastCGIServerC", "Int"]
+- !private ["9KituraNet13FastCGIServerC", "Int32"]
+- !private ["9KituraNet13FastCGIServerC", "ListenerGroup"]
+- !private ["9KituraNet13FastCGIServerC", "Log"]
+- !private ["9KituraNet13FastCGIServerC", "Monitor"]
+- ["9KituraNet13FastCGIServerC", "ServerDelegate"]
+- ["9KituraNet13FastCGIServerC", "ServerLifecycleListener"]
+- ["9KituraNet13FastCGIServerC", "ServerRequest"]
+- ["9KituraNet13FastCGIServerC", "ServerResponse"]
+- ["9KituraNet13FastCGIServerC", "ServerState"]
+- ["9KituraNet13FastCGIServerC", "ServerType"]
+- ["9KituraNet13FastCGIServerC", "Socket"]
+- ["9KituraNet13FastCGIServerC", "Swift"]
+- ["9KituraNet13FastCGIServerC", "Void"]
+- ["9KituraNet13FastCGIServerC", "allowPortReuse"]
+- ["9KituraNet13FastCGIServerC", "clientConnectionFailed"]
+- ["9KituraNet13FastCGIServerC", "deinit"]
+- ["9KituraNet13FastCGIServerC", "delegate"]
+- ["9KituraNet13FastCGIServerC", "failed"]
+- !private ["9KituraNet13FastCGIServerC", "handleClientRequest"]
+- ["9KituraNet13FastCGIServerC", "init"]
+- !private ["9KituraNet13FastCGIServerC", "lifecycleListener"]
+- ["9KituraNet13FastCGIServerC", "listen"]
+- !private ["9KituraNet13FastCGIServerC", "listenSocket"]
+- !private ["9KituraNet13FastCGIServerC", "maxPendingConnections"]
+- !private ["9KituraNet13FastCGIServerC", "maxPendingConnections.storage"]
+- ["9KituraNet13FastCGIServerC", "port"]
+- !private ["9KituraNet13FastCGIServerC", "sendMultiplexRequestRejections"]
+- ["9KituraNet13FastCGIServerC", "started"]
+- ["9KituraNet13FastCGIServerC", "state"]
+- ["9KituraNet13FastCGIServerC", "stop"]
+- ["9KituraNet13FastCGIServerC", "stopped"]
+- !private ["9KituraNet20FastCGIServerRequestC", "deinit"]
+- !private ["9KituraNet20FastCGIServerRequestC", "extraRequestIds"]
+- !private ["9KituraNet20FastCGIServerRequestC", "init"]
+- !private ["9KituraNet20FastCGIServerRequestC", "parse"]
+- !private ["9KituraNet21FastCGIServerResponseC", "deinit"]
+- !private ["9KituraNet21FastCGIServerResponseC", "init"]
+- !private ["9KituraNet21FastCGIServerResponseC", "rejectMultiplexConnecton"]
+- !private ["9KituraNet21FastCGIServerResponseC", "rejectUnsupportedRole"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["9KituraNet14HTTPStatusCodeO", "notFound"]
+- !private ["SH", "async"]
+- !private ["SH", "count"]
+- !private ["SH", "failed"]
+- !private ["SH", "global"]
+- !private ["SH", "init"]
+- !private ["SH", "notFound"]
+- !private ["SH", "started"]
+- !private ["SH", "stopped"]
+- !private ["SH", "success"]
+- ["SH", "unknown"]
+- !private ["SH", "unsupportedRole"]
+- !private ["s5Int32V", "init"]
+- !private ["9KituraNet13ListenerGroupC", "enqueueAsynchronously"]
+- !private ["9LoggerAPI3LogC", "debug"]
+- !private ["9LoggerAPI3LogC", "error"]
+- !private ["9LoggerAPI3LogC", "info"]
+- !private ["9LoggerAPI3LogC", "verbose"]
+- !private ["9LoggerAPI3LogC", "warning"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["9KituraNet7MonitorV", "delegate"]
+- !private ["SM", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "global"]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "global"]
+- !private ["Sj", "init"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "global"]
+- !private ["Sq", "notFound"]
+- !private ["Sk", "count"]
+- !private ["Sm", "count"]
+- !private ["SY", "notFound"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "count"]
+- !private ["9KituraNet6ServerP", "DispatchQueue"]
+- !private ["9KituraNet6ServerP", "DispatchWorkItem"]
+- !private ["9KituraNet6ServerP", "FastCGI"]
+- !private ["9KituraNet6ServerP", "FastCGIDummyServerDelegate"]
+- !private ["9KituraNet6ServerP", "FastCGIServerRequest"]
+- !private ["9KituraNet6ServerP", "FastCGIServerResponse"]
+- !private ["9KituraNet6ServerP", "Int32"]
+- !private ["9KituraNet6ServerP", "ListenerGroup"]
+- !private ["9KituraNet6ServerP", "Log"]
+- !private ["9KituraNet6ServerP", "Monitor"]
+- ["9KituraNet6ServerP", "ServerLifecycleListener"]
+- ["9KituraNet6ServerP", "ServerType"]
+- !private ["9KituraNet6ServerP", "Socket"]
+- ["9KituraNet6ServerP", ""]
+- !private ["9KituraNet6ServerP", "allowPortReuse"]
+- ["9KituraNet6ServerP", "clientConnectionFailed"]
+- ["9KituraNet6ServerP", "delegate"]
+- ["9KituraNet6ServerP", "failed"]
+- !private ["9KituraNet6ServerP", "handleClientRequest"]
+- !private ["9KituraNet6ServerP", "lifecycleListener"]
+- ["9KituraNet6ServerP", "listen"]
+- !private ["9KituraNet6ServerP", "listenSocket"]
+- !private ["9KituraNet6ServerP", "maxPendingConnections"]
+- ["9KituraNet6ServerP", "port"]
+- !private ["9KituraNet6ServerP", "sendMultiplexRequestRejections"]
+- ["9KituraNet6ServerP", "started"]
+- ["9KituraNet6ServerP", "state"]
+- ["9KituraNet6ServerP", "stop"]
+- ["9KituraNet6ServerP", "stopped"]
+- !private ["9KituraNet14ServerDelegateP", "Log"]
+- !private ["9KituraNet14ServerDelegateP", ""]
+- ["9KituraNet14ServerDelegateP", "handle"]
+- !private ["9KituraNet14ServerDelegateP", "init"]
+- !private ["9KituraNet23ServerLifecycleListenerC", "addClientConnectionFailCallback"]
+- !private ["9KituraNet23ServerLifecycleListenerC", "addFailCallback"]
+- !private ["9KituraNet23ServerLifecycleListenerC", "addStartCallback"]
+- !private ["9KituraNet23ServerLifecycleListenerC", "addStopCallback"]
+- ["9KituraNet23ServerLifecycleListenerC", "init"]
+- !private ["9KituraNet23ServerLifecycleListenerC", "performClientConnectionFailCallbacks"]
+- !private ["9KituraNet23ServerLifecycleListenerC", "performFailCallbacks"]
+- !private ["9KituraNet23ServerLifecycleListenerC", "performStartCallbacks"]
+- !private ["9KituraNet23ServerLifecycleListenerC", "performStopCallbacks"]
+- !private ["9KituraNet13ServerMonitorP", "started"]
+- !private ["9KituraNet13ServerRequestP", "extraRequestIds"]
+- !private ["9KituraNet13ServerRequestP", "init"]
+- !private ["9KituraNet13ServerRequestP", "parse"]
+- !private ["9KituraNet14ServerResponseP", "end"]
+- !private ["9KituraNet14ServerResponseP", "init"]
+- !private ["9KituraNet14ServerResponseP", "rejectMultiplexConnecton"]
+- !private ["9KituraNet14ServerResponseP", "rejectUnsupportedRole"]
+- !private ["9KituraNet14ServerResponseP", "statusCode"]
+- !private ["9KituraNet11ServerStateO", "deinit"]
+- !private ["9KituraNet11ServerStateO", "failed"]
+- !private ["9KituraNet11ServerStateO", "started"]
+- !private ["9KituraNet11ServerStateO", "stopped"]
+- ["9KituraNet11ServerStateO", "unknown"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["6SocketAAC", "Error"]
+- !private ["6SocketAAC", "SOCKET_ERR_ACCEPT_FAILED"]
+- !private ["6SocketAAC", "acceptClientConnection"]
+- !private ["6SocketAAC", "close"]
+- !private ["6SocketAAC", "create"]
+- !private ["6SocketAAC", "isListening"]
+- !private ["6SocketAAC", "listen"]
+- !private ["6SocketAAC", "remoteHostname"]
+- !private ["6SocketAAC", "remotePort"]
+- !private ["6Socket0A6ReaderP", "Error"]
+- !private ["6Socket0A6ReaderP", "SOCKET_ERR_ACCEPT_FAILED"]
+- !private ["6Socket0A6ReaderP", "acceptClientConnection"]
+- !private ["6Socket0A6ReaderP", "close"]
+- !private ["6Socket0A6ReaderP", "create"]
+- !private ["6Socket0A6ReaderP", "isListening"]
+- !private ["6Socket0A6ReaderP", "listen"]
+- !private ["6Socket0A6ReaderP", "remoteHostname"]
+- !private ["6Socket0A6ReaderP", "remotePort"]
+- !private ["6Socket0A6WriterP", "Error"]
+- !private ["6Socket0A6WriterP", "SOCKET_ERR_ACCEPT_FAILED"]
+- !private ["6Socket0A6WriterP", "acceptClientConnection"]
+- !private ["6Socket0A6WriterP", "close"]
+- !private ["6Socket0A6WriterP", "create"]
+- !private ["6Socket0A6WriterP", "isListening"]
+- !private ["6Socket0A6WriterP", "listen"]
+- !private ["6Socket0A6WriterP", "remoteHostname"]
+- !private ["6Socket0A6WriterP", "remotePort"]
+- !private ["Sx", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "global"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "notFound"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "SK"
+- !private "Sz"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- !private "8Dispatch0A8WorkItemC"
+- !private "SE"
+- "SQ"
+- !private "6SocketAAC5ErrorV"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "9KituraNet7FastCGIC"
+- !private "9KituraNet20FastCGIServerRequestC0C18CGIParserErrorTypeO"
+- "9KituraNet13FastCGIServerC"
+- !private "9KituraNet20FastCGIServerRequestC"
+- !private "9KituraNet21FastCGIServerResponseC"
+- !private "s17FixedWidthIntegerP"
+- !private "9KituraNet14HTTPStatusCodeO"
+- "SH"
+- !private "s5Int32V"
+- !private "9KituraNet13ListenerGroupC"
+- !private "9LoggerAPI3LogC"
+- !private "s25LosslessStringConvertibleP"
+- !private "9KituraNet7MonitorV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sj"
+- !private "So9OS_objectC"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- "9KituraNet6ServerP"
+- "9KituraNet14ServerDelegateP"
+- "9KituraNet23ServerLifecycleListenerC"
+- !private "9KituraNet13ServerMonitorP"
+- !private "9KituraNet13ServerRequestP"
+- !private "9KituraNet14ServerResponseP"
+- "9KituraNet11ServerStateO"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "6SocketAAC"
+- !private "6Socket0A6ReaderP"
+- !private "6Socket0A6WriterP"
+- !private "Sx"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "cf04ca39019160e89913f8c8834b7c9e"

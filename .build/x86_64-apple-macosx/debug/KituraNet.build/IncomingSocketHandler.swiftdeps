@@ -1,0 +1,527 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "IncomingSocketHandler"
+provides-nominal:
+- "9KituraNet21IncomingSocketHandlerC"
+provides-member:
+- ["9KituraNet21IncomingSocketHandlerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "%"
+- !private "&&"
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "<"
+- !private "=="
+- !private ">"
+- "AssignmentPrecedence"
+- "Bool"
+- "CastingPrecedence"
+- "DispatchQueue"
+- !private "DispatchSource"
+- "DispatchSourceRead"
+- "DispatchSourceWrite"
+- "IncomingSocketHandler"
+- "IncomingSocketProcessor"
+- "Int"
+- "Int32"
+- !private "Log"
+- "NSData"
+- "NSMutableData"
+- "Socket"
+- "String"
+- "UnicodeScalarType"
+- "UnsafeRawPointer"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "append"]
+- !private ["SK", "bytes"]
+- ["SK", "count"]
+- ["SK", "init"]
+- !private ["SK", "length"]
+- !private ["SK", "subscript"]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "bytes"]
+- ["s7CVarArgP", "count"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "length"]
+- !private ["s7CVarArgP", "makeReadSource"]
+- !private ["s7CVarArgP", "makeWriteSource"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "sync"]
+- !private ["Sl", "append"]
+- !private ["Sl", "bytes"]
+- ["Sl", "count"]
+- ["Sl", "init"]
+- !private ["Sl", "length"]
+- !private ["Sl", "subscript"]
+- ["SL", "init"]
+- ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "bytes"]
+- !private ["s28CustomDebugStringConvertibleP", "cancel"]
+- ["s28CustomDebugStringConvertibleP", "count"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "length"]
+- !private ["s28CustomDebugStringConvertibleP", "makeReadSource"]
+- !private ["s28CustomDebugStringConvertibleP", "makeWriteSource"]
+- !private ["s28CustomDebugStringConvertibleP", "resume"]
+- !private ["s28CustomDebugStringConvertibleP", "setCancelHandler"]
+- !private ["s28CustomDebugStringConvertibleP", "setEventHandler"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "sync"]
+- !private ["s17CustomReflectableP", "cancel"]
+- ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "resume"]
+- !private ["s17CustomReflectableP", "setCancelHandler"]
+- !private ["s17CustomReflectableP", "setEventHandler"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "bytes"]
+- ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "errorCode"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "length"]
+- !private ["s23CustomStringConvertibleP", "makeReadSource"]
+- !private ["s23CustomStringConvertibleP", "makeWriteSource"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "sync"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "bytes"]
+- ["10Foundation12DataProtocolP", "count"]
+- ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "length"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "cancel"]
+- ["Se", "count"]
+- ["Se", "init"]
+- !private ["Se", "resume"]
+- !private ["Se", "setCancelHandler"]
+- !private ["Se", "setEventHandler"]
+- !private ["Se", "subscript"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["So18OS_dispatch_objectC", "init"]
+- !private ["So18OS_dispatch_objectC", "makeReadSource"]
+- !private ["So18OS_dispatch_objectC", "makeWriteSource"]
+- !private ["So18OS_dispatch_objectC", "sync"]
+- ["So17OS_dispatch_queueC", "init"]
+- !private ["So17OS_dispatch_queueC", "sync"]
+- !private ["So18OS_dispatch_sourceC", "makeReadSource"]
+- !private ["So18OS_dispatch_sourceC", "makeWriteSource"]
+- !private ["So24OS_dispatch_source_vnodeP", "makeReadSource"]
+- !private ["So24OS_dispatch_source_vnodeP", "makeWriteSource"]
+- !private ["So28OS_dispatch_source_mach_recvP", "makeReadSource"]
+- !private ["So28OS_dispatch_source_mach_recvP", "makeWriteSource"]
+- !private ["So28OS_dispatch_source_mach_sendP", "makeReadSource"]
+- !private ["So28OS_dispatch_source_mach_sendP", "makeWriteSource"]
+- !private ["So33OS_dispatch_source_memorypressureP", "makeReadSource"]
+- !private ["So33OS_dispatch_source_memorypressureP", "makeWriteSource"]
+- !private ["So23OS_dispatch_source_procP", "makeReadSource"]
+- !private ["So23OS_dispatch_source_procP", "makeWriteSource"]
+- !private ["So18OS_dispatch_sourceP", "cancel"]
+- !private ["So18OS_dispatch_sourceP", "makeReadSource"]
+- !private ["So18OS_dispatch_sourceP", "makeWriteSource"]
+- !private ["So18OS_dispatch_sourceP", "resume"]
+- !private ["So18OS_dispatch_sourceP", "setCancelHandler"]
+- !private ["So18OS_dispatch_sourceP", "setEventHandler"]
+- !private ["So23OS_dispatch_source_readP", "cancel"]
+- !private ["So23OS_dispatch_source_readP", "makeReadSource"]
+- !private ["So23OS_dispatch_source_readP", "makeWriteSource"]
+- !private ["So23OS_dispatch_source_readP", "resume"]
+- !private ["So23OS_dispatch_source_readP", "setCancelHandler"]
+- !private ["So23OS_dispatch_source_readP", "setEventHandler"]
+- !private ["So25OS_dispatch_source_signalP", "makeReadSource"]
+- !private ["So25OS_dispatch_source_signalP", "makeWriteSource"]
+- !private ["So24OS_dispatch_source_timerP", "makeReadSource"]
+- !private ["So24OS_dispatch_source_timerP", "makeWriteSource"]
+- !private ["So27OS_dispatch_source_data_addP", "makeReadSource"]
+- !private ["So27OS_dispatch_source_data_addP", "makeWriteSource"]
+- !private ["So26OS_dispatch_source_data_orP", "makeReadSource"]
+- !private ["So26OS_dispatch_source_data_orP", "makeWriteSource"]
+- !private ["So31OS_dispatch_source_data_replaceP", "makeReadSource"]
+- !private ["So31OS_dispatch_source_data_replaceP", "makeWriteSource"]
+- !private ["So24OS_dispatch_source_writeP", "cancel"]
+- !private ["So24OS_dispatch_source_writeP", "makeReadSource"]
+- !private ["So24OS_dispatch_source_writeP", "makeWriteSource"]
+- !private ["So24OS_dispatch_source_writeP", "resume"]
+- !private ["So24OS_dispatch_source_writeP", "setCancelHandler"]
+- !private ["So24OS_dispatch_source_writeP", "setEventHandler"]
+- !private ["SE", "cancel"]
+- ["SE", "count"]
+- ["SE", "init"]
+- !private ["SE", "resume"]
+- !private ["SE", "setCancelHandler"]
+- !private ["SE", "setEventHandler"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "append"]
+- !private ["SQ", "bytes"]
+- !private ["SQ", "cancel"]
+- ["SQ", "count"]
+- ["SQ", "init"]
+- !private ["SQ", "length"]
+- !private ["SQ", "makeReadSource"]
+- !private ["SQ", "makeWriteSource"]
+- !private ["SQ", "resume"]
+- !private ["SQ", "setCancelHandler"]
+- !private ["SQ", "setEventHandler"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "sync"]
+- !private ["6SocketAAC5ErrorV", "errorCode"]
+- !private ["s5ErrorP", "errorCode"]
+- ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "cancel"]
+- !private ["s23ExpressibleByNilLiteralP", "resume"]
+- !private ["s23ExpressibleByNilLiteralP", "setCancelHandler"]
+- !private ["s23ExpressibleByNilLiteralP", "setEventHandler"]
+- ["s32ExpressibleByStringInterpolationP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "append"]
+- !private ["SH", "bytes"]
+- !private ["SH", "cancel"]
+- ["SH", "count"]
+- ["SH", "init"]
+- !private ["SH", "length"]
+- !private ["SH", "makeReadSource"]
+- !private ["SH", "makeWriteSource"]
+- !private ["SH", "resume"]
+- !private ["SH", "setCancelHandler"]
+- !private ["SH", "setEventHandler"]
+- !private ["SH", "subscript"]
+- !private ["SH", "sync"]
+- ["9KituraNet21IncomingSocketHandlerC", "Bool"]
+- ["9KituraNet21IncomingSocketHandlerC", "DispatchQueue"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "DispatchSource"]
+- ["9KituraNet21IncomingSocketHandlerC", "DispatchSourceRead"]
+- ["9KituraNet21IncomingSocketHandlerC", "DispatchSourceWrite"]
+- ["9KituraNet21IncomingSocketHandlerC", "IncomingSocketHandler"]
+- ["9KituraNet21IncomingSocketHandlerC", "IncomingSocketProcessor"]
+- ["9KituraNet21IncomingSocketHandlerC", "Int"]
+- ["9KituraNet21IncomingSocketHandlerC", "Int32"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "Log"]
+- ["9KituraNet21IncomingSocketHandlerC", "NSData"]
+- ["9KituraNet21IncomingSocketHandlerC", "NSMutableData"]
+- ["9KituraNet21IncomingSocketHandlerC", "Socket"]
+- ["9KituraNet21IncomingSocketHandlerC", "String"]
+- ["9KituraNet21IncomingSocketHandlerC", "UnsafeRawPointer"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "close"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "createWriterSource"]
+- ["9KituraNet21IncomingSocketHandlerC", "fileDescriptor"]
+- ["9KituraNet21IncomingSocketHandlerC", "handleBufferedReadData"]
+- ["9KituraNet21IncomingSocketHandlerC", "handleBufferedReadDataHelper"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "handleCancel"]
+- ["9KituraNet21IncomingSocketHandlerC", "handleRead"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "handleReadHelper"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "handleReadInProgress"]
+- ["9KituraNet21IncomingSocketHandlerC", "handleWrite"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "handleWriteHelper"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "handleWriteInProgress"]
+- ["9KituraNet21IncomingSocketHandlerC", "init"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "isOpen"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "numberOfSocketReaderQueues"]
+- ["9KituraNet21IncomingSocketHandlerC", "prepareToClose"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "preparingToClose"]
+- ["9KituraNet21IncomingSocketHandlerC", "processor"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "readBuffer"]
+- ["9KituraNet21IncomingSocketHandlerC", "readerSource"]
+- ["9KituraNet21IncomingSocketHandlerC", "socket"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "socketReaderQueue"]
+- ["9KituraNet21IncomingSocketHandlerC", "socketReaderQueues"]
+- ["9KituraNet21IncomingSocketHandlerC", "socketWriterQueue"]
+- ["9KituraNet21IncomingSocketHandlerC", "superfluousOptional"]
+- ["9KituraNet21IncomingSocketHandlerC", "write"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "writeBuffer"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "writeBufferPosition"]
+- !private ["9KituraNet21IncomingSocketHandlerC", "writeInProgress"]
+- ["9KituraNet21IncomingSocketHandlerC", "writerSource"]
+- !private ["9KituraNet23IncomingSocketProcessorP", "close"]
+- !private ["9KituraNet23IncomingSocketProcessorP", "handler"]
+- !private ["9KituraNet23IncomingSocketProcessorP", "inProgress"]
+- !private ["9KituraNet23IncomingSocketProcessorP", "keepAliveUntil"]
+- !private ["9KituraNet23IncomingSocketProcessorP", "process"]
+- !private ["9KituraNet23IncomingSocketProcessorP", "socketClosed"]
+- !private ["Si", "init"]
+- !private ["s5Int32V", "init"]
+- !private ["9LoggerAPI3LogC", "debug"]
+- !private ["9LoggerAPI3LogC", "error"]
+- !private ["9LoggerAPI3LogC", "warning"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["SM", "count"]
+- !private ["SM", "subscript"]
+- ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "append"]
+- !private ["So8NSCodingP", "bytes"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "length"]
+- !private ["So9NSCopyingP", "append"]
+- !private ["So9NSCopyingP", "bytes"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "length"]
+- !private ["So6NSDataC", "append"]
+- !private ["So6NSDataC", "bytes"]
+- ["So6NSDataC", "init"]
+- !private ["So6NSDataC", "length"]
+- !private ["So16NSMutableCopyingP", "append"]
+- !private ["So16NSMutableCopyingP", "bytes"]
+- ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "length"]
+- !private ["So13NSMutableDataC", "append"]
+- !private ["So13NSMutableDataC", "bytes"]
+- ["So13NSMutableDataC", "init"]
+- !private ["So13NSMutableDataC", "length"]
+- !private ["So8NSObjectC", "append"]
+- !private ["So8NSObjectC", "bytes"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "length"]
+- !private ["So8NSObjectC", "makeReadSource"]
+- !private ["So8NSObjectC", "makeWriteSource"]
+- !private ["So8NSObjectC", "sync"]
+- !private ["So8NSObjectP", "append"]
+- !private ["So8NSObjectP", "bytes"]
+- !private ["So8NSObjectP", "cancel"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "length"]
+- !private ["So8NSObjectP", "makeReadSource"]
+- !private ["So8NSObjectP", "makeWriteSource"]
+- !private ["So8NSObjectP", "resume"]
+- !private ["So8NSObjectP", "setCancelHandler"]
+- !private ["So8NSObjectP", "setEventHandler"]
+- !private ["So8NSObjectP", "sync"]
+- !private ["So14NSSecureCodingP", "append"]
+- !private ["So14NSSecureCodingP", "bytes"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "length"]
+- !private ["Sj", "init"]
+- ["So9OS_objectC", "init"]
+- !private ["So9OS_objectC", "makeReadSource"]
+- !private ["So9OS_objectC", "makeWriteSource"]
+- !private ["So9OS_objectC", "sync"]
+- !private ["Sq", "cancel"]
+- !private ["Sq", "resume"]
+- !private ["Sq", "setCancelHandler"]
+- !private ["Sq", "setEventHandler"]
+- !private ["Sk", "append"]
+- !private ["Sk", "bytes"]
+- ["Sk", "count"]
+- ["Sk", "init"]
+- !private ["Sk", "length"]
+- !private ["Sk", "subscript"]
+- ["Sm", "count"]
+- ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "append"]
+- !private ["ST", "bytes"]
+- ["ST", "count"]
+- ["ST", "init"]
+- !private ["ST", "length"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["6SocketAAC", "Error"]
+- !private ["6SocketAAC", "SOCKET_ERR_CONNECTION_RESET"]
+- !private ["6SocketAAC", "SOCKET_INVALID_DESCRIPTOR"]
+- !private ["6SocketAAC", "close"]
+- !private ["6SocketAAC", "read"]
+- !private ["6SocketAAC", "remoteConnectionClosed"]
+- !private ["6SocketAAC", "socketfd"]
+- !private ["6SocketAAC", "write"]
+- !private ["6Socket0A6ReaderP", "Error"]
+- !private ["6Socket0A6ReaderP", "SOCKET_ERR_CONNECTION_RESET"]
+- !private ["6Socket0A6ReaderP", "SOCKET_INVALID_DESCRIPTOR"]
+- !private ["6Socket0A6ReaderP", "close"]
+- !private ["6Socket0A6ReaderP", "read"]
+- !private ["6Socket0A6ReaderP", "remoteConnectionClosed"]
+- !private ["6Socket0A6ReaderP", "socketfd"]
+- !private ["6Socket0A6ReaderP", "write"]
+- !private ["6Socket0A6WriterP", "Error"]
+- !private ["6Socket0A6WriterP", "SOCKET_ERR_CONNECTION_RESET"]
+- !private ["6Socket0A6WriterP", "SOCKET_INVALID_DESCRIPTOR"]
+- !private ["6Socket0A6WriterP", "close"]
+- !private ["6Socket0A6WriterP", "read"]
+- !private ["6Socket0A6WriterP", "remoteConnectionClosed"]
+- !private ["6Socket0A6WriterP", "socketfd"]
+- !private ["6Socket0A6WriterP", "write"]
+- !private ["Sx", "init"]
+- ["SS", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s19_HasContiguousBytesP", "count"]
+- ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "bytes"]
+- ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "length"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "append"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bytes"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "length"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "makeReadSource"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "makeWriteSource"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sync"]
+- !private ["s21_ObjectiveCBridgeableP", "cancel"]
+- ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "resume"]
+- !private ["s21_ObjectiveCBridgeableP", "setCancelHandler"]
+- !private ["s21_ObjectiveCBridgeableP", "setEventHandler"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- "Sa"
+- "SK"
+- !private "Sz"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation12DataProtocolP"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- "So18OS_dispatch_objectC"
+- "So17OS_dispatch_queueC"
+- !private "So18OS_dispatch_sourceC"
+- !private "So24OS_dispatch_source_vnodeP"
+- !private "So28OS_dispatch_source_mach_recvP"
+- !private "So28OS_dispatch_source_mach_sendP"
+- !private "So33OS_dispatch_source_memorypressureP"
+- !private "So23OS_dispatch_source_procP"
+- !private "So18OS_dispatch_sourceP"
+- !private "So23OS_dispatch_source_readP"
+- !private "So25OS_dispatch_source_signalP"
+- !private "So24OS_dispatch_source_timerP"
+- !private "So27OS_dispatch_source_data_addP"
+- !private "So26OS_dispatch_source_data_orP"
+- !private "So31OS_dispatch_source_data_replaceP"
+- !private "So24OS_dispatch_source_writeP"
+- "SE"
+- "SQ"
+- !private "6SocketAAC5ErrorV"
+- !private "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- "9KituraNet21IncomingSocketHandlerC"
+- !private "9KituraNet23IncomingSocketProcessorP"
+- !private "Si"
+- !private "s5Int32V"
+- !private "9LoggerAPI3LogC"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So6NSDataC"
+- "So16NSMutableCopyingP"
+- "So13NSMutableDataC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- !private "Sj"
+- "So9OS_objectC"
+- !private "Sq"
+- "Sk"
+- "Sm"
+- !private "s10SIMDScalarP"
+- "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "6SocketAAC"
+- !private "6Socket0A6ReaderP"
+- !private "6Socket0A6WriterP"
+- !private "Sx"
+- "SS"
+- !private "s27StringInterpolationProtocolP"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s14_ArrayProtocolP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ee9715a85d4c207551721dd522b4f555"

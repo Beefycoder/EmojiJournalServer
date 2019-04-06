@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "fdce455d225686be5a138fa8a54ee109"
+build_time: [1554331719, 445530000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Configuration.git--5220375755568029896/Sources/Configuration/ConfigurationManager.swift": [1553213962, 92892546]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Configuration.git--5220375755568029896/Sources/Configuration/ConfigurationNode.swift": [1553213962, 93067964]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Configuration.git--5220375755568029896/Sources/Configuration/Deserializer.swift": [1553213962, 93189781]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Configuration.git--5220375755568029896/Sources/Configuration/Deserializers/JSONDeserializer.swift": [1553213962, 93337948]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Configuration.git--5220375755568029896/Sources/Configuration/Deserializers/PLISTDeserializer.swift": [1553213962, 93433468]

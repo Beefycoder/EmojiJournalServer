@@ -1,0 +1,1023 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InternalError"
+- "DictionaryType"
+- "ValidKeyedCodingValueProvider"
+- "ValidSingleCodingValueProvider"
+- "TypeInfo"
+- "TypeDecodingError"
+- "InternalTypeDecoder"
+- "TypeKeyedDecodingContainer"
+- "TypeSingleValueDecodingContainer"
+- "TypeUnkeyedDecodingContainer"
+- "DummyDecoder"
+- "DummyKeyedDecodingContainer"
+- "DummyUnkeyedDecodingContainer"
+- "DummySingleValueDecodingContainer"
+- "TypeDecoder"
+- "=="
+provides-nominal:
+- "11TypeDecoder13InternalErrorV"
+- "11TypeDecoder010DictionaryA0P"
+- "SD"
+- "11TypeDecoder29ValidKeyedCodingValueProviderP"
+- "11TypeDecoder30ValidSingleCodingValueProviderP"
+- "10Foundation3URLV"
+- "10Foundation8TimeZoneV"
+- "10Foundation4UUIDV"
+- "11TypeDecoder0A4InfoO"
+- "11TypeDecoder0A13DecodingErrorV"
+- "11TypeDecoder0A13DecodingErrorV7SymptomO"
+- "11TypeDecoder08InternalaB0C"
+- "11TypeDecoder0A22KeyedDecodingContainerC"
+- "11TypeDecoder0A28SingleValueDecodingContainerC"
+- "11TypeDecoder0A24UnkeyedDecodingContainerV"
+- "11TypeDecoder05DummyB0V"
+- "11TypeDecoder27DummyKeyedDecodingContainerV"
+- "11TypeDecoder29DummyUnkeyedDecodingContainerV"
+- "11TypeDecoder33DummySingleValueDecodingContainerV"
+- "11TypeDecoderAAV"
+provides-member:
+- ["11TypeDecoder13InternalErrorV", ""]
+- ["11TypeDecoder010DictionaryA0P", ""]
+- ["SD", ""]
+- ["11TypeDecoder29ValidKeyedCodingValueProviderP", ""]
+- ["11TypeDecoder30ValidSingleCodingValueProviderP", ""]
+- ["10Foundation3URLV", ""]
+- ["10Foundation8TimeZoneV", ""]
+- ["10Foundation4UUIDV", ""]
+- ["11TypeDecoder0A4InfoO", ""]
+- ["11TypeDecoder0A13DecodingErrorV", ""]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", ""]
+- ["11TypeDecoder08InternalaB0C", ""]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", ""]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", ""]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", ""]
+- ["11TypeDecoder05DummyB0V", ""]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", ""]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", ""]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", ""]
+- ["11TypeDecoderAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "+"
+- "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CastingPrecedence"
+- "CodingKey"
+- "CodingUserInfoKey"
+- "CustomDebugStringConvertible"
+- "CustomStringConvertible"
+- "Decodable"
+- "Decoder"
+- "DecodingError"
+- "Dictionary"
+- "DictionaryType"
+- "Double"
+- "DummyDecoder"
+- "DummyKeyedDecodingContainer"
+- "DummySingleValueDecodingContainer"
+- "DummyUnkeyedDecodingContainer"
+- "Equatable"
+- "Error"
+- "Float"
+- "FloatLiteralType"
+- "Hashable"
+- "Hasher"
+- "Int"
+- "Int16"
+- "Int32"
+- "Int64"
+- "Int8"
+- "IntegerLiteralType"
+- "InternalError"
+- "InternalTypeDecoder"
+- "KeyedDecodingContainer"
+- "KeyedDecodingContainerProtocol"
+- "OrderedDictionary"
+- "Set"
+- "SingleValueDecodingContainer"
+- "String"
+- "StringLiteralType"
+- "Swift"
+- "TernaryPrecedence"
+- "TimeZone"
+- "TypeDecoder"
+- "TypeDecodingError"
+- "TypeInfo"
+- "TypeKeyedDecodingContainer"
+- "TypeSingleValueDecodingContainer"
+- "TypeUnkeyedDecodingContainer"
+- "UInt"
+- "UInt16"
+- "UInt32"
+- "UInt64"
+- "UInt8"
+- "URL"
+- "UUID"
+- !private "UnicodeScalarType"
+- "UnkeyedDecodingContainer"
+- "ValidKeyedCodingValueProvider"
+- "ValidSingleCodingValueProvider"
+- !private "_findStringSwitchCase"
+- !private "assert"
+- !private "~="
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "contains"]
+- !private ["Sa", "joined"]
+- !private ["SK", "append"]
+- !private ["SK", "contains"]
+- !private ["SK", "init"]
+- !private ["SK", "joined"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "contains"]
+- ["s7CVarArgP", "getKeyType"]
+- ["s7CVarArgP", "getValueType"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "insert"]
+- !private ["s7CVarArgP", "joined"]
+- !private ["s9CodingKeyP", "intValue"]
+- !private ["s9CodingKeyP", "stringValue"]
+- !private ["Sl", "append"]
+- !private ["Sl", "contains"]
+- ["Sl", "getKeyType"]
+- ["Sl", "getValueType"]
+- ["Sl", "init"]
+- !private ["Sl", "insert"]
+- !private ["Sl", "joined"]
+- !private ["SL", "init"]
+- !private ["s13DecodingErrorO7ContextV", "init"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "contains"]
+- !private ["10Foundation15ContiguousBytesP", "joined"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "TimeZone"]
+- !private ["s28CustomDebugStringConvertibleP", "UUID"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- ["s28CustomDebugStringConvertibleP", "cyclic"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "describeTypeInfo"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "dynamicKeyed"]
+- ["s28CustomDebugStringConvertibleP", "getKeyType"]
+- ["s28CustomDebugStringConvertibleP", "getValueType"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "identifier"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "insert"]
+- !private ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "joined"]
+- ["s28CustomDebugStringConvertibleP", "keyed"]
+- ["s28CustomDebugStringConvertibleP", "opaque"]
+- ["s28CustomDebugStringConvertibleP", "optional"]
+- ["s28CustomDebugStringConvertibleP", "single"]
+- !private ["s28CustomDebugStringConvertibleP", "stringValue"]
+- ["s28CustomDebugStringConvertibleP", "unkeyed"]
+- !private ["s28CustomDebugStringConvertibleP", "uuidString"]
+- ["s28CustomDebugStringConvertibleP", "validCodingValue"]
+- !private ["s17CustomReflectableP", "TimeZone"]
+- !private ["s17CustomReflectableP", "UUID"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "current"]
+- ["s17CustomReflectableP", "getKeyType"]
+- ["s17CustomReflectableP", "getValueType"]
+- !private ["s17CustomReflectableP", "identifier"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "insert"]
+- !private ["s17CustomReflectableP", "joined"]
+- !private ["s17CustomReflectableP", "uuidString"]
+- ["s17CustomReflectableP", "validCodingValue"]
+- ["s23CustomStringConvertibleP", "=="]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "TimeZone"]
+- !private ["s23CustomStringConvertibleP", "UUID"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- ["s23CustomStringConvertibleP", "cyclic"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- !private ["s23CustomStringConvertibleP", "describeTypeInfo"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "dynamicKeyed"]
+- ["s23CustomStringConvertibleP", "getKeyType"]
+- ["s23CustomStringConvertibleP", "getValueType"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- !private ["s23CustomStringConvertibleP", "identifier"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "insert"]
+- !private ["s23CustomStringConvertibleP", "intValue"]
+- !private ["s23CustomStringConvertibleP", "joined"]
+- ["s23CustomStringConvertibleP", "keyed"]
+- ["s23CustomStringConvertibleP", "opaque"]
+- ["s23CustomStringConvertibleP", "optional"]
+- ["s23CustomStringConvertibleP", "single"]
+- !private ["s23CustomStringConvertibleP", "stringValue"]
+- ["s23CustomStringConvertibleP", "unkeyed"]
+- !private ["s23CustomStringConvertibleP", "uuidString"]
+- ["s23CustomStringConvertibleP", "validCodingValue"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "contains"]
+- !private ["10Foundation12DataProtocolP", "joined"]
+- !private ["Se", "TimeZone"]
+- !private ["Se", "UUID"]
+- !private ["Se", "append"]
+- !private ["Se", "contains"]
+- !private ["Se", "current"]
+- ["Se", "getKeyType"]
+- ["Se", "getValueType"]
+- !private ["Se", "identifier"]
+- ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "insert"]
+- !private ["Se", "joined"]
+- !private ["Se", "uuidString"]
+- ["Se", "validCodingValue"]
+- !private ["s7DecoderP", "DummyDecoder"]
+- !private ["s7DecoderP", "DummyKeyedDecodingContainer"]
+- !private ["s7DecoderP", "DummySingleValueDecodingContainer"]
+- !private ["s7DecoderP", "DummyUnkeyedDecodingContainer"]
+- !private ["s7DecoderP", "KeyedDecodingContainer"]
+- !private ["s7DecoderP", "TypeDecoder"]
+- !private ["s7DecoderP", "TypeKeyedDecodingContainer"]
+- !private ["s7DecoderP", "TypeSingleValueDecodingContainer"]
+- !private ["s7DecoderP", "TypeUnkeyedDecodingContainer"]
+- ["s7DecoderP", ""]
+- ["s7DecoderP", "codingPath"]
+- ["s7DecoderP", "container"]
+- !private ["s7DecoderP", "cyclic"]
+- !private ["s7DecoderP", "decodingType"]
+- !private ["s7DecoderP", "init"]
+- ["s7DecoderP", "singleValueContainer"]
+- !private ["s7DecoderP", "typeInfo"]
+- !private ["s7DecoderP", "typePath"]
+- ["s7DecoderP", "unkeyedContainer"]
+- ["s7DecoderP", "userInfo"]
+- ["s13DecodingErrorO", "Context"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SD", "deinit"]
+- ["SD", "getKeyType"]
+- ["SD", "getValueType"]
+- ["11TypeDecoder010DictionaryA0P", ""]
+- ["11TypeDecoder010DictionaryA0P", "getKeyType"]
+- ["11TypeDecoder010DictionaryA0P", "getValueType"]
+- ["11TypeDecoder05DummyB0V", "CodingKey"]
+- ["11TypeDecoder05DummyB0V", "CodingUserInfoKey"]
+- !private ["11TypeDecoder05DummyB0V", "DummyKeyedDecodingContainer"]
+- !private ["11TypeDecoder05DummyB0V", "DummySingleValueDecodingContainer"]
+- !private ["11TypeDecoder05DummyB0V", "DummyUnkeyedDecodingContainer"]
+- ["11TypeDecoder05DummyB0V", "KeyedDecodingContainer"]
+- ["11TypeDecoder05DummyB0V", "SingleValueDecodingContainer"]
+- ["11TypeDecoder05DummyB0V", "UnkeyedDecodingContainer"]
+- ["11TypeDecoder05DummyB0V", "codingPath"]
+- ["11TypeDecoder05DummyB0V", "container"]
+- ["11TypeDecoder05DummyB0V", "decodingType"]
+- ["11TypeDecoder05DummyB0V", "deinit"]
+- ["11TypeDecoder05DummyB0V", "init"]
+- ["11TypeDecoder05DummyB0V", "singleValueContainer"]
+- ["11TypeDecoder05DummyB0V", "unkeyedContainer"]
+- ["11TypeDecoder05DummyB0V", "userInfo"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Bool"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "CodingKey"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Decodable"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Decoder"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Double"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "DummyDecoder"]
+- !private ["11TypeDecoder27DummyKeyedDecodingContainerV", "DummyKeyedDecodingContainer"]
+- !private ["11TypeDecoder27DummyKeyedDecodingContainerV", "DummyUnkeyedDecodingContainer"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Float"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Int"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Int16"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Int32"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Int64"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Int8"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "Key"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "KeyedDecodingContainer"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "String"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "UInt"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "UInt16"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "UInt32"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "UInt64"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "UInt8"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "UnkeyedDecodingContainer"]
+- !private ["11TypeDecoder27DummyKeyedDecodingContainerV", "ValidKeyedCodingValueProvider"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "_Default_Key"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "allKeys"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "codingPath"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "contains"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "decode"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "decodeIfPresent"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "decodeNil"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "decoder"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "deinit"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "dummy"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "init"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "nestedContainer"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "nestedUnkeyedContainer"]
+- ["11TypeDecoder27DummyKeyedDecodingContainerV", "superDecoder"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "Bool"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "CodingKey"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "Decodable"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "Double"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "DummyDecoder"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "Float"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "Int"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "Int16"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "Int32"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "Int64"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "Int8"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "String"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "UInt"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "UInt16"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "UInt32"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "UInt64"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "UInt8"]
+- !private ["11TypeDecoder33DummySingleValueDecodingContainerV", "ValidSingleCodingValueProvider"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "codingPath"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "decode"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "decodeNil"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "decoder"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "deinit"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "dummy"]
+- ["11TypeDecoder33DummySingleValueDecodingContainerV", "init"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "Bool"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "CodingKey"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "Decodable"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "Decoder"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "Double"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "DummyDecoder"]
+- !private ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "DummyKeyedDecodingContainer"]
+- !private ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "DummyUnkeyedDecodingContainer"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "Float"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "Int"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "Int16"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "Int32"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "Int64"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "Int8"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "KeyedDecodingContainer"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "String"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "UInt"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "UInt16"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "UInt32"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "UInt64"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "UInt8"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "UnkeyedDecodingContainer"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "codingPath"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "count"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "currentIndex"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "decode"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "decodeIfPresent"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "decodeNil"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "decoder"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "deinit"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "init"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "isAtEnd"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "nestedContainer"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "nestedUnkeyedContainer"]
+- ["11TypeDecoder29DummyUnkeyedDecodingContainerV", "superDecoder"]
+- !private ["SE", "TimeZone"]
+- !private ["SE", "UUID"]
+- !private ["SE", "append"]
+- !private ["SE", "contains"]
+- !private ["SE", "current"]
+- ["SE", "getKeyType"]
+- ["SE", "getValueType"]
+- !private ["SE", "identifier"]
+- ["SE", "init"]
+- !private ["SE", "insert"]
+- !private ["SE", "joined"]
+- !private ["SE", "uuidString"]
+- ["SE", "validCodingValue"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- !private ["SQ", "String"]
+- !private ["SQ", "TimeZone"]
+- !private ["SQ", "UUID"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "append"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "current"]
+- ["SQ", "cyclic"]
+- ["SQ", "debugDescription"]
+- !private ["SQ", "describeTypeInfo"]
+- ["SQ", "description"]
+- ["SQ", "dynamicKeyed"]
+- ["SQ", "getKeyType"]
+- ["SQ", "getValueType"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "identifier"]
+- ["SQ", "init"]
+- !private ["SQ", "insert"]
+- !private ["SQ", "invalidKeyedValue"]
+- !private ["SQ", "invalidSingleValue"]
+- !private ["SQ", "joined"]
+- ["SQ", "keyed"]
+- !private ["SQ", "noValueProvided"]
+- ["SQ", "opaque"]
+- ["SQ", "optional"]
+- ["SQ", "rawValue"]
+- ["SQ", "single"]
+- ["SQ", "unkeyed"]
+- !private ["SQ", "uuidString"]
+- ["SQ", "validCodingValue"]
+- ["s5ErrorP", "Context"]
+- !private ["s5ErrorP", "DecodingError"]
+- !private ["s5ErrorP", "TypeDecodingError"]
+- !private ["s5ErrorP", "ValidKeyedCodingValueProvider"]
+- !private ["s5ErrorP", "ValidSingleCodingValueProvider"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- !private ["s5ErrorP", "_findStringSwitchCase"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "decodingError"]
+- !private ["s5ErrorP", "init"]
+- !private ["s5ErrorP", "message"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "insert"]
+- !private ["s25ExpressibleByArrayLiteralP", "joined"]
+- ["s30ExpressibleByDictionaryLiteralP", "getKeyType"]
+- ["s30ExpressibleByDictionaryLiteralP", "getValueType"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- !private ["SH", "String"]
+- !private ["SH", "TimeZone"]
+- !private ["SH", "UUID"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "append"]
+- !private ["SH", "contains"]
+- !private ["SH", "current"]
+- ["SH", "cyclic"]
+- ["SH", "debugDescription"]
+- !private ["SH", "describeTypeInfo"]
+- ["SH", "description"]
+- ["SH", "dynamicKeyed"]
+- ["SH", "getKeyType"]
+- ["SH", "getValueType"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "identifier"]
+- ["SH", "init"]
+- !private ["SH", "insert"]
+- !private ["SH", "invalidKeyedValue"]
+- !private ["SH", "invalidSingleValue"]
+- !private ["SH", "joined"]
+- ["SH", "keyed"]
+- !private ["SH", "noValueProvided"]
+- ["SH", "opaque"]
+- ["SH", "optional"]
+- ["SH", "rawValue"]
+- ["SH", "single"]
+- ["SH", "unkeyed"]
+- !private ["SH", "uuidString"]
+- ["SH", "validCodingValue"]
+- !private ["s6HasherV", "combine"]
+- ["11TypeDecoder13InternalErrorV", "String"]
+- ["11TypeDecoder13InternalErrorV", "_code"]
+- ["11TypeDecoder13InternalErrorV", "_domain"]
+- ["11TypeDecoder13InternalErrorV", "_getEmbeddedNSError"]
+- ["11TypeDecoder13InternalErrorV", "_userInfo"]
+- ["11TypeDecoder13InternalErrorV", "deinit"]
+- ["11TypeDecoder13InternalErrorV", "init"]
+- ["11TypeDecoder13InternalErrorV", "message"]
+- ["11TypeDecoder08InternalaB0C", "Bool"]
+- ["11TypeDecoder08InternalaB0C", "CodingKey"]
+- ["11TypeDecoder08InternalaB0C", "CodingUserInfoKey"]
+- !private ["11TypeDecoder08InternalaB0C", "Decodable"]
+- !private ["11TypeDecoder08InternalaB0C", "DictionaryType"]
+- !private ["11TypeDecoder08InternalaB0C", "DummyDecoder"]
+- !private ["11TypeDecoder08InternalaB0C", "DummyKeyedDecodingContainer"]
+- !private ["11TypeDecoder08InternalaB0C", "DummySingleValueDecodingContainer"]
+- !private ["11TypeDecoder08InternalaB0C", "DummyUnkeyedDecodingContainer"]
+- ["11TypeDecoder08InternalaB0C", "KeyedDecodingContainer"]
+- ["11TypeDecoder08InternalaB0C", "SingleValueDecodingContainer"]
+- !private ["11TypeDecoder08InternalaB0C", "TypeDecoder"]
+- ["11TypeDecoder08InternalaB0C", "TypeInfo"]
+- !private ["11TypeDecoder08InternalaB0C", "TypeKeyedDecodingContainer"]
+- !private ["11TypeDecoder08InternalaB0C", "TypeSingleValueDecodingContainer"]
+- !private ["11TypeDecoder08InternalaB0C", "TypeUnkeyedDecodingContainer"]
+- ["11TypeDecoder08InternalaB0C", "UnkeyedDecodingContainer"]
+- ["11TypeDecoder08InternalaB0C", "codingPath"]
+- ["11TypeDecoder08InternalaB0C", "container"]
+- ["11TypeDecoder08InternalaB0C", "cyclic"]
+- ["11TypeDecoder08InternalaB0C", "decodingType"]
+- ["11TypeDecoder08InternalaB0C", "deinit"]
+- ["11TypeDecoder08InternalaB0C", "init"]
+- ["11TypeDecoder08InternalaB0C", "singleValueContainer"]
+- !private ["11TypeDecoder08InternalaB0C", "typeInfo"]
+- !private ["11TypeDecoder08InternalaB0C", "typePath"]
+- ["11TypeDecoder08InternalaB0C", "unkeyedContainer"]
+- ["11TypeDecoder08InternalaB0C", "userInfo"]
+- !private ["St", "init"]
+- !private ["St", "map"]
+- !private ["St", "subscript"]
+- !private ["s22KeyedDecodingContainerV", "init"]
+- !private ["s30KeyedDecodingContainerProtocolP", "DummyDecoder"]
+- !private ["s30KeyedDecodingContainerProtocolP", "DummyKeyedDecodingContainer"]
+- !private ["s30KeyedDecodingContainerProtocolP", "DummyUnkeyedDecodingContainer"]
+- !private ["s30KeyedDecodingContainerProtocolP", "InternalError"]
+- !private ["s30KeyedDecodingContainerProtocolP", "InternalTypeDecoder"]
+- ["s30KeyedDecodingContainerProtocolP", "Key"]
+- !private ["s30KeyedDecodingContainerProtocolP", "KeyedDecodingContainer"]
+- !private ["s30KeyedDecodingContainerProtocolP", "OrderedDictionary"]
+- ["s30KeyedDecodingContainerProtocolP", "Set"]
+- !private ["s30KeyedDecodingContainerProtocolP", "String"]
+- !private ["s30KeyedDecodingContainerProtocolP", "TypeDecodingError"]
+- !private ["s30KeyedDecodingContainerProtocolP", "TypeKeyedDecodingContainer"]
+- !private ["s30KeyedDecodingContainerProtocolP", "TypeUnkeyedDecodingContainer"]
+- ["s30KeyedDecodingContainerProtocolP", ""]
+- ["s30KeyedDecodingContainerProtocolP", "_Default_Key"]
+- ["s30KeyedDecodingContainerProtocolP", "allKeys"]
+- !private ["s30KeyedDecodingContainerProtocolP", "assert"]
+- ["s30KeyedDecodingContainerProtocolP", "codingPath"]
+- ["s30KeyedDecodingContainerProtocolP", "contains"]
+- ["s30KeyedDecodingContainerProtocolP", "decode"]
+- ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- ["s30KeyedDecodingContainerProtocolP", "decodeNil"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decoder"]
+- !private ["s30KeyedDecodingContainerProtocolP", "dummy"]
+- !private ["s30KeyedDecodingContainerProtocolP", "init"]
+- !private ["s30KeyedDecodingContainerProtocolP", "keyDesc"]
+- ["s30KeyedDecodingContainerProtocolP", "nestedContainer"]
+- ["s30KeyedDecodingContainerProtocolP", "nestedUnkeyedContainer"]
+- !private ["s30KeyedDecodingContainerProtocolP", "optionalKeys"]
+- ["s30KeyedDecodingContainerProtocolP", "superDecoder"]
+- !private ["s30KeyedDecodingContainerProtocolP", "updateKeyedTypeInfo"]
+- ["10Foundation14LocalizedErrorP", "Context"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "append"]
+- !private ["SM", "contains"]
+- !private ["SM", "joined"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "contains"]
+- !private ["10Foundation19MutableDataProtocolP", "joined"]
+- !private ["11TypeDecoder17OrderedDictionaryV", "deinit"]
+- !private ["11TypeDecoder17OrderedDictionaryV", "init"]
+- !private ["11TypeDecoder17OrderedDictionaryV", "map"]
+- !private ["11TypeDecoder17OrderedDictionaryV", "subscript"]
+- !private ["Sk", "append"]
+- !private ["Sk", "contains"]
+- !private ["Sk", "joined"]
+- !private ["Sm", "append"]
+- !private ["Sm", "contains"]
+- !private ["Sm", "init"]
+- !private ["Sm", "joined"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- !private ["SY", "invalidKeyedValue"]
+- !private ["SY", "invalidSingleValue"]
+- !private ["SY", "noValueProvided"]
+- ["SY", "rawValue"]
+- !private ["10Foundation20ReferenceConvertibleP", "TimeZone"]
+- !private ["10Foundation20ReferenceConvertibleP", "UUID"]
+- !private ["10Foundation20ReferenceConvertibleP", "current"]
+- !private ["10Foundation20ReferenceConvertibleP", "identifier"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "uuidString"]
+- ["10Foundation20ReferenceConvertibleP", "validCodingValue"]
+- !private ["ST", "append"]
+- !private ["ST", "contains"]
+- ["ST", "getKeyType"]
+- ["ST", "getValueType"]
+- ["ST", "init"]
+- !private ["ST", "insert"]
+- !private ["ST", "joined"]
+- !private ["ST", "map"]
+- !private ["ST", "subscript"]
+- !private ["Sh", "contains"]
+- ["Sh", "init"]
+- !private ["Sh", "insert"]
+- !private ["s10SetAlgebraP", "contains"]
+- ["s10SetAlgebraP", "init"]
+- !private ["s10SetAlgebraP", "insert"]
+- !private ["s28SingleValueDecodingContainerP", "DummyDecoder"]
+- !private ["s28SingleValueDecodingContainerP", "InternalTypeDecoder"]
+- !private ["s28SingleValueDecodingContainerP", "TypeDecodingError"]
+- ["s28SingleValueDecodingContainerP", ""]
+- ["s28SingleValueDecodingContainerP", "codingPath"]
+- ["s28SingleValueDecodingContainerP", "decode"]
+- ["s28SingleValueDecodingContainerP", "decodeNil"]
+- !private ["s28SingleValueDecodingContainerP", "decoder"]
+- !private ["s28SingleValueDecodingContainerP", "dummy"]
+- !private ["s28SingleValueDecodingContainerP", "init"]
+- !private ["s28SingleValueDecodingContainerP", "isOptional"]
+- !private ["s28SingleValueDecodingContainerP", "setTypeInfo"]
+- !private ["SS", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "init"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "=="]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "RawValue"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "_Default_RawValue"]
+- !private ["11TypeDecoder0A13DecodingErrorV7SymptomO", "_findStringSwitchCase"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "_rawHashValue"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "deinit"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "hash"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "hashValue"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "init"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "invalidKeyedValue"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "invalidSingleValue"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "noValueProvided"]
+- ["11TypeDecoder0A13DecodingErrorV7SymptomO", "rawValue"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- ["10Foundation8TimeZoneV", "CodingKey"]
+- !private ["10Foundation8TimeZoneV", "TimeZone"]
+- !private ["10Foundation8TimeZoneV", "current"]
+- ["10Foundation8TimeZoneV", "deinit"]
+- !private ["10Foundation8TimeZoneV", "identifier"]
+- ["10Foundation8TimeZoneV", "validCodingValue"]
+- ["11TypeDecoderAAV", "Decodable"]
+- !private ["11TypeDecoderAAV", "DecodingError"]
+- !private ["11TypeDecoderAAV", "InternalTypeDecoder"]
+- !private ["11TypeDecoderAAV", "TypeDecodingError"]
+- ["11TypeDecoderAAV", "TypeInfo"]
+- ["11TypeDecoderAAV", "decode"]
+- !private ["11TypeDecoderAAV", "decodeInternal"]
+- ["11TypeDecoderAAV", "init"]
+- ["11TypeDecoder0A13DecodingErrorV", "CodingKey"]
+- ["11TypeDecoder0A13DecodingErrorV", "Decodable"]
+- ["11TypeDecoder0A13DecodingErrorV", "DecodingError"]
+- ["11TypeDecoder0A13DecodingErrorV", "String"]
+- ["11TypeDecoder0A13DecodingErrorV", "Swift"]
+- ["11TypeDecoder0A13DecodingErrorV", "Symptom"]
+- ["11TypeDecoder0A13DecodingErrorV", "TypeDecodingError"]
+- !private ["11TypeDecoder0A13DecodingErrorV", "ValidKeyedCodingValueProvider"]
+- !private ["11TypeDecoder0A13DecodingErrorV", "ValidSingleCodingValueProvider"]
+- ["11TypeDecoder0A13DecodingErrorV", "_code"]
+- ["11TypeDecoder0A13DecodingErrorV", "_domain"]
+- !private ["11TypeDecoder0A13DecodingErrorV", "_findStringSwitchCase"]
+- ["11TypeDecoder0A13DecodingErrorV", "_getEmbeddedNSError"]
+- ["11TypeDecoder0A13DecodingErrorV", "_userInfo"]
+- ["11TypeDecoder0A13DecodingErrorV", "context"]
+- ["11TypeDecoder0A13DecodingErrorV", "decodingError"]
+- ["11TypeDecoder0A13DecodingErrorV", "deinit"]
+- ["11TypeDecoder0A13DecodingErrorV", "init"]
+- ["11TypeDecoder0A13DecodingErrorV", "symptom"]
+- ["11TypeDecoder0A4InfoO", "=="]
+- ["11TypeDecoder0A4InfoO", "Bool"]
+- ["11TypeDecoder0A4InfoO", "Hasher"]
+- ["11TypeDecoder0A4InfoO", "Int"]
+- ["11TypeDecoder0A4InfoO", "OrderedDictionary"]
+- ["11TypeDecoder0A4InfoO", "String"]
+- ["11TypeDecoder0A4InfoO", "TypeInfo"]
+- ["11TypeDecoder0A4InfoO", "_rawHashValue"]
+- ["11TypeDecoder0A4InfoO", "cyclic"]
+- ["11TypeDecoder0A4InfoO", "debugDescription"]
+- ["11TypeDecoder0A4InfoO", "deinit"]
+- ["11TypeDecoder0A4InfoO", "describeTypeInfo"]
+- ["11TypeDecoder0A4InfoO", "description"]
+- ["11TypeDecoder0A4InfoO", "dynamicKeyed"]
+- ["11TypeDecoder0A4InfoO", "hash"]
+- ["11TypeDecoder0A4InfoO", "hashValue"]
+- ["11TypeDecoder0A4InfoO", "keyed"]
+- ["11TypeDecoder0A4InfoO", "opaque"]
+- ["11TypeDecoder0A4InfoO", "optional"]
+- ["11TypeDecoder0A4InfoO", "single"]
+- ["11TypeDecoder0A4InfoO", "unkeyed"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Bool"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "CodingKey"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Decodable"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Decoder"]
+- !private ["11TypeDecoder0A22KeyedDecodingContainerC", "DecodingError"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Double"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Float"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Int"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Int16"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Int32"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Int64"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Int8"]
+- !private ["11TypeDecoder0A22KeyedDecodingContainerC", "InternalError"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "InternalTypeDecoder"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Key"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "KeyedDecodingContainer"]
+- !private ["11TypeDecoder0A22KeyedDecodingContainerC", "OrderedDictionary"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "Set"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "String"]
+- !private ["11TypeDecoder0A22KeyedDecodingContainerC", "TypeDecodingError"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "TypeInfo"]
+- !private ["11TypeDecoder0A22KeyedDecodingContainerC", "TypeKeyedDecodingContainer"]
+- !private ["11TypeDecoder0A22KeyedDecodingContainerC", "TypeUnkeyedDecodingContainer"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "UInt"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "UInt16"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "UInt32"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "UInt64"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "UInt8"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "UnkeyedDecodingContainer"]
+- !private ["11TypeDecoder0A22KeyedDecodingContainerC", "ValidKeyedCodingValueProvider"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "_Default_Key"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "allKeys"]
+- !private ["11TypeDecoder0A22KeyedDecodingContainerC", "assert"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "codingPath"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "contains"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "decode"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "decodeIfPresent"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "decodeNil"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "decoder"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "deinit"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "dummy"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "init"]
+- !private ["11TypeDecoder0A22KeyedDecodingContainerC", "keyDesc"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "nestedContainer"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "nestedUnkeyedContainer"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "optionalKeys"]
+- ["11TypeDecoder0A22KeyedDecodingContainerC", "superDecoder"]
+- !private ["11TypeDecoder0A22KeyedDecodingContainerC", "updateKeyedTypeInfo"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "Bool"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "CodingKey"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "Decodable"]
+- !private ["11TypeDecoder0A28SingleValueDecodingContainerC", "DecodingError"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "Double"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "Float"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "Int"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "Int16"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "Int32"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "Int64"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "Int8"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "InternalTypeDecoder"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "String"]
+- !private ["11TypeDecoder0A28SingleValueDecodingContainerC", "TypeDecodingError"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "TypeInfo"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "UInt"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "UInt16"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "UInt32"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "UInt64"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "UInt8"]
+- !private ["11TypeDecoder0A28SingleValueDecodingContainerC", "ValidSingleCodingValueProvider"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "codingPath"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "decode"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "decodeNil"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "decoder"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "deinit"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "dummy"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "init"]
+- ["11TypeDecoder0A28SingleValueDecodingContainerC", "isOptional"]
+- !private ["11TypeDecoder0A28SingleValueDecodingContainerC", "setTypeInfo"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "Bool"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "CodingKey"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "Decodable"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "Decoder"]
+- !private ["11TypeDecoder0A24UnkeyedDecodingContainerV", "DecodingError"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "Double"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "Float"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "Int"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "Int16"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "Int32"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "Int64"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "Int8"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "InternalTypeDecoder"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "KeyedDecodingContainer"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "String"]
+- !private ["11TypeDecoder0A24UnkeyedDecodingContainerV", "TypeDecodingError"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "TypeInfo"]
+- !private ["11TypeDecoder0A24UnkeyedDecodingContainerV", "TypeKeyedDecodingContainer"]
+- !private ["11TypeDecoder0A24UnkeyedDecodingContainerV", "TypeUnkeyedDecodingContainer"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "UInt"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "UInt16"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "UInt32"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "UInt64"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "UInt8"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "UnkeyedDecodingContainer"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "codingPath"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "count"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "currentIndex"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "decode"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "decodeIfPresent"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "decodeNil"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "decoder"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "deinit"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "init"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "isAtEnd"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "isOptional"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "nestedContainer"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "nestedUnkeyedContainer"]
+- !private ["11TypeDecoder0A24UnkeyedDecodingContainerV", "setTypeInfo"]
+- ["11TypeDecoder0A24UnkeyedDecodingContainerV", "superDecoder"]
+- ["10Foundation3URLV", "CodingKey"]
+- ["10Foundation3URLV", "deinit"]
+- ["10Foundation3URLV", "validCodingValue"]
+- !private ["10Foundation4UUIDV", "UUID"]
+- ["10Foundation4UUIDV", "deinit"]
+- !private ["10Foundation4UUIDV", "init"]
+- !private ["10Foundation4UUIDV", "uuidString"]
+- ["10Foundation4UUIDV", "validCodingValue"]
+- !private ["s24UnkeyedDecodingContainerP", "DummyDecoder"]
+- !private ["s24UnkeyedDecodingContainerP", "DummyKeyedDecodingContainer"]
+- !private ["s24UnkeyedDecodingContainerP", "DummyUnkeyedDecodingContainer"]
+- !private ["s24UnkeyedDecodingContainerP", "InternalTypeDecoder"]
+- !private ["s24UnkeyedDecodingContainerP", "KeyedDecodingContainer"]
+- !private ["s24UnkeyedDecodingContainerP", "TypeDecodingError"]
+- !private ["s24UnkeyedDecodingContainerP", "TypeKeyedDecodingContainer"]
+- !private ["s24UnkeyedDecodingContainerP", "TypeUnkeyedDecodingContainer"]
+- ["s24UnkeyedDecodingContainerP", ""]
+- ["s24UnkeyedDecodingContainerP", "codingPath"]
+- ["s24UnkeyedDecodingContainerP", "count"]
+- ["s24UnkeyedDecodingContainerP", "currentIndex"]
+- ["s24UnkeyedDecodingContainerP", "decode"]
+- ["s24UnkeyedDecodingContainerP", "decodeIfPresent"]
+- ["s24UnkeyedDecodingContainerP", "decodeNil"]
+- !private ["s24UnkeyedDecodingContainerP", "decoder"]
+- !private ["s24UnkeyedDecodingContainerP", "init"]
+- ["s24UnkeyedDecodingContainerP", "isAtEnd"]
+- !private ["s24UnkeyedDecodingContainerP", "isOptional"]
+- ["s24UnkeyedDecodingContainerP", "nestedContainer"]
+- ["s24UnkeyedDecodingContainerP", "nestedUnkeyedContainer"]
+- !private ["s24UnkeyedDecodingContainerP", "setTypeInfo"]
+- ["s24UnkeyedDecodingContainerP", "superDecoder"]
+- ["11TypeDecoder29ValidKeyedCodingValueProviderP", "CodingKey"]
+- !private ["11TypeDecoder29ValidKeyedCodingValueProviderP", "TimeZone"]
+- ["11TypeDecoder29ValidKeyedCodingValueProviderP", ""]
+- !private ["11TypeDecoder29ValidKeyedCodingValueProviderP", "current"]
+- !private ["11TypeDecoder29ValidKeyedCodingValueProviderP", "identifier"]
+- ["11TypeDecoder29ValidKeyedCodingValueProviderP", "validCodingValue"]
+- !private ["11TypeDecoder30ValidSingleCodingValueProviderP", "UUID"]
+- ["11TypeDecoder30ValidSingleCodingValueProviderP", ""]
+- !private ["11TypeDecoder30ValidSingleCodingValueProviderP", "init"]
+- !private ["11TypeDecoder30ValidSingleCodingValueProviderP", "uuidString"]
+- ["11TypeDecoder30ValidSingleCodingValueProviderP", "validCodingValue"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "contains"]
+- !private ["s14_ArrayProtocolP", "joined"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s30_CustomPlaygroundQuickLookableP", "validCodingValue"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "contains"]
+- !private ["s24_DestructorSafeContainerP", "joined"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "validCodingValue"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "contains"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "joined"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- ["s35_HasCustomAnyHashableRepresentationP", "getKeyType"]
+- ["s35_HasCustomAnyHashableRepresentationP", "getValueType"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "insert"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "joined"]
+- !private ["s21_ObjectiveCBridgeableP", "TimeZone"]
+- !private ["s21_ObjectiveCBridgeableP", "UUID"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "current"]
+- ["s21_ObjectiveCBridgeableP", "getKeyType"]
+- ["s21_ObjectiveCBridgeableP", "getValueType"]
+- !private ["s21_ObjectiveCBridgeableP", "identifier"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "insert"]
+- !private ["s21_ObjectiveCBridgeableP", "joined"]
+- !private ["s21_ObjectiveCBridgeableP", "uuidString"]
+- ["s21_ObjectiveCBridgeableP", "validCodingValue"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- "s7CVarArgP"
+- !private "s9CodingKeyP"
+- "Sl"
+- !private "SL"
+- !private "s13DecodingErrorO7ContextV"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "Se"
+- "s7DecoderP"
+- "s13DecodingErrorO"
+- !private "s26DefaultStringInterpolationV"
+- "SD"
+- "11TypeDecoder010DictionaryA0P"
+- "11TypeDecoder05DummyB0V"
+- "11TypeDecoder27DummyKeyedDecodingContainerV"
+- "11TypeDecoder33DummySingleValueDecodingContainerV"
+- "11TypeDecoder29DummyUnkeyedDecodingContainerV"
+- "SE"
+- "SQ"
+- "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s6HasherV"
+- "11TypeDecoder13InternalErrorV"
+- "11TypeDecoder08InternalaB0C"
+- !private "St"
+- !private "s22KeyedDecodingContainerV"
+- "s30KeyedDecodingContainerProtocolP"
+- "10Foundation14LocalizedErrorP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "11TypeDecoder17OrderedDictionaryV"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- "10Foundation20ReferenceConvertibleP"
+- "ST"
+- "Sh"
+- "s10SetAlgebraP"
+- "s28SingleValueDecodingContainerP"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- "11TypeDecoder0A13DecodingErrorV7SymptomO"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "10Foundation8TimeZoneV"
+- "11TypeDecoderAAV"
+- "11TypeDecoder0A13DecodingErrorV"
+- "11TypeDecoder0A4InfoO"
+- "11TypeDecoder0A22KeyedDecodingContainerC"
+- "11TypeDecoder0A28SingleValueDecodingContainerC"
+- "11TypeDecoder0A24UnkeyedDecodingContainerV"
+- "10Foundation3URLV"
+- "10Foundation4UUIDV"
+- "s24UnkeyedDecodingContainerP"
+- "11TypeDecoder29ValidKeyedCodingValueProviderP"
+- "11TypeDecoder30ValidSingleCodingValueProviderP"
+- !private "s14_ArrayProtocolP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "6f86dfa43240c5b884c6d0cbb3aa6df5"

@@ -1,0 +1,50 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RenderingOptions"
+- "NullRenderingOptions"
+- "TemplateEngine"
+provides-nominal:
+- "20KituraTemplateEngine16RenderingOptionsP"
+- "20KituraTemplateEngine20NullRenderingOptionsV"
+- "20KituraTemplateEngine0bC0P"
+provides-member:
+- ["20KituraTemplateEngine16RenderingOptionsP", ""]
+- ["20KituraTemplateEngine20NullRenderingOptionsV", ""]
+- ["20KituraTemplateEngine0bC0P", ""]
+- ["20KituraTemplateEngine0bC0P", "render"]
+- ["20KituraTemplateEngine0bC0P", "render"]
+- ["20KituraTemplateEngine0bC0P", "setRootPaths"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Encodable"
+- "NullRenderingOptions"
+- "RenderingOptions"
+- "String"
+- "TemplateEngine"
+depends-member:
+- ["20KituraTemplateEngine20NullRenderingOptionsV", "deinit"]
+- ["20KituraTemplateEngine20NullRenderingOptionsV", "init"]
+- ["20KituraTemplateEngine16RenderingOptionsP", ""]
+- ["20KituraTemplateEngine0bC0P", "Encodable"]
+- ["20KituraTemplateEngine0bC0P", "RenderingOptions"]
+- ["20KituraTemplateEngine0bC0P", "String"]
+- ["20KituraTemplateEngine0bC0P", "fileExtension"]
+- ["20KituraTemplateEngine0bC0P", "render"]
+- ["20KituraTemplateEngine0bC0P", "setRootPaths"]
+depends-nominal:
+- "20KituraTemplateEngine20NullRenderingOptionsV"
+- "20KituraTemplateEngine16RenderingOptionsP"
+- "20KituraTemplateEngine0bC0P"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+interface-hash: "225a52b17dbe2d6ee54121a5f9fae49c"

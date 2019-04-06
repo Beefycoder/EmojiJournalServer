@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsDash.build/SwiftMetricsDash.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsDash.build/SwiftMetricsDash.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsDash.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetricsDash/SwiftMetricsDash.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsDash.build/SwiftMetricsDash.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsDash.build/SwiftMetricsDash~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsDash.build/SwiftMetricsDash.swiftdeps"
+  }
+}

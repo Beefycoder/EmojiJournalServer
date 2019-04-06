@@ -1,0 +1,246 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Template"
+provides-nominal:
+- "7Stencil8TemplateC"
+provides-member:
+- ["7Stencil8TemplateC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- "Bundle"
+- "Context"
+- "Environment"
+- "ExpressibleByStringLiteral"
+- "Foundation"
+- !private "Lexer"
+- !private "NSCocoaErrorDomain"
+- !private "NSError"
+- !private "NSFileNoSuchFileError"
+- "Path"
+- "String"
+- "StringLiteralType"
+- "Template"
+- "Token"
+- !private "TokenParser"
+- !private "renderNodes"
+depends-member:
+- !private ["So8NSBundleC", "main"]
+- !private ["So8NSBundleC", "url"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "url"]
+- !private ["SL", "init"]
+- !private ["SL", "read"]
+- !private ["7Stencil7ContextC", "environment"]
+- !private ["7Stencil7ContextC", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "url"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "read"]
+- !private ["s23CustomStringConvertibleP", "url"]
+- !private ["Se", "path"]
+- !private ["SE", "path"]
+- !private ["7Stencil11EnvironmentV", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "main"]
+- !private ["SQ", "path"]
+- !private ["SQ", "read"]
+- !private ["SQ", "url"]
+- !private ["s5ErrorP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Bundle"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Context"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Environment"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Lexer"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "NSCocoaErrorDomain"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "NSError"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "NSFileNoSuchFileError"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Path"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "StringLiteralType"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "TokenParser"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "UnicodeScalarLiteralType"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "_Default_ExtendedGraphemeClusterLiteralType"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "_Default_StringLiteralType"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "_Default_UnicodeScalarLiteralType"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "environment"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "name"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "read"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "render"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "renderNodes"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "templateString"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "tokens"]
+- !private ["s26ExpressibleByStringLiteralP", "Bundle"]
+- !private ["s26ExpressibleByStringLiteralP", "Context"]
+- !private ["s26ExpressibleByStringLiteralP", "Environment"]
+- ["s26ExpressibleByStringLiteralP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s26ExpressibleByStringLiteralP", "Lexer"]
+- !private ["s26ExpressibleByStringLiteralP", "NSCocoaErrorDomain"]
+- !private ["s26ExpressibleByStringLiteralP", "NSError"]
+- !private ["s26ExpressibleByStringLiteralP", "NSFileNoSuchFileError"]
+- !private ["s26ExpressibleByStringLiteralP", "Path"]
+- ["s26ExpressibleByStringLiteralP", "StringLiteralType"]
+- !private ["s26ExpressibleByStringLiteralP", "TokenParser"]
+- ["s26ExpressibleByStringLiteralP", "UnicodeScalarLiteralType"]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s26ExpressibleByStringLiteralP", "_Default_ExtendedGraphemeClusterLiteralType"]
+- ["s26ExpressibleByStringLiteralP", "_Default_StringLiteralType"]
+- ["s26ExpressibleByStringLiteralP", "_Default_UnicodeScalarLiteralType"]
+- !private ["s26ExpressibleByStringLiteralP", "environment"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "name"]
+- !private ["s26ExpressibleByStringLiteralP", "read"]
+- !private ["s26ExpressibleByStringLiteralP", "render"]
+- !private ["s26ExpressibleByStringLiteralP", "renderNodes"]
+- !private ["s26ExpressibleByStringLiteralP", "templateString"]
+- !private ["s26ExpressibleByStringLiteralP", "tokens"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Bundle"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Context"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Environment"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "ExtendedGraphemeClusterLiteralType"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Lexer"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "NSCocoaErrorDomain"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "NSError"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "NSFileNoSuchFileError"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Path"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "StringLiteralType"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "TokenParser"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "UnicodeScalarLiteralType"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "_Default_ExtendedGraphemeClusterLiteralType"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "_Default_StringLiteralType"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "_Default_UnicodeScalarLiteralType"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "environment"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "name"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "read"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "render"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "renderNodes"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "templateString"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "tokens"]
+- !private ["SH", "init"]
+- !private ["SH", "main"]
+- !private ["SH", "path"]
+- !private ["SH", "read"]
+- !private ["SH", "url"]
+- !private ["7Stencil5LexerV", "init"]
+- !private ["7Stencil5LexerV", "tokenize"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So7NSErrorC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "url"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "url"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["7PathKit0A0V", "init"]
+- !private ["7PathKit0A0V", "read"]
+- !private ["10Foundation20ReferenceConvertibleP", "path"]
+- !private ["ST", "init"]
+- !private ["ST", "read"]
+- ["7Stencil8TemplateC", "Bundle"]
+- ["7Stencil8TemplateC", "Context"]
+- ["7Stencil8TemplateC", "Environment"]
+- ["7Stencil8TemplateC", "ExtendedGraphemeClusterLiteralType"]
+- ["7Stencil8TemplateC", "Foundation"]
+- !private ["7Stencil8TemplateC", "Lexer"]
+- !private ["7Stencil8TemplateC", "NSCocoaErrorDomain"]
+- !private ["7Stencil8TemplateC", "NSError"]
+- !private ["7Stencil8TemplateC", "NSFileNoSuchFileError"]
+- ["7Stencil8TemplateC", "Path"]
+- ["7Stencil8TemplateC", "String"]
+- ["7Stencil8TemplateC", "StringLiteralType"]
+- ["7Stencil8TemplateC", "Token"]
+- !private ["7Stencil8TemplateC", "TokenParser"]
+- ["7Stencil8TemplateC", "UnicodeScalarLiteralType"]
+- ["7Stencil8TemplateC", "_Default_ExtendedGraphemeClusterLiteralType"]
+- ["7Stencil8TemplateC", "_Default_StringLiteralType"]
+- ["7Stencil8TemplateC", "_Default_UnicodeScalarLiteralType"]
+- ["7Stencil8TemplateC", "deinit"]
+- ["7Stencil8TemplateC", "environment"]
+- ["7Stencil8TemplateC", "init"]
+- ["7Stencil8TemplateC", "name"]
+- ["7Stencil8TemplateC", "render"]
+- !private ["7Stencil8TemplateC", "renderNodes"]
+- ["7Stencil8TemplateC", "templateString"]
+- ["7Stencil8TemplateC", "tokens"]
+- !private ["7Stencil11TokenParserC", "init"]
+- !private ["7Stencil11TokenParserC", "parse"]
+- !private ["10Foundation3URLV", "path"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "path"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "url"]
+- !private ["s21_ObjectiveCBridgeableP", "path"]
+depends-nominal:
+- !private "So8NSBundleC"
+- !private "s7CVarArgP"
+- !private "SL"
+- !private "7Stencil7ContextC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "7Stencil11EnvironmentV"
+- !private "SQ"
+- !private "s5ErrorP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- !private "7Stencil5LexerV"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So7NSErrorC"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "7PathKit0A0V"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- "7Stencil8TemplateC"
+- !private "7Stencil11TokenParserC"
+- !private "10Foundation3URLV"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c45bbc01435018f6130d97618ed1c6d8"

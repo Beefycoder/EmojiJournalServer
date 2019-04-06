@@ -1,0 +1,7 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "d17a314bbe15750926e0dd34f9412265"
+build_time: [1553552500, 389909653]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/BlueSocket.git--3749318898663744229/Sources/Socket/Socket.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueSocket.git--3749318898663744229/Sources/Socket/SocketProtocols.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueSocket.git--3749318898663744229/Sources/Socket/SocketUtils.swift": [9223372036, 854775807]

@@ -1,0 +1,62 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Cryptor.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Cryptor.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Crypto.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Crypto.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Crypto~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Crypto.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Cryptor.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Cryptor.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Cryptor~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Cryptor.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Digest.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Digest.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Digest~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Digest.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/HMAC.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/HMAC.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/HMAC~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/HMAC.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/KeyDerivation.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/KeyDerivation.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/KeyDerivation~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/KeyDerivation.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Random.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Random.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Random~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Random.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/SSLPointerTricks.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/SSLPointerTricks.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/SSLPointerTricks~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/SSLPointerTricks.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Status.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Status.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Status~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Status.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/StreamCryptor.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/StreamCryptor.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/StreamCryptor~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/StreamCryptor.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Updatable.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Updatable.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Updatable~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Updatable.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Utilities.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Utilities.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Cryptor.build/Utilities.swiftdeps"
+  }
+}

@@ -1,0 +1,392 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TypeSafeHTTPBasic"
+provides-nominal:
+- "15CredentialsHTTP17TypeSafeHTTPBasicP"
+provides-member:
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", ""]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "provider"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "realm"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "authenticate"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- !private "=="
+- !private ">="
+- "AssignmentPrecedence"
+- !private "Data"
+- !private "FloatLiteralType"
+- "HTTPStatusCode"
+- !private "IntegerLiteralType"
+- "RouterRequest"
+- "RouterResponse"
+- "String"
+- !private "StringLiteralType"
+- "TypeSafeCredentials"
+- "TypeSafeHTTPBasic"
+- !private "UnicodeScalarType"
+- "Void"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["So27NSDataBase64DecodingOptionsV", "init"]
+- !private ["SK", "Base64DecodingOptions"]
+- !private ["SK", "components"]
+- !private ["SK", "count"]
+- !private ["SK", "init"]
+- !private ["SK", "subscript"]
+- !private ["s7CVarArgP", "components"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "Base64DecodingOptions"]
+- !private ["Sl", "components"]
+- !private ["Sl", "count"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "components"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "Base64DecodingOptions"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["7Cryptor12CryptoDigestP", "Base64DecodingOptions"]
+- !private ["7Cryptor12CryptoDigestP", "components"]
+- !private ["7Cryptor12CryptoDigestP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Base64DecodingOptions"]
+- !private ["s28CustomDebugStringConvertibleP", "badRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "components"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "password"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "unauthorized"]
+- !private ["s28CustomDebugStringConvertibleP", "user"]
+- !private ["s17CustomReflectableP", "Base64DecodingOptions"]
+- !private ["s17CustomReflectableP", "badRequest"]
+- !private ["s17CustomReflectableP", "components"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "unauthorized"]
+- !private ["s23CustomStringConvertibleP", "Base64DecodingOptions"]
+- !private ["s23CustomStringConvertibleP", "components"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "password"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "user"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["10Foundation4DataV", "Base64DecodingOptions"]
+- !private ["10Foundation4DataV", "init"]
+- !private ["10Foundation12DataProtocolP", "Base64DecodingOptions"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "Base64DecodingOptions"]
+- !private ["Se", "Data"]
+- ["Se", "HTTPStatusCode"]
+- ["Se", "RouterRequest"]
+- ["Se", "RouterResponse"]
+- ["Se", "String"]
+- ["Se", "Void"]
+- !private ["Se", "badRequest"]
+- !private ["Se", "components"]
+- !private ["Se", "count"]
+- !private ["Se", "init"]
+- !private ["Se", "password"]
+- ["Se", "realm"]
+- !private ["Se", "subscript"]
+- !private ["Se", "unauthorized"]
+- !private ["Se", "user"]
+- ["Se", "verifyPassword"]
+- !private ["SE", "Base64DecodingOptions"]
+- !private ["SE", "Data"]
+- ["SE", "HTTPStatusCode"]
+- ["SE", "RouterRequest"]
+- ["SE", "RouterResponse"]
+- ["SE", "String"]
+- ["SE", "Void"]
+- !private ["SE", "badRequest"]
+- !private ["SE", "components"]
+- !private ["SE", "count"]
+- !private ["SE", "init"]
+- !private ["SE", "password"]
+- ["SE", "realm"]
+- !private ["SE", "subscript"]
+- !private ["SE", "unauthorized"]
+- !private ["SE", "user"]
+- ["SE", "verifyPassword"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- !private ["SQ", "Base64DecodingOptions"]
+- !private ["SQ", "badRequest"]
+- !private ["SQ", "components"]
+- !private ["SQ", "count"]
+- !private ["SQ", "init"]
+- !private ["SQ", "password"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "unauthorized"]
+- !private ["SQ", "user"]
+- !private ["SQ", "utf8"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "components"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "badRequest"]
+- !private ["s23ExpressibleByNilLiteralP", "unauthorized"]
+- !private ["s32ExpressibleByStringInterpolationP", "components"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "components"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "components"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["9KituraNet14HTTPStatusCodeO", "badRequest"]
+- !private ["9KituraNet14HTTPStatusCodeO", "unauthorized"]
+- !private ["SH", "Base64DecodingOptions"]
+- !private ["SH", "badRequest"]
+- !private ["SH", "components"]
+- !private ["SH", "count"]
+- !private ["SH", "init"]
+- !private ["SH", "password"]
+- !private ["SH", "subscript"]
+- !private ["SH", "unauthorized"]
+- !private ["SH", "user"]
+- !private ["SH", "utf8"]
+- !private ["6Kitura7HeadersV", "subscript"]
+- !private ["15KituraContracts10IdentifierP", "components"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["s25LosslessStringConvertibleP", "components"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "components"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "Base64DecodingOptions"]
+- !private ["SM", "count"]
+- !private ["SM", "init"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "Base64DecodingOptions"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "components"]
+- !private ["So9NSCopyingP", "components"]
+- !private ["So21NSItemProviderReadingP", "components"]
+- !private ["So21NSItemProviderWritingP", "components"]
+- !private ["So16NSMutableCopyingP", "components"]
+- !private ["So8NSObjectC", "components"]
+- !private ["So8NSObjectP", "components"]
+- !private ["So14NSSecureCodingP", "components"]
+- !private ["So8NSStringC", "components"]
+- !private ["s9OptionSetP", "init"]
+- !private ["Sq", "badRequest"]
+- !private ["Sq", "unauthorized"]
+- !private ["Sk", "Base64DecodingOptions"]
+- !private ["Sk", "count"]
+- !private ["Sk", "init"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "Base64DecodingOptions"]
+- !private ["Sm", "components"]
+- !private ["Sm", "count"]
+- !private ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "badRequest"]
+- !private ["SY", "init"]
+- !private ["SY", "unauthorized"]
+- !private ["SY", "utf8"]
+- !private ["10Foundation20ReferenceConvertibleP", "Base64DecodingOptions"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "password"]
+- !private ["10Foundation20ReferenceConvertibleP", "user"]
+- !private ["6Kitura13RouterRequestC", "headers"]
+- !private ["6Kitura13RouterRequestC", "urlURL"]
+- !private ["ST", "Base64DecodingOptions"]
+- !private ["ST", "components"]
+- !private ["ST", "count"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["s10SetAlgebraP", "init"]
+- !private ["SS", "components"]
+- !private ["SS", "init"]
+- !private ["Sy", "components"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "components"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "components"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["11Credentials08TypeSafeA0P", "Data"]
+- ["11Credentials08TypeSafeA0P", "HTTPStatusCode"]
+- ["11Credentials08TypeSafeA0P", "RouterRequest"]
+- ["11Credentials08TypeSafeA0P", "RouterResponse"]
+- ["11Credentials08TypeSafeA0P", "String"]
+- ["11Credentials08TypeSafeA0P", "Void"]
+- ["11Credentials08TypeSafeA0P", ""]
+- ["11Credentials08TypeSafeA0P", "realm"]
+- ["11Credentials08TypeSafeA0P", "verifyPassword"]
+- !private ["15CredentialsHTTP17TypeSafeHTTPBasicP", "Data"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "HTTPStatusCode"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "RouterRequest"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "RouterResponse"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "String"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "Void"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "authenticate"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "provider"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "realm"]
+- ["15CredentialsHTTP17TypeSafeHTTPBasicP", "verifyPassword"]
+- !private ["6Kitura18TypeSafeMiddlewareP", "Data"]
+- ["6Kitura18TypeSafeMiddlewareP", "HTTPStatusCode"]
+- ["6Kitura18TypeSafeMiddlewareP", "RouterRequest"]
+- ["6Kitura18TypeSafeMiddlewareP", "RouterResponse"]
+- ["6Kitura18TypeSafeMiddlewareP", "String"]
+- ["6Kitura18TypeSafeMiddlewareP", "Void"]
+- ["6Kitura18TypeSafeMiddlewareP", "realm"]
+- ["6Kitura18TypeSafeMiddlewareP", "verifyPassword"]
+- !private ["10Foundation3URLV", "password"]
+- !private ["10Foundation3URLV", "user"]
+- !private ["11TypeDecoder29ValidKeyedCodingValueProviderP", "password"]
+- !private ["11TypeDecoder29ValidKeyedCodingValueProviderP", "user"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "components"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "password"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "user"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "components"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "components"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "components"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "password"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "user"]
+- !private ["s19_HasContiguousBytesP", "components"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "components"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "components"]
+- !private ["s21_ObjectiveCBridgeableP", "Base64DecodingOptions"]
+- !private ["s21_ObjectiveCBridgeableP", "badRequest"]
+- !private ["s21_ObjectiveCBridgeableP", "components"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "password"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "unauthorized"]
+- !private ["s21_ObjectiveCBridgeableP", "user"]
+depends-nominal:
+- !private "Sa"
+- !private "So27NSDataBase64DecodingOptionsV"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "7Cryptor12CryptoDigestP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- !private "10Foundation12DataProtocolP"
+- "Se"
+- "SE"
+- !private "SS10FoundationE8EncodingV"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9KituraNet14HTTPStatusCodeO"
+- !private "SH"
+- !private "6Kitura7HeadersV"
+- !private "15KituraContracts10IdentifierP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "6Kitura13RouterRequestC"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "11Credentials08TypeSafeA0P"
+- "15CredentialsHTTP17TypeSafeHTTPBasicP"
+- "6Kitura18TypeSafeMiddlewareP"
+- !private "10Foundation3URLV"
+- !private "11TypeDecoder29ValidKeyedCodingValueProviderP"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraSession.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Cryptor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Credentials.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "27d024ad83a693736b5a0fce02c87a90"

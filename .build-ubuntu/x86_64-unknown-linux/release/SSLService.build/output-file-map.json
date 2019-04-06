@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SSLService.build/SSLService.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SSLService.build/SSLService.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SSLService.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueSSLService.git--972870268977481856/Sources/SSLService/SSLPointerTricks.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SSLService.build/SSLPointerTricks.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SSLService.build/SSLPointerTricks~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SSLService.build/SSLPointerTricks.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueSSLService.git--972870268977481856/Sources/SSLService/SSLService.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SSLService.build/SSLService.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SSLService.build/SSLService~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SSLService.build/SSLService.swiftdeps"
+  }
+}

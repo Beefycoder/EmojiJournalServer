@@ -1,0 +1,37 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/CloudFoundryEnv.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/CloudFoundryEnv.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/App.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/App.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/App~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/App.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/AppEnv.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/AppEnv.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/AppEnv~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/AppEnv.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/CollectionUtils.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/CollectionUtils.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/CollectionUtils~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/CollectionUtils.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/DateUtils.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/DateUtils.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/DateUtils~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/DateUtils.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/JSONUtils.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/JSONUtils.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/JSONUtils~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/JSONUtils.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/Service.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/Service.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/Service~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/Service.swiftdeps"
+  }
+}

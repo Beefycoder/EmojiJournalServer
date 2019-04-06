@@ -1,0 +1,32 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/CredentialsHTTP.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/CredentialsHTTP.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-CredentialsHTTP.git--1059086216428736389/Sources/CredentialsHTTP/CredentialsHTTPBasic.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/CredentialsHTTPBasic.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/CredentialsHTTPBasic~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/CredentialsHTTPBasic.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-CredentialsHTTP.git--1059086216428736389/Sources/CredentialsHTTP/CredentialsHTTPDigest.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/CredentialsHTTPDigest.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/CredentialsHTTPDigest~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/CredentialsHTTPDigest.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-CredentialsHTTP.git--1059086216428736389/Sources/CredentialsHTTP/TypeSafeHTTPBasic.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/TypeSafeHTTPBasic.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/TypeSafeHTTPBasic~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/TypeSafeHTTPBasic.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-CredentialsHTTP.git--1059086216428736389/Sources/CredentialsHTTP/UserProfileLoader.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/UserProfileLoader.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/UserProfileLoader~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/UserProfileLoader.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-CredentialsHTTP.git--1059086216428736389/Sources/CredentialsHTTP/VerifyPassword.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/VerifyPassword.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/VerifyPassword~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CredentialsHTTP.build/VerifyPassword.swiftdeps"
+  }
+}

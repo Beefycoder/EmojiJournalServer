@@ -1,0 +1,765 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "QueryEncoder"
+provides-nominal:
+- "15KituraContracts12QueryEncoderC"
+provides-member:
+- ["10Foundation12CharacterSetV", ""]
+- ["15KituraContracts12QueryEncoderC", ""]
+- ["10Foundation12CharacterSetV", "customURLQueryAllowed"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- "BodyEncoder"
+- !private "Bool"
+- "CharacterSet"
+- "Coder"
+- "CodingKey"
+- "CodingUserInfoKey"
+- "Data"
+- !private "Date"
+- !private "Double"
+- "Encodable"
+- "Encoder"
+- "EncodingError"
+- !private "Float"
+- "FloatLiteralType"
+- "Int"
+- !private "Int16"
+- !private "Int32"
+- !private "Int64"
+- !private "Int8"
+- "IntegerLiteralType"
+- !private "JSONEncoder"
+- "KeyedEncodingContainer"
+- "KeyedEncodingContainerProtocol"
+- !private "Operation"
+- !private "Ordering"
+- !private "Pagination"
+- "QueryEncoder"
+- !private "RequestError"
+- "SingleValueEncodingContainer"
+- "String"
+- "StringLiteralType"
+- "Swift"
+- !private "UInt"
+- !private "UInt16"
+- !private "UInt32"
+- !private "UInt64"
+- !private "UInt8"
+- "URLQueryItem"
+- "UnicodeScalarType"
+- "UnkeyedEncodingContainer"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "init"]
+- !private ["Sa", "joined"]
+- !private ["Sa", "map"]
+- !private ["Sa", "reduce"]
+- !private ["Sa", "removeLast"]
+- !private ["SK", "addingPercentEncoding"]
+- !private ["SK", "append"]
+- !private ["SK", "data"]
+- !private ["SK", "dropFirst"]
+- !private ["SK", "init"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "joined"]
+- !private ["SK", "map"]
+- !private ["SK", "reduce"]
+- !private ["SK", "removeLast"]
+- !private ["15KituraContracts11BodyEncoderP", "CharacterSet"]
+- !private ["15KituraContracts11BodyEncoderP", "Coder"]
+- !private ["15KituraContracts11BodyEncoderP", "EncodingError"]
+- !private ["15KituraContracts11BodyEncoderP", "JSONEncoder"]
+- !private ["15KituraContracts11BodyEncoderP", "KeyedContainer"]
+- !private ["15KituraContracts11BodyEncoderP", "KeyedEncodingContainer"]
+- !private ["15KituraContracts11BodyEncoderP", "QueryEncoder"]
+- !private ["15KituraContracts11BodyEncoderP", "RequestError"]
+- !private ["15KituraContracts11BodyEncoderP", "String"]
+- !private ["15KituraContracts11BodyEncoderP", "URLQueryItem"]
+- !private ["15KituraContracts11BodyEncoderP", "UnkeyedContanier"]
+- ["15KituraContracts11BodyEncoderP", ""]
+- !private ["15KituraContracts11BodyEncoderP", "anyDictionary"]
+- ["15KituraContracts11BodyEncoderP", "codingPath"]
+- ["15KituraContracts11BodyEncoderP", "container"]
+- !private ["15KituraContracts11BodyEncoderP", "dateFormatter"]
+- !private ["15KituraContracts11BodyEncoderP", "dictionary"]
+- ["15KituraContracts11BodyEncoderP", "encode"]
+- !private ["15KituraContracts11BodyEncoderP", "encodingError"]
+- !private ["15KituraContracts11BodyEncoderP", "init"]
+- ["15KituraContracts11BodyEncoderP", "singleValueContainer"]
+- ["15KituraContracts11BodyEncoderP", "unkeyedContainer"]
+- ["15KituraContracts11BodyEncoderP", "userInfo"]
+- !private ["s7CVarArgP", "addingPercentEncoding"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "data"]
+- !private ["s7CVarArgP", "dropFirst"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "joined"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "reduce"]
+- !private ["s7CVarArgP", "removeLast"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s7CVarArgP", "subscript"]
+- ["10Foundation12CharacterSetV", "CharacterSet"]
+- ["10Foundation12CharacterSetV", "customURLQueryAllowed"]
+- ["10Foundation12CharacterSetV", "init"]
+- !private ["15KituraContracts5CoderC", "Bool"]
+- !private ["15KituraContracts5CoderC", "CharacterSet"]
+- !private ["15KituraContracts5CoderC", "Coder"]
+- ["15KituraContracts5CoderC", "CodingKey"]
+- ["15KituraContracts5CoderC", "CodingUserInfoKey"]
+- ["15KituraContracts5CoderC", "Data"]
+- !private ["15KituraContracts5CoderC", "Date"]
+- !private ["15KituraContracts5CoderC", "Double"]
+- ["15KituraContracts5CoderC", "Encodable"]
+- ["15KituraContracts5CoderC", "Encoder"]
+- ["15KituraContracts5CoderC", "EncodingError"]
+- !private ["15KituraContracts5CoderC", "Float"]
+- ["15KituraContracts5CoderC", "Int"]
+- !private ["15KituraContracts5CoderC", "Int16"]
+- !private ["15KituraContracts5CoderC", "Int32"]
+- !private ["15KituraContracts5CoderC", "Int64"]
+- !private ["15KituraContracts5CoderC", "Int8"]
+- !private ["15KituraContracts5CoderC", "JSONEncoder"]
+- !private ["15KituraContracts5CoderC", "KeyedContainer"]
+- ["15KituraContracts5CoderC", "KeyedEncodingContainer"]
+- ["15KituraContracts5CoderC", "KeyedEncodingContainerProtocol"]
+- !private ["15KituraContracts5CoderC", "Operation"]
+- !private ["15KituraContracts5CoderC", "Ordering"]
+- !private ["15KituraContracts5CoderC", "Pagination"]
+- ["15KituraContracts5CoderC", "QueryEncoder"]
+- !private ["15KituraContracts5CoderC", "RequestError"]
+- ["15KituraContracts5CoderC", "SingleValueEncodingContainer"]
+- ["15KituraContracts5CoderC", "String"]
+- ["15KituraContracts5CoderC", "Swift"]
+- !private ["15KituraContracts5CoderC", "UInt"]
+- !private ["15KituraContracts5CoderC", "UInt16"]
+- !private ["15KituraContracts5CoderC", "UInt32"]
+- !private ["15KituraContracts5CoderC", "UInt64"]
+- !private ["15KituraContracts5CoderC", "UInt8"]
+- ["15KituraContracts5CoderC", "URLQueryItem"]
+- !private ["15KituraContracts5CoderC", "UnkeyedContanier"]
+- ["15KituraContracts5CoderC", "UnkeyedEncodingContainer"]
+- ["15KituraContracts5CoderC", ""]
+- ["15KituraContracts5CoderC", "anyDictionary"]
+- ["15KituraContracts5CoderC", "codingPath"]
+- ["15KituraContracts5CoderC", "container"]
+- !private ["15KituraContracts5CoderC", "dateFormatter"]
+- ["15KituraContracts5CoderC", "dictionary"]
+- ["15KituraContracts5CoderC", "encode"]
+- ["15KituraContracts5CoderC", "encodingError"]
+- !private ["15KituraContracts5CoderC", "getFieldName"]
+- ["15KituraContracts5CoderC", "init"]
+- ["15KituraContracts5CoderC", "singleValueContainer"]
+- ["15KituraContracts5CoderC", "unkeyedContainer"]
+- ["15KituraContracts5CoderC", "userInfo"]
+- !private ["Sl", "addingPercentEncoding"]
+- !private ["Sl", "append"]
+- !private ["Sl", "data"]
+- !private ["Sl", "dropFirst"]
+- !private ["Sl", "init"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "joined"]
+- !private ["Sl", "map"]
+- !private ["Sl", "reduce"]
+- !private ["Sl", "removeLast"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "addingPercentEncoding"]
+- !private ["SL", "data"]
+- !private ["SL", "dropFirst"]
+- !private ["SL", "init"]
+- !private ["SL", "isEmpty"]
+- !private ["SL", "unprocessableEntity"]
+- !private ["s13EncodingErrorO7ContextV", "init"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "joined"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["10Foundation15ContiguousBytesP", "reduce"]
+- !private ["10Foundation15ContiguousBytesP", "removeLast"]
+- ["s28CustomDebugStringConvertibleP", "CharacterSet"]
+- !private ["s28CustomDebugStringConvertibleP", "addingPercentEncoding"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "customURLQueryAllowed"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- !private ["s28CustomDebugStringConvertibleP", "dropFirst"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "joined"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "reduce"]
+- !private ["s28CustomDebugStringConvertibleP", "removeLast"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "addingPercentEncoding"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "data"]
+- !private ["s17CustomReflectableP", "dropFirst"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "joined"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "reduce"]
+- !private ["s17CustomReflectableP", "removeLast"]
+- !private ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "CharacterSet"]
+- !private ["s23CustomStringConvertibleP", "addingPercentEncoding"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "customURLQueryAllowed"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- !private ["s23CustomStringConvertibleP", "dropFirst"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "joined"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "reduce"]
+- !private ["s23CustomStringConvertibleP", "removeLast"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "unprocessableEntity"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "joined"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["10Foundation12DataProtocolP", "reduce"]
+- !private ["10Foundation12DataProtocolP", "removeLast"]
+- !private ["So15NSDateFormatterC", "string"]
+- ["Se", "CharacterSet"]
+- !private ["Se", "addingPercentEncoding"]
+- !private ["Se", "append"]
+- !private ["Se", "customURLQueryAllowed"]
+- !private ["Se", "data"]
+- !private ["Se", "dropFirst"]
+- !private ["Se", "getStringValue"]
+- ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "joined"]
+- !private ["Se", "map"]
+- !private ["Se", "reduce"]
+- !private ["Se", "removeLast"]
+- !private ["Se", "subscript"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "map"]
+- !private ["SD", "reduce"]
+- !private ["SD", "subscript"]
+- ["SE", "CharacterSet"]
+- !private ["SE", "addingPercentEncoding"]
+- !private ["SE", "append"]
+- !private ["SE", "customURLQueryAllowed"]
+- !private ["SE", "data"]
+- !private ["SE", "dropFirst"]
+- !private ["SE", "encode"]
+- !private ["SE", "getStringValue"]
+- ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "joined"]
+- !private ["SE", "map"]
+- !private ["SE", "reduce"]
+- !private ["SE", "removeLast"]
+- !private ["SE", "subscript"]
+- !private ["s7EncoderP", "CharacterSet"]
+- !private ["s7EncoderP", "Coder"]
+- !private ["s7EncoderP", "EncodingError"]
+- !private ["s7EncoderP", "JSONEncoder"]
+- !private ["s7EncoderP", "KeyedContainer"]
+- !private ["s7EncoderP", "KeyedEncodingContainer"]
+- !private ["s7EncoderP", "QueryEncoder"]
+- !private ["s7EncoderP", "RequestError"]
+- !private ["s7EncoderP", "String"]
+- !private ["s7EncoderP", "URLQueryItem"]
+- !private ["s7EncoderP", "UnkeyedContanier"]
+- ["s7EncoderP", ""]
+- !private ["s7EncoderP", "anyDictionary"]
+- ["s7EncoderP", "codingPath"]
+- ["s7EncoderP", "container"]
+- !private ["s7EncoderP", "dateFormatter"]
+- !private ["s7EncoderP", "dictionary"]
+- ["s7EncoderP", "encode"]
+- !private ["s7EncoderP", "encodingError"]
+- !private ["s7EncoderP", "init"]
+- ["s7EncoderP", "singleValueContainer"]
+- ["s7EncoderP", "unkeyedContainer"]
+- ["s7EncoderP", "userInfo"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- !private ["s13EncodingErrorO", "Context"]
+- !private ["s13EncodingErrorO", "invalidValue"]
+- ["SQ", "CharacterSet"]
+- !private ["SQ", "addingPercentEncoding"]
+- !private ["SQ", "append"]
+- !private ["SQ", "customURLQueryAllowed"]
+- !private ["SQ", "data"]
+- !private ["SQ", "dropFirst"]
+- ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "joined"]
+- !private ["SQ", "map"]
+- !private ["SQ", "reduce"]
+- !private ["SQ", "removeLast"]
+- !private ["SQ", "string"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "unprocessableEntity"]
+- !private ["SQ", "utf8"]
+- !private ["s5ErrorP", "Context"]
+- !private ["s5ErrorP", "invalidValue"]
+- !private ["s5ErrorP", "unprocessableEntity"]
+- ["s25ExpressibleByArrayLiteralP", "CharacterSet"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "customURLQueryAllowed"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "joined"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s25ExpressibleByArrayLiteralP", "reduce"]
+- !private ["s25ExpressibleByArrayLiteralP", "removeLast"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "map"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "reduce"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "addingPercentEncoding"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "data"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "dropFirst"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s32ExpressibleByStringInterpolationP", "addingPercentEncoding"]
+- !private ["s32ExpressibleByStringInterpolationP", "data"]
+- !private ["s32ExpressibleByStringInterpolationP", "dropFirst"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "isEmpty"]
+- !private ["s26ExpressibleByStringLiteralP", "addingPercentEncoding"]
+- !private ["s26ExpressibleByStringLiteralP", "data"]
+- !private ["s26ExpressibleByStringLiteralP", "dropFirst"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "isEmpty"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "addingPercentEncoding"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "data"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "dropFirst"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "isEmpty"]
+- !private ["So11NSFormatterC", "string"]
+- ["SH", "CharacterSet"]
+- !private ["SH", "addingPercentEncoding"]
+- !private ["SH", "append"]
+- !private ["SH", "customURLQueryAllowed"]
+- !private ["SH", "data"]
+- !private ["SH", "dropFirst"]
+- ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "joined"]
+- !private ["SH", "map"]
+- !private ["SH", "reduce"]
+- !private ["SH", "removeLast"]
+- !private ["SH", "string"]
+- !private ["SH", "subscript"]
+- !private ["SH", "unprocessableEntity"]
+- !private ["SH", "utf8"]
+- !private ["15KituraContracts10IdentifierP", "addingPercentEncoding"]
+- !private ["15KituraContracts10IdentifierP", "data"]
+- !private ["15KituraContracts10IdentifierP", "dropFirst"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["15KituraContracts10IdentifierP", "isEmpty"]
+- !private ["10Foundation11JSONEncoderC", "deinit"]
+- !private ["10Foundation11JSONEncoderC", "encode"]
+- !private ["10Foundation11JSONEncoderC", "init"]
+- !private ["s22KeyedEncodingContainerV", "init"]
+- !private ["s30KeyedEncodingContainerProtocolP", "Coder"]
+- !private ["s30KeyedEncodingContainerProtocolP", "JSONEncoder"]
+- ["s30KeyedEncodingContainerProtocolP", "Key"]
+- !private ["s30KeyedEncodingContainerProtocolP", "String"]
+- !private ["s30KeyedEncodingContainerProtocolP", ""]
+- ["s30KeyedEncodingContainerProtocolP", "_Default_Key"]
+- ["s30KeyedEncodingContainerProtocolP", "codingPath"]
+- ["s30KeyedEncodingContainerProtocolP", "encode"]
+- ["s30KeyedEncodingContainerProtocolP", "encodeConditional"]
+- ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- ["s30KeyedEncodingContainerProtocolP", "encodeNil"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encoder"]
+- !private ["s30KeyedEncodingContainerProtocolP", "init"]
+- ["s30KeyedEncodingContainerProtocolP", "nestedContainer"]
+- ["s30KeyedEncodingContainerProtocolP", "nestedUnkeyedContainer"]
+- ["s30KeyedEncodingContainerProtocolP", "superEncoder"]
+- !private ["10Foundation14LocalizedErrorP", "Context"]
+- !private ["10Foundation14LocalizedErrorP", "invalidValue"]
+- !private ["s25LosslessStringConvertibleP", "addingPercentEncoding"]
+- !private ["s25LosslessStringConvertibleP", "data"]
+- !private ["s25LosslessStringConvertibleP", "dropFirst"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "isEmpty"]
+- !private ["s10MirrorPathP", "addingPercentEncoding"]
+- !private ["s10MirrorPathP", "data"]
+- !private ["s10MirrorPathP", "dropFirst"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "isEmpty"]
+- !private ["SM", "append"]
+- !private ["SM", "init"]
+- !private ["SM", "joined"]
+- !private ["SM", "map"]
+- !private ["SM", "reduce"]
+- !private ["SM", "removeLast"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "joined"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "reduce"]
+- !private ["10Foundation19MutableDataProtocolP", "removeLast"]
+- !private ["So8NSCodingP", "addingPercentEncoding"]
+- !private ["So8NSCodingP", "data"]
+- !private ["So8NSCodingP", "dropFirst"]
+- !private ["So8NSCodingP", "isEmpty"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So9NSCopyingP", "addingPercentEncoding"]
+- !private ["So9NSCopyingP", "data"]
+- !private ["So9NSCopyingP", "dropFirst"]
+- !private ["So9NSCopyingP", "isEmpty"]
+- !private ["So9NSCopyingP", "string"]
+- !private ["So21NSItemProviderReadingP", "addingPercentEncoding"]
+- !private ["So21NSItemProviderReadingP", "data"]
+- !private ["So21NSItemProviderReadingP", "dropFirst"]
+- !private ["So21NSItemProviderReadingP", "isEmpty"]
+- !private ["So21NSItemProviderWritingP", "addingPercentEncoding"]
+- !private ["So21NSItemProviderWritingP", "data"]
+- !private ["So21NSItemProviderWritingP", "dropFirst"]
+- !private ["So21NSItemProviderWritingP", "isEmpty"]
+- !private ["So16NSMutableCopyingP", "addingPercentEncoding"]
+- !private ["So16NSMutableCopyingP", "data"]
+- !private ["So16NSMutableCopyingP", "dropFirst"]
+- !private ["So16NSMutableCopyingP", "isEmpty"]
+- !private ["So8NSObjectC", "addingPercentEncoding"]
+- !private ["So8NSObjectC", "data"]
+- !private ["So8NSObjectC", "dropFirst"]
+- !private ["So8NSObjectC", "isEmpty"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So8NSObjectP", "addingPercentEncoding"]
+- !private ["So8NSObjectP", "data"]
+- !private ["So8NSObjectP", "dropFirst"]
+- !private ["So8NSObjectP", "isEmpty"]
+- !private ["So8NSObjectP", "string"]
+- !private ["So14NSSecureCodingP", "addingPercentEncoding"]
+- !private ["So14NSSecureCodingP", "data"]
+- !private ["So14NSSecureCodingP", "dropFirst"]
+- !private ["So14NSSecureCodingP", "isEmpty"]
+- !private ["So8NSStringC", "addingPercentEncoding"]
+- !private ["So8NSStringC", "data"]
+- !private ["So8NSStringC", "dropFirst"]
+- !private ["So8NSStringC", "isEmpty"]
+- !private ["15KituraContracts9OperationP", "getStringValue"]
+- !private ["15KituraContracts8OrderingV", "getStringValue"]
+- !private ["15KituraContracts10PaginationV", "getStringValue"]
+- !private ["15KituraContracts12QueryEncoderC", "Bool"]
+- !private ["15KituraContracts12QueryEncoderC", "CharacterSet"]
+- !private ["15KituraContracts12QueryEncoderC", "Coder"]
+- ["15KituraContracts12QueryEncoderC", "CodingKey"]
+- ["15KituraContracts12QueryEncoderC", "CodingUserInfoKey"]
+- ["15KituraContracts12QueryEncoderC", "Data"]
+- !private ["15KituraContracts12QueryEncoderC", "Date"]
+- !private ["15KituraContracts12QueryEncoderC", "Double"]
+- ["15KituraContracts12QueryEncoderC", "Encodable"]
+- ["15KituraContracts12QueryEncoderC", "Encoder"]
+- ["15KituraContracts12QueryEncoderC", "EncodingError"]
+- !private ["15KituraContracts12QueryEncoderC", "Float"]
+- ["15KituraContracts12QueryEncoderC", "Int"]
+- !private ["15KituraContracts12QueryEncoderC", "Int16"]
+- !private ["15KituraContracts12QueryEncoderC", "Int32"]
+- !private ["15KituraContracts12QueryEncoderC", "Int64"]
+- !private ["15KituraContracts12QueryEncoderC", "Int8"]
+- !private ["15KituraContracts12QueryEncoderC", "JSONEncoder"]
+- !private ["15KituraContracts12QueryEncoderC", "KeyedContainer"]
+- ["15KituraContracts12QueryEncoderC", "KeyedEncodingContainer"]
+- ["15KituraContracts12QueryEncoderC", "KeyedEncodingContainerProtocol"]
+- !private ["15KituraContracts12QueryEncoderC", "Operation"]
+- !private ["15KituraContracts12QueryEncoderC", "Ordering"]
+- !private ["15KituraContracts12QueryEncoderC", "Pagination"]
+- ["15KituraContracts12QueryEncoderC", "QueryEncoder"]
+- !private ["15KituraContracts12QueryEncoderC", "RequestError"]
+- ["15KituraContracts12QueryEncoderC", "SingleValueEncodingContainer"]
+- ["15KituraContracts12QueryEncoderC", "String"]
+- ["15KituraContracts12QueryEncoderC", "Swift"]
+- !private ["15KituraContracts12QueryEncoderC", "UInt"]
+- !private ["15KituraContracts12QueryEncoderC", "UInt16"]
+- !private ["15KituraContracts12QueryEncoderC", "UInt32"]
+- !private ["15KituraContracts12QueryEncoderC", "UInt64"]
+- !private ["15KituraContracts12QueryEncoderC", "UInt8"]
+- ["15KituraContracts12QueryEncoderC", "URLQueryItem"]
+- !private ["15KituraContracts12QueryEncoderC", "UnkeyedContanier"]
+- ["15KituraContracts12QueryEncoderC", "UnkeyedEncodingContainer"]
+- ["15KituraContracts12QueryEncoderC", "anyDictionary"]
+- ["15KituraContracts12QueryEncoderC", "codingPath"]
+- ["15KituraContracts12QueryEncoderC", "container"]
+- !private ["15KituraContracts12QueryEncoderC", "dateFormatter"]
+- ["15KituraContracts12QueryEncoderC", "deinit"]
+- ["15KituraContracts12QueryEncoderC", "dictionary"]
+- ["15KituraContracts12QueryEncoderC", "encode"]
+- ["15KituraContracts12QueryEncoderC", "encodingError"]
+- ["15KituraContracts12QueryEncoderC", "init"]
+- ["15KituraContracts12QueryEncoderC", "singleValueContainer"]
+- ["15KituraContracts12QueryEncoderC", "unkeyedContainer"]
+- ["15KituraContracts12QueryEncoderC", "userInfo"]
+- !private ["Sk", "append"]
+- !private ["Sk", "init"]
+- !private ["Sk", "joined"]
+- !private ["Sk", "map"]
+- !private ["Sk", "reduce"]
+- !private ["Sk", "removeLast"]
+- !private ["Sm", "addingPercentEncoding"]
+- !private ["Sm", "append"]
+- !private ["Sm", "data"]
+- !private ["Sm", "dropFirst"]
+- !private ["Sm", "init"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "joined"]
+- !private ["Sm", "map"]
+- !private ["Sm", "reduce"]
+- !private ["Sm", "removeLast"]
+- !private ["SY", "unprocessableEntity"]
+- !private ["SY", "utf8"]
+- ["10Foundation20ReferenceConvertibleP", "CharacterSet"]
+- !private ["10Foundation20ReferenceConvertibleP", "customURLQueryAllowed"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["15KituraContracts12RequestErrorV", "deinit"]
+- !private ["15KituraContracts12RequestErrorV", "unprocessableEntity"]
+- !private ["ST", "addingPercentEncoding"]
+- !private ["ST", "append"]
+- !private ["ST", "data"]
+- !private ["ST", "dropFirst"]
+- !private ["ST", "init"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "joined"]
+- !private ["ST", "map"]
+- !private ["ST", "reduce"]
+- !private ["ST", "removeLast"]
+- !private ["ST", "subscript"]
+- ["s10SetAlgebraP", "CharacterSet"]
+- !private ["s10SetAlgebraP", "customURLQueryAllowed"]
+- ["s10SetAlgebraP", "init"]
+- !private ["s28SingleValueEncodingContainerP", ""]
+- ["s28SingleValueEncodingContainerP", "codingPath"]
+- ["s28SingleValueEncodingContainerP", "count"]
+- ["s28SingleValueEncodingContainerP", "encode"]
+- ["s28SingleValueEncodingContainerP", "encodeConditional"]
+- ["s28SingleValueEncodingContainerP", "encodeNil"]
+- !private ["s28SingleValueEncodingContainerP", "encoder"]
+- !private ["s28SingleValueEncodingContainerP", "init"]
+- ["s28SingleValueEncodingContainerP", "nestedContainer"]
+- ["s28SingleValueEncodingContainerP", "nestedUnkeyedContainer"]
+- ["s28SingleValueEncodingContainerP", "superEncoder"]
+- !private ["SS", "addingPercentEncoding"]
+- !private ["SS", "data"]
+- !private ["SS", "deinit"]
+- !private ["SS", "dropFirst"]
+- !private ["SS", "init"]
+- !private ["SS", "isEmpty"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "addingPercentEncoding"]
+- !private ["Sy", "data"]
+- !private ["Sy", "dropFirst"]
+- !private ["Sy", "init"]
+- !private ["Sy", "isEmpty"]
+- !private ["s16TextOutputStreamP", "addingPercentEncoding"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "data"]
+- !private ["s16TextOutputStreamP", "dropFirst"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "isEmpty"]
+- !private ["s20TextOutputStreamableP", "addingPercentEncoding"]
+- !private ["s20TextOutputStreamableP", "data"]
+- !private ["s20TextOutputStreamableP", "dropFirst"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "isEmpty"]
+- !private ["10Foundation12URLQueryItemV", "init"]
+- !private ["s24UnkeyedEncodingContainerP", ""]
+- ["s24UnkeyedEncodingContainerP", "codingPath"]
+- ["s24UnkeyedEncodingContainerP", "count"]
+- ["s24UnkeyedEncodingContainerP", "encode"]
+- ["s24UnkeyedEncodingContainerP", "encodeConditional"]
+- ["s24UnkeyedEncodingContainerP", "encodeNil"]
+- !private ["s24UnkeyedEncodingContainerP", "encoder"]
+- !private ["s24UnkeyedEncodingContainerP", "init"]
+- ["s24UnkeyedEncodingContainerP", "nestedContainer"]
+- ["s24UnkeyedEncodingContainerP", "nestedUnkeyedContainer"]
+- ["s24UnkeyedEncodingContainerP", "superEncoder"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "joined"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s14_ArrayProtocolP", "reduce"]
+- !private ["s14_ArrayProtocolP", "removeLast"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "addingPercentEncoding"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "data"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "dropFirst"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "joined"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s24_DestructorSafeContainerP", "reduce"]
+- !private ["s24_DestructorSafeContainerP", "removeLast"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "addingPercentEncoding"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "data"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "dropFirst"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "addingPercentEncoding"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "data"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "dropFirst"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "isEmpty"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "addingPercentEncoding"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "data"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "dropFirst"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "addingPercentEncoding"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "data"]
+- !private ["s19_HasContiguousBytesP", "dropFirst"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "joined"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s19_HasContiguousBytesP", "reduce"]
+- !private ["s19_HasContiguousBytesP", "removeLast"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "addingPercentEncoding"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "data"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "dropFirst"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "joined"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "reduce"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "removeLast"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addingPercentEncoding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dropFirst"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEmpty"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- ["s21_ObjectiveCBridgeableP", "CharacterSet"]
+- !private ["s21_ObjectiveCBridgeableP", "addingPercentEncoding"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "customURLQueryAllowed"]
+- !private ["s21_ObjectiveCBridgeableP", "data"]
+- !private ["s21_ObjectiveCBridgeableP", "dropFirst"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "joined"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "reduce"]
+- !private ["s21_ObjectiveCBridgeableP", "removeLast"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- "15KituraContracts11BodyEncoderP"
+- !private "s7CVarArgP"
+- "10Foundation12CharacterSetV"
+- "15KituraContracts5CoderC"
+- !private "Sl"
+- !private "SL"
+- !private "s13EncodingErrorO7ContextV"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "So15NSDateFormatterC"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- "SE"
+- "s7EncoderP"
+- !private "SS10FoundationE8EncodingV"
+- !private "s13EncodingErrorO"
+- "SQ"
+- !private "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So11NSFormatterC"
+- "SH"
+- !private "15KituraContracts10IdentifierP"
+- !private "10Foundation11JSONEncoderC"
+- !private "s22KeyedEncodingContainerV"
+- "s30KeyedEncodingContainerProtocolP"
+- !private "10Foundation14LocalizedErrorP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "15KituraContracts9OperationP"
+- !private "15KituraContracts8OrderingV"
+- !private "15KituraContracts10PaginationV"
+- "15KituraContracts12QueryEncoderC"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- "10Foundation20ReferenceConvertibleP"
+- !private "15KituraContracts12RequestErrorV"
+- !private "ST"
+- "s10SetAlgebraP"
+- "s28SingleValueEncodingContainerP"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "10Foundation12URLQueryItemV"
+- "s24UnkeyedEncodingContainerP"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5185368981e946312a18a4a7ce6f1607"

@@ -1,0 +1,6 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "c00d7c60256b6799b5f634b20aeb0168"
+build_time: [1553552500, 380550468]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/TypeDecoder.git-6905952062583455039/Sources/TypeDecoder/OrderedDictionary.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/TypeDecoder.git-6905952062583455039/Sources/TypeDecoder/TypeDecoder.swift": [9223372036, 854775807]

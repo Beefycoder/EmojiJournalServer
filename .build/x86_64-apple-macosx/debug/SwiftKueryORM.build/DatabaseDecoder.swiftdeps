@@ -1,0 +1,445 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DatabaseDecoder"
+provides-nominal:
+- "13SwiftKueryORM15DatabaseDecoderC"
+provides-member:
+- ["13SwiftKueryORM15DatabaseDecoderC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "+"
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CastingPrecedence"
+- "CodingKey"
+- "CodingUserInfoKey"
+- !private "Data"
+- "DatabaseDecoder"
+- !private "Date"
+- "Decodable"
+- "Decoder"
+- !private "DecodingError"
+- "Double"
+- "Float"
+- "FloatLiteralType"
+- "Int"
+- "Int16"
+- "Int32"
+- "Int64"
+- "Int8"
+- "IntegerLiteralType"
+- "KeyedDecodingContainer"
+- "KeyedDecodingContainerProtocol"
+- !private "RequestError"
+- "SingleValueDecodingContainer"
+- "String"
+- !private "StringLiteralType"
+- "UInt"
+- "UInt16"
+- "UInt32"
+- "UInt64"
+- "UInt8"
+- !private "URL"
+- !private "UUID"
+- "UnkeyedDecodingContainer"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "lowercased"]
+- !private ["Sz", "init"]
+- !private ["10SwiftKuery9BuildableP", "init"]
+- !private ["10SwiftKuery9BuildableP", "lowercased"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lowercased"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s9CodingKeyP", "stringValue"]
+- ["Sl", "init"]
+- !private ["Sl", "lowercased"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["SL", "lowercased"]
+- !private ["SL", "ormCodableDecodingError"]
+- !private ["SL", "ormDatabaseDecodingError"]
+- !private ["s13DecodingErrorO7ContextV", "init"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lowercased"]
+- ["s28CustomDebugStringConvertibleP", "some"]
+- !private ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "lowercased"]
+- ["s17CustomReflectableP", "some"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lowercased"]
+- !private ["s23CustomStringConvertibleP", "ormCodableDecodingError"]
+- !private ["s23CustomStringConvertibleP", "ormDatabaseDecodingError"]
+- !private ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation4DataV", "init"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "Bool"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "CodingKey"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "CodingUserInfoKey"]
+- !private ["13SwiftKueryORM15DatabaseDecoderC", "Data"]
+- !private ["13SwiftKueryORM15DatabaseDecoderC", "Date"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "Decodable"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "Decoder"]
+- !private ["13SwiftKueryORM15DatabaseDecoderC", "DecodingError"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "Double"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "Float"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "Int"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "Int16"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "Int32"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "Int64"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "Int8"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "KeyedDecodingContainer"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "KeyedDecodingContainerProtocol"]
+- !private ["13SwiftKueryORM15DatabaseDecoderC", "RequestError"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "SingleValueDecodingContainer"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "String"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "UInt"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "UInt16"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "UInt32"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "UInt64"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "UInt8"]
+- !private ["13SwiftKueryORM15DatabaseDecoderC", "URL"]
+- !private ["13SwiftKueryORM15DatabaseDecoderC", "UUID"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "UnkeyedDecodingContainer"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "_DatabaseDecoder"]
+- !private ["13SwiftKueryORM15DatabaseDecoderC", "_DatabaseKeyedDecodingContainer"]
+- !private ["13SwiftKueryORM15DatabaseDecoderC", "_SingleValueDecodingContainer"]
+- !private ["13SwiftKueryORM15DatabaseDecoderC", "_UnKeyedDecodingContainer"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "decode"]
+- !private ["13SwiftKueryORM15DatabaseDecoderC", "decoder"]
+- ["13SwiftKueryORM15DatabaseDecoderC", "init"]
+- !private ["10Foundation4DateV", "init"]
+- ["Se", "init"]
+- !private ["Se", "lowercased"]
+- ["Se", "some"]
+- !private ["Se", "subscript"]
+- !private ["s7DecoderP", "KeyedDecodingContainer"]
+- ["s7DecoderP", "String"]
+- !private ["s7DecoderP", ""]
+- !private ["s7DecoderP", "_DatabaseKeyedDecodingContainer"]
+- !private ["s7DecoderP", "_SingleValueDecodingContainer"]
+- !private ["s7DecoderP", "_UnKeyedDecodingContainer"]
+- ["s7DecoderP", "codingPath"]
+- ["s7DecoderP", "container"]
+- ["s7DecoderP", "init"]
+- ["s7DecoderP", "singleValueContainer"]
+- ["s7DecoderP", "unkeyedContainer"]
+- ["s7DecoderP", "userInfo"]
+- !private ["s7DecoderP", "values"]
+- !private ["s13DecodingErrorO", "Context"]
+- !private ["s13DecodingErrorO", "keyNotFound"]
+- !private ["s13DecodingErrorO", "typeMismatch"]
+- !private ["s13DecodingErrorO", "valueNotFound"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SD", "init"]
+- !private ["SD", "subscript"]
+- ["11TypeDecoder010DictionaryA0P", "init"]
+- !private ["11TypeDecoder010DictionaryA0P", "subscript"]
+- ["SE", "init"]
+- !private ["SE", "lowercased"]
+- ["SE", "some"]
+- !private ["SE", "subscript"]
+- ["SQ", "init"]
+- !private ["SQ", "lowercased"]
+- !private ["SQ", "ormCodableDecodingError"]
+- !private ["SQ", "ormDatabaseDecodingError"]
+- ["SQ", "some"]
+- !private ["SQ", "subscript"]
+- !private ["s5ErrorP", "Context"]
+- !private ["s5ErrorP", "init"]
+- !private ["s5ErrorP", "keyNotFound"]
+- !private ["s5ErrorP", "ormCodableDecodingError"]
+- !private ["s5ErrorP", "ormDatabaseDecodingError"]
+- !private ["s5ErrorP", "typeMismatch"]
+- !private ["s5ErrorP", "valueNotFound"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s23ExpressibleByNilLiteralP", "some"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "lowercased"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "lowercased"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "lowercased"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- ["SH", "init"]
+- !private ["SH", "lowercased"]
+- !private ["SH", "ormCodableDecodingError"]
+- !private ["SH", "ormDatabaseDecodingError"]
+- ["SH", "some"]
+- !private ["SH", "subscript"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["15KituraContracts10IdentifierP", "lowercased"]
+- !private ["Si", "init"]
+- !private ["s22KeyedDecodingContainerV", "init"]
+- !private ["s30KeyedDecodingContainerProtocolP", "Data"]
+- !private ["s30KeyedDecodingContainerProtocolP", "Date"]
+- !private ["s30KeyedDecodingContainerProtocolP", "DecodingError"]
+- !private ["s30KeyedDecodingContainerProtocolP", "Double"]
+- !private ["s30KeyedDecodingContainerProtocolP", "Int"]
+- ["s30KeyedDecodingContainerProtocolP", "Key"]
+- !private ["s30KeyedDecodingContainerProtocolP", "KeyedDecodingContainer"]
+- !private ["s30KeyedDecodingContainerProtocolP", "RequestError"]
+- !private ["s30KeyedDecodingContainerProtocolP", "String"]
+- !private ["s30KeyedDecodingContainerProtocolP", "URL"]
+- !private ["s30KeyedDecodingContainerProtocolP", "UUID"]
+- !private ["s30KeyedDecodingContainerProtocolP", ""]
+- !private ["s30KeyedDecodingContainerProtocolP", "_DatabaseKeyedDecodingContainer"]
+- !private ["s30KeyedDecodingContainerProtocolP", "_UnKeyedDecodingContainer"]
+- ["s30KeyedDecodingContainerProtocolP", "allKeys"]
+- !private ["s30KeyedDecodingContainerProtocolP", "castedValue"]
+- !private ["s30KeyedDecodingContainerProtocolP", "checkValueExitence"]
+- ["s30KeyedDecodingContainerProtocolP", "codingPath"]
+- ["s30KeyedDecodingContainerProtocolP", "contains"]
+- ["s30KeyedDecodingContainerProtocolP", "decode"]
+- ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- ["s30KeyedDecodingContainerProtocolP", "decodeNil"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decoder"]
+- !private ["s30KeyedDecodingContainerProtocolP", "init"]
+- ["s30KeyedDecodingContainerProtocolP", "nestedContainer"]
+- ["s30KeyedDecodingContainerProtocolP", "nestedUnkeyedContainer"]
+- ["s30KeyedDecodingContainerProtocolP", "superDecoder"]
+- !private ["s30KeyedDecodingContainerProtocolP", "unwrapValue"]
+- !private ["10Foundation14LocalizedErrorP", "Context"]
+- !private ["10Foundation14LocalizedErrorP", "keyNotFound"]
+- !private ["10Foundation14LocalizedErrorP", "typeMismatch"]
+- !private ["10Foundation14LocalizedErrorP", "valueNotFound"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "lowercased"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "lowercased"]
+- !private ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["So8NSCodingP", "lowercased"]
+- !private ["So9NSCopyingP", "lowercased"]
+- !private ["So21NSItemProviderReadingP", "lowercased"]
+- !private ["So21NSItemProviderWritingP", "lowercased"]
+- !private ["So16NSMutableCopyingP", "lowercased"]
+- !private ["So8NSObjectC", "lowercased"]
+- !private ["So8NSObjectP", "lowercased"]
+- !private ["So14NSSecureCodingP", "lowercased"]
+- !private ["So8NSStringC", "lowercased"]
+- !private ["Sj", "init"]
+- ["Sq", "some"]
+- !private ["10SwiftKuery19QueryFilterProtocolP", "init"]
+- !private ["10SwiftKuery19QueryFilterProtocolP", "lowercased"]
+- !private ["10SwiftKuery19QueryHavingProtocolP", "init"]
+- !private ["10SwiftKuery19QueryHavingProtocolP", "lowercased"]
+- !private ["10SwiftKuery19QuerySuffixProtocolP", "init"]
+- !private ["10SwiftKuery19QuerySuffixProtocolP", "lowercased"]
+- !private ["Sk", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "lowercased"]
+- !private ["SY", "init"]
+- !private ["SY", "ormCodableDecodingError"]
+- !private ["SY", "ormDatabaseDecodingError"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["15KituraContracts12RequestErrorV", "init"]
+- !private ["15KituraContracts12RequestErrorV", "ormCodableDecodingError"]
+- !private ["15KituraContracts12RequestErrorV", "ormDatabaseDecodingError"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["10SwiftKuery11SQLDataTypeP", "init"]
+- !private ["10SwiftKuery11SQLDataTypeP", "lowercased"]
+- ["ST", "init"]
+- !private ["ST", "lowercased"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s28SingleValueDecodingContainerP", ""]
+- !private ["s28SingleValueDecodingContainerP", "_DatabaseDecoder"]
+- ["s28SingleValueDecodingContainerP", "codingPath"]
+- ["s28SingleValueDecodingContainerP", "decode"]
+- ["s28SingleValueDecodingContainerP", "decodeNil"]
+- !private ["s28SingleValueDecodingContainerP", "decoder"]
+- !private ["s28SingleValueDecodingContainerP", "init"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "lowercased"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "init"]
+- !private ["Sy", "lowercased"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "lowercased"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "lowercased"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["10Foundation4UUIDV", "init"]
+- !private ["s24UnkeyedDecodingContainerP", "KeyedDecodingContainer"]
+- !private ["s24UnkeyedDecodingContainerP", ""]
+- !private ["s24UnkeyedDecodingContainerP", "_DatabaseKeyedDecodingContainer"]
+- ["s24UnkeyedDecodingContainerP", "codingPath"]
+- ["s24UnkeyedDecodingContainerP", "count"]
+- ["s24UnkeyedDecodingContainerP", "currentIndex"]
+- ["s24UnkeyedDecodingContainerP", "decode"]
+- ["s24UnkeyedDecodingContainerP", "decodeIfPresent"]
+- ["s24UnkeyedDecodingContainerP", "decodeNil"]
+- !private ["s24UnkeyedDecodingContainerP", "decoder"]
+- !private ["s24UnkeyedDecodingContainerP", "init"]
+- ["s24UnkeyedDecodingContainerP", "isAtEnd"]
+- ["s24UnkeyedDecodingContainerP", "nestedContainer"]
+- ["s24UnkeyedDecodingContainerP", "nestedUnkeyedContainer"]
+- ["s24UnkeyedDecodingContainerP", "superDecoder"]
+- !private ["11TypeDecoder29ValidKeyedCodingValueProviderP", "init"]
+- !private ["11TypeDecoder30ValidSingleCodingValueProviderP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "lowercased"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "lowercased"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "lowercased"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "lowercased"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "lowercased"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lowercased"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "lowercased"]
+- ["s21_ObjectiveCBridgeableP", "some"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "Sz"
+- !private "10SwiftKuery9BuildableP"
+- "s7CVarArgP"
+- !private "s9CodingKeyP"
+- "Sl"
+- !private "SL"
+- !private "s13DecodingErrorO7ContextV"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- !private "10Foundation12DataProtocolP"
+- "13SwiftKueryORM15DatabaseDecoderC"
+- !private "10Foundation4DateV"
+- "Se"
+- "s7DecoderP"
+- !private "s13DecodingErrorO"
+- !private "s26DefaultStringInterpolationV"
+- "SD"
+- "11TypeDecoder010DictionaryA0P"
+- "SE"
+- "SQ"
+- !private "s5ErrorP"
+- "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "15KituraContracts10IdentifierP"
+- !private "Si"
+- !private "s22KeyedDecodingContainerV"
+- "s30KeyedDecodingContainerProtocolP"
+- !private "10Foundation14LocalizedErrorP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sj"
+- "Sq"
+- !private "10SwiftKuery19QueryFilterProtocolP"
+- !private "10SwiftKuery19QueryHavingProtocolP"
+- !private "10SwiftKuery19QuerySuffixProtocolP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "15KituraContracts12RequestErrorV"
+- !private "s10SIMDScalarP"
+- !private "10SwiftKuery11SQLDataTypeP"
+- "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- "s28SingleValueDecodingContainerP"
+- !private "Sx"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "10Foundation3URLV"
+- !private "10Foundation4UUIDV"
+- "s24UnkeyedDecodingContainerP"
+- !private "11TypeDecoder29ValidKeyedCodingValueProviderP"
+- !private "11TypeDecoder30ValidSingleCodingValueProviderP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftKuery.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8dab2b561e1d1fd914d9649e6540990e"

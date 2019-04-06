@@ -1,0 +1,321 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HTTP"
+- "HTTPStatusCode"
+provides-nominal:
+- "9KituraNet4HTTPC"
+- "9KituraNet14HTTPStatusCodeO"
+- "9KituraNet14HTTPStatusCodeO5ClassO"
+provides-member:
+- ["9KituraNet4HTTPC", ""]
+- ["9KituraNet14HTTPStatusCodeO", ""]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", ""]
+- ["9KituraNet14HTTPStatusCodeO", "Class"]
+- ["9KituraNet14HTTPStatusCodeO", "class"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "..<"
+- "=="
+- "AssignmentPrecedence"
+- "ClientRequest"
+- "FloatLiteralType"
+- "HTTP"
+- "HTTPServer"
+- "HTTPStatusCode"
+- "Int"
+- "IntegerLiteralType"
+- "NSCharacterSet"
+- "String"
+- "StringLiteralType"
+- !private "~="
+depends-member:
+- !private ["SK", "addingPercentEncoding"]
+- !private ["s7CVarArgP", "addingPercentEncoding"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "inverted"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "=="]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "Int"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "__derived_enum_equals"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "_rawHashValue"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "clientError"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "deinit"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "hash"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "hashValue"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "informational"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "init"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "invalidStatus"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "redirection"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "serverError"]
+- ["9KituraNet14HTTPStatusCodeO5ClassO", "successful"]
+- ["9KituraNet13ClientRequestC", "Callback"]
+- ["9KituraNet13ClientRequestC", "Options"]
+- !private ["9KituraNet13ClientRequestC", "end"]
+- !private ["9KituraNet13ClientRequestC", "init"]
+- !private ["Sl", "addingPercentEncoding"]
+- !private ["SL", "addingPercentEncoding"]
+- !private ["s28CustomDebugStringConvertibleP", "addingPercentEncoding"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "inverted"]
+- !private ["s17CustomReflectableP", "addingPercentEncoding"]
+- !private ["s23CustomStringConvertibleP", "addingPercentEncoding"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "inverted"]
+- !private ["Se", "addingPercentEncoding"]
+- !private ["SE", "addingPercentEncoding"]
+- ["SQ", "=="]
+- !private ["SQ", "Class"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "addingPercentEncoding"]
+- !private ["SQ", "clientError"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "informational"]
+- ["SQ", "init"]
+- !private ["SQ", "invalidStatus"]
+- ["SQ", "inverted"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "redirection"]
+- !private ["SQ", "serverError"]
+- !private ["SQ", "successful"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "addingPercentEncoding"]
+- !private ["s32ExpressibleByStringInterpolationP", "addingPercentEncoding"]
+- !private ["s26ExpressibleByStringLiteralP", "addingPercentEncoding"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "addingPercentEncoding"]
+- ["9KituraNet4HTTPC", "ClientRequest"]
+- ["9KituraNet4HTTPC", "HTTPServer"]
+- ["9KituraNet4HTTPC", "NSCharacterSet"]
+- ["9KituraNet4HTTPC", "String"]
+- !private ["9KituraNet4HTTPC", "allowedCharacterSet"]
+- ["9KituraNet4HTTPC", "createServer"]
+- ["9KituraNet4HTTPC", "escape"]
+- ["9KituraNet4HTTPC", "get"]
+- ["9KituraNet4HTTPC", "init"]
+- ["9KituraNet4HTTPC", "request"]
+- ["9KituraNet4HTTPC", "statusCodes"]
+- !private ["9KituraNet10HTTPServerC", "init"]
+- ["9KituraNet14HTTPStatusCodeO", "=="]
+- ["9KituraNet14HTTPStatusCodeO", "Class"]
+- ["9KituraNet14HTTPStatusCodeO", "Int"]
+- ["9KituraNet14HTTPStatusCodeO", "OK"]
+- ["9KituraNet14HTTPStatusCodeO", "RawValue"]
+- ["9KituraNet14HTTPStatusCodeO", "_Default_RawValue"]
+- ["9KituraNet14HTTPStatusCodeO", "_rawHashValue"]
+- ["9KituraNet14HTTPStatusCodeO", "accepted"]
+- ["9KituraNet14HTTPStatusCodeO", "badGateway"]
+- ["9KituraNet14HTTPStatusCodeO", "badRequest"]
+- ["9KituraNet14HTTPStatusCodeO", "class"]
+- ["9KituraNet14HTTPStatusCodeO", "conflict"]
+- ["9KituraNet14HTTPStatusCodeO", "continue"]
+- ["9KituraNet14HTTPStatusCodeO", "created"]
+- ["9KituraNet14HTTPStatusCodeO", "deinit"]
+- ["9KituraNet14HTTPStatusCodeO", "expectationFailed"]
+- ["9KituraNet14HTTPStatusCodeO", "failedDependency"]
+- ["9KituraNet14HTTPStatusCodeO", "forbidden"]
+- ["9KituraNet14HTTPStatusCodeO", "gatewayTimeout"]
+- ["9KituraNet14HTTPStatusCodeO", "gone"]
+- ["9KituraNet14HTTPStatusCodeO", "hash"]
+- ["9KituraNet14HTTPStatusCodeO", "hashValue"]
+- ["9KituraNet14HTTPStatusCodeO", "httpVersionNotSupported"]
+- ["9KituraNet14HTTPStatusCodeO", "init"]
+- ["9KituraNet14HTTPStatusCodeO", "insufficientSpaceOnResource"]
+- ["9KituraNet14HTTPStatusCodeO", "insufficientStorage"]
+- ["9KituraNet14HTTPStatusCodeO", "internalServerError"]
+- ["9KituraNet14HTTPStatusCodeO", "lengthRequired"]
+- ["9KituraNet14HTTPStatusCodeO", "methodFailure"]
+- ["9KituraNet14HTTPStatusCodeO", "methodNotAllowed"]
+- ["9KituraNet14HTTPStatusCodeO", "misdirectedRequest"]
+- ["9KituraNet14HTTPStatusCodeO", "movedPermanently"]
+- ["9KituraNet14HTTPStatusCodeO", "movedTemporarily"]
+- ["9KituraNet14HTTPStatusCodeO", "multiStatus"]
+- ["9KituraNet14HTTPStatusCodeO", "multipleChoices"]
+- ["9KituraNet14HTTPStatusCodeO", "networkAuthenticationRequired"]
+- ["9KituraNet14HTTPStatusCodeO", "noContent"]
+- ["9KituraNet14HTTPStatusCodeO", "nonAuthoritativeInformation"]
+- ["9KituraNet14HTTPStatusCodeO", "notAcceptable"]
+- ["9KituraNet14HTTPStatusCodeO", "notFound"]
+- ["9KituraNet14HTTPStatusCodeO", "notImplemented"]
+- ["9KituraNet14HTTPStatusCodeO", "notModified"]
+- ["9KituraNet14HTTPStatusCodeO", "partialContent"]
+- ["9KituraNet14HTTPStatusCodeO", "paymentRequired"]
+- ["9KituraNet14HTTPStatusCodeO", "preconditionFailed"]
+- ["9KituraNet14HTTPStatusCodeO", "preconditionRequired"]
+- ["9KituraNet14HTTPStatusCodeO", "processing"]
+- ["9KituraNet14HTTPStatusCodeO", "proxyAuthenticationRequired"]
+- ["9KituraNet14HTTPStatusCodeO", "rawValue"]
+- ["9KituraNet14HTTPStatusCodeO", "requestHeaderFieldsTooLarge"]
+- ["9KituraNet14HTTPStatusCodeO", "requestTimeout"]
+- ["9KituraNet14HTTPStatusCodeO", "requestTooLong"]
+- ["9KituraNet14HTTPStatusCodeO", "requestURITooLong"]
+- ["9KituraNet14HTTPStatusCodeO", "requestedRangeNotSatisfiable"]
+- ["9KituraNet14HTTPStatusCodeO", "resetContent"]
+- ["9KituraNet14HTTPStatusCodeO", "seeOther"]
+- ["9KituraNet14HTTPStatusCodeO", "serviceUnavailable"]
+- ["9KituraNet14HTTPStatusCodeO", "switchingProtocols"]
+- ["9KituraNet14HTTPStatusCodeO", "temporaryRedirect"]
+- ["9KituraNet14HTTPStatusCodeO", "tooManyRequests"]
+- ["9KituraNet14HTTPStatusCodeO", "unauthorized"]
+- ["9KituraNet14HTTPStatusCodeO", "unknown"]
+- ["9KituraNet14HTTPStatusCodeO", "unprocessableEntity"]
+- ["9KituraNet14HTTPStatusCodeO", "unsupportedMediaType"]
+- ["9KituraNet14HTTPStatusCodeO", "useProxy"]
+- ["SH", "=="]
+- !private ["SH", "Class"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "addingPercentEncoding"]
+- !private ["SH", "clientError"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "informational"]
+- ["SH", "init"]
+- !private ["SH", "invalidStatus"]
+- ["SH", "inverted"]
+- ["SH", "rawValue"]
+- !private ["SH", "redirection"]
+- !private ["SH", "serverError"]
+- !private ["SH", "successful"]
+- !private ["s6HasherV", "combine"]
+- !private ["s25LosslessStringConvertibleP", "addingPercentEncoding"]
+- !private ["s10MirrorPathP", "addingPercentEncoding"]
+- ["So14NSCharacterSetC", "init"]
+- ["So14NSCharacterSetC", "inverted"]
+- !private ["So8NSCodingP", "addingPercentEncoding"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "inverted"]
+- !private ["So9NSCopyingP", "addingPercentEncoding"]
+- ["So9NSCopyingP", "init"]
+- ["So9NSCopyingP", "inverted"]
+- !private ["So21NSItemProviderReadingP", "addingPercentEncoding"]
+- !private ["So21NSItemProviderWritingP", "addingPercentEncoding"]
+- !private ["So16NSMutableCopyingP", "addingPercentEncoding"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So16NSMutableCopyingP", "inverted"]
+- !private ["So8NSObjectC", "addingPercentEncoding"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "inverted"]
+- !private ["So8NSObjectP", "addingPercentEncoding"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "inverted"]
+- !private ["So14NSSecureCodingP", "addingPercentEncoding"]
+- ["So14NSSecureCodingP", "init"]
+- ["So14NSSecureCodingP", "inverted"]
+- !private ["So8NSStringC", "addingPercentEncoding"]
+- !private ["Sm", "addingPercentEncoding"]
+- ["SY", "=="]
+- !private ["SY", "Class"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+- !private ["ST", "addingPercentEncoding"]
+- !private ["9KituraNet6ServerP", "init"]
+- !private ["SS", "addingPercentEncoding"]
+- !private ["Sy", "addingPercentEncoding"]
+- !private ["s16TextOutputStreamP", "addingPercentEncoding"]
+- !private ["s20TextOutputStreamableP", "addingPercentEncoding"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "addingPercentEncoding"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "addingPercentEncoding"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "addingPercentEncoding"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "addingPercentEncoding"]
+- !private ["s19_HasContiguousBytesP", "addingPercentEncoding"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "addingPercentEncoding"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "inverted"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addingPercentEncoding"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "inverted"]
+- !private ["s21_ObjectiveCBridgeableP", "addingPercentEncoding"]
+depends-nominal:
+- !private "SK"
+- "s7CVarArgP"
+- "9KituraNet14HTTPStatusCodeO5ClassO"
+- "9KituraNet13ClientRequestC"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "9KituraNet4HTTPC"
+- !private "9KituraNet10HTTPServerC"
+- "9KituraNet14HTTPStatusCodeO"
+- "SH"
+- !private "s6HasherV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So14NSCharacterSetC"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sm"
+- "SY"
+- !private "ST"
+- !private "9KituraNet6ServerP"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "49c5eb9abccf1d0d8766506fff8a6ef3"

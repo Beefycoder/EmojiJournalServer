@@ -1,0 +1,15 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "27205cbc34c6ddb15a5500197e2a7533"
+build_time: [1553552500, 412866307]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Crypto.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Cryptor.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Digest.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/HMAC.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/KeyDerivation.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Random.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/SSLPointerTricks.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Status.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/StreamCryptor.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Updatable.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueCryptor.git-6790103991492294265/Sources/Cryptor/Utilities.swift": [9223372036, 854775807]

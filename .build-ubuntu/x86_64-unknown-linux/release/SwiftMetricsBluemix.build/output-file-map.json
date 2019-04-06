@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsBluemix.build/SwiftMetricsBluemix.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsBluemix.build/SwiftMetricsBluemix.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsBluemix.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetricsBluemix/SwiftMetricsBluemix.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsBluemix.build/SwiftMetricsBluemix.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsBluemix.build/SwiftMetricsBluemix~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsBluemix.build/SwiftMetricsBluemix.swiftdeps"
+  }
+}

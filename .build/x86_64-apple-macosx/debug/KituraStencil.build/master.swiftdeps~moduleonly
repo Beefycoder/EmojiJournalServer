@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "e252ae4731b50938a8d2e21454c78260"
+build_time: [1554331721, 852033000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-StencilTemplateEngine/Sources/KituraStencil/KituraStencilTemplateEngine.swift": [1553654954, 759995648]

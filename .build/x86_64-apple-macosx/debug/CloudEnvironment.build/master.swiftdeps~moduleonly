@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "edb8f41a56bf1613711de2cf905522a6"
+build_time: [1554331721, 725295000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/AlertNotificationCredentials.swift": [1553213964, 765138587]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/AppIDCredentials.swift": [1553213964, 765240555]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/AutoScalingCredentials.swift": [1553213964, 765359695]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/CloudEnv.swift": [1553213964, 765470856]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/CloudFunctionsCredentials.swift": [1553213964, 765566825]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/CloudantCredentials.swift": [1553213964, 765666972]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/Credentials.swift": [1553213964, 765754459]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/DB2Credentials.swift": [1553213964, 765854039]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/HDBaaSCredentials.swift": [1553213964, 765958264]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/MongoDBCredentials.swift": [1553213964, 766078978]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/MySQLCredentials.swift": [1553213964, 766172147]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/NaturalLanguageUnderstandingCredentials.swift": [1553213964, 766271980]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/ObjectStorageCredentials.swift": [1553213964, 766360983]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/PostgreSQLCredentials.swift": [1553213964, 766452263]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/PushSDKCredentials.swift": [1553213964, 766555153]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/RedisCredentials.swift": [1553213964, 766655710]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/WatsonAssistantCredentials.swift": [1553213964, 766752798]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CloudEnvironment.git-1442162862887765372/Sources/CloudEnvironment/WeatherDataCompanyCredentials.swift": [1553213964, 766846674]

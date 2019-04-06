@@ -1,0 +1,157 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Logger"
+- "Log"
+- "LoggerMessageType"
+provides-nominal:
+- "9LoggerAPI0A11MessageTypeO"
+- "9LoggerAPI0A0P"
+- "9LoggerAPI3LogC"
+provides-member:
+- ["9LoggerAPI0A11MessageTypeO", ""]
+- ["9LoggerAPI0A0P", ""]
+- ["9LoggerAPI3LogC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "Bool"
+- !private "BooleanLiteralType"
+- "CustomStringConvertible"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "Log"
+- "Logger"
+- "LoggerMessageType"
+- "String"
+- !private "StringLiteralType"
+- !private "~="
+depends-member:
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", "RawValue"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_RawValue"]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "debug"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "entry"]
+- ["s23CustomStringConvertibleP", "error"]
+- ["s23CustomStringConvertibleP", "exit"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "info"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "rawValue"]
+- ["s23CustomStringConvertibleP", "verbose"]
+- ["s23CustomStringConvertibleP", "warning"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debug"]
+- ["SQ", "description"]
+- ["SQ", "entry"]
+- ["SQ", "error"]
+- ["SQ", "exit"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "info"]
+- ["SQ", "init"]
+- ["SQ", "rawValue"]
+- ["SQ", "verbose"]
+- ["SQ", "warning"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- ["SH", "debug"]
+- ["SH", "description"]
+- ["SH", "entry"]
+- ["SH", "error"]
+- ["SH", "exit"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "info"]
+- ["SH", "init"]
+- ["SH", "rawValue"]
+- ["SH", "verbose"]
+- ["SH", "warning"]
+- ["9LoggerAPI3LogC", "Bool"]
+- ["9LoggerAPI3LogC", "Int"]
+- ["9LoggerAPI3LogC", "Logger"]
+- ["9LoggerAPI3LogC", "LoggerMessageType"]
+- ["9LoggerAPI3LogC", "String"]
+- ["9LoggerAPI3LogC", "debug"]
+- ["9LoggerAPI3LogC", "entry"]
+- ["9LoggerAPI3LogC", "error"]
+- ["9LoggerAPI3LogC", "exit"]
+- ["9LoggerAPI3LogC", "info"]
+- ["9LoggerAPI3LogC", "init"]
+- ["9LoggerAPI3LogC", "isLogging"]
+- ["9LoggerAPI3LogC", "logger"]
+- ["9LoggerAPI3LogC", "verbose"]
+- ["9LoggerAPI3LogC", "warning"]
+- ["9LoggerAPI0A0P", "Bool"]
+- ["9LoggerAPI0A0P", "Int"]
+- ["9LoggerAPI0A0P", "LoggerMessageType"]
+- ["9LoggerAPI0A0P", "String"]
+- ["9LoggerAPI0A0P", "isLogging"]
+- ["9LoggerAPI0A0P", "log"]
+- ["9LoggerAPI0A11MessageTypeO", "=="]
+- ["9LoggerAPI0A11MessageTypeO", "RawValue"]
+- ["9LoggerAPI0A11MessageTypeO", "String"]
+- ["9LoggerAPI0A11MessageTypeO", "_Default_RawValue"]
+- ["9LoggerAPI0A11MessageTypeO", "_rawHashValue"]
+- ["9LoggerAPI0A11MessageTypeO", "debug"]
+- ["9LoggerAPI0A11MessageTypeO", "deinit"]
+- ["9LoggerAPI0A11MessageTypeO", "description"]
+- ["9LoggerAPI0A11MessageTypeO", "entry"]
+- ["9LoggerAPI0A11MessageTypeO", "error"]
+- ["9LoggerAPI0A11MessageTypeO", "exit"]
+- ["9LoggerAPI0A11MessageTypeO", "hash"]
+- ["9LoggerAPI0A11MessageTypeO", "hashValue"]
+- ["9LoggerAPI0A11MessageTypeO", "info"]
+- ["9LoggerAPI0A11MessageTypeO", "init"]
+- ["9LoggerAPI0A11MessageTypeO", "rawValue"]
+- ["9LoggerAPI0A11MessageTypeO", "verbose"]
+- ["9LoggerAPI0A11MessageTypeO", "warning"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- ["SY", "debug"]
+- ["SY", "description"]
+- ["SY", "entry"]
+- ["SY", "error"]
+- ["SY", "exit"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "info"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+- ["SY", "verbose"]
+- ["SY", "warning"]
+depends-nominal:
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "9LoggerAPI3LogC"
+- "9LoggerAPI0A0P"
+- "9LoggerAPI0A11MessageTypeO"
+- "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+interface-hash: "d44dca7abecc76877e408933dbaa80bc"

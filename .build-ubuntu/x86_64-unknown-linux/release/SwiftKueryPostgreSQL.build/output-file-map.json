@@ -1,0 +1,37 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/SwiftKueryPostgreSQL.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/SwiftKueryPostgreSQL.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/ConnectionOptions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/ConnectionOptions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/ConnectionOptions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/ConnectionOptions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/PostgreSQLConnection.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLConnection.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLConnection~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLConnection.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/PostgreSQLPreparedStatement.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLPreparedStatement.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLPreparedStatement~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLPreparedStatement.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/PostgreSQLResultFetcher.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLResultFetcher.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLResultFetcher~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLResultFetcher.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/PostgreSQLType.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLType.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLType~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/PostgreSQLType.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/Utils.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/Utils.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/Utils~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKueryPostgreSQL.build/Utils.swiftdeps"
+  }
+}

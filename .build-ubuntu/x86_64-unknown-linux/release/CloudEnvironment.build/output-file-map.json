@@ -1,0 +1,97 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudEnvironment.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudEnvironment.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/AlertNotificationCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/AlertNotificationCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/AlertNotificationCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/AlertNotificationCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/AppIDCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/AppIDCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/AppIDCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/AppIDCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/AutoScalingCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/AutoScalingCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/AutoScalingCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/AutoScalingCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/CloudEnv.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudEnv.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudEnv~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudEnv.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/CloudFunctionsCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudFunctionsCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudFunctionsCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudFunctionsCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/CloudantCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudantCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudantCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/CloudantCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/Credentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/Credentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/Credentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/Credentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/DB2Credentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/DB2Credentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/DB2Credentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/DB2Credentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/HDBaaSCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/HDBaaSCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/HDBaaSCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/HDBaaSCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/MongoDBCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/MongoDBCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/MongoDBCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/MongoDBCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/MySQLCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/MySQLCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/MySQLCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/MySQLCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/NaturalLanguageUnderstandingCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/NaturalLanguageUnderstandingCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/NaturalLanguageUnderstandingCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/NaturalLanguageUnderstandingCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/ObjectStorageCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/ObjectStorageCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/ObjectStorageCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/ObjectStorageCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/PostgreSQLCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/PostgreSQLCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/PostgreSQLCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/PostgreSQLCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/PushSDKCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/PushSDKCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/PushSDKCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/PushSDKCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/RedisCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/RedisCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/RedisCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/RedisCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/WatsonAssistantCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/WatsonAssistantCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/WatsonAssistantCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/WatsonAssistantCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/WeatherDataCompanyCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/WeatherDataCompanyCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/WeatherDataCompanyCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudEnvironment.build/WeatherDataCompanyCredentials.swiftdeps"
+  }
+}

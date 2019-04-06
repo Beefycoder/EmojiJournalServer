@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "e7e6a35e9bf8f701b4ffc0392abe4a1a"
+build_time: [1554331726, 112558000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftMetrics.git-2402868093059083009/Sources/SwiftMetricsPrometheus/SwiftMetricsPrometheus.swift": [1553213963, 295337979]

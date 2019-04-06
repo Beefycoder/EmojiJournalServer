@@ -1,0 +1,360 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SQLDataType"
+- "Varchar"
+- "Char"
+- "SQLDate"
+- "Time"
+- "Timestamp"
+provides-nominal:
+- "10SwiftKuery11SQLDataTypeP"
+- "10SwiftKuery7VarcharV"
+- "10SwiftKuery4CharV"
+- "10SwiftKuery7SQLDateV"
+- "10SwiftKuery4TimeV"
+- "10SwiftKuery9TimestampV"
+- "s5Int16V"
+- "s5Int32V"
+- "s5Int64V"
+- "SS"
+- "Sf"
+- "Sd"
+- "Sb"
+- "10Foundation4UUIDV"
+provides-member:
+- ["10SwiftKuery11SQLDataTypeP", ""]
+- ["10SwiftKuery7VarcharV", ""]
+- ["10SwiftKuery4CharV", ""]
+- ["10SwiftKuery7SQLDateV", ""]
+- ["10SwiftKuery4TimeV", ""]
+- ["10SwiftKuery9TimestampV", ""]
+- ["s5Int16V", ""]
+- ["s5Int32V", ""]
+- ["s5Int64V", ""]
+- ["SS", ""]
+- ["Sf", ""]
+- ["Sd", ""]
+- ["Sb", ""]
+- ["10Foundation4UUIDV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- "Char"
+- "Double"
+- "Float"
+- "Int16"
+- "Int32"
+- "Int64"
+- "QueryBuilder"
+- "SQLDataType"
+- "SQLDate"
+- "String"
+- !private "StringLiteralType"
+- "Time"
+- "Timestamp"
+- "UUID"
+- "Varchar"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "QueryBuilder"]
+- ["s18AdditiveArithmeticP", "create"]
+- !private ["Sa", "subscript"]
+- ["SK", "create"]
+- !private ["SK", "subscript"]
+- !private ["SB", "QueryBuilder"]
+- ["SB", "create"]
+- !private ["Sz", "QueryBuilder"]
+- ["Sz", "create"]
+- ["Sb", "QueryBuilder"]
+- ["Sb", "String"]
+- ["Sb", "create"]
+- ["Sb", "deinit"]
+- ["10SwiftKuery9BuildableP", "create"]
+- !private ["s7CVarArgP", "QueryBuilder"]
+- ["s7CVarArgP", "create"]
+- !private ["s7CVarArgP", "subscript"]
+- ["10SwiftKuery4CharV", "QueryBuilder"]
+- ["10SwiftKuery4CharV", "String"]
+- ["10SwiftKuery4CharV", "create"]
+- ["10SwiftKuery4CharV", "deinit"]
+- ["10SwiftKuery4CharV", "init"]
+- ["Sl", "create"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "QueryBuilder"]
+- ["SL", "create"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "QueryBuilder"]
+- ["s28CustomDebugStringConvertibleP", "create"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "QueryBuilder"]
+- ["s17CustomReflectableP", "create"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "QueryBuilder"]
+- ["s23CustomStringConvertibleP", "create"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "QueryBuilder"]
+- ["Se", "create"]
+- !private ["Se", "subscript"]
+- ["Sd", "QueryBuilder"]
+- ["Sd", "String"]
+- ["Sd", "create"]
+- ["Sd", "deinit"]
+- !private ["SE", "QueryBuilder"]
+- ["SE", "create"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "QueryBuilder"]
+- !private ["SQ", "char"]
+- ["SQ", "create"]
+- !private ["SQ", "double"]
+- !private ["SQ", "float"]
+- !private ["SQ", "int32"]
+- !private ["SQ", "rawValue"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "uuid"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- ["s27ExpressibleByBooleanLiteralP", "create"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "create"]
+- !private ["s25ExpressibleByFloatLiteralP", "QueryBuilder"]
+- ["s25ExpressibleByFloatLiteralP", "create"]
+- !private ["s27ExpressibleByIntegerLiteralP", "QueryBuilder"]
+- ["s27ExpressibleByIntegerLiteralP", "create"]
+- ["s32ExpressibleByStringInterpolationP", "create"]
+- ["s26ExpressibleByStringLiteralP", "create"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "create"]
+- !private ["s17FixedWidthIntegerP", "QueryBuilder"]
+- ["s17FixedWidthIntegerP", "create"]
+- ["Sf", "QueryBuilder"]
+- ["Sf", "String"]
+- ["Sf", "create"]
+- ["Sf", "deinit"]
+- !private ["SF", "QueryBuilder"]
+- ["SF", "create"]
+- !private ["SH", "QueryBuilder"]
+- !private ["SH", "char"]
+- ["SH", "create"]
+- !private ["SH", "double"]
+- !private ["SH", "float"]
+- !private ["SH", "int32"]
+- !private ["SH", "rawValue"]
+- !private ["SH", "subscript"]
+- !private ["SH", "uuid"]
+- ["s5Int16V", "QueryBuilder"]
+- ["s5Int16V", "String"]
+- ["s5Int16V", "create"]
+- ["s5Int16V", "deinit"]
+- ["s5Int32V", "QueryBuilder"]
+- ["s5Int32V", "String"]
+- ["s5Int32V", "create"]
+- ["s5Int32V", "deinit"]
+- ["s5Int64V", "QueryBuilder"]
+- ["s5Int64V", "String"]
+- ["s5Int64V", "create"]
+- ["s5Int64V", "deinit"]
+- !private ["s25LosslessStringConvertibleP", "QueryBuilder"]
+- ["s25LosslessStringConvertibleP", "create"]
+- ["s10MirrorPathP", "create"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["Sj", "QueryBuilder"]
+- ["Sj", "create"]
+- !private ["10SwiftKuery12QueryBuilderC", "QuerySubstitutionNames"]
+- !private ["10SwiftKuery12QueryBuilderC", "substitutions"]
+- ["10SwiftKuery19QueryFilterProtocolP", "create"]
+- ["10SwiftKuery19QueryHavingProtocolP", "create"]
+- !private ["10SwiftKuery12QueryBuilderC0C17SubstitutionNamesO", "char"]
+- !private ["10SwiftKuery12QueryBuilderC0C17SubstitutionNamesO", "deinit"]
+- !private ["10SwiftKuery12QueryBuilderC0C17SubstitutionNamesO", "double"]
+- !private ["10SwiftKuery12QueryBuilderC0C17SubstitutionNamesO", "float"]
+- !private ["10SwiftKuery12QueryBuilderC0C17SubstitutionNamesO", "int32"]
+- !private ["10SwiftKuery12QueryBuilderC0C17SubstitutionNamesO", "rawValue"]
+- !private ["10SwiftKuery12QueryBuilderC0C17SubstitutionNamesO", "uuid"]
+- ["10SwiftKuery19QuerySuffixProtocolP", "create"]
+- !private ["Sk", "subscript"]
+- ["Sm", "create"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "char"]
+- !private ["SY", "double"]
+- !private ["SY", "float"]
+- !private ["SY", "int32"]
+- !private ["SY", "rawValue"]
+- !private ["SY", "uuid"]
+- !private ["10Foundation20ReferenceConvertibleP", "QueryBuilder"]
+- ["10Foundation20ReferenceConvertibleP", "create"]
+- !private ["s10SIMDScalarP", "QueryBuilder"]
+- ["s10SIMDScalarP", "create"]
+- ["10SwiftKuery11SQLDataTypeP", "QueryBuilder"]
+- ["10SwiftKuery11SQLDataTypeP", "String"]
+- ["10SwiftKuery11SQLDataTypeP", ""]
+- ["10SwiftKuery11SQLDataTypeP", "create"]
+- ["10SwiftKuery7SQLDateV", "QueryBuilder"]
+- ["10SwiftKuery7SQLDateV", "String"]
+- ["10SwiftKuery7SQLDateV", "create"]
+- ["10SwiftKuery7SQLDateV", "deinit"]
+- ["10SwiftKuery7SQLDateV", "init"]
+- ["ST", "create"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "QueryBuilder"]
+- ["SZ", "create"]
+- !private ["s13SignedNumericP", "QueryBuilder"]
+- ["s13SignedNumericP", "create"]
+- !private ["Sx", "QueryBuilder"]
+- ["Sx", "create"]
+- ["SS", "QueryBuilder"]
+- ["SS", "String"]
+- ["SS", "create"]
+- ["SS", "deinit"]
+- ["Sy", "create"]
+- ["s16TextOutputStreamP", "create"]
+- !private ["s20TextOutputStreamableP", "QueryBuilder"]
+- ["s20TextOutputStreamableP", "create"]
+- ["10SwiftKuery4TimeV", "QueryBuilder"]
+- ["10SwiftKuery4TimeV", "String"]
+- ["10SwiftKuery4TimeV", "create"]
+- ["10SwiftKuery4TimeV", "deinit"]
+- ["10SwiftKuery4TimeV", "init"]
+- ["10SwiftKuery9TimestampV", "QueryBuilder"]
+- ["10SwiftKuery9TimestampV", "String"]
+- ["10SwiftKuery9TimestampV", "create"]
+- ["10SwiftKuery9TimestampV", "deinit"]
+- ["10SwiftKuery9TimestampV", "init"]
+- ["10Foundation4UUIDV", "QueryBuilder"]
+- ["10Foundation4UUIDV", "String"]
+- ["10Foundation4UUIDV", "create"]
+- ["10Foundation4UUIDV", "deinit"]
+- ["10SwiftKuery7VarcharV", "QueryBuilder"]
+- ["10SwiftKuery7VarcharV", "String"]
+- ["10SwiftKuery7VarcharV", "create"]
+- ["10SwiftKuery7VarcharV", "deinit"]
+- ["10SwiftKuery7VarcharV", "init"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s15_CVarArgAlignedP", "QueryBuilder"]
+- ["s15_CVarArgAlignedP", "create"]
+- !private ["s22_CVarArgPassedAsDoubleP", "QueryBuilder"]
+- ["s22_CVarArgPassedAsDoubleP", "create"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "QueryBuilder"]
+- ["s30_CustomPlaygroundQuickLookableP", "create"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- ["s35_ExpressibleByBuiltinBooleanLiteralP", "create"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "create"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "QueryBuilder"]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "create"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "QueryBuilder"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "create"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "create"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "create"]
+- ["s19_HasContiguousBytesP", "create"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "QueryBuilder"]
+- ["s35_HasCustomAnyHashableRepresentationP", "create"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "QueryBuilder"]
+- ["s21_ObjectiveCBridgeableP", "create"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- !private "Sa"
+- "SK"
+- "SB"
+- "Sz"
+- "Sb"
+- "10SwiftKuery9BuildableP"
+- "s7CVarArgP"
+- "10SwiftKuery4CharV"
+- "Sl"
+- "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "Se"
+- "Sd"
+- "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s17FixedWidthIntegerP"
+- "Sf"
+- "SF"
+- "SH"
+- "s5Int16V"
+- "s5Int32V"
+- "s5Int64V"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "Sj"
+- !private "10SwiftKuery12QueryBuilderC"
+- "10SwiftKuery19QueryFilterProtocolP"
+- "10SwiftKuery19QueryHavingProtocolP"
+- !private "10SwiftKuery12QueryBuilderC0C17SubstitutionNamesO"
+- "10SwiftKuery19QuerySuffixProtocolP"
+- !private "Sk"
+- "Sm"
+- !private "SY"
+- "10Foundation20ReferenceConvertibleP"
+- "s10SIMDScalarP"
+- "10SwiftKuery11SQLDataTypeP"
+- "10SwiftKuery7SQLDateV"
+- "ST"
+- "SZ"
+- "s13SignedNumericP"
+- "Sx"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "10SwiftKuery4TimeV"
+- "10SwiftKuery9TimestampV"
+- "10Foundation4UUIDV"
+- "10SwiftKuery7VarcharV"
+- !private "s14_ArrayProtocolP"
+- "s15_CVarArgAlignedP"
+- "s22_CVarArgPassedAsDoubleP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c3fc044412906f5813fcc38e3e7bcb35"

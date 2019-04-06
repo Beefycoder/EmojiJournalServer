@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "be917cb3d8e96e77c3480cce73271d15"
+build_time: [1554331719, 617347000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftyRequest/Sources/SwiftyRequest/CodableExtensions.swift": [1553732314, 20502104]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftyRequest/Sources/SwiftyRequest/HTTPMethod.swift": [1553732314, 20677090]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftyRequest/Sources/SwiftyRequest/JSON.swift": [1553732313, 992452752]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftyRequest/Sources/SwiftyRequest/JSONWrapper.swift": [1553732314, 20854433]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftyRequest/Sources/SwiftyRequest/MultipartFormData.swift": [1553732314, 21013419]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftyRequest/Sources/SwiftyRequest/RestRequest.swift": [1553732314, 21343844]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftyRequest/Sources/SwiftyRequest/RestToken.swift": [1553732314, 21521747]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftyRequest/Sources/SwiftyRequest/RestUtilities.swift": [1553732314, 21681863]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftyRequest/Sources/SwiftyRequest/StringExtensions.swift": [1553732314, 21831519]

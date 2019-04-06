@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "5ad7e81aaa3486c77adce8d5ad368013"
+build_time: [1554331711, 97439000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/TypeDecoder.git--8496549979386317663/Sources/TypeDecoder/OrderedDictionary.swift": [1553213964, 350889645]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/TypeDecoder.git--8496549979386317663/Sources/TypeDecoder/TypeDecoder.swift": [1553213964, 351165575]

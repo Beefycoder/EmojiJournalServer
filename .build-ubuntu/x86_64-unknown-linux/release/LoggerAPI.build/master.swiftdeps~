@@ -1,0 +1,5 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "52c43811f18562960df464459f48ac91"
+build_time: [1553552500, 373153995]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/LoggerAPI.git-6606357628668312832/Sources/LoggerAPI/Logger.swift": [9223372036, 854775807]

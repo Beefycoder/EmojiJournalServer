@@ -1,0 +1,419 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HTTPData"
+- "requests"
+- "requestStore"
+- "httpClosure"
+- "SwiftMetricsKitura"
+provides-nominal:
+- "18SwiftMetricsKitura8HTTPDataV"
+- "18SwiftMetricsKitura8requestsV"
+- "18SwiftMetricsKituraAAC"
+provides-member:
+- ["18SwiftMetricsKitura8HTTPDataV", ""]
+- ["18SwiftMetricsKitura8requestsV", ""]
+- ["12SwiftMetrics0A7MonitorC12EventEmitterC", ""]
+- ["12SwiftMetrics0A7MonitorC", ""]
+- ["12SwiftMetricsAAC", ""]
+- ["18SwiftMetricsKituraAAC", ""]
+- ["12SwiftMetrics0A7MonitorC12EventEmitterC", "httpObservers"]
+- ["12SwiftMetrics0A7MonitorC12EventEmitterC", "publish"]
+- ["12SwiftMetrics0A7MonitorC12EventEmitterC", "subscribe"]
+- ["12SwiftMetrics0A7MonitorC", "on"]
+- ["12SwiftMetrics0A7MonitorC", "raiseEvent"]
+- ["12SwiftMetricsAAC", "emitData"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "-"
+- !private "==="
+- !private ">"
+- "AssignmentPrecedence"
+- "DispatchQueue"
+- "Double"
+- !private "FloatLiteralType"
+- "HTTPData"
+- "HTTPStatusCode"
+- !private "HttpMonitor"
+- "Int"
+- !private "IntegerLiteralType"
+- !private "Monitor"
+- !private "NSDate"
+- "SMData"
+- "ServerMonitor"
+- "ServerRequest"
+- "ServerResponse"
+- "String"
+- "StringLiteralType"
+- "SwiftMetrics"
+- "SwiftMetricsKitura"
+- "SwiftMonitor"
+- "httpClosure"
+- "requestStore"
+- "requests"
+- !private "swiftMon"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "append"]
+- !private ["Sa", "count"]
+- !private ["Sa", "enumerated"]
+- ["Sa", "init"]
+- !private ["Sa", "remove"]
+- !private ["Sa", "removeFirst"]
+- !private ["SK", "append"]
+- !private ["SK", "count"]
+- !private ["SK", "enumerated"]
+- ["SK", "init"]
+- !private ["SK", "remove"]
+- !private ["SK", "removeFirst"]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "enumerated"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "remove"]
+- !private ["s7CVarArgP", "removeFirst"]
+- !private ["s7CVarArgP", "sync"]
+- !private ["s7CVarArgP", "timeIntervalSince1970"]
+- !private ["Sl", "append"]
+- !private ["Sl", "count"]
+- !private ["Sl", "enumerated"]
+- ["Sl", "init"]
+- !private ["Sl", "remove"]
+- !private ["Sl", "removeFirst"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "enumerated"]
+- ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "remove"]
+- !private ["10Foundation15ContiguousBytesP", "removeFirst"]
+- !private ["s28CustomDebugStringConvertibleP", "absoluteString"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerated"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "removeFirst"]
+- !private ["s28CustomDebugStringConvertibleP", "sync"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "enumerated"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s17CustomReflectableP", "removeFirst"]
+- !private ["s23CustomStringConvertibleP", "absoluteString"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "enumerated"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["s23CustomStringConvertibleP", "removeFirst"]
+- !private ["s23CustomStringConvertibleP", "sync"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "enumerated"]
+- ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "remove"]
+- !private ["10Foundation12DataProtocolP", "removeFirst"]
+- !private ["Se", "absoluteString"]
+- !private ["Se", "append"]
+- !private ["Se", "count"]
+- !private ["Se", "enumerated"]
+- ["Se", "init"]
+- !private ["Se", "remove"]
+- !private ["Se", "removeFirst"]
+- ["So18OS_dispatch_objectC", "init"]
+- !private ["So18OS_dispatch_objectC", "sync"]
+- ["So17OS_dispatch_queueC", "init"]
+- !private ["So17OS_dispatch_queueC", "sync"]
+- !private ["SE", "absoluteString"]
+- !private ["SE", "append"]
+- !private ["SE", "count"]
+- !private ["SE", "enumerated"]
+- ["SE", "init"]
+- !private ["SE", "remove"]
+- !private ["SE", "removeFirst"]
+- !private ["SQ", "absoluteString"]
+- !private ["SQ", "append"]
+- !private ["SQ", "count"]
+- !private ["SQ", "enumerated"]
+- ["SQ", "init"]
+- !private ["SQ", "remove"]
+- !private ["SQ", "removeFirst"]
+- !private ["SQ", "sync"]
+- !private ["SQ", "timeIntervalSince1970"]
+- ["12SwiftMetrics0A7MonitorC12EventEmitterC", "HTTPData"]
+- ["12SwiftMetrics0A7MonitorC12EventEmitterC", "httpClosure"]
+- ["12SwiftMetrics0A7MonitorC12EventEmitterC", "httpObservers"]
+- ["12SwiftMetrics0A7MonitorC12EventEmitterC", "publish"]
+- ["12SwiftMetrics0A7MonitorC12EventEmitterC", "subscribe"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "enumerated"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["s25ExpressibleByArrayLiteralP", "removeFirst"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- ["18SwiftMetricsKitura8HTTPDataV", "Double"]
+- ["18SwiftMetricsKitura8HTTPDataV", "HTTPStatusCode"]
+- ["18SwiftMetricsKitura8HTTPDataV", "Int"]
+- ["18SwiftMetricsKitura8HTTPDataV", "String"]
+- ["18SwiftMetricsKitura8HTTPDataV", "deinit"]
+- ["18SwiftMetricsKitura8HTTPDataV", "duration"]
+- ["18SwiftMetricsKitura8HTTPDataV", "init"]
+- ["18SwiftMetricsKitura8HTTPDataV", "requestMethod"]
+- ["18SwiftMetricsKitura8HTTPDataV", "statusCode"]
+- ["18SwiftMetricsKitura8HTTPDataV", "timeOfRequest"]
+- ["18SwiftMetricsKitura8HTTPDataV", "url"]
+- !private ["SH", "absoluteString"]
+- !private ["SH", "append"]
+- !private ["SH", "count"]
+- !private ["SH", "enumerated"]
+- ["SH", "init"]
+- !private ["SH", "remove"]
+- !private ["SH", "removeFirst"]
+- !private ["SH", "sync"]
+- !private ["SH", "timeIntervalSince1970"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["9KituraNet7MonitorV", "delegate"]
+- !private ["SM", "append"]
+- !private ["SM", "count"]
+- !private ["SM", "enumerated"]
+- ["SM", "init"]
+- !private ["SM", "remove"]
+- !private ["SM", "removeFirst"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "enumerated"]
+- ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "remove"]
+- !private ["10Foundation19MutableDataProtocolP", "removeFirst"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "timeIntervalSince1970"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "timeIntervalSince1970"]
+- !private ["So6NSDateC", "init"]
+- !private ["So6NSDateC", "timeIntervalSince1970"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "sync"]
+- !private ["So8NSObjectC", "timeIntervalSince1970"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "sync"]
+- !private ["So8NSObjectP", "timeIntervalSince1970"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "timeIntervalSince1970"]
+- !private ["Sj", "init"]
+- ["So9OS_objectC", "init"]
+- !private ["So9OS_objectC", "sync"]
+- !private ["Sk", "append"]
+- !private ["Sk", "count"]
+- !private ["Sk", "enumerated"]
+- ["Sk", "init"]
+- !private ["Sk", "remove"]
+- !private ["Sk", "removeFirst"]
+- !private ["Sm", "append"]
+- !private ["Sm", "count"]
+- !private ["Sm", "enumerated"]
+- ["Sm", "init"]
+- !private ["Sm", "remove"]
+- !private ["Sm", "removeFirst"]
+- !private ["10Foundation20ReferenceConvertibleP", "absoluteString"]
+- !private ["s10SIMDScalarP", "init"]
+- ["12SwiftMetrics6SMDataP", ""]
+- !private ["12SwiftMetrics6SMDataP", "init"]
+- !private ["ST", "append"]
+- !private ["ST", "count"]
+- !private ["ST", "enumerated"]
+- ["ST", "init"]
+- !private ["ST", "remove"]
+- !private ["ST", "removeFirst"]
+- ["9KituraNet13ServerMonitorP", "DispatchQueue"]
+- !private ["9KituraNet13ServerMonitorP", "HTTPData"]
+- !private ["9KituraNet13ServerMonitorP", "Int"]
+- !private ["9KituraNet13ServerMonitorP", "NSDate"]
+- !private ["9KituraNet13ServerMonitorP", ""]
+- ["9KituraNet13ServerMonitorP", "finished"]
+- !private ["9KituraNet13ServerMonitorP", "init"]
+- !private ["9KituraNet13ServerMonitorP", "queue"]
+- !private ["9KituraNet13ServerMonitorP", "requestStore"]
+- !private ["9KituraNet13ServerMonitorP", "requests"]
+- !private ["9KituraNet13ServerMonitorP", "sM"]
+- ["9KituraNet13ServerMonitorP", "started"]
+- !private ["9KituraNet13ServerMonitorP", "timeIntervalSince1970MilliSeconds"]
+- !private ["9KituraNet13ServerRequestP", "method"]
+- !private ["9KituraNet13ServerRequestP", "urlURL"]
+- !private ["9KituraNet14ServerResponseP", "statusCode"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- ["12SwiftMetricsAAC", "HTTPData"]
+- ["12SwiftMetricsAAC", "emitData"]
+- !private ["12SwiftMetricsAAC", "swiftMon"]
+- !private ["18SwiftMetricsKituraAAC", "HttpMonitor"]
+- !private ["18SwiftMetricsKituraAAC", "Monitor"]
+- ["18SwiftMetricsKituraAAC", "SwiftMetrics"]
+- ["18SwiftMetricsKituraAAC", "disable"]
+- ["18SwiftMetricsKituraAAC", "enable"]
+- ["18SwiftMetricsKituraAAC", "init"]
+- ["12SwiftMetrics0A7MonitorC", "EventEmitter"]
+- ["12SwiftMetrics0A7MonitorC", "HTTPData"]
+- ["12SwiftMetrics0A7MonitorC", "httpClosure"]
+- ["12SwiftMetrics0A7MonitorC", "on"]
+- ["12SwiftMetrics0A7MonitorC", "raiseEvent"]
+- !private ["10Foundation3URLV", "absoluteString"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "enumerated"]
+- ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "remove"]
+- !private ["s14_ArrayProtocolP", "removeFirst"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "absoluteString"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "enumerated"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "remove"]
+- !private ["s24_DestructorSafeContainerP", "removeFirst"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "absoluteString"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "enumerated"]
+- ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "remove"]
+- !private ["s19_HasContiguousBytesP", "removeFirst"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "enumerated"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "remove"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "removeFirst"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "timeIntervalSince1970"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sync"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeIntervalSince1970"]
+- !private ["s21_ObjectiveCBridgeableP", "absoluteString"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "enumerated"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+- !private ["s21_ObjectiveCBridgeableP", "removeFirst"]
+- ["18SwiftMetricsKitura8requestsV", "Double"]
+- ["18SwiftMetricsKitura8requestsV", "ServerRequest"]
+- ["18SwiftMetricsKitura8requestsV", "init"]
+- ["18SwiftMetricsKitura8requestsV", "request"]
+- ["18SwiftMetricsKitura8requestsV", "requestTime"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- "Sa"
+- "SK"
+- !private "Sz"
+- "s7CVarArgP"
+- "Sl"
+- !private "SL"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation12DataProtocolP"
+- "Se"
+- "So18OS_dispatch_objectC"
+- "So17OS_dispatch_queueC"
+- "SE"
+- "SQ"
+- "12SwiftMetrics0A7MonitorC12EventEmitterC"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "18SwiftMetricsKitura8HTTPDataV"
+- "SH"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "9KituraNet7MonitorV"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So6NSDateC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sj"
+- "So9OS_objectC"
+- "Sk"
+- "Sm"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s10SIMDScalarP"
+- "12SwiftMetrics6SMDataP"
+- "ST"
+- "9KituraNet13ServerMonitorP"
+- !private "9KituraNet13ServerRequestP"
+- !private "9KituraNet14ServerResponseP"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- "12SwiftMetricsAAC"
+- "18SwiftMetricsKituraAAC"
+- "12SwiftMetrics0A7MonitorC"
+- !private "10Foundation3URLV"
+- "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "18SwiftMetricsKitura8requestsV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetrics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/FileKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CloudFoundryEnv.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/omr-agentcore-1273195304195151760/src/agentcore/include/AgentExtensions.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "83453d0a26bd8a38f8587d483b7deaca"

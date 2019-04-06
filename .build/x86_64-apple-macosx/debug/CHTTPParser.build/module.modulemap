@@ -1,0 +1,4 @@
+module CHTTPParser {
+    umbrella header "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+    export *
+}

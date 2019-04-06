@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "2c54b4445b99a7d1ea4cab228d904a0c"
+build_time: [1554331711, 572568000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/LoggerAPI.git--6478326308487365557/Sources/LoggerAPI/Logger.swift": [1553213964, 627206845]

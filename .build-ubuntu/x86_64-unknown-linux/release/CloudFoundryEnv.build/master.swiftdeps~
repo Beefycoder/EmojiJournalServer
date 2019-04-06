@@ -1,0 +1,10 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "203a9dc5c91eb62c068bb31ca5e696fe"
+build_time: [1553552511, 465991059]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/App.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/AppEnv.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/CollectionUtils.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/DateUtils.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/JSONUtils.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-cfenv.git--3621609019096964656/Sources/CloudFoundryEnv/Service.swift": [9223372036, 854775807]

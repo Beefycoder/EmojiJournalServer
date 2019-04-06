@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Signals.build/Signals.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Signals.build/Signals.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Signals.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueSignals.git--7130819659919173415/Sources/Signals/Signals.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Signals.build/Signals.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Signals.build/Signals~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Signals.build/Signals.swiftdeps"
+  }
+}

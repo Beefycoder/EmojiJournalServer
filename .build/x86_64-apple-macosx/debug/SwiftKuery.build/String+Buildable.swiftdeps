@@ -1,0 +1,119 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "SS"
+provides-member:
+- ["SS", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "QueryBuilder"
+- "QueryFilterProtocol"
+- "QueryHavingProtocol"
+- "QuerySuffixProtocol"
+- "String"
+depends-member:
+- ["SK", "build"]
+- ["10SwiftKuery9BuildableP", ""]
+- ["10SwiftKuery9BuildableP", "build"]
+- ["s7CVarArgP", "build"]
+- ["Sl", "build"]
+- ["SL", "build"]
+- ["s28CustomDebugStringConvertibleP", "build"]
+- ["s17CustomReflectableP", "build"]
+- ["s23CustomStringConvertibleP", "build"]
+- ["Se", "build"]
+- ["SE", "build"]
+- ["SQ", "build"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "build"]
+- ["s32ExpressibleByStringInterpolationP", "build"]
+- ["s26ExpressibleByStringLiteralP", "build"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "build"]
+- ["SH", "build"]
+- ["s25LosslessStringConvertibleP", "build"]
+- ["s10MirrorPathP", "build"]
+- ["10SwiftKuery19QueryFilterProtocolP", ""]
+- ["10SwiftKuery19QueryFilterProtocolP", "build"]
+- ["10SwiftKuery19QueryHavingProtocolP", ""]
+- ["10SwiftKuery19QueryHavingProtocolP", "build"]
+- ["10SwiftKuery19QuerySuffixProtocolP", ""]
+- ["10SwiftKuery19QuerySuffixProtocolP", "build"]
+- ["Sm", "build"]
+- ["10SwiftKuery11SQLDataTypeP", "build"]
+- ["ST", "build"]
+- ["SS", "QueryBuilder"]
+- ["SS", "String"]
+- ["SS", "build"]
+- ["SS", "deinit"]
+- ["Sy", "build"]
+- ["s16TextOutputStreamP", "build"]
+- ["s20TextOutputStreamableP", "build"]
+- ["s30_CustomPlaygroundQuickLookableP", "build"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "build"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "build"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "build"]
+- ["s19_HasContiguousBytesP", "build"]
+- ["s21_ObjectiveCBridgeableP", "build"]
+depends-nominal:
+- "SK"
+- "10SwiftKuery9BuildableP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "10SwiftKuery19QueryFilterProtocolP"
+- "10SwiftKuery19QueryHavingProtocolP"
+- "10SwiftKuery19QuerySuffixProtocolP"
+- "Sm"
+- "10SwiftKuery11SQLDataTypeP"
+- "ST"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s19_HasContiguousBytesP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8c27521230150cfa21f732e261af553c"

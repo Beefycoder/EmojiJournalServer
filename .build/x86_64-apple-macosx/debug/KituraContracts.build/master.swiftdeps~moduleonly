@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "3c8d3f7f0171715b07a69b908cd600af"
+build_time: [1554331713, 774161000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/KituraContracts.git-8242470758012645844/Sources/KituraContracts/BodyDecoder.swift": [1553213962, 236809604]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/KituraContracts.git-8242470758012645844/Sources/KituraContracts/BodyEncoder.swift": [1553213962, 236929998]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/KituraContracts.git-8242470758012645844/Sources/KituraContracts/BodyFormat.swift": [1553213962, 237045579]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/KituraContracts.git-8242470758012645844/Sources/KituraContracts/ClosureAliases.swift": [1553213962, 237198516]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/KituraContracts.git-8242470758012645844/Sources/KituraContracts/CodableQuery/Coder.swift": [1553213962, 237367943]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/KituraContracts.git-8242470758012645844/Sources/KituraContracts/CodableQuery/Extensions.swift": [1553213962, 237548566]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/KituraContracts.git-8242470758012645844/Sources/KituraContracts/CodableQuery/QueryDecoder.swift": [1553213962, 237704605]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/KituraContracts.git-8242470758012645844/Sources/KituraContracts/CodableQuery/QueryEncoder.swift": [1553213962, 237817320]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/KituraContracts.git-8242470758012645844/Sources/KituraContracts/Contracts.swift": [1553213962, 238080997]

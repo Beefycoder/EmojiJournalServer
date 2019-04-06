@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "647e0a2381ab1b517de6ed59198ad9e0"
+build_time: [1554331727, 848175000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/SwiftMetrics.git-2402868093059083009/Sources/SwiftMetricsDash/SwiftMetricsDash.swift": [1553213963, 295020387]

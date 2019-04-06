@@ -1,0 +1,252 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/SwiftKuery.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/SwiftKuery.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/AggregateColumnExpression.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/AggregateColumnExpression.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/AggregateColumnExpression~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/AggregateColumnExpression.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/AuxiliaryTable.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/AuxiliaryTable.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/AuxiliaryTable~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/AuxiliaryTable.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Buildable.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Buildable.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Buildable~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Buildable.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Column.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Column.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Column~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Column.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/ColumnAndExpressions_Extensions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ColumnAndExpressions_Extensions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ColumnAndExpressions_Extensions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ColumnAndExpressions_Extensions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Condition.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Condition.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Condition~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Condition.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/ConditionalClause.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConditionalClause.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConditionalClause~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConditionalClause.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Connection.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Connection.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Connection~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Connection.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/ConnectionPool.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConnectionPool.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConnectionPool~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConnectionPool.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/ConnectionPoolConnection.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConnectionPoolConnection.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConnectionPoolConnection~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConnectionPoolConnection.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/ConnectionPoolOptions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConnectionPoolOptions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConnectionPoolOptions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ConnectionPoolOptions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Delete.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Delete.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Delete~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Delete.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Field.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Field.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Field~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Field.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Filter.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Filter.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Filter~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Filter.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/FilterAndHaving_Extensions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/FilterAndHaving_Extensions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/FilterAndHaving_Extensions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/FilterAndHaving_Extensions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/FilterAndHaving_GlobalFunctions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/FilterAndHaving_GlobalFunctions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/FilterAndHaving_GlobalFunctions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/FilterAndHaving_GlobalFunctions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/ForeignKey.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ForeignKey.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ForeignKey~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ForeignKey.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Having.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Having.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Having~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Having.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Index.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Index.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Index~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Index.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/IndexColumn.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/IndexColumn.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/IndexColumn~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/IndexColumn.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/IndexColumnOrdered.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/IndexColumnOrdered.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/IndexColumnOrdered~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/IndexColumnOrdered.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Insert.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Insert.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Insert~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Insert.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Join.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Join.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Join~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Join.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Migration.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Migration.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Migration~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Migration.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/OrderBy.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/OrderBy.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/OrderBy~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/OrderBy.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Parameter.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Parameter.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Parameter~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Parameter.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Predicate.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Predicate.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Predicate~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Predicate.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/PreparedStatement.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/PreparedStatement.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/PreparedStatement~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/PreparedStatement.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Query.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Query.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Query~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Query.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/QueryBuilder.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QueryBuilder.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QueryBuilder~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QueryBuilder.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/QueryError.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QueryError.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QueryError~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QueryError.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/QueryResult.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QueryResult.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QueryResult~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QueryResult.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/QuerySuffixProtocol.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QuerySuffixProtocol.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QuerySuffixProtocol~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/QuerySuffixProtocol.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Raw.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Raw.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Raw~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Raw.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/RawField.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/RawField.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/RawField~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/RawField.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/ResultFetcher.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ResultFetcher.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ResultFetcher~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ResultFetcher.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/ResultSet.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ResultSet.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ResultSet~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ResultSet.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/RowSequence.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/RowSequence.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/RowSequence~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/RowSequence.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/SQLDataType.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/SQLDataType.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/SQLDataType~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/SQLDataType.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/ScalarColumnExpression.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ScalarColumnExpression.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ScalarColumnExpression~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/ScalarColumnExpression.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Select.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Select.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Select~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Select.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/SpecialOperators_Extensions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/SpecialOperators_Extensions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/SpecialOperators_Extensions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/SpecialOperators_Extensions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/String+Buildable.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/String+Buildable.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/String+Buildable~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/String+Buildable.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Subqueries_GlobalFunctionsAndExtensions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Subqueries_GlobalFunctionsAndExtensions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Subqueries_GlobalFunctionsAndExtensions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Subqueries_GlobalFunctionsAndExtensions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Table.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Table.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Table~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Table.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Union.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Union.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Union~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Union.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Update.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Update.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Update~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Update.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/Utils.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Utils.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Utils~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/Utils.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery.git-1931101158914346633/Sources/SwiftKuery/With.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/With.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/With~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftKuery.build/With.swiftdeps"
+  }
+}

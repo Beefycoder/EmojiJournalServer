@@ -1,0 +1,125 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HTTPParserState"
+- "HTTPParserErrorType"
+- "HTTPParserStatus"
+provides-nominal:
+- "9KituraNet15HTTPParserStateO"
+- "9KituraNet19HTTPParserErrorTypeO"
+- "9KituraNet16HTTPParserStatusV"
+provides-member:
+- ["9KituraNet15HTTPParserStateO", ""]
+- ["9KituraNet19HTTPParserErrorTypeO", ""]
+- ["9KituraNet16HTTPParserStatusV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "CustomStringConvertible"
+- "HTTPParserErrorType"
+- "HTTPParserState"
+- "HTTPParserStatus"
+- "String"
+depends-member:
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "internalError"]
+- ["s23CustomStringConvertibleP", "parsedLessThanRead"]
+- ["s23CustomStringConvertibleP", "unexpectedEOF"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "description"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "initial"]
+- ["SQ", "internalError"]
+- ["SQ", "parsedLessThanRead"]
+- ["SQ", "unexpectedEOF"]
+- ["9KituraNet19HTTPParserErrorTypeO", "=="]
+- ["9KituraNet19HTTPParserErrorTypeO", "String"]
+- ["9KituraNet19HTTPParserErrorTypeO", "__derived_enum_equals"]
+- ["9KituraNet19HTTPParserErrorTypeO", "_rawHashValue"]
+- ["9KituraNet19HTTPParserErrorTypeO", "deinit"]
+- ["9KituraNet19HTTPParserErrorTypeO", "description"]
+- ["9KituraNet19HTTPParserErrorTypeO", "hash"]
+- ["9KituraNet19HTTPParserErrorTypeO", "hashValue"]
+- ["9KituraNet19HTTPParserErrorTypeO", "internalError"]
+- ["9KituraNet19HTTPParserErrorTypeO", "parsedLessThanRead"]
+- ["9KituraNet19HTTPParserErrorTypeO", "unexpectedEOF"]
+- ["9KituraNet15HTTPParserStateO", "=="]
+- ["9KituraNet15HTTPParserStateO", "__derived_enum_equals"]
+- ["9KituraNet15HTTPParserStateO", "_rawHashValue"]
+- ["9KituraNet15HTTPParserStateO", "deinit"]
+- ["9KituraNet15HTTPParserStateO", "hash"]
+- ["9KituraNet15HTTPParserStateO", "hashValue"]
+- ["9KituraNet15HTTPParserStateO", "initial"]
+- ["9KituraNet15HTTPParserStateO", "messageComplete"]
+- ["9KituraNet15HTTPParserStateO", "reset"]
+- ["9KituraNet16HTTPParserStatusV", "HTTPParserErrorType"]
+- ["9KituraNet16HTTPParserStatusV", "HTTPParserState"]
+- ["9KituraNet16HTTPParserStatusV", "bytesLeft"]
+- ["9KituraNet16HTTPParserStatusV", "error"]
+- ["9KituraNet16HTTPParserStatusV", "init"]
+- ["9KituraNet16HTTPParserStatusV", "keepAlive"]
+- ["9KituraNet16HTTPParserStatusV", "reset"]
+- ["9KituraNet16HTTPParserStatusV", "state"]
+- ["9KituraNet16HTTPParserStatusV", "upgrade"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "initial"]
+- ["SH", "internalError"]
+- ["SH", "parsedLessThanRead"]
+- ["SH", "unexpectedEOF"]
+- !private ["s6HasherV", "combine"]
+depends-nominal:
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "9KituraNet19HTTPParserErrorTypeO"
+- "9KituraNet15HTTPParserStateO"
+- "9KituraNet16HTTPParserStatusV"
+- "SH"
+- !private "s6HasherV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ba8e3632f5ac1c65d7b8853e95701a06"

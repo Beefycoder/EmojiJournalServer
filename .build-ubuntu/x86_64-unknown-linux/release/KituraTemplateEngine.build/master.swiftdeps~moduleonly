@@ -1,0 +1,5 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "31259bcc6bb1f9e659019ed6aae36e25"
+build_time: [1554239837, 855680100]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/Kitura-TemplateEngine.git-7816785356969645644/Sources/KituraTemplateEngine/TemplateEngine.swift": [9223372036, 854775807]

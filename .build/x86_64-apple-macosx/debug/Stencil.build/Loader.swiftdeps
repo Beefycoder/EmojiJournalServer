@@ -1,0 +1,358 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Loader"
+- "FileSystemLoader"
+- "DictionaryLoader"
+- "SuspiciousFileOperation"
+provides-nominal:
+- "7Stencil6LoaderP"
+- "7Stencil16FileSystemLoaderC"
+- "7Stencil16DictionaryLoaderC"
+- "7Stencil23SuspiciousFileOperationC"
+provides-member:
+- ["7Stencil6LoaderP", ""]
+- ["7Stencil16FileSystemLoaderC", ""]
+- ["7Stencil16DictionaryLoaderC", ""]
+- ["7PathKit0A0V", ""]
+- ["7Stencil23SuspiciousFileOperationC", ""]
+- ["7Stencil6LoaderP", "loadTemplate"]
+- ["7PathKit0A0V", "safeJoin"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "+"
+- "AssignmentPrecedence"
+- "Bundle"
+- "CustomStringConvertible"
+- "DictionaryLoader"
+- "Environment"
+- "Error"
+- "FileSystemLoader"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Loader"
+- "Path"
+- "String"
+- !private "StringLiteralType"
+- "SuspiciousFileOperation"
+- "Template"
+- !private "TemplateDoesNotExist"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["Sa", "map"]
+- !private ["SK", "hasPrefix"]
+- !private ["SK", "map"]
+- !private ["So8NSBundleC", "bundlePath"]
+- !private ["s7CVarArgP", "bundlePath"]
+- !private ["s7CVarArgP", "hasPrefix"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "hasPrefix"]
+- !private ["Sl", "map"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "SuspiciousFileOperation"]
+- !private ["SL", "absolute"]
+- !private ["SL", "description"]
+- !private ["SL", "exists"]
+- !private ["SL", "hasPrefix"]
+- !private ["SL", "init"]
+- !private ["SL", "read"]
+- !private ["SL", "safeJoin"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "bundlePath"]
+- !private ["s28CustomDebugStringConvertibleP", "hasPrefix"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "hasPrefix"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "Path"]
+- !private ["s23CustomStringConvertibleP", "SuspiciousFileOperation"]
+- !private ["s23CustomStringConvertibleP", "TemplateDoesNotExist"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "absolute"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "bundlePath"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "exists"]
+- !private ["s23CustomStringConvertibleP", "hasPrefix"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "loadTemplate"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "paths"]
+- !private ["s23CustomStringConvertibleP", "read"]
+- !private ["s23CustomStringConvertibleP", "safeJoin"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["Se", "hasPrefix"]
+- !private ["Se", "map"]
+- !private ["Se", "subscript"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "subscript"]
+- ["7Stencil16DictionaryLoaderC", "Environment"]
+- ["7Stencil16DictionaryLoaderC", "String"]
+- ["7Stencil16DictionaryLoaderC", "Template"]
+- !private ["7Stencil16DictionaryLoaderC", "TemplateDoesNotExist"]
+- ["7Stencil16DictionaryLoaderC", "deinit"]
+- ["7Stencil16DictionaryLoaderC", "init"]
+- ["7Stencil16DictionaryLoaderC", "loadTemplate"]
+- ["7Stencil16DictionaryLoaderC", "templates"]
+- !private ["SE", "hasPrefix"]
+- !private ["SE", "map"]
+- !private ["SE", "subscript"]
+- !private ["7Stencil11EnvironmentV", "templateClass"]
+- !private ["SQ", "SuspiciousFileOperation"]
+- !private ["SQ", "absolute"]
+- !private ["SQ", "bundlePath"]
+- !private ["SQ", "description"]
+- !private ["SQ", "exists"]
+- !private ["SQ", "hasPrefix"]
+- !private ["SQ", "init"]
+- !private ["SQ", "map"]
+- !private ["SQ", "read"]
+- !private ["SQ", "safeJoin"]
+- !private ["SQ", "subscript"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "basePath"]
+- !private ["s5ErrorP", "init"]
+- !private ["s5ErrorP", "path"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "SuspiciousFileOperation"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "absolute"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "description"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "exists"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasPrefix"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "read"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "safeJoin"]
+- !private ["s32ExpressibleByStringInterpolationP", "hasPrefix"]
+- !private ["s26ExpressibleByStringLiteralP", "SuspiciousFileOperation"]
+- !private ["s26ExpressibleByStringLiteralP", "absolute"]
+- !private ["s26ExpressibleByStringLiteralP", "description"]
+- !private ["s26ExpressibleByStringLiteralP", "exists"]
+- !private ["s26ExpressibleByStringLiteralP", "hasPrefix"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "read"]
+- !private ["s26ExpressibleByStringLiteralP", "safeJoin"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "SuspiciousFileOperation"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "absolute"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "description"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "exists"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hasPrefix"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "read"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "safeJoin"]
+- ["7Stencil16FileSystemLoaderC", "Bundle"]
+- ["7Stencil16FileSystemLoaderC", "Environment"]
+- ["7Stencil16FileSystemLoaderC", "Path"]
+- ["7Stencil16FileSystemLoaderC", "String"]
+- ["7Stencil16FileSystemLoaderC", "Template"]
+- !private ["7Stencil16FileSystemLoaderC", "TemplateDoesNotExist"]
+- ["7Stencil16FileSystemLoaderC", "deinit"]
+- ["7Stencil16FileSystemLoaderC", "description"]
+- ["7Stencil16FileSystemLoaderC", "init"]
+- ["7Stencil16FileSystemLoaderC", "loadTemplate"]
+- ["7Stencil16FileSystemLoaderC", "paths"]
+- !private ["SH", "SuspiciousFileOperation"]
+- !private ["SH", "absolute"]
+- !private ["SH", "bundlePath"]
+- !private ["SH", "description"]
+- !private ["SH", "exists"]
+- !private ["SH", "hasPrefix"]
+- !private ["SH", "init"]
+- !private ["SH", "map"]
+- !private ["SH", "read"]
+- !private ["SH", "safeJoin"]
+- !private ["SH", "subscript"]
+- ["7Stencil6LoaderP", "Environment"]
+- !private ["7Stencil6LoaderP", "Path"]
+- ["7Stencil6LoaderP", "String"]
+- ["7Stencil6LoaderP", "Template"]
+- !private ["7Stencil6LoaderP", "TemplateDoesNotExist"]
+- ["7Stencil6LoaderP", ""]
+- ["7Stencil6LoaderP", "description"]
+- ["7Stencil6LoaderP", "loadTemplate"]
+- !private ["7Stencil6LoaderP", "paths"]
+- !private ["7Stencil6LoaderP", "templates"]
+- !private ["s25LosslessStringConvertibleP", "hasPrefix"]
+- !private ["s10MirrorPathP", "hasPrefix"]
+- !private ["SM", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["So8NSCodingP", "hasPrefix"]
+- !private ["So9NSCopyingP", "hasPrefix"]
+- !private ["So21NSItemProviderReadingP", "hasPrefix"]
+- !private ["So21NSItemProviderWritingP", "hasPrefix"]
+- !private ["So16NSMutableCopyingP", "hasPrefix"]
+- !private ["So8NSObjectC", "bundlePath"]
+- !private ["So8NSObjectC", "hasPrefix"]
+- !private ["So8NSObjectP", "bundlePath"]
+- !private ["So8NSObjectP", "hasPrefix"]
+- !private ["So14NSSecureCodingP", "hasPrefix"]
+- !private ["So8NSStringC", "hasPrefix"]
+- !private ["7Stencil12NormalizableP", "map"]
+- !private ["7Stencil12NormalizableP", "subscript"]
+- ["7PathKit0A0V", "Path"]
+- !private ["7PathKit0A0V", "SuspiciousFileOperation"]
+- !private ["7PathKit0A0V", "absolute"]
+- !private ["7PathKit0A0V", "description"]
+- !private ["7PathKit0A0V", "exists"]
+- !private ["7PathKit0A0V", "init"]
+- !private ["7PathKit0A0V", "read"]
+- ["7PathKit0A0V", "safeJoin"]
+- !private ["Sk", "map"]
+- !private ["Sm", "hasPrefix"]
+- !private ["Sm", "map"]
+- !private ["ST", "SuspiciousFileOperation"]
+- !private ["ST", "absolute"]
+- !private ["ST", "description"]
+- !private ["ST", "exists"]
+- !private ["ST", "hasPrefix"]
+- !private ["ST", "init"]
+- !private ["ST", "map"]
+- !private ["ST", "read"]
+- !private ["ST", "safeJoin"]
+- !private ["ST", "subscript"]
+- !private ["SS", "hasPrefix"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "hasPrefix"]
+- ["7Stencil23SuspiciousFileOperationC", "Path"]
+- ["7Stencil23SuspiciousFileOperationC", "String"]
+- ["7Stencil23SuspiciousFileOperationC", "_code"]
+- ["7Stencil23SuspiciousFileOperationC", "_domain"]
+- ["7Stencil23SuspiciousFileOperationC", "_getEmbeddedNSError"]
+- ["7Stencil23SuspiciousFileOperationC", "_userInfo"]
+- ["7Stencil23SuspiciousFileOperationC", "basePath"]
+- ["7Stencil23SuspiciousFileOperationC", "deinit"]
+- ["7Stencil23SuspiciousFileOperationC", "description"]
+- ["7Stencil23SuspiciousFileOperationC", "init"]
+- ["7Stencil23SuspiciousFileOperationC", "path"]
+- !private ["7Stencil8TemplateC", "deinit"]
+- !private ["7Stencil8TemplateC", "init"]
+- !private ["7Stencil8TemplateC", "init"]
+- !private ["7Stencil20TemplateDoesNotExistC", "deinit"]
+- !private ["7Stencil20TemplateDoesNotExistC", "init"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "hasPrefix"]
+- !private ["s20TextOutputStreamableP", "hasPrefix"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hasPrefix"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasPrefix"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hasPrefix"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasPrefix"]
+- !private ["s19_HasContiguousBytesP", "hasPrefix"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hasPrefix"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bundlePath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasPrefix"]
+- !private ["s21_ObjectiveCBridgeableP", "hasPrefix"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "So8NSBundleC"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- "7Stencil16DictionaryLoaderC"
+- !private "SE"
+- !private "7Stencil11EnvironmentV"
+- !private "SQ"
+- "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "7Stencil16FileSystemLoaderC"
+- !private "SH"
+- "7Stencil6LoaderP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "7Stencil12NormalizableP"
+- "7PathKit0A0V"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- "7Stencil23SuspiciousFileOperationC"
+- !private "7Stencil8TemplateC"
+- !private "7Stencil20TemplateDoesNotExistC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e47d0ac8edb226b2c1e74ee3d2d9f9c7"

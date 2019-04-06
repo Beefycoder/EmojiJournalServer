@@ -1,0 +1,22 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Health.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Health.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Health.git--3176600534888711150/Sources/Health/Health.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Health.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Health~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Health.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Health.git--3176600534888711150/Sources/Health/Protocols.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Protocols.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Protocols~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Protocols.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Health.git--3176600534888711150/Sources/Health/Utils.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Utils.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Utils~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Health.build/Utils.swiftdeps"
+  }
+}

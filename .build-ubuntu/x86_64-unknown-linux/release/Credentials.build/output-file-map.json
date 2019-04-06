@@ -1,0 +1,47 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/Credentials.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/Credentials.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/BaseCacheElement.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/BaseCacheElement.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/BaseCacheElement~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/BaseCacheElement.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/Credentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/Credentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/Credentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/Credentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/CredentialsPluginProtocol.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/CredentialsPluginProtocol.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/CredentialsPluginProtocol~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/CredentialsPluginProtocol.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/MultiTypeSafeCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/MultiTypeSafeCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/MultiTypeSafeCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/MultiTypeSafeCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/RouterRequest+UserProfile.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/RouterRequest+UserProfile.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/RouterRequest+UserProfile~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/RouterRequest+UserProfile.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/TypeSafeCredentials.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/TypeSafeCredentials.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/TypeSafeCredentials~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/TypeSafeCredentials.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/UserProfile.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/UserProfile.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/UserProfile~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/UserProfile.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/UserProfileDelegate.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/UserProfileDelegate.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/UserProfileDelegate~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Credentials.build/UserProfileDelegate.swiftdeps"
+  }
+}

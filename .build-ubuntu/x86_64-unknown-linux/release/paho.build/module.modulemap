@@ -1,0 +1,4 @@
+module paho {
+    umbrella "/swift-project/.build-ubuntu/checkouts/omr-agentcore--7541127466014459218/src/paho/include"
+    export *
+}

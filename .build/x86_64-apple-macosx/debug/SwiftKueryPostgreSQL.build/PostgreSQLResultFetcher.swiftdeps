@@ -1,0 +1,856 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PostgreSQLResultFetcher"
+provides-nominal:
+- "20SwiftKueryPostgreSQL0C16SQLResultFetcherC"
+provides-member:
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", ""]
+- ["SS", ""]
+- ["SS", "leftPadding"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- "*"
+- !private "+"
+- !private "+="
+- "-"
+- !private "..."
+- !private "..<"
+- !private "/"
+- !private "<"
+- !private "<="
+- !private "=="
+- !private ">"
+- !private ">="
+- !private "??"
+- "AssignmentPrecedence"
+- !private "Bool"
+- "BooleanLiteralType"
+- !private "Data"
+- "Date"
+- !private "Float32"
+- !private "Float64"
+- "FloatLiteralType"
+- "Int"
+- "Int16"
+- "Int32"
+- !private "Int64"
+- "Int8"
+- "IntegerLiteralType"
+- "OpaquePointer"
+- !private "PGRES_SINGLE_TUPLE"
+- !private "PGRES_TUPLES_OK"
+- !private "PQclear"
+- !private "PQfformat"
+- !private "PQfname"
+- !private "PQftype"
+- !private "PQgetResult"
+- !private "PQgetisnull"
+- !private "PQgetlength"
+- !private "PQgetvalue"
+- !private "PQnfields"
+- !private "PQresultStatus"
+- "PostgreSQLConnection"
+- "PostgreSQLResultFetcher"
+- !private "PostgreSQLType"
+- "ResultFetcher"
+- "String"
+- !private "StringLiteralType"
+- "TimeInterval"
+- !private "UInt32"
+- !private "UInt64"
+- !private "UUID"
+- !private "UnicodeScalarType"
+- "UnsafeMutablePointer"
+- !private "clearResult"
+- !private "uuid_t"
+depends-member:
+- ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "append"]
+- !private ["Sa", "init"]
+- !private ["SK", "Encoding"]
+- !private ["SK", "String"]
+- !private ["SK", "append"]
+- !private ["SK", "count"]
+- !private ["SK", "dropLast"]
+- !private ["SK", "hasSuffix"]
+- !private ["SK", "init"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "leftPadding"]
+- !private ["SK", "pointee"]
+- !private ["SK", "withUnsafeBytes"]
+- ["SB", "init"]
+- !private ["Sz", "init"]
+- !private ["Sb", "init"]
+- !private ["10SwiftKuery9BuildableP", "Encoding"]
+- !private ["10SwiftKuery9BuildableP", "String"]
+- !private ["10SwiftKuery9BuildableP", "count"]
+- !private ["10SwiftKuery9BuildableP", "dropLast"]
+- !private ["10SwiftKuery9BuildableP", "hasSuffix"]
+- !private ["10SwiftKuery9BuildableP", "init"]
+- !private ["10SwiftKuery9BuildableP", "isEmpty"]
+- !private ["10SwiftKuery9BuildableP", "leftPadding"]
+- !private ["s7CVarArgP", "Encoding"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "advanced"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "dropLast"]
+- !private ["s7CVarArgP", "hasSuffix"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "leftPadding"]
+- !private ["s7CVarArgP", "pointee"]
+- !private ["s7CVarArgP", "withMemoryRebound"]
+- !private ["Sl", "Encoding"]
+- !private ["Sl", "String"]
+- !private ["Sl", "append"]
+- !private ["Sl", "count"]
+- !private ["Sl", "dropLast"]
+- !private ["Sl", "hasSuffix"]
+- !private ["Sl", "init"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "leftPadding"]
+- !private ["Sl", "pointee"]
+- !private ["Sl", "withUnsafeBytes"]
+- !private ["SL", "Encoding"]
+- !private ["SL", "String"]
+- !private ["SL", "advanced"]
+- !private ["SL", "count"]
+- !private ["SL", "dropLast"]
+- !private ["SL", "hasSuffix"]
+- ["SL", "init"]
+- !private ["SL", "isEmpty"]
+- !private ["SL", "leftPadding"]
+- !private ["SL", "pointee"]
+- ["SL", "timeIntervalBetween1970AndReferenceDate"]
+- !private ["SL", "withMemoryRebound"]
+- !private ["10SwiftKuery10ConnectionP", "connection"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "pointee"]
+- !private ["10Foundation15ContiguousBytesP", "withUnsafeBytes"]
+- !private ["s28CustomDebugStringConvertibleP", "Encoding"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "advanced"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "dropLast"]
+- !private ["s28CustomDebugStringConvertibleP", "hasSuffix"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "leftPadding"]
+- !private ["s28CustomDebugStringConvertibleP", "pointee"]
+- ["s28CustomDebugStringConvertibleP", "timeIntervalBetween1970AndReferenceDate"]
+- !private ["s28CustomDebugStringConvertibleP", "uuidString"]
+- !private ["s28CustomDebugStringConvertibleP", "withMemoryRebound"]
+- !private ["s28CustomDebugStringConvertibleP", "withUnsafeBytes"]
+- !private ["s17CustomReflectableP", "Encoding"]
+- !private ["s17CustomReflectableP", "String"]
+- !private ["s17CustomReflectableP", "advanced"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "dropLast"]
+- !private ["s17CustomReflectableP", "hasSuffix"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "leftPadding"]
+- !private ["s17CustomReflectableP", "pointee"]
+- ["s17CustomReflectableP", "timeIntervalBetween1970AndReferenceDate"]
+- !private ["s17CustomReflectableP", "uuidString"]
+- !private ["s17CustomReflectableP", "withMemoryRebound"]
+- !private ["s17CustomReflectableP", "withUnsafeBytes"]
+- !private ["s23CustomStringConvertibleP", "Encoding"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "dropLast"]
+- !private ["s23CustomStringConvertibleP", "hasSuffix"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "leftPadding"]
+- ["s23CustomStringConvertibleP", "timeIntervalBetween1970AndReferenceDate"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["s23CustomStringConvertibleP", "uuidString"]
+- !private ["s23CustomStringConvertibleP", "withUnsafeBytes"]
+- !private ["10Foundation4DataV", "init"]
+- !private ["10Foundation4DataV", "withUnsafeBytes"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "pointee"]
+- !private ["10Foundation12DataProtocolP", "withUnsafeBytes"]
+- !private ["10Foundation4DateV", "init"]
+- ["10Foundation4DateV", "timeIntervalBetween1970AndReferenceDate"]
+- !private ["Se", "Encoding"]
+- !private ["Se", "String"]
+- !private ["Se", "append"]
+- !private ["Se", "count"]
+- !private ["Se", "dropLast"]
+- !private ["Se", "hasSuffix"]
+- ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "leftPadding"]
+- ["Se", "timeIntervalBetween1970AndReferenceDate"]
+- !private ["Se", "uuidString"]
+- !private ["Se", "withUnsafeBytes"]
+- ["Sd", "init"]
+- !private ["SE", "Encoding"]
+- !private ["SE", "String"]
+- !private ["SE", "append"]
+- !private ["SE", "count"]
+- !private ["SE", "dropLast"]
+- !private ["SE", "hasSuffix"]
+- ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "leftPadding"]
+- ["SE", "timeIntervalBetween1970AndReferenceDate"]
+- !private ["SE", "uuidString"]
+- !private ["SE", "withUnsafeBytes"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- !private ["SQ", "Encoding"]
+- !private ["SQ", "String"]
+- !private ["SQ", "advanced"]
+- !private ["SQ", "append"]
+- ["SQ", "bool"]
+- ["SQ", "bpchar"]
+- ["SQ", "char"]
+- !private ["SQ", "count"]
+- ["SQ", "date"]
+- !private ["SQ", "dropLast"]
+- ["SQ", "float4"]
+- ["SQ", "float8"]
+- !private ["SQ", "hasSuffix"]
+- ["SQ", "init"]
+- ["SQ", "int2"]
+- ["SQ", "int4"]
+- ["SQ", "int8"]
+- !private ["SQ", "isEmpty"]
+- ["SQ", "json"]
+- !private ["SQ", "leftPadding"]
+- ["SQ", "name"]
+- ["SQ", "numeric"]
+- !private ["SQ", "pointee"]
+- ["SQ", "text"]
+- ["SQ", "time"]
+- ["SQ", "timeIntervalBetween1970AndReferenceDate"]
+- ["SQ", "timestamp"]
+- ["SQ", "timestamptz"]
+- ["SQ", "timetz"]
+- !private ["SQ", "utf8"]
+- ["SQ", "uuid"]
+- !private ["SQ", "uuidString"]
+- ["SQ", "varchar"]
+- !private ["SQ", "withMemoryRebound"]
+- !private ["SQ", "withUnsafeBytes"]
+- ["SQ", "xml"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Encoding"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "String"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "count"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "dropLast"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "leftPadding"]
+- ["s25ExpressibleByFloatLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "Encoding"]
+- !private ["s32ExpressibleByStringInterpolationP", "String"]
+- !private ["s32ExpressibleByStringInterpolationP", "count"]
+- !private ["s32ExpressibleByStringInterpolationP", "dropLast"]
+- !private ["s32ExpressibleByStringInterpolationP", "hasSuffix"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "isEmpty"]
+- !private ["s32ExpressibleByStringInterpolationP", "leftPadding"]
+- !private ["s26ExpressibleByStringLiteralP", "Encoding"]
+- !private ["s26ExpressibleByStringLiteralP", "String"]
+- !private ["s26ExpressibleByStringLiteralP", "count"]
+- !private ["s26ExpressibleByStringLiteralP", "dropLast"]
+- !private ["s26ExpressibleByStringLiteralP", "hasSuffix"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "isEmpty"]
+- !private ["s26ExpressibleByStringLiteralP", "leftPadding"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Encoding"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "String"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "count"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "dropLast"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "isEmpty"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "leftPadding"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["Sf", "init"]
+- ["SF", "init"]
+- !private ["SH", "Encoding"]
+- !private ["SH", "String"]
+- !private ["SH", "advanced"]
+- !private ["SH", "append"]
+- ["SH", "bool"]
+- ["SH", "bpchar"]
+- ["SH", "char"]
+- !private ["SH", "count"]
+- ["SH", "date"]
+- !private ["SH", "dropLast"]
+- ["SH", "float4"]
+- ["SH", "float8"]
+- !private ["SH", "hasSuffix"]
+- ["SH", "init"]
+- ["SH", "int2"]
+- ["SH", "int4"]
+- ["SH", "int8"]
+- !private ["SH", "isEmpty"]
+- ["SH", "json"]
+- !private ["SH", "leftPadding"]
+- ["SH", "name"]
+- ["SH", "numeric"]
+- !private ["SH", "pointee"]
+- ["SH", "text"]
+- ["SH", "time"]
+- ["SH", "timeIntervalBetween1970AndReferenceDate"]
+- ["SH", "timestamp"]
+- ["SH", "timestamptz"]
+- ["SH", "timetz"]
+- !private ["SH", "utf8"]
+- ["SH", "uuid"]
+- !private ["SH", "uuidString"]
+- ["SH", "varchar"]
+- !private ["SH", "withMemoryRebound"]
+- !private ["SH", "withUnsafeBytes"]
+- ["SH", "xml"]
+- !private ["Si", "init"]
+- !private ["s5Int16V", "init"]
+- !private ["s5Int32V", "init"]
+- !private ["s5Int64V", "init"]
+- !private ["s25LosslessStringConvertibleP", "Encoding"]
+- !private ["s25LosslessStringConvertibleP", "String"]
+- !private ["s25LosslessStringConvertibleP", "count"]
+- !private ["s25LosslessStringConvertibleP", "dropLast"]
+- !private ["s25LosslessStringConvertibleP", "hasSuffix"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "isEmpty"]
+- !private ["s25LosslessStringConvertibleP", "leftPadding"]
+- !private ["s10MirrorPathP", "Encoding"]
+- !private ["s10MirrorPathP", "String"]
+- !private ["s10MirrorPathP", "count"]
+- !private ["s10MirrorPathP", "dropLast"]
+- !private ["s10MirrorPathP", "hasSuffix"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "isEmpty"]
+- !private ["s10MirrorPathP", "leftPadding"]
+- !private ["SM", "append"]
+- !private ["SM", "init"]
+- !private ["SM", "withUnsafeBytes"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "withUnsafeBytes"]
+- !private ["So8NSCodingP", "count"]
+- !private ["So8NSCodingP", "dropLast"]
+- !private ["So8NSCodingP", "hasSuffix"]
+- !private ["So8NSCodingP", "isEmpty"]
+- !private ["So8NSCodingP", "leftPadding"]
+- !private ["So9NSCopyingP", "count"]
+- !private ["So9NSCopyingP", "dropLast"]
+- !private ["So9NSCopyingP", "hasSuffix"]
+- !private ["So9NSCopyingP", "isEmpty"]
+- !private ["So9NSCopyingP", "leftPadding"]
+- !private ["So21NSItemProviderReadingP", "count"]
+- !private ["So21NSItemProviderReadingP", "dropLast"]
+- !private ["So21NSItemProviderReadingP", "hasSuffix"]
+- !private ["So21NSItemProviderReadingP", "isEmpty"]
+- !private ["So21NSItemProviderReadingP", "leftPadding"]
+- !private ["So21NSItemProviderWritingP", "count"]
+- !private ["So21NSItemProviderWritingP", "dropLast"]
+- !private ["So21NSItemProviderWritingP", "hasSuffix"]
+- !private ["So21NSItemProviderWritingP", "isEmpty"]
+- !private ["So21NSItemProviderWritingP", "leftPadding"]
+- !private ["So16NSMutableCopyingP", "count"]
+- !private ["So16NSMutableCopyingP", "dropLast"]
+- !private ["So16NSMutableCopyingP", "hasSuffix"]
+- !private ["So16NSMutableCopyingP", "isEmpty"]
+- !private ["So16NSMutableCopyingP", "leftPadding"]
+- !private ["So8NSObjectC", "count"]
+- !private ["So8NSObjectC", "dropLast"]
+- !private ["So8NSObjectC", "hasSuffix"]
+- !private ["So8NSObjectC", "isEmpty"]
+- !private ["So8NSObjectC", "leftPadding"]
+- !private ["So8NSObjectP", "count"]
+- !private ["So8NSObjectP", "dropLast"]
+- !private ["So8NSObjectP", "hasSuffix"]
+- !private ["So8NSObjectP", "isEmpty"]
+- !private ["So8NSObjectP", "leftPadding"]
+- !private ["So14NSSecureCodingP", "count"]
+- !private ["So14NSSecureCodingP", "dropLast"]
+- !private ["So14NSSecureCodingP", "hasSuffix"]
+- !private ["So14NSSecureCodingP", "isEmpty"]
+- !private ["So14NSSecureCodingP", "leftPadding"]
+- !private ["So8NSStringC", "count"]
+- !private ["So8NSStringC", "dropLast"]
+- !private ["So8NSStringC", "hasSuffix"]
+- !private ["So8NSStringC", "isEmpty"]
+- !private ["So8NSStringC", "leftPadding"]
+- ["Sj", "init"]
+- !private ["20SwiftKueryPostgreSQL0C13SQLConnectionC", "connection"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "Bool"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "Data"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "Date"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "Float32"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "Float64"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "Int"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "Int16"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "Int32"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "Int64"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "Int8"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "OpaquePointer"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PGRES_SINGLE_TUPLE"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PGRES_TUPLES_OK"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PQclear"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PQfformat"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PQfname"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PQftype"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PQgetResult"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PQgetisnull"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PQgetlength"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PQgetvalue"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PQnfields"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PQresultStatus"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PostgreSQLConnection"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PostgreSQLResultFetcher"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "PostgreSQLType"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "String"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "TimeInterval"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "UInt32"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "UInt64"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "UUID"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "UnsafeMutablePointer"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "buildRow"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "clearResult"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "connection"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "convert"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "deinit"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "fetchNext"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "fetchTitles"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "hasMoreRows"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "init"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "int16NetworkToHost"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "row"]
+- ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "secondsInDay"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "timeIntervalBetween1970AndPostgresReferenceDate"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "titles"]
+- !private ["20SwiftKueryPostgreSQL0C16SQLResultFetcherC", "uuid_t"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "bool"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "bpchar"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "char"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "date"]
+- !private ["20SwiftKueryPostgreSQL0C7SQLTypeO", "deinit"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "float4"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "float8"]
+- !private ["20SwiftKueryPostgreSQL0C7SQLTypeO", "init"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "int2"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "int4"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "int8"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "json"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "name"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "numeric"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "text"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "time"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "timestamp"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "timestamptz"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "timetz"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "uuid"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "varchar"]
+- ["20SwiftKueryPostgreSQL0C7SQLTypeO", "xml"]
+- !private ["10SwiftKuery19QueryFilterProtocolP", "Encoding"]
+- !private ["10SwiftKuery19QueryFilterProtocolP", "String"]
+- !private ["10SwiftKuery19QueryFilterProtocolP", "count"]
+- !private ["10SwiftKuery19QueryFilterProtocolP", "dropLast"]
+- !private ["10SwiftKuery19QueryFilterProtocolP", "hasSuffix"]
+- !private ["10SwiftKuery19QueryFilterProtocolP", "init"]
+- !private ["10SwiftKuery19QueryFilterProtocolP", "isEmpty"]
+- !private ["10SwiftKuery19QueryFilterProtocolP", "leftPadding"]
+- !private ["10SwiftKuery19QueryHavingProtocolP", "Encoding"]
+- !private ["10SwiftKuery19QueryHavingProtocolP", "String"]
+- !private ["10SwiftKuery19QueryHavingProtocolP", "count"]
+- !private ["10SwiftKuery19QueryHavingProtocolP", "dropLast"]
+- !private ["10SwiftKuery19QueryHavingProtocolP", "hasSuffix"]
+- !private ["10SwiftKuery19QueryHavingProtocolP", "init"]
+- !private ["10SwiftKuery19QueryHavingProtocolP", "isEmpty"]
+- !private ["10SwiftKuery19QueryHavingProtocolP", "leftPadding"]
+- !private ["10SwiftKuery19QuerySuffixProtocolP", "Encoding"]
+- !private ["10SwiftKuery19QuerySuffixProtocolP", "String"]
+- !private ["10SwiftKuery19QuerySuffixProtocolP", "count"]
+- !private ["10SwiftKuery19QuerySuffixProtocolP", "dropLast"]
+- !private ["10SwiftKuery19QuerySuffixProtocolP", "hasSuffix"]
+- !private ["10SwiftKuery19QuerySuffixProtocolP", "init"]
+- !private ["10SwiftKuery19QuerySuffixProtocolP", "isEmpty"]
+- !private ["10SwiftKuery19QuerySuffixProtocolP", "leftPadding"]
+- !private ["Sk", "append"]
+- !private ["Sk", "init"]
+- !private ["Sk", "pointee"]
+- !private ["Sk", "withUnsafeBytes"]
+- !private ["Sm", "Encoding"]
+- !private ["Sm", "String"]
+- !private ["Sm", "append"]
+- !private ["Sm", "count"]
+- !private ["Sm", "dropLast"]
+- !private ["Sm", "hasSuffix"]
+- !private ["Sm", "init"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "leftPadding"]
+- !private ["Sm", "withUnsafeBytes"]
+- ["SY", "bool"]
+- ["SY", "bpchar"]
+- ["SY", "char"]
+- ["SY", "date"]
+- ["SY", "float4"]
+- ["SY", "float8"]
+- !private ["SY", "init"]
+- ["SY", "int2"]
+- ["SY", "int4"]
+- ["SY", "int8"]
+- ["SY", "json"]
+- ["SY", "name"]
+- ["SY", "numeric"]
+- ["SY", "text"]
+- ["SY", "time"]
+- ["SY", "timestamp"]
+- ["SY", "timestamptz"]
+- ["SY", "timetz"]
+- !private ["SY", "utf8"]
+- ["SY", "uuid"]
+- ["SY", "varchar"]
+- ["SY", "xml"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- ["10Foundation20ReferenceConvertibleP", "timeIntervalBetween1970AndReferenceDate"]
+- !private ["10Foundation20ReferenceConvertibleP", "uuidString"]
+- !private ["10Foundation20ReferenceConvertibleP", "withUnsafeBytes"]
+- !private ["10SwiftKuery13ResultFetcherP", "Bool"]
+- !private ["10SwiftKuery13ResultFetcherP", "Data"]
+- ["10SwiftKuery13ResultFetcherP", "Date"]
+- !private ["10SwiftKuery13ResultFetcherP", "Float32"]
+- !private ["10SwiftKuery13ResultFetcherP", "Float64"]
+- !private ["10SwiftKuery13ResultFetcherP", "Int"]
+- !private ["10SwiftKuery13ResultFetcherP", "Int16"]
+- !private ["10SwiftKuery13ResultFetcherP", "Int32"]
+- !private ["10SwiftKuery13ResultFetcherP", "Int64"]
+- !private ["10SwiftKuery13ResultFetcherP", "PGRES_SINGLE_TUPLE"]
+- !private ["10SwiftKuery13ResultFetcherP", "PGRES_TUPLES_OK"]
+- !private ["10SwiftKuery13ResultFetcherP", "PQclear"]
+- !private ["10SwiftKuery13ResultFetcherP", "PQfformat"]
+- !private ["10SwiftKuery13ResultFetcherP", "PQfname"]
+- !private ["10SwiftKuery13ResultFetcherP", "PQftype"]
+- !private ["10SwiftKuery13ResultFetcherP", "PQgetResult"]
+- !private ["10SwiftKuery13ResultFetcherP", "PQgetisnull"]
+- !private ["10SwiftKuery13ResultFetcherP", "PQgetlength"]
+- !private ["10SwiftKuery13ResultFetcherP", "PQgetvalue"]
+- !private ["10SwiftKuery13ResultFetcherP", "PQnfields"]
+- !private ["10SwiftKuery13ResultFetcherP", "PQresultStatus"]
+- !private ["10SwiftKuery13ResultFetcherP", "PostgreSQLResultFetcher"]
+- !private ["10SwiftKuery13ResultFetcherP", "PostgreSQLType"]
+- !private ["10SwiftKuery13ResultFetcherP", "String"]
+- ["10SwiftKuery13ResultFetcherP", "TimeInterval"]
+- !private ["10SwiftKuery13ResultFetcherP", "UInt32"]
+- !private ["10SwiftKuery13ResultFetcherP", "UInt64"]
+- !private ["10SwiftKuery13ResultFetcherP", "UUID"]
+- ["10SwiftKuery13ResultFetcherP", ""]
+- !private ["10SwiftKuery13ResultFetcherP", "buildRow"]
+- !private ["10SwiftKuery13ResultFetcherP", "clearResult"]
+- !private ["10SwiftKuery13ResultFetcherP", "connection"]
+- !private ["10SwiftKuery13ResultFetcherP", "convert"]
+- ["10SwiftKuery13ResultFetcherP", "fetchNext"]
+- ["10SwiftKuery13ResultFetcherP", "fetchTitles"]
+- !private ["10SwiftKuery13ResultFetcherP", "hasMoreRows"]
+- !private ["10SwiftKuery13ResultFetcherP", "int16NetworkToHost"]
+- !private ["10SwiftKuery13ResultFetcherP", "row"]
+- ["10SwiftKuery13ResultFetcherP", "secondsInDay"]
+- !private ["10SwiftKuery13ResultFetcherP", "timeIntervalBetween1970AndPostgresReferenceDate"]
+- !private ["10SwiftKuery13ResultFetcherP", "titles"]
+- !private ["10SwiftKuery13ResultFetcherP", "uuid_t"]
+- ["s10SIMDScalarP", "init"]
+- !private ["10SwiftKuery11SQLDataTypeP", "Encoding"]
+- !private ["10SwiftKuery11SQLDataTypeP", "String"]
+- !private ["10SwiftKuery11SQLDataTypeP", "count"]
+- !private ["10SwiftKuery11SQLDataTypeP", "dropLast"]
+- !private ["10SwiftKuery11SQLDataTypeP", "hasSuffix"]
+- ["10SwiftKuery11SQLDataTypeP", "init"]
+- !private ["10SwiftKuery11SQLDataTypeP", "isEmpty"]
+- !private ["10SwiftKuery11SQLDataTypeP", "leftPadding"]
+- !private ["10SwiftKuery11SQLDataTypeP", "uuidString"]
+- !private ["ST", "Encoding"]
+- !private ["ST", "String"]
+- !private ["ST", "append"]
+- !private ["ST", "count"]
+- !private ["ST", "dropLast"]
+- !private ["ST", "hasSuffix"]
+- !private ["ST", "init"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "leftPadding"]
+- !private ["ST", "pointee"]
+- !private ["ST", "withUnsafeBytes"]
+- !private ["SZ", "init"]
+- ["s13SignedNumericP", "init"]
+- !private ["Sx", "advanced"]
+- ["Sx", "init"]
+- !private ["Sx", "pointee"]
+- !private ["Sx", "withMemoryRebound"]
+- !private ["SS", "Encoding"]
+- ["SS", "Int"]
+- ["SS", "String"]
+- !private ["SS", "count"]
+- !private ["SS", "dropLast"]
+- !private ["SS", "hasSuffix"]
+- !private ["SS", "init"]
+- !private ["SS", "isEmpty"]
+- ["SS", "leftPadding"]
+- !private ["Sy", "Encoding"]
+- !private ["Sy", "String"]
+- !private ["Sy", "count"]
+- !private ["Sy", "dropLast"]
+- !private ["Sy", "hasSuffix"]
+- !private ["Sy", "init"]
+- !private ["Sy", "isEmpty"]
+- !private ["Sy", "leftPadding"]
+- !private ["s16TextOutputStreamP", "Encoding"]
+- !private ["s16TextOutputStreamP", "String"]
+- !private ["s16TextOutputStreamP", "count"]
+- !private ["s16TextOutputStreamP", "dropLast"]
+- !private ["s16TextOutputStreamP", "hasSuffix"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "isEmpty"]
+- !private ["s16TextOutputStreamP", "leftPadding"]
+- !private ["s20TextOutputStreamableP", "Encoding"]
+- !private ["s20TextOutputStreamableP", "String"]
+- !private ["s20TextOutputStreamableP", "count"]
+- !private ["s20TextOutputStreamableP", "dropLast"]
+- !private ["s20TextOutputStreamableP", "hasSuffix"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "isEmpty"]
+- !private ["s20TextOutputStreamableP", "leftPadding"]
+- !private ["s6UInt32V", "init"]
+- !private ["s6UInt64V", "init"]
+- !private ["10Foundation4UUIDV", "init"]
+- !private ["10Foundation4UUIDV", "uuidString"]
+- !private ["Sp", "advanced"]
+- !private ["Sp", "pointee"]
+- !private ["Sp", "withMemoryRebound"]
+- !private ["SP", "pointee"]
+- !private ["SW", "pointee"]
+- !private ["SU", "init"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "init"]
+- ["s15_CVarArgAlignedP", "init"]
+- ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "Encoding"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "String"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "advanced"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "count"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "dropLast"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hasSuffix"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "isEmpty"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "leftPadding"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "pointee"]
+- ["s30_CustomPlaygroundQuickLookableP", "timeIntervalBetween1970AndReferenceDate"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "withMemoryRebound"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "Encoding"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "String"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "count"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "dropLast"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "leftPadding"]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "Encoding"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "String"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "count"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "dropLast"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hasSuffix"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "isEmpty"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "leftPadding"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "Encoding"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "String"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "count"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "dropLast"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "isEmpty"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "leftPadding"]
+- !private ["s19_HasContiguousBytesP", "Encoding"]
+- !private ["s19_HasContiguousBytesP", "String"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "dropLast"]
+- !private ["s19_HasContiguousBytesP", "hasSuffix"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "leftPadding"]
+- !private ["s19_HasContiguousBytesP", "pointee"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "dropLast"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hasSuffix"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "leftPadding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "count"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dropLast"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasSuffix"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEmpty"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "leftPadding"]
+- !private ["s21_ObjectiveCBridgeableP", "Encoding"]
+- !private ["s21_ObjectiveCBridgeableP", "String"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "dropLast"]
+- !private ["s21_ObjectiveCBridgeableP", "hasSuffix"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "leftPadding"]
+- ["s21_ObjectiveCBridgeableP", "timeIntervalBetween1970AndReferenceDate"]
+- !private ["s21_ObjectiveCBridgeableP", "uuidString"]
+- !private ["s21_ObjectiveCBridgeableP", "withUnsafeBytes"]
+- !private ["s8_PointerP", "advanced"]
+- !private ["s8_PointerP", "pointee"]
+- !private ["s8_PointerP", "withMemoryRebound"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "SK"
+- "SB"
+- !private "Sz"
+- !private "Sb"
+- !private "10SwiftKuery9BuildableP"
+- "s7CVarArgP"
+- !private "Sl"
+- "SL"
+- !private "10SwiftKuery10ConnectionP"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- !private "10Foundation12DataProtocolP"
+- "10Foundation4DateV"
+- "Se"
+- "Sd"
+- "SE"
+- !private "SS10FoundationE8EncodingV"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "Sf"
+- "SF"
+- "SH"
+- !private "Si"
+- !private "s5Int16V"
+- !private "s5Int32V"
+- !private "s5Int64V"
+- "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "Sj"
+- !private "20SwiftKueryPostgreSQL0C13SQLConnectionC"
+- "20SwiftKueryPostgreSQL0C16SQLResultFetcherC"
+- "20SwiftKueryPostgreSQL0C7SQLTypeO"
+- !private "10SwiftKuery19QueryFilterProtocolP"
+- !private "10SwiftKuery19QueryHavingProtocolP"
+- !private "10SwiftKuery19QuerySuffixProtocolP"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- "10Foundation20ReferenceConvertibleP"
+- "10SwiftKuery13ResultFetcherP"
+- "s10SIMDScalarP"
+- "10SwiftKuery11SQLDataTypeP"
+- !private "ST"
+- !private "SZ"
+- "s13SignedNumericP"
+- "Sx"
+- "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s6UInt32V"
+- !private "s6UInt64V"
+- !private "10Foundation4UUIDV"
+- !private "Sp"
+- !private "SP"
+- !private "SW"
+- !private "SU"
+- !private "s14_ArrayProtocolP"
+- "s15_CVarArgAlignedP"
+- "s22_CVarArgPassedAsDoubleP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftKuery.swiftmodule"
+- "/usr/local/include/libpq-fe.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CLibpq.git--2899667586558652332/shim.h"
+- "/usr/local/include/pg_config_ext.h"
+- "/usr/local/include/postgres_ext.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CLibpq.git--2899667586558652332/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c7be2eb001e9aebb689cf69d5215d742"

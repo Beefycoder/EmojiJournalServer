@@ -1,0 +1,22 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/Socket.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/Socket.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueSocket.git--3749318898663744229/Sources/Socket/Socket.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/Socket.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/Socket.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueSocket.git--3749318898663744229/Sources/Socket/SocketProtocols.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/SocketProtocols.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/SocketProtocols~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/SocketProtocols.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/BlueSocket.git--3749318898663744229/Sources/Socket/SocketUtils.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/SocketUtils.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/SocketUtils~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Socket.build/SocketUtils.swiftdeps"
+  }
+}

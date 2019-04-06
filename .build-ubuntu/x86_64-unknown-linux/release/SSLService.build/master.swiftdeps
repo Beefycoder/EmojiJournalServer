@@ -1,0 +1,6 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "951ec7fec676b1196afe0765a1dce896"
+build_time: [1554239850, 78261200]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/BlueSSLService.git--972870268977481856/Sources/SSLService/SSLPointerTricks.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/BlueSSLService.git--972870268977481856/Sources/SSLService/SSLService.swift": [9223372036, 854775807]

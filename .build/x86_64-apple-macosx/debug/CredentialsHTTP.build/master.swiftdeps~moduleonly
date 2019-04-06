@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "8efe6d259880868a40eb0a8ceb756449"
+build_time: [1554331726, 740715000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-CredentialsHTTP/Sources/CredentialsHTTP/CredentialsHTTPBasic.swift": [1553578533, 46928544]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-CredentialsHTTP/Sources/CredentialsHTTP/CredentialsHTTPDigest.swift": [1553578533, 47085526]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-CredentialsHTTP/Sources/CredentialsHTTP/TypeSafeHTTPBasic.swift": [1553578533, 47173477]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-CredentialsHTTP/Sources/CredentialsHTTP/UserProfileLoader.swift": [1553578533, 47282355]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-CredentialsHTTP/Sources/CredentialsHTTP/VerifyPassword.swift": [1553578533, 47374837]

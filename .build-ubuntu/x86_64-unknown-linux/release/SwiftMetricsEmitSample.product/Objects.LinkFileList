@@ -1,0 +1,16 @@
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/App.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/AppEnv.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/CollectionUtils.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/DateUtils.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/JSONUtils.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/CloudFoundryEnv.build/Service.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/ConfigurationManager.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/ConfigurationNode.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/Deserializer.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/Deserializers/JSONDeserializer.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Configuration.build/Deserializers/PLISTDeserializer.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/FileKit.build/FileKit.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/LoggerAPI.build/Logger.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/SwiftMetrics.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/SwiftMonitor.swift.o
+/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsEmitSample.build/main.swift.o

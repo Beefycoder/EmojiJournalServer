@@ -1,0 +1,319 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StencilTemplateEngineError"
+- "StencilTemplateEngine"
+provides-nominal:
+- "13KituraStencil0B19TemplateEngineErrorO"
+- "13KituraStencil0B14TemplateEngineC"
+provides-member:
+- ["13KituraStencil0B19TemplateEngineErrorO", ""]
+- ["13KituraStencil0B14TemplateEngineC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "Data"
+- "Encodable"
+- !private "Environment"
+- "Extension"
+- !private "FileSystemLoader"
+- !private "JSONEncoder"
+- !private "JSONSerialization"
+- !private "Mirror"
+- "Path"
+- "RenderingOptions"
+- "StencilTemplateEngine"
+- "StencilTemplateEngineError"
+- "String"
+- "StringLiteralType"
+- "Swift"
+- "TemplateEngine"
+- !private "||"
+depends-member:
+- !private ["7Stencil11AnyOptionalP", "collection"]
+- !private ["7Stencil11AnyOptionalP", "set"]
+- !private ["Sa", "isEmpty"]
+- !private ["Sa", "map"]
+- !private ["SK", "init"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "map"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "jsonObject"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "init"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "map"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "collection"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "jsonObject"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "set"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "collection"]
+- !private ["s17CustomReflectableP", "displayStyle"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "set"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "displayStyle"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "jsonObject"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation4DataV", "init"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["Se", "collection"]
+- !private ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "map"]
+- !private ["Se", "set"]
+- !private ["Se", "subscript"]
+- !private ["SD", "subscript"]
+- !private ["s6MirrorV12DisplayStyleO", "collection"]
+- !private ["s6MirrorV12DisplayStyleO", "set"]
+- !private ["SE", "collection"]
+- !private ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "map"]
+- !private ["SE", "set"]
+- !private ["SE", "subscript"]
+- !private ["7Stencil11EnvironmentV", "init"]
+- !private ["7Stencil11EnvironmentV", "renderTemplate"]
+- !private ["SQ", "allowFragments"]
+- !private ["SQ", "collection"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "jsonObject"]
+- !private ["SQ", "map"]
+- !private ["SQ", "set"]
+- !private ["SQ", "subscript"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "deprecatedRenderMethodCalled"]
+- !private ["s5ErrorP", "noKeyProvidedForType"]
+- !private ["s5ErrorP", "rootPathsEmpty"]
+- !private ["s5ErrorP", "unableToCastJSONToDict"]
+- !private ["s5ErrorP", "unableToEncodeValue"]
+- !private ["s5ErrorP", "unableToRenderContext"]
+- !private ["s25ExpressibleByArrayLiteralP", "allowFragments"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "collection"]
+- !private ["s23ExpressibleByNilLiteralP", "set"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["7Stencil9ExtensionC", "init"]
+- !private ["7Stencil16FileSystemLoaderC", "init"]
+- !private ["SH", "collection"]
+- !private ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "jsonObject"]
+- !private ["SH", "map"]
+- !private ["SH", "set"]
+- !private ["SH", "subscript"]
+- !private ["10Foundation11JSONEncoderC", "encode"]
+- !private ["10Foundation11JSONEncoderC", "init"]
+- !private ["So19NSJSONSerializationC", "jsonObject"]
+- !private ["7Stencil6LoaderP", "init"]
+- !private ["s6MirrorV", "displayStyle"]
+- !private ["s6MirrorV", "init"]
+- !private ["SM", "init"]
+- !private ["SM", "isEmpty"]
+- !private ["SM", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["So8NSObjectC", "jsonObject"]
+- !private ["So8NSObjectP", "jsonObject"]
+- !private ["7Stencil12NormalizableP", "isEmpty"]
+- !private ["7Stencil12NormalizableP", "map"]
+- !private ["7Stencil12NormalizableP", "subscript"]
+- !private ["s9OptionSetP", "allowFragments"]
+- !private ["Sq", "collection"]
+- !private ["Sq", "set"]
+- !private ["7PathKit0A0V", "init"]
+- !private ["Sk", "init"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sk", "map"]
+- !private ["Sm", "init"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "map"]
+- !private ["SY", "allowFragments"]
+- !private ["So20NSJSONReadingOptionsV", "allowFragments"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "map"]
+- !private ["ST", "subscript"]
+- !private ["s10SetAlgebraP", "allowFragments"]
+- !private ["13KituraStencil0B14TemplateEngineC", "Data"]
+- ["13KituraStencil0B14TemplateEngineC", "Encodable"]
+- !private ["13KituraStencil0B14TemplateEngineC", "Environment"]
+- ["13KituraStencil0B14TemplateEngineC", "Extension"]
+- !private ["13KituraStencil0B14TemplateEngineC", "FileSystemLoader"]
+- !private ["13KituraStencil0B14TemplateEngineC", "JSONEncoder"]
+- !private ["13KituraStencil0B14TemplateEngineC", "JSONSerialization"]
+- !private ["13KituraStencil0B14TemplateEngineC", "Mirror"]
+- ["13KituraStencil0B14TemplateEngineC", "Path"]
+- ["13KituraStencil0B14TemplateEngineC", "RenderingOptions"]
+- !private ["13KituraStencil0B14TemplateEngineC", "StencilTemplateEngineError"]
+- ["13KituraStencil0B14TemplateEngineC", "String"]
+- ["13KituraStencil0B14TemplateEngineC", "deinit"]
+- !private ["13KituraStencil0B14TemplateEngineC", "extension"]
+- ["13KituraStencil0B14TemplateEngineC", "fileExtension"]
+- ["13KituraStencil0B14TemplateEngineC", "init"]
+- ["13KituraStencil0B14TemplateEngineC", "render"]
+- !private ["13KituraStencil0B14TemplateEngineC", "rootPaths"]
+- ["13KituraStencil0B14TemplateEngineC", "setRootPaths"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "Encodable"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "String"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "_code"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "_domain"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "_getEmbeddedNSError"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "_userInfo"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "deinit"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "deprecatedRenderMethodCalled"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "noKeyProvidedForType"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "rootPathsEmpty"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "unableToCastJSONToDict"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "unableToEncodeValue"]
+- ["13KituraStencil0B19TemplateEngineErrorO", "unableToRenderContext"]
+- !private ["20KituraTemplateEngine0bC0P", "Data"]
+- !private ["20KituraTemplateEngine0bC0P", "Environment"]
+- !private ["20KituraTemplateEngine0bC0P", "Extension"]
+- !private ["20KituraTemplateEngine0bC0P", "FileSystemLoader"]
+- !private ["20KituraTemplateEngine0bC0P", "JSONEncoder"]
+- !private ["20KituraTemplateEngine0bC0P", "JSONSerialization"]
+- !private ["20KituraTemplateEngine0bC0P", "Mirror"]
+- !private ["20KituraTemplateEngine0bC0P", "Path"]
+- !private ["20KituraTemplateEngine0bC0P", "StencilTemplateEngineError"]
+- ["20KituraTemplateEngine0bC0P", ""]
+- !private ["20KituraTemplateEngine0bC0P", "extension"]
+- ["20KituraTemplateEngine0bC0P", "fileExtension"]
+- ["20KituraTemplateEngine0bC0P", "render"]
+- !private ["20KituraTemplateEngine0bC0P", "rootPaths"]
+- ["20KituraTemplateEngine0bC0P", "setRootPaths"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "jsonObject"]
+- !private ["s21_ObjectiveCBridgeableP", "collection"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "set"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s26_OptionalNilComparisonTypeV", "collection"]
+- !private ["s26_OptionalNilComparisonTypeV", "set"]
+depends-nominal:
+- !private "7Stencil11AnyOptionalP"
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SD"
+- !private "s6MirrorV12DisplayStyleO"
+- !private "SE"
+- !private "7Stencil11EnvironmentV"
+- !private "SQ"
+- "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "7Stencil9ExtensionC"
+- !private "7Stencil16FileSystemLoaderC"
+- !private "SH"
+- !private "10Foundation11JSONEncoderC"
+- !private "So19NSJSONSerializationC"
+- !private "7Stencil6LoaderP"
+- !private "s6MirrorV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "7Stencil12NormalizableP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "7PathKit0A0V"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "So20NSJSONReadingOptionsV"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- "13KituraStencil0B14TemplateEngineC"
+- "13KituraStencil0B19TemplateEngineErrorO"
+- "20KituraTemplateEngine0bC0P"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_OptionalNilComparisonTypeV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Stencil.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b59a2d29aaba5f41c662b3501baf6337"

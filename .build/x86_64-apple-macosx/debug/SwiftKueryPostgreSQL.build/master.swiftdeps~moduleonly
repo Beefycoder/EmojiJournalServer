@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "b4e7a7f8d79624895de3890ff5a1bfae"
+build_time: [1554331720, 443526000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-PostgreSQL.git--7471704275889774841/Sources/SwiftKueryPostgreSQL/ConnectionOptions.swift": [1553466622, 297147643]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-PostgreSQL.git--7471704275889774841/Sources/SwiftKueryPostgreSQL/PostgreSQLConnection.swift": [1553466622, 323376306]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-PostgreSQL.git--7471704275889774841/Sources/SwiftKueryPostgreSQL/PostgreSQLPreparedStatement.swift": [1553466622, 297776318]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-PostgreSQL.git--7471704275889774841/Sources/SwiftKueryPostgreSQL/PostgreSQLResultFetcher.swift": [1553466622, 323586386]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-PostgreSQL.git--7471704275889774841/Sources/SwiftKueryPostgreSQL/PostgreSQLType.swift": [1553466622, 323742385]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-PostgreSQL.git--7471704275889774841/Sources/SwiftKueryPostgreSQL/Utils.swift": [1553466622, 298320970]

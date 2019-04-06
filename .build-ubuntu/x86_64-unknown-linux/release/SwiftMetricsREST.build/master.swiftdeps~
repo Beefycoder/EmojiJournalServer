@@ -1,0 +1,5 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "506dd9c2a08e02acc48474b836cc987e"
+build_time: [1553552546, 739058795]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetricsREST/SwiftMetricsREST.swift": [9223372036, 854775807]

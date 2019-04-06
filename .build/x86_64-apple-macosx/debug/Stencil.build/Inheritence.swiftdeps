@@ -1,0 +1,501 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BlockContext"
+- "ExtendsNode"
+- "BlockNode"
+provides-nominal:
+- "7Stencil12BlockContextC"
+- "7Stencil11ExtendsNodeC"
+- "7Stencil9BlockNodeC"
+provides-member:
+- ["7Stencil12BlockContextC", ""]
+- ["Sl", ""]
+- ["7Stencil11ExtendsNodeC", ""]
+- ["7Stencil9BlockNodeC", ""]
+- ["Sl", "any"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- "AssignmentPrecedence"
+- "BlockContext"
+- "BlockNode"
+- "Bool"
+- "BooleanLiteralType"
+- "CastingPrecedence"
+- "Collection"
+- "Context"
+- "ExtendsNode"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "NodeType"
+- "String"
+- !private "StringLiteralType"
+- !private "TemplateSyntaxError"
+- "Token"
+- "TokenParser"
+- !private "UnicodeScalarType"
+- "Variable"
+- !private "renderNodes"
+- !private "until"
+depends-member:
+- !private ["Sa", "any"]
+- !private ["Sa", "append"]
+- !private ["Sa", "compactMap"]
+- !private ["Sa", "count"]
+- !private ["Sa", "first"]
+- !private ["Sa", "isEmpty"]
+- !private ["Sa", "reduce"]
+- !private ["Sa", "removeFirst"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "any"]
+- !private ["SK", "append"]
+- !private ["SK", "compactMap"]
+- !private ["SK", "count"]
+- !private ["SK", "first"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "reduce"]
+- !private ["SK", "removeFirst"]
+- !private ["SK", "subscript"]
+- ["7Stencil12BlockContextC", "BlockNode"]
+- ["7Stencil12BlockContextC", "String"]
+- ["7Stencil12BlockContextC", "blocks"]
+- ["7Stencil12BlockContextC", "contextKey"]
+- ["7Stencil12BlockContextC", "init"]
+- ["7Stencil12BlockContextC", "pop"]
+- ["7Stencil12BlockContextC", "push"]
+- ["7Stencil9BlockNodeC", "BlockContext"]
+- ["7Stencil9BlockNodeC", "BlockNode"]
+- ["7Stencil9BlockNodeC", "Context"]
+- ["7Stencil9BlockNodeC", "NodeType"]
+- ["7Stencil9BlockNodeC", "String"]
+- !private ["7Stencil9BlockNodeC", "TemplateSyntaxError"]
+- ["7Stencil9BlockNodeC", "Token"]
+- ["7Stencil9BlockNodeC", "TokenParser"]
+- ["7Stencil9BlockNodeC", "childContext"]
+- ["7Stencil9BlockNodeC", "deinit"]
+- ["7Stencil9BlockNodeC", "init"]
+- ["7Stencil9BlockNodeC", "name"]
+- ["7Stencil9BlockNodeC", "nodes"]
+- ["7Stencil9BlockNodeC", "parse"]
+- ["7Stencil9BlockNodeC", "render"]
+- !private ["7Stencil9BlockNodeC", "renderNodes"]
+- ["7Stencil9BlockNodeC", "token"]
+- !private ["7Stencil9BlockNodeC", "until"]
+- !private ["s7CVarArgP", "any"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "compactMap"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "reduce"]
+- !private ["s7CVarArgP", "removeFirst"]
+- !private ["s7CVarArgP", "removeValue"]
+- !private ["s7CVarArgP", "subscript"]
+- ["Sl", "Bool"]
+- ["Sl", "Iterator"]
+- ["Sl", "any"]
+- !private ["Sl", "append"]
+- !private ["Sl", "compactMap"]
+- !private ["Sl", "count"]
+- !private ["Sl", "first"]
+- !private ["Sl", "forEach"]
+- !private ["Sl", "init"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "reduce"]
+- !private ["Sl", "removeFirst"]
+- !private ["Sl", "removeValue"]
+- !private ["Sl", "subscript"]
+- !private ["7Stencil7ContextC", "environment"]
+- !private ["7Stencil7ContextC", "push"]
+- !private ["7Stencil7ContextC", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "any"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "compactMap"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "reduce"]
+- !private ["10Foundation15ContiguousBytesP", "removeFirst"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "any"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "compactMap"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "reduce"]
+- !private ["s28CustomDebugStringConvertibleP", "removeFirst"]
+- !private ["s28CustomDebugStringConvertibleP", "removeValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "any"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "compactMap"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "reduce"]
+- !private ["s17CustomReflectableP", "removeFirst"]
+- !private ["s17CustomReflectableP", "removeValue"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "allTokens"]
+- !private ["s23CustomStringConvertibleP", "any"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "compactMap"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "reason"]
+- !private ["s23CustomStringConvertibleP", "reduce"]
+- !private ["s23CustomStringConvertibleP", "removeFirst"]
+- !private ["s23CustomStringConvertibleP", "removeValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "templateName"]
+- !private ["10Foundation12DataProtocolP", "any"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "compactMap"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["10Foundation12DataProtocolP", "reduce"]
+- !private ["10Foundation12DataProtocolP", "removeFirst"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "any"]
+- !private ["Se", "append"]
+- !private ["Se", "compactMap"]
+- !private ["Se", "count"]
+- !private ["Se", "first"]
+- !private ["Se", "forEach"]
+- !private ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "reduce"]
+- !private ["Se", "removeFirst"]
+- !private ["Se", "removeValue"]
+- !private ["Se", "subscript"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "forEach"]
+- !private ["SD", "init"]
+- !private ["SD", "removeValue"]
+- !private ["SD", "subscript"]
+- !private ["SE", "any"]
+- !private ["SE", "append"]
+- !private ["SE", "compactMap"]
+- !private ["SE", "count"]
+- !private ["SE", "first"]
+- !private ["SE", "forEach"]
+- !private ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "reduce"]
+- !private ["SE", "removeFirst"]
+- !private ["SE", "removeValue"]
+- !private ["SE", "subscript"]
+- !private ["7Stencil11EnvironmentV", "loadTemplate"]
+- !private ["SQ", "allTokens"]
+- !private ["SQ", "any"]
+- !private ["SQ", "append"]
+- !private ["SQ", "compactMap"]
+- !private ["SQ", "components"]
+- !private ["SQ", "count"]
+- !private ["SQ", "filename"]
+- !private ["SQ", "first"]
+- !private ["SQ", "forEach"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "reason"]
+- !private ["SQ", "reduce"]
+- !private ["SQ", "removeFirst"]
+- !private ["SQ", "removeValue"]
+- !private ["SQ", "resolve"]
+- !private ["SQ", "sourceMap"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "templateName"]
+- !private ["SQ", "variable"]
+- !private ["s5ErrorP", "allTokens"]
+- !private ["s5ErrorP", "init"]
+- !private ["s5ErrorP", "reason"]
+- !private ["s5ErrorP", "templateName"]
+- !private ["s5ErrorP", "withToken"]
+- !private ["s25ExpressibleByArrayLiteralP", "any"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "compactMap"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", "reduce"]
+- !private ["s25ExpressibleByArrayLiteralP", "removeFirst"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "forEach"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "removeValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "render"]
+- !private ["s26ExpressibleByStringLiteralP", "render"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "render"]
+- !private ["7Stencil11ExtendsNodeC", "BlockContext"]
+- ["7Stencil11ExtendsNodeC", "BlockNode"]
+- ["7Stencil11ExtendsNodeC", "Context"]
+- !private ["7Stencil11ExtendsNodeC", "ExtendsNode"]
+- ["7Stencil11ExtendsNodeC", "NodeType"]
+- ["7Stencil11ExtendsNodeC", "String"]
+- !private ["7Stencil11ExtendsNodeC", "TemplateSyntaxError"]
+- ["7Stencil11ExtendsNodeC", "Token"]
+- ["7Stencil11ExtendsNodeC", "TokenParser"]
+- ["7Stencil11ExtendsNodeC", "Variable"]
+- ["7Stencil11ExtendsNodeC", "blocks"]
+- ["7Stencil11ExtendsNodeC", "deinit"]
+- ["7Stencil11ExtendsNodeC", "init"]
+- ["7Stencil11ExtendsNodeC", "parse"]
+- ["7Stencil11ExtendsNodeC", "render"]
+- ["7Stencil11ExtendsNodeC", "templateName"]
+- ["7Stencil11ExtendsNodeC", "token"]
+- !private ["SH", "any"]
+- !private ["SH", "append"]
+- !private ["SH", "compactMap"]
+- !private ["SH", "count"]
+- !private ["SH", "first"]
+- !private ["SH", "forEach"]
+- !private ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "reduce"]
+- !private ["SH", "removeFirst"]
+- !private ["SH", "removeValue"]
+- !private ["SH", "subscript"]
+- !private ["SM", "any"]
+- !private ["SM", "append"]
+- !private ["SM", "compactMap"]
+- !private ["SM", "count"]
+- !private ["SM", "first"]
+- !private ["SM", "isEmpty"]
+- !private ["SM", "reduce"]
+- !private ["SM", "removeFirst"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "any"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "compactMap"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "reduce"]
+- !private ["10Foundation19MutableDataProtocolP", "removeFirst"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["7Stencil8NodeTypeP", "BlockContext"]
+- !private ["7Stencil8NodeTypeP", "BlockNode"]
+- !private ["7Stencil8NodeTypeP", "ExtendsNode"]
+- !private ["7Stencil8NodeTypeP", "String"]
+- !private ["7Stencil8NodeTypeP", "TemplateSyntaxError"]
+- !private ["7Stencil8NodeTypeP", "Variable"]
+- ["7Stencil8NodeTypeP", ""]
+- !private ["7Stencil8NodeTypeP", "blocks"]
+- !private ["7Stencil8NodeTypeP", "childContext"]
+- !private ["7Stencil8NodeTypeP", "init"]
+- !private ["7Stencil8NodeTypeP", "name"]
+- !private ["7Stencil8NodeTypeP", "nodes"]
+- ["7Stencil8NodeTypeP", "render"]
+- !private ["7Stencil8NodeTypeP", "renderNodes"]
+- !private ["7Stencil8NodeTypeP", "templateName"]
+- ["7Stencil8NodeTypeP", "token"]
+- !private ["7Stencil8NodeTypeP", "until"]
+- !private ["7Stencil12NormalizableP", "any"]
+- !private ["7Stencil12NormalizableP", "append"]
+- !private ["7Stencil12NormalizableP", "compactMap"]
+- !private ["7Stencil12NormalizableP", "count"]
+- !private ["7Stencil12NormalizableP", "first"]
+- !private ["7Stencil12NormalizableP", "forEach"]
+- !private ["7Stencil12NormalizableP", "init"]
+- !private ["7Stencil12NormalizableP", "isEmpty"]
+- !private ["7Stencil12NormalizableP", "reduce"]
+- !private ["7Stencil12NormalizableP", "removeFirst"]
+- !private ["7Stencil12NormalizableP", "removeValue"]
+- !private ["7Stencil12NormalizableP", "subscript"]
+- !private ["Sk", "any"]
+- !private ["Sk", "append"]
+- !private ["Sk", "compactMap"]
+- !private ["Sk", "count"]
+- !private ["Sk", "first"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sk", "reduce"]
+- !private ["Sk", "removeFirst"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "any"]
+- !private ["Sm", "append"]
+- !private ["Sm", "compactMap"]
+- !private ["Sm", "count"]
+- !private ["Sm", "first"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "reduce"]
+- !private ["Sm", "removeFirst"]
+- !private ["Sm", "subscript"]
+- !private ["7Stencil10ResolvableP", "init"]
+- !private ["7Stencil10ResolvableP", "resolve"]
+- ["ST", "Bool"]
+- ["ST", "Iterator"]
+- !private ["ST", "any"]
+- !private ["ST", "append"]
+- !private ["ST", "compactMap"]
+- !private ["ST", "count"]
+- !private ["ST", "first"]
+- !private ["ST", "forEach"]
+- !private ["ST", "init"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "reduce"]
+- !private ["ST", "removeFirst"]
+- !private ["ST", "removeValue"]
+- !private ["ST", "subscript"]
+- !private ["7Stencil9SourceMapV", "filename"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["7Stencil8TemplateC", "render"]
+- !private ["7Stencil19TemplateSyntaxErrorV", "allTokens"]
+- !private ["7Stencil19TemplateSyntaxErrorV", "deinit"]
+- !private ["7Stencil19TemplateSyntaxErrorV", "init"]
+- !private ["7Stencil19TemplateSyntaxErrorV", "reason"]
+- !private ["7Stencil19TemplateSyntaxErrorV", "templateName"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["7Stencil5TokenO", "components"]
+- !private ["7Stencil5TokenO", "sourceMap"]
+- !private ["7Stencil5TokenO", "variable"]
+- !private ["7Stencil11TokenParserC", "nextToken"]
+- !private ["7Stencil11TokenParserC", "parse"]
+- !private ["7Stencil8VariableV", "deinit"]
+- !private ["7Stencil8VariableV", "init"]
+- !private ["7Stencil8VariableV", "resolve"]
+- !private ["s14_ArrayProtocolP", "any"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "compactMap"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s14_ArrayProtocolP", "reduce"]
+- !private ["s14_ArrayProtocolP", "removeFirst"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "any"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "compactMap"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "reduce"]
+- !private ["s24_DestructorSafeContainerP", "removeFirst"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "any"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "compactMap"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "reduce"]
+- !private ["s19_HasContiguousBytesP", "removeFirst"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "any"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "compactMap"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forEach"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "reduce"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "removeFirst"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "removeValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "any"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "compactMap"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "reduce"]
+- !private ["s21_ObjectiveCBridgeableP", "removeFirst"]
+- !private ["s21_ObjectiveCBridgeableP", "removeValue"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- "7Stencil12BlockContextC"
+- "7Stencil9BlockNodeC"
+- !private "s7CVarArgP"
+- "Sl"
+- !private "7Stencil7ContextC"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "SE"
+- !private "7Stencil11EnvironmentV"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "7Stencil11ExtendsNodeC"
+- !private "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "7Stencil8NodeTypeP"
+- !private "7Stencil12NormalizableP"
+- !private "Sk"
+- !private "Sm"
+- !private "7Stencil10ResolvableP"
+- "ST"
+- !private "7Stencil9SourceMapV"
+- !private "s27StringInterpolationProtocolP"
+- !private "7Stencil8TemplateC"
+- !private "7Stencil19TemplateSyntaxErrorV"
+- !private "s16TextOutputStreamP"
+- !private "7Stencil5TokenO"
+- !private "7Stencil11TokenParserC"
+- !private "7Stencil8VariableV"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "06668d57cba2e82fa448473cd66ab533"

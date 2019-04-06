@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsPrometheus.build/SwiftMetricsPrometheus.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsPrometheus.build/SwiftMetricsPrometheus.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsPrometheus.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetricsPrometheus/SwiftMetricsPrometheus.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsPrometheus.build/SwiftMetricsPrometheus.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsPrometheus.build/SwiftMetricsPrometheus~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsPrometheus.build/SwiftMetricsPrometheus.swiftdeps"
+  }
+}

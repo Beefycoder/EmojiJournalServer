@@ -1,0 +1,13 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "5c69d22e2321e38795da7d4e54e02d36"
+build_time: [1553895207, 167805800]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/CodableExtensions.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/HTTPMethod.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/JSON.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/JSONWrapper.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/MultipartFormData.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/RestRequest.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/RestToken.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/RestUtilities.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/StringExtensions.swift": [9223372036, 854775807]

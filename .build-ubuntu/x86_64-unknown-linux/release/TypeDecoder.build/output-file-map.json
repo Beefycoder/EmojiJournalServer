@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/TypeDecoder.build/TypeDecoder.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/TypeDecoder.build/TypeDecoder.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/TypeDecoder.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/TypeDecoder.git-6905952062583455039/Sources/TypeDecoder/OrderedDictionary.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/TypeDecoder.build/OrderedDictionary.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/TypeDecoder.build/OrderedDictionary~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/TypeDecoder.build/OrderedDictionary.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/TypeDecoder.git-6905952062583455039/Sources/TypeDecoder/TypeDecoder.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/TypeDecoder.build/TypeDecoder.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/TypeDecoder.build/TypeDecoder~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/TypeDecoder.build/TypeDecoder.swiftdeps"
+  }
+}

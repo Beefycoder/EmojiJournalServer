@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "b36844ee5380d5385da0b1a558155a4f"
+build_time: [1554331711, 452471000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueSocket.git-5954950170583802369/Sources/Socket/Socket.swift": [1553213961, 962444129]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueSocket.git-5954950170583802369/Sources/Socket/SocketProtocols.swift": [1553213961, 962584457]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueSocket.git-5954950170583802369/Sources/Socket/SocketUtils.swift": [1553213961, 962703398]

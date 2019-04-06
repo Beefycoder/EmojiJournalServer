@@ -1,0 +1,15 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "6da571a84ba17d7631e0a5aef1dd65c8"
+build_time: [1554353471, 311424500]
+inputs:
+  "/swift-project/Sources/Application/Application.swift": [9223372036, 854775807]
+  "/swift-project/Sources/Application/InitializationError.swift": [9223372036, 854775807]
+  "/swift-project/Sources/Application/Metrics.swift": [9223372036, 854775807]
+  "/swift-project/Sources/Application/Models/Fortune.swift": [9223372036, 854775807]
+  "/swift-project/Sources/Application/Models/JournalEntry.swift": [9223372036, 854775807]
+  "/swift-project/Sources/Application/Models/Persistence.swift": [9223372036, 854775807]
+  "/swift-project/Sources/Application/Models/UserAuth.swift": [9223372036, 854775807]
+  "/swift-project/Sources/Application/Routes/EntryRoutes.swift": [9223372036, 854775807]
+  "/swift-project/Sources/Application/Routes/HealthRoutes.swift": [9223372036, 854775807]
+  "/swift-project/Sources/Application/Routes/UserRoutes.swift": [9223372036, 854775807]
+  "/swift-project/Sources/Application/Routes/WebClientRoutes.swift": [9223372036, 854775807]

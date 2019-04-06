@@ -1,0 +1,267 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Kitura.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Kitura.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/CodableRouter+TypeSafeMiddleware.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/CodableRouter+TypeSafeMiddleware.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/CodableRouter+TypeSafeMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/CodableRouter+TypeSafeMiddleware.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/CodableRouter.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/CodableRouter.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/CodableRouter~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/CodableRouter.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/DecodingError+Extensions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/DecodingError+Extensions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/DecodingError+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/DecodingError+Extensions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/Error.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Error.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Error.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/FileResourceServer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/FileResourceServer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/FileResourceServer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/FileResourceServer.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/HTTPStatusCode.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/HTTPStatusCode.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/HTTPStatusCode~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/HTTPStatusCode.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/HTTPVersion.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/HTTPVersion.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/HTTPVersion~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/HTTPVersion.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/Headers.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Headers.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Headers~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Headers.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/InternalError.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/InternalError.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/InternalError~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/InternalError.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/JSONPError.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/JSONPError.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/JSONPError~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/JSONPError.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/Kitura.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Kitura.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Kitura~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Kitura.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/LinkParameter.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/LinkParameter.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/LinkParameter~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/LinkParameter.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/MimeTypeAcceptor.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/MimeTypeAcceptor.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/MimeTypeAcceptor~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/MimeTypeAcceptor.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouteRegex.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouteRegex.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouteRegex~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouteRegex.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/Router.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Router.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Router~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Router.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterElement.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterElement.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterElement~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterElement.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterElementWalker.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterElementWalker.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterElementWalker~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterElementWalker.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterHTTPVerbs+Error.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterHTTPVerbs+Error.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterHTTPVerbs+Error~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterHTTPVerbs+Error.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterHTTPVerbs_generated.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterHTTPVerbs_generated.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterHTTPVerbs_generated~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterHTTPVerbs_generated.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterHandler.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterHandler.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterHandler~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterHandler.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterMethod.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMethod.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMethod~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMethod.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterMiddleware.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMiddleware.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMiddleware.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterMiddlewareGenerator.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMiddlewareGenerator.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMiddlewareGenerator~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMiddlewareGenerator.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterMiddlewareWalker.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMiddlewareWalker.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMiddlewareWalker~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterMiddlewareWalker.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterParameterWalker.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterParameterWalker.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterParameterWalker~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterParameterWalker.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterRequest.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterRequest.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterRequest~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterRequest.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/RouterResponse.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterResponse.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterResponse~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RouterResponse.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/SSLConfig.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/SSLConfig.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/SSLConfig~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/SSLConfig.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/Stack.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Stack.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Stack~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Stack.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/String+Extensions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/String+Extensions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/String+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/String+Extensions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/SwaggerGenerator.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/SwaggerGenerator.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/SwaggerGenerator~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/SwaggerGenerator.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/TemplatingError.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/TemplatingError.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/TemplatingError~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/TemplatingError.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/TypeSafeMiddleware.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/TypeSafeMiddleware.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/TypeSafeMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/TypeSafeMiddleware.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/bodyParser/BodyParser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/bodyParser/BodyParser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/BodyParser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/BodyParser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/bodyParser/BodyParserProtocol.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/bodyParser/BodyParserProtocol.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/BodyParserProtocol~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/BodyParserProtocol.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/bodyParser/JSONBodyParser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/bodyParser/JSONBodyParser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/JSONBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/JSONBodyParser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/bodyParser/MultiPartBodyParser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/bodyParser/MultiPartBodyParser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/MultiPartBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/MultiPartBodyParser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/bodyParser/ParsedBody.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/bodyParser/ParsedBody.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/ParsedBody~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/ParsedBody.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/bodyParser/Part.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/bodyParser/Part.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Part~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/Part.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/bodyParser/RawBodyParser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/bodyParser/RawBodyParser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RawBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RawBodyParser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/bodyParser/TextBodyParser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/bodyParser/TextBodyParser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/TextBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/TextBodyParser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/bodyParser/URLEncodedBodyParser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/bodyParser/URLEncodedBodyParser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/URLEncodedBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/URLEncodedBodyParser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/contentType/ContentType.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/contentType/ContentType.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/ContentType~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/ContentType.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/contentType/MediaType.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/contentType/MediaType.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/MediaType~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/MediaType.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/contentType/types.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/contentType/types.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/types~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/types.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/staticFileServer/CacheRelatedHeadersSetter.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/staticFileServer/CacheRelatedHeadersSetter.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/CacheRelatedHeadersSetter~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/CacheRelatedHeadersSetter.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/staticFileServer/CompositeHeadersSetter.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/staticFileServer/CompositeHeadersSetter.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/CompositeHeadersSetter~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/CompositeHeadersSetter.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/staticFileServer/FileServer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/staticFileServer/FileServer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/FileServer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/FileServer.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/staticFileServer/RangeHeader.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/staticFileServer/RangeHeader.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RangeHeader~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/RangeHeader.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/staticFileServer/ResourcePathHandler.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/staticFileServer/ResourcePathHandler.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/ResourcePathHandler~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/ResourcePathHandler.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/staticFileServer/ResponseHeadersSetter.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/staticFileServer/ResponseHeadersSetter.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/ResponseHeadersSetter~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/ResponseHeadersSetter.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura.git-9157238876345432198/Sources/Kitura/staticFileServer/StaticFileServer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/staticFileServer/StaticFileServer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/StaticFileServer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Kitura.build/StaticFileServer.swiftdeps"
+  }
+}

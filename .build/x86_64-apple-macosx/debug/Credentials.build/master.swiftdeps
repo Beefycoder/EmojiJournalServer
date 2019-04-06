@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "b124888862899277324384678d3abccd"
+build_time: [1554331726, 210669000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Credentials/Sources/Credentials/BaseCacheElement.swift": [1553578533, 193890704]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Credentials/Sources/Credentials/Credentials.swift": [1553578533, 194068081]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Credentials/Sources/Credentials/CredentialsPluginProtocol.swift": [1553578533, 194171839]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Credentials/Sources/Credentials/MultiTypeSafeCredentials.swift": [1553578533, 194308902]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Credentials/Sources/Credentials/RouterRequest+UserProfile.swift": [1553578533, 194416056]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Credentials/Sources/Credentials/TypeSafeCredentials.swift": [1553578533, 194528524]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Credentials/Sources/Credentials/UserProfile.swift": [1553578533, 194629023]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Credentials/Sources/Credentials/UserProfileDelegate.swift": [1553578533, 194721774]

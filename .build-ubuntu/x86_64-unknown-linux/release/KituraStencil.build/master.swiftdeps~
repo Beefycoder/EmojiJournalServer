@@ -1,0 +1,5 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "464f7f621b94a5024d699db87efd0b08"
+build_time: [1553895224, 432520200]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/Kitura-StencilTemplateEngine.git--1620378894461038239/Sources/KituraStencil/KituraStencilTemplateEngine.swift": [9223372036, 854775807]

@@ -1,0 +1,52 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/KituraContracts.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/KituraContracts.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/BodyDecoder.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/BodyDecoder.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/BodyDecoder~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/BodyDecoder.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/BodyEncoder.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/BodyEncoder.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/BodyEncoder~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/BodyEncoder.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/BodyFormat.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/BodyFormat.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/BodyFormat~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/BodyFormat.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/ClosureAliases.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/ClosureAliases.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/ClosureAliases~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/ClosureAliases.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/CodableQuery/Coder.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/CodableQuery/Coder.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/Coder~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/Coder.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/CodableQuery/Extensions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/CodableQuery/Extensions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/Extensions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/Extensions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/CodableQuery/QueryDecoder.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/CodableQuery/QueryDecoder.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/QueryDecoder~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/QueryDecoder.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/CodableQuery/QueryEncoder.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/CodableQuery/QueryEncoder.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/QueryEncoder~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/QueryEncoder.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/KituraContracts.git-6952780560745058997/Sources/KituraContracts/Contracts.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/Contracts.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/Contracts~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraContracts.build/Contracts.swiftdeps"
+  }
+}

@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "e3defbdf6e03ad3368e391974bd91187"
+build_time: [1554331720, 854228000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-ORM.git-7679496416235886664/Sources/SwiftKueryORM/Database.swift": [1553466621, 805930572]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-ORM.git-7679496416235886664/Sources/SwiftKueryORM/DatabaseDecoder.swift": [1553466621, 806165038]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-ORM.git-7679496416235886664/Sources/SwiftKueryORM/DatabaseEncoder.swift": [1553466621, 806330785]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-ORM.git-7679496416235886664/Sources/SwiftKueryORM/Model.swift": [1553466621, 806673055]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-ORM.git-7679496416235886664/Sources/SwiftKueryORM/TableInfo.swift": [1553466621, 806864479]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Swift-Kuery-ORM.git-7679496416235886664/Sources/SwiftKueryORM/TypeAliases.swift": [1553466621, 807005244]

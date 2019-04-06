@@ -1,0 +1,337 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ClientResponse"
+provides-nominal:
+- "9KituraNet14ClientResponseC"
+provides-member:
+- ["9KituraNet14ClientResponseC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "=="
+- !private ">"
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- "BufferList"
+- "ClientResponse"
+- "Data"
+- "HTTPParser"
+- "HTTPParserStatus"
+- "HTTPStatusCode"
+- "HeadersContainer"
+- "Int"
+- !private "Int8"
+- "NSData"
+- !private "NSMutableData"
+- "String"
+- "UInt16"
+depends-member:
+- !private ["SK", "bytes"]
+- !private ["SK", "count"]
+- ["SK", "init"]
+- !private ["SK", "length"]
+- !private ["9KituraNet10BufferListC", "fill"]
+- ["9KituraNet10BufferListC", "init"]
+- !private ["9KituraNet10BufferListC", "rewind"]
+- !private ["s7CVarArgP", "bytes"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "length"]
+- ["9KituraNet14ClientResponseC", "Bool"]
+- ["9KituraNet14ClientResponseC", "BufferList"]
+- ["9KituraNet14ClientResponseC", "Data"]
+- ["9KituraNet14ClientResponseC", "HTTPParser"]
+- ["9KituraNet14ClientResponseC", "HTTPParserStatus"]
+- ["9KituraNet14ClientResponseC", "HTTPStatusCode"]
+- ["9KituraNet14ClientResponseC", "HeadersContainer"]
+- ["9KituraNet14ClientResponseC", "Int"]
+- !private ["9KituraNet14ClientResponseC", "Int8"]
+- ["9KituraNet14ClientResponseC", "NSData"]
+- !private ["9KituraNet14ClientResponseC", "NSMutableData"]
+- ["9KituraNet14ClientResponseC", "String"]
+- ["9KituraNet14ClientResponseC", "UInt16"]
+- !private ["9KituraNet14ClientResponseC", "buffer"]
+- ["9KituraNet14ClientResponseC", "bufferSize"]
+- ["9KituraNet14ClientResponseC", "deinit"]
+- ["9KituraNet14ClientResponseC", "headers"]
+- !private ["9KituraNet14ClientResponseC", "httpParser"]
+- ["9KituraNet14ClientResponseC", "httpStatusCode"]
+- ["9KituraNet14ClientResponseC", "httpVersionMajor"]
+- ["9KituraNet14ClientResponseC", "httpVersionMinor"]
+- ["9KituraNet14ClientResponseC", "init"]
+- ["9KituraNet14ClientResponseC", "method"]
+- ["9KituraNet14ClientResponseC", "parse"]
+- !private ["9KituraNet14ClientResponseC", "parserStatus"]
+- ["9KituraNet14ClientResponseC", "parsingCompleted"]
+- ["9KituraNet14ClientResponseC", "prepareToReset"]
+- ["9KituraNet14ClientResponseC", "read"]
+- ["9KituraNet14ClientResponseC", "readAllData"]
+- ["9KituraNet14ClientResponseC", "readString"]
+- !private ["9KituraNet14ClientResponseC", "reset"]
+- ["9KituraNet14ClientResponseC", "responseBuffers"]
+- !private ["9KituraNet14ClientResponseC", "startParsingFrom"]
+- ["9KituraNet14ClientResponseC", "status"]
+- ["9KituraNet14ClientResponseC", "statusCode"]
+- !private ["Sl", "bytes"]
+- !private ["Sl", "count"]
+- ["Sl", "init"]
+- !private ["Sl", "length"]
+- !private ["SL", "assumingMemoryBound"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- ["10Foundation15ContiguousBytesP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "assumingMemoryBound"]
+- !private ["s28CustomDebugStringConvertibleP", "bytes"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "length"]
+- !private ["s28CustomDebugStringConvertibleP", "parsedLessThanRead"]
+- !private ["s28CustomDebugStringConvertibleP", "unexpectedEOF"]
+- !private ["s17CustomReflectableP", "assumingMemoryBound"]
+- !private ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "parsedLessThanRead"]
+- !private ["s17CustomReflectableP", "unexpectedEOF"]
+- !private ["s23CustomStringConvertibleP", "bytes"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "length"]
+- !private ["s23CustomStringConvertibleP", "parsedLessThanRead"]
+- !private ["s23CustomStringConvertibleP", "unexpectedEOF"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["10Foundation4DataV", "count"]
+- ["10Foundation4DataV", "init"]
+- !private ["10Foundation12DataProtocolP", "bytes"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "length"]
+- !private ["Se", "count"]
+- ["Se", "init"]
+- !private ["Se", "parsedLessThanRead"]
+- !private ["Se", "unexpectedEOF"]
+- !private ["SE", "count"]
+- ["SE", "init"]
+- !private ["SE", "parsedLessThanRead"]
+- !private ["SE", "unexpectedEOF"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- !private ["SQ", "assumingMemoryBound"]
+- !private ["SQ", "bytes"]
+- !private ["SQ", "count"]
+- ["SQ", "init"]
+- !private ["SQ", "length"]
+- !private ["SQ", "messageComplete"]
+- !private ["SQ", "parsedLessThanRead"]
+- !private ["SQ", "reset"]
+- !private ["SQ", "unexpectedEOF"]
+- ["SQ", "unknown"]
+- !private ["SQ", "utf8"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "parsedLessThanRead"]
+- !private ["s23ExpressibleByNilLiteralP", "unexpectedEOF"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["9KituraNet10HTTPParserC", "bodyChunk"]
+- !private ["9KituraNet10HTTPParserC", "completed"]
+- !private ["9KituraNet10HTTPParserC", "execute"]
+- !private ["9KituraNet10HTTPParserC", "headers"]
+- !private ["9KituraNet10HTTPParserC", "httpVersionMajor"]
+- !private ["9KituraNet10HTTPParserC", "httpVersionMinor"]
+- !private ["9KituraNet10HTTPParserC", "init"]
+- !private ["9KituraNet10HTTPParserC", "isKeepAlive"]
+- !private ["9KituraNet10HTTPParserC", "method"]
+- !private ["9KituraNet10HTTPParserC", "reset"]
+- !private ["9KituraNet10HTTPParserC", "statusCode"]
+- !private ["9KituraNet19HTTPParserErrorTypeO", "parsedLessThanRead"]
+- !private ["9KituraNet19HTTPParserErrorTypeO", "unexpectedEOF"]
+- !private ["9KituraNet15HTTPParserStateO", "deinit"]
+- !private ["9KituraNet15HTTPParserStateO", "messageComplete"]
+- !private ["9KituraNet15HTTPParserStateO", "reset"]
+- !private ["9KituraNet16HTTPParserStatusV", "bytesLeft"]
+- !private ["9KituraNet16HTTPParserStatusV", "error"]
+- ["9KituraNet16HTTPParserStatusV", "init"]
+- !private ["9KituraNet16HTTPParserStatusV", "keepAlive"]
+- !private ["9KituraNet16HTTPParserStatusV", "reset"]
+- !private ["9KituraNet16HTTPParserStatusV", "state"]
+- !private ["9KituraNet14HTTPStatusCodeO", "deinit"]
+- !private ["9KituraNet14HTTPStatusCodeO", "init"]
+- ["9KituraNet14HTTPStatusCodeO", "unknown"]
+- !private ["SH", "assumingMemoryBound"]
+- !private ["SH", "bytes"]
+- !private ["SH", "count"]
+- ["SH", "init"]
+- !private ["SH", "length"]
+- !private ["SH", "messageComplete"]
+- !private ["SH", "parsedLessThanRead"]
+- !private ["SH", "reset"]
+- !private ["SH", "unexpectedEOF"]
+- ["SH", "unknown"]
+- !private ["SH", "utf8"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "count"]
+- ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["So8NSCodingP", "bytes"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "length"]
+- !private ["So9NSCopyingP", "bytes"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "length"]
+- !private ["So6NSDataC", "bytes"]
+- !private ["So6NSDataC", "init"]
+- !private ["So6NSDataC", "length"]
+- !private ["So16NSMutableCopyingP", "bytes"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "length"]
+- !private ["So13NSMutableDataC", "init"]
+- !private ["So13NSMutableDataC", "length"]
+- !private ["So8NSObjectC", "bytes"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "length"]
+- !private ["So8NSObjectP", "bytes"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "length"]
+- !private ["So14NSSecureCodingP", "bytes"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "length"]
+- !private ["Sq", "parsedLessThanRead"]
+- !private ["Sq", "unexpectedEOF"]
+- !private ["Sk", "bytes"]
+- !private ["Sk", "count"]
+- ["Sk", "init"]
+- !private ["Sk", "length"]
+- !private ["Sm", "count"]
+- ["Sm", "init"]
+- !private ["SY", "init"]
+- ["SY", "unknown"]
+- !private ["SY", "utf8"]
+- !private ["10Foundation20ReferenceConvertibleP", "count"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["ST", "bytes"]
+- !private ["ST", "count"]
+- ["ST", "init"]
+- !private ["ST", "length"]
+- !private ["Sx", "assumingMemoryBound"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["SV", "assumingMemoryBound"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "assumingMemoryBound"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "bytes"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "length"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bytes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "length"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "parsedLessThanRead"]
+- !private ["s21_ObjectiveCBridgeableP", "unexpectedEOF"]
+- !private ["s8_PointerP", "assumingMemoryBound"]
+depends-nominal:
+- "SK"
+- "9KituraNet10BufferListC"
+- !private "s7CVarArgP"
+- "9KituraNet14ClientResponseC"
+- "Sl"
+- !private "SL"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DataV"
+- "10Foundation12DataProtocolP"
+- "Se"
+- "SE"
+- !private "SS10FoundationE8EncodingV"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9KituraNet10HTTPParserC"
+- !private "9KituraNet19HTTPParserErrorTypeO"
+- !private "9KituraNet15HTTPParserStateO"
+- "9KituraNet16HTTPParserStatusV"
+- "9KituraNet14HTTPStatusCodeO"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So6NSDataC"
+- !private "So16NSMutableCopyingP"
+- !private "So13NSMutableDataC"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- "Sk"
+- "Sm"
+- "SY"
+- "10Foundation20ReferenceConvertibleP"
+- "ST"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "SV"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0bbdeeffc12624c9a0e16b03767f8824"

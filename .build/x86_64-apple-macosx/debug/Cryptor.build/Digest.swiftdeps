@@ -1,0 +1,345 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Digest"
+provides-nominal:
+- "7Cryptor6DigestC"
+- "7Cryptor6DigestC9AlgorithmO"
+provides-member:
+- ["7Cryptor6DigestC", ""]
+- ["7Cryptor6DigestC9AlgorithmO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- "CC_LONG"
+- !private "CC_MD2_CTX"
+- !private "CC_MD2_DIGEST_LENGTH"
+- !private "CC_MD2_Final"
+- !private "CC_MD2_Init"
+- !private "CC_MD2_Update"
+- !private "CC_MD4_CTX"
+- !private "CC_MD4_DIGEST_LENGTH"
+- !private "CC_MD4_Final"
+- !private "CC_MD4_Init"
+- !private "CC_MD4_Update"
+- !private "CC_MD5_CTX"
+- !private "CC_MD5_DIGEST_LENGTH"
+- !private "CC_MD5_Final"
+- !private "CC_MD5_Init"
+- !private "CC_MD5_Update"
+- !private "CC_SHA1_CTX"
+- !private "CC_SHA1_DIGEST_LENGTH"
+- !private "CC_SHA1_Final"
+- !private "CC_SHA1_Init"
+- !private "CC_SHA1_Update"
+- !private "CC_SHA224_DIGEST_LENGTH"
+- !private "CC_SHA224_Final"
+- !private "CC_SHA224_Init"
+- !private "CC_SHA224_Update"
+- !private "CC_SHA256_CTX"
+- !private "CC_SHA256_DIGEST_LENGTH"
+- !private "CC_SHA256_Final"
+- !private "CC_SHA256_Init"
+- !private "CC_SHA256_Update"
+- !private "CC_SHA384_DIGEST_LENGTH"
+- !private "CC_SHA384_Final"
+- !private "CC_SHA384_Init"
+- !private "CC_SHA384_Update"
+- !private "CC_SHA512_CTX"
+- !private "CC_SHA512_DIGEST_LENGTH"
+- !private "CC_SHA512_Final"
+- !private "CC_SHA512_Init"
+- !private "CC_SHA512_Update"
+- "Digest"
+- "DigestEngine"
+- !private "DigestEngineCC"
+- "FloatLiteralType"
+- !private "Int"
+- "Int32"
+- "IntegerLiteralType"
+- "Status"
+- "UInt8"
+- "UnsafeMutablePointer"
+- "UnsafeRawPointer"
+- "Updatable"
+- "size_t"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- ["7Cryptor6DigestC9AlgorithmO", "=="]
+- ["7Cryptor6DigestC9AlgorithmO", "__derived_enum_equals"]
+- ["7Cryptor6DigestC9AlgorithmO", "_rawHashValue"]
+- ["7Cryptor6DigestC9AlgorithmO", "deinit"]
+- ["7Cryptor6DigestC9AlgorithmO", "hash"]
+- ["7Cryptor6DigestC9AlgorithmO", "hashValue"]
+- ["7Cryptor6DigestC9AlgorithmO", "md2"]
+- ["7Cryptor6DigestC9AlgorithmO", "md4"]
+- ["7Cryptor6DigestC9AlgorithmO", "md5"]
+- ["7Cryptor6DigestC9AlgorithmO", "sha1"]
+- ["7Cryptor6DigestC9AlgorithmO", "sha224"]
+- ["7Cryptor6DigestC9AlgorithmO", "sha256"]
+- ["7Cryptor6DigestC9AlgorithmO", "sha384"]
+- ["7Cryptor6DigestC9AlgorithmO", "sha512"]
+- !private ["Sa", "init"]
+- !private ["SK", "init"]
+- !private ["Sz", "init"]
+- ["s7CVarArgP", "allocate"]
+- !private ["s7CVarArgP", "deallocate"]
+- !private ["s7CVarArgP", "init"]
+- !private ["Sl", "init"]
+- ["SL", "allocate"]
+- !private ["SL", "deallocate"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- ["s28CustomDebugStringConvertibleP", "allocate"]
+- !private ["s28CustomDebugStringConvertibleP", "deallocate"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s17CustomReflectableP", "allocate"]
+- !private ["s17CustomReflectableP", "deallocate"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "success"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["Se", "init"]
+- ["7Cryptor6DigestC", "Algorithm"]
+- !private ["7Cryptor6DigestC", "CC_LONG"]
+- !private ["7Cryptor6DigestC", "CC_MD2_CTX"]
+- !private ["7Cryptor6DigestC", "CC_MD2_DIGEST_LENGTH"]
+- !private ["7Cryptor6DigestC", "CC_MD2_Final"]
+- !private ["7Cryptor6DigestC", "CC_MD2_Init"]
+- !private ["7Cryptor6DigestC", "CC_MD2_Update"]
+- !private ["7Cryptor6DigestC", "CC_MD4_CTX"]
+- !private ["7Cryptor6DigestC", "CC_MD4_DIGEST_LENGTH"]
+- !private ["7Cryptor6DigestC", "CC_MD4_Final"]
+- !private ["7Cryptor6DigestC", "CC_MD4_Init"]
+- !private ["7Cryptor6DigestC", "CC_MD4_Update"]
+- !private ["7Cryptor6DigestC", "CC_MD5_CTX"]
+- !private ["7Cryptor6DigestC", "CC_MD5_DIGEST_LENGTH"]
+- !private ["7Cryptor6DigestC", "CC_MD5_Final"]
+- !private ["7Cryptor6DigestC", "CC_MD5_Init"]
+- !private ["7Cryptor6DigestC", "CC_MD5_Update"]
+- !private ["7Cryptor6DigestC", "CC_SHA1_CTX"]
+- !private ["7Cryptor6DigestC", "CC_SHA1_DIGEST_LENGTH"]
+- !private ["7Cryptor6DigestC", "CC_SHA1_Final"]
+- !private ["7Cryptor6DigestC", "CC_SHA1_Init"]
+- !private ["7Cryptor6DigestC", "CC_SHA1_Update"]
+- !private ["7Cryptor6DigestC", "CC_SHA224_DIGEST_LENGTH"]
+- !private ["7Cryptor6DigestC", "CC_SHA224_Final"]
+- !private ["7Cryptor6DigestC", "CC_SHA224_Init"]
+- !private ["7Cryptor6DigestC", "CC_SHA224_Update"]
+- !private ["7Cryptor6DigestC", "CC_SHA256_CTX"]
+- !private ["7Cryptor6DigestC", "CC_SHA256_DIGEST_LENGTH"]
+- !private ["7Cryptor6DigestC", "CC_SHA256_Final"]
+- !private ["7Cryptor6DigestC", "CC_SHA256_Init"]
+- !private ["7Cryptor6DigestC", "CC_SHA256_Update"]
+- !private ["7Cryptor6DigestC", "CC_SHA384_DIGEST_LENGTH"]
+- !private ["7Cryptor6DigestC", "CC_SHA384_Final"]
+- !private ["7Cryptor6DigestC", "CC_SHA384_Init"]
+- !private ["7Cryptor6DigestC", "CC_SHA384_Update"]
+- !private ["7Cryptor6DigestC", "CC_SHA512_CTX"]
+- !private ["7Cryptor6DigestC", "CC_SHA512_DIGEST_LENGTH"]
+- !private ["7Cryptor6DigestC", "CC_SHA512_Final"]
+- !private ["7Cryptor6DigestC", "CC_SHA512_Init"]
+- !private ["7Cryptor6DigestC", "CC_SHA512_Update"]
+- ["7Cryptor6DigestC", "DigestEngine"]
+- !private ["7Cryptor6DigestC", "DigestEngineCC"]
+- ["7Cryptor6DigestC", "Status"]
+- ["7Cryptor6DigestC", "UInt8"]
+- ["7Cryptor6DigestC", "UnsafeRawPointer"]
+- ["7Cryptor6DigestC", "deinit"]
+- !private ["7Cryptor6DigestC", "engine"]
+- ["7Cryptor6DigestC", "final"]
+- ["7Cryptor6DigestC", "init"]
+- ["7Cryptor6DigestC", "size_t"]
+- ["7Cryptor6DigestC", "status"]
+- ["7Cryptor6DigestC", "update"]
+- !private ["SE", "init"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "allocate"]
+- !private ["SQ", "deallocate"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "init"]
+- ["SQ", "md2"]
+- ["SQ", "md4"]
+- ["SQ", "md5"]
+- ["SQ", "sha1"]
+- ["SQ", "sha224"]
+- ["SQ", "sha256"]
+- ["SQ", "sha384"]
+- ["SQ", "sha512"]
+- ["SQ", "success"]
+- ["s5ErrorP", "success"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "allocate"]
+- !private ["SH", "deallocate"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "init"]
+- ["SH", "md2"]
+- ["SH", "md4"]
+- ["SH", "md5"]
+- ["SH", "sha1"]
+- ["SH", "sha224"]
+- ["SH", "sha256"]
+- ["SH", "sha384"]
+- ["SH", "sha512"]
+- ["SH", "success"]
+- !private ["s6HasherV", "combine"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["Sj", "init"]
+- !private ["Sk", "init"]
+- !private ["Sm", "init"]
+- ["SY", "success"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "init"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- ["7Cryptor6StatusO", "success"]
+- ["Sx", "allocate"]
+- !private ["Sx", "deallocate"]
+- !private ["Sx", "init"]
+- !private ["s6UInt32V", "init"]
+- ["Sp", "allocate"]
+- !private ["Sp", "deallocate"]
+- !private ["SU", "init"]
+- !private ["7Cryptor9UpdatableP", "CC_LONG"]
+- !private ["7Cryptor9UpdatableP", "CC_MD2_DIGEST_LENGTH"]
+- !private ["7Cryptor9UpdatableP", "CC_MD2_Final"]
+- !private ["7Cryptor9UpdatableP", "CC_MD2_Init"]
+- !private ["7Cryptor9UpdatableP", "CC_MD2_Update"]
+- !private ["7Cryptor9UpdatableP", "CC_MD4_DIGEST_LENGTH"]
+- !private ["7Cryptor9UpdatableP", "CC_MD4_Final"]
+- !private ["7Cryptor9UpdatableP", "CC_MD4_Init"]
+- !private ["7Cryptor9UpdatableP", "CC_MD4_Update"]
+- !private ["7Cryptor9UpdatableP", "CC_MD5_DIGEST_LENGTH"]
+- !private ["7Cryptor9UpdatableP", "CC_MD5_Final"]
+- !private ["7Cryptor9UpdatableP", "CC_MD5_Init"]
+- !private ["7Cryptor9UpdatableP", "CC_MD5_Update"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA1_DIGEST_LENGTH"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA1_Final"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA1_Init"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA1_Update"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA224_DIGEST_LENGTH"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA224_Final"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA224_Init"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA224_Update"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA256_DIGEST_LENGTH"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA256_Final"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA256_Init"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA256_Update"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA384_DIGEST_LENGTH"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA384_Final"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA384_Init"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA384_Update"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA512_DIGEST_LENGTH"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA512_Final"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA512_Init"]
+- !private ["7Cryptor9UpdatableP", "CC_SHA512_Update"]
+- !private ["7Cryptor9UpdatableP", "DigestEngineCC"]
+- ["7Cryptor9UpdatableP", "Status"]
+- ["7Cryptor9UpdatableP", ""]
+- !private ["7Cryptor9UpdatableP", "engine"]
+- ["7Cryptor9UpdatableP", "status"]
+- ["7Cryptor9UpdatableP", "update"]
+- !private ["s14_ArrayProtocolP", "init"]
+- ["s30_CustomPlaygroundQuickLookableP", "allocate"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "deallocate"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- ["s8_PointerP", "allocate"]
+- !private ["s8_PointerP", "deallocate"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- "7Cryptor6DigestC9AlgorithmO"
+- !private "Sa"
+- !private "SK"
+- !private "Sz"
+- "s7CVarArgP"
+- !private "Sl"
+- "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- "7Cryptor6DigestC"
+- !private "SE"
+- "SQ"
+- "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "s6HasherV"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sj"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- "7Cryptor6StatusO"
+- "Sx"
+- !private "s6UInt32V"
+- "Sp"
+- !private "SU"
+- "7Cryptor9UpdatableP"
+- !private "s14_ArrayProtocolP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s8_PointerP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "19ec8e3863a2de8076231c2f96a9d1ab"

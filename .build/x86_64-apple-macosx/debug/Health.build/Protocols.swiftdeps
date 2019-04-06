@@ -1,0 +1,471 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InvalidDataError"
+- "State"
+- "StatusDateFormatter"
+- "Status"
+- "HealthCheckClosure"
+- "HealthCheck"
+- "HealthProtocol"
+- "=="
+provides-nominal:
+- "6Health16InvalidDataErrorO"
+- "6Health5StateO"
+- "6Health19StatusDateFormatterC"
+- "6Health6StatusV"
+- "6Health6StatusV10CodingKeysO"
+- "6Health0A5CheckP"
+- "6Health0A8ProtocolP"
+provides-member:
+- ["6Health16InvalidDataErrorO", ""]
+- ["6Health5StateO", ""]
+- ["6Health19StatusDateFormatterC", ""]
+- ["6Health6StatusV", ""]
+- ["6Health6StatusV10CodingKeysO", ""]
+- ["6Health0A5CheckP", ""]
+- ["6Health0A8ProtocolP", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "CastingPrecedence"
+- "CodingKey"
+- "Date"
+- "DateFormatter"
+- "Decodable"
+- "Decoder"
+- "Encodable"
+- "Encoder"
+- "Equatable"
+- "Error"
+- !private "FloatLiteralType"
+- "HealthCheck"
+- "HealthCheckClosure"
+- "HealthProtocol"
+- !private "IntegerLiteralType"
+- "InvalidDataError"
+- !private "Log"
+- "State"
+- "Status"
+- "StatusDateFormatter"
+- "String"
+- "StringLiteralType"
+- !private "TimeZone"
+- "UInt64"
+- !private "UnicodeScalarType"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- !private ["s7CVarArgP", "date"]
+- !private ["s7CVarArgP", "dateFormat"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s7CVarArgP", "timeZone"]
+- ["s9CodingKeyP", "=="]
+- ["s9CodingKeyP", "RawValue"]
+- ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_Default_RawValue"]
+- !private ["s9CodingKeyP", "_findStringSwitchCase"]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- !private ["s9CodingKeyP", "details"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- !private ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "rawValue"]
+- !private ["s9CodingKeyP", "status"]
+- ["s9CodingKeyP", "stringValue"]
+- !private ["s9CodingKeyP", "timestamp"]
+- ["6Health6StatusV10CodingKeysO", "=="]
+- ["6Health6StatusV10CodingKeysO", "RawValue"]
+- ["6Health6StatusV10CodingKeysO", "_Default_RawValue"]
+- !private ["6Health6StatusV10CodingKeysO", "_findStringSwitchCase"]
+- ["6Health6StatusV10CodingKeysO", "_rawHashValue"]
+- ["6Health6StatusV10CodingKeysO", "debugDescription"]
+- ["6Health6StatusV10CodingKeysO", "deinit"]
+- ["6Health6StatusV10CodingKeysO", "description"]
+- ["6Health6StatusV10CodingKeysO", "details"]
+- ["6Health6StatusV10CodingKeysO", "hash"]
+- ["6Health6StatusV10CodingKeysO", "hashValue"]
+- ["6Health6StatusV10CodingKeysO", "init"]
+- !private ["6Health6StatusV10CodingKeysO", "init"]
+- ["6Health6StatusV10CodingKeysO", "intValue"]
+- ["6Health6StatusV10CodingKeysO", "rawValue"]
+- ["6Health6StatusV10CodingKeysO", "status"]
+- ["6Health6StatusV10CodingKeysO", "stringValue"]
+- ["6Health6StatusV10CodingKeysO", "timestamp"]
+- !private ["SL", "init"]
+- !private ["SL", "milliseconds"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", "RawValue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_Default_RawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "_findStringSwitchCase"]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "date"]
+- !private ["s28CustomDebugStringConvertibleP", "dateFormat"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "details"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "milliseconds"]
+- ["s28CustomDebugStringConvertibleP", "rawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "status"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "timeZone"]
+- !private ["s28CustomDebugStringConvertibleP", "timestamp"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "milliseconds"]
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", "RawValue"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_RawValue"]
+- !private ["s23CustomStringConvertibleP", "_findStringSwitchCase"]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "date"]
+- !private ["s23CustomStringConvertibleP", "dateFormat"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "details"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- !private ["s23CustomStringConvertibleP", "milliseconds"]
+- ["s23CustomStringConvertibleP", "rawValue"]
+- !private ["s23CustomStringConvertibleP", "status"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "timeZone"]
+- !private ["s23CustomStringConvertibleP", "timestamp"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["10Foundation4DateV", "milliseconds"]
+- !private ["So15NSDateFormatterC", "date"]
+- !private ["So15NSDateFormatterC", "dateFormat"]
+- !private ["So15NSDateFormatterC", "init"]
+- !private ["So15NSDateFormatterC", "string"]
+- !private ["So15NSDateFormatterC", "timeZone"]
+- ["Se", "=="]
+- !private ["Se", "CodingKeys"]
+- !private ["Se", "Date"]
+- !private ["Se", "DateFormatter"]
+- !private ["Se", "InvalidDataError"]
+- !private ["Se", "Log"]
+- !private ["Se", "State"]
+- !private ["Se", "Status"]
+- ["Se", "StatusDateFormatter"]
+- !private ["Se", "String"]
+- ["Se", ""]
+- !private ["Se", "_findStringSwitchCase"]
+- !private ["Se", "dateFormatter"]
+- !private ["Se", "details"]
+- ["Se", "encode"]
+- ["Se", "init"]
+- !private ["Se", "milliseconds"]
+- !private ["Se", "state"]
+- !private ["Se", "timestamp"]
+- !private ["s7DecoderP", "container"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SE", "=="]
+- !private ["SE", "CodingKeys"]
+- !private ["SE", "Date"]
+- !private ["SE", "DateFormatter"]
+- !private ["SE", "InvalidDataError"]
+- !private ["SE", "Log"]
+- !private ["SE", "State"]
+- !private ["SE", "Status"]
+- ["SE", "StatusDateFormatter"]
+- !private ["SE", "String"]
+- ["SE", ""]
+- !private ["SE", "_findStringSwitchCase"]
+- !private ["SE", "dateFormatter"]
+- !private ["SE", "details"]
+- ["SE", "encode"]
+- ["SE", "init"]
+- !private ["SE", "milliseconds"]
+- !private ["SE", "state"]
+- !private ["SE", "timestamp"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- !private ["SQ", "CodingKeys"]
+- !private ["SQ", "Date"]
+- !private ["SQ", "DateFormatter"]
+- !private ["SQ", "InvalidDataError"]
+- !private ["SQ", "Log"]
+- ["SQ", "RawValue"]
+- !private ["SQ", "State"]
+- !private ["SQ", "Status"]
+- ["SQ", "StatusDateFormatter"]
+- !private ["SQ", "String"]
+- !private ["SQ", "UP"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "date"]
+- !private ["SQ", "dateFormat"]
+- !private ["SQ", "dateFormatter"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- !private ["SQ", "details"]
+- ["SQ", "encode"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SQ", "intValue"]
+- !private ["SQ", "milliseconds"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "state"]
+- !private ["SQ", "status"]
+- !private ["SQ", "string"]
+- ["SQ", "stringValue"]
+- !private ["SQ", "timeZone"]
+- !private ["SQ", "timestamp"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "deserialization"]
+- !private ["So11NSFormatterC", "date"]
+- !private ["So11NSFormatterC", "dateFormat"]
+- !private ["So11NSFormatterC", "init"]
+- !private ["So11NSFormatterC", "string"]
+- !private ["So11NSFormatterC", "timeZone"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- !private ["SH", "UP"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "date"]
+- !private ["SH", "dateFormat"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- !private ["SH", "details"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- !private ["SH", "init"]
+- ["SH", "intValue"]
+- !private ["SH", "milliseconds"]
+- ["SH", "rawValue"]
+- !private ["SH", "status"]
+- !private ["SH", "string"]
+- ["SH", "stringValue"]
+- !private ["SH", "timeZone"]
+- !private ["SH", "timestamp"]
+- ["6Health0A5CheckP", "State"]
+- ["6Health0A5CheckP", "String"]
+- ["6Health0A5CheckP", "description"]
+- ["6Health0A5CheckP", "evaluate"]
+- ["6Health0A5CheckP", "name"]
+- ["6Health0A8ProtocolP", "HealthCheck"]
+- ["6Health0A8ProtocolP", "HealthCheckClosure"]
+- ["6Health0A8ProtocolP", "Status"]
+- ["6Health0A8ProtocolP", "addCheck"]
+- ["6Health0A8ProtocolP", "status"]
+- ["6Health16InvalidDataErrorO", "String"]
+- ["6Health16InvalidDataErrorO", "_code"]
+- ["6Health16InvalidDataErrorO", "_domain"]
+- ["6Health16InvalidDataErrorO", "_getEmbeddedNSError"]
+- ["6Health16InvalidDataErrorO", "_userInfo"]
+- ["6Health16InvalidDataErrorO", "deinit"]
+- ["6Health16InvalidDataErrorO", "deserialization"]
+- ["6Health16InvalidDataErrorO", "serialization"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["9LoggerAPI3LogC", "warning"]
+- !private ["So8NSCodingP", "date"]
+- !private ["So8NSCodingP", "dateFormat"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So8NSCodingP", "timeZone"]
+- !private ["So9NSCopyingP", "date"]
+- !private ["So9NSCopyingP", "dateFormat"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "string"]
+- !private ["So9NSCopyingP", "timeZone"]
+- !private ["So8NSObjectC", "date"]
+- !private ["So8NSObjectC", "dateFormat"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So8NSObjectC", "timeZone"]
+- !private ["So8NSObjectP", "date"]
+- !private ["So8NSObjectP", "dateFormat"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "string"]
+- !private ["So8NSObjectP", "timeZone"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- !private ["SY", "UP"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "debugDescription"]
+- ["SY", "description"]
+- !private ["SY", "details"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- !private ["SY", "init"]
+- ["SY", "intValue"]
+- ["SY", "rawValue"]
+- !private ["SY", "status"]
+- ["SY", "stringValue"]
+- !private ["SY", "timestamp"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "milliseconds"]
+- ["6Health5StateO", "=="]
+- ["6Health5StateO", "DOWN"]
+- ["6Health5StateO", "RawValue"]
+- ["6Health5StateO", "UP"]
+- ["6Health5StateO", "_Default_RawValue"]
+- !private ["6Health5StateO", "_findStringSwitchCase"]
+- ["6Health5StateO", "_rawHashValue"]
+- ["6Health5StateO", "deinit"]
+- ["6Health5StateO", "hash"]
+- ["6Health5StateO", "hashValue"]
+- ["6Health5StateO", "init"]
+- ["6Health5StateO", "rawValue"]
+- ["6Health6StatusV", "=="]
+- ["6Health6StatusV", "Bool"]
+- ["6Health6StatusV", "CodingKey"]
+- ["6Health6StatusV", "CodingKeys"]
+- !private ["6Health6StatusV", "Date"]
+- !private ["6Health6StatusV", "DateFormatter"]
+- ["6Health6StatusV", "Decoder"]
+- ["6Health6StatusV", "Encoder"]
+- !private ["6Health6StatusV", "InvalidDataError"]
+- !private ["6Health6StatusV", "Log"]
+- ["6Health6StatusV", "State"]
+- ["6Health6StatusV", "Status"]
+- ["6Health6StatusV", "StatusDateFormatter"]
+- ["6Health6StatusV", "String"]
+- ["6Health6StatusV", "UInt64"]
+- !private ["6Health6StatusV", "_findStringSwitchCase"]
+- ["6Health6StatusV", "dateFormat"]
+- ["6Health6StatusV", "dateFormatter"]
+- ["6Health6StatusV", "deinit"]
+- ["6Health6StatusV", "details"]
+- ["6Health6StatusV", "encode"]
+- ["6Health6StatusV", "init"]
+- ["6Health6StatusV", "state"]
+- ["6Health6StatusV", "timestamp"]
+- ["6Health6StatusV", "toDictionary"]
+- ["6Health6StatusV", "toSimpleDictionary"]
+- ["6Health6StatusV", "tsInMillis"]
+- ["6Health19StatusDateFormatterC", "Date"]
+- ["6Health19StatusDateFormatterC", "DateFormatter"]
+- !private ["6Health19StatusDateFormatterC", "Log"]
+- ["6Health19StatusDateFormatterC", "String"]
+- !private ["6Health19StatusDateFormatterC", "TimeZone"]
+- ["6Health19StatusDateFormatterC", "date"]
+- ["6Health19StatusDateFormatterC", "dateFormat"]
+- !private ["6Health19StatusDateFormatterC", "dateFormatter"]
+- ["6Health19StatusDateFormatterC", "init"]
+- ["6Health19StatusDateFormatterC", "string"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["10Foundation8TimeZoneV", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "milliseconds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "date"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dateFormat"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeZone"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "milliseconds"]
+depends-nominal:
+- !private "s7CVarArgP"
+- "s9CodingKeyP"
+- "6Health6StatusV10CodingKeysO"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "So15NSDateFormatterC"
+- "Se"
+- !private "s7DecoderP"
+- !private "s26DefaultStringInterpolationV"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- "s5ErrorP"
+- !private "So11NSFormatterC"
+- "SH"
+- "6Health0A5CheckP"
+- "6Health0A8ProtocolP"
+- "6Health16InvalidDataErrorO"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- !private "9LoggerAPI3LogC"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "6Health5StateO"
+- "6Health6StatusV"
+- "6Health19StatusDateFormatterC"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "10Foundation8TimeZoneV"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "aa9f2aaa633d825558854a639967f66f"

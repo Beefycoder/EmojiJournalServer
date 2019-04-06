@@ -1,0 +1,107 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Stencil.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Stencil.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Context.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Context.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Context.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Environment.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Environment.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Environment~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Environment.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Errors.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Errors.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Errors~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Errors.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Expression.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Expression.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Expression~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Expression.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Extension.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Extension.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Extension~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Extension.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/FilterTag.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/FilterTag.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/FilterTag~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/FilterTag.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Filters.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Filters.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Filters~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Filters.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/ForTag.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/ForTag.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/ForTag~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/ForTag.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/IfTag.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/IfTag.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/IfTag~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/IfTag.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Include.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Include.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Include~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Include.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Inheritence.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Inheritence.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Inheritence~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Inheritence.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/KeyPath.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/KeyPath.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/KeyPath~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/KeyPath.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Lexer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Lexer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Lexer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Lexer.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Loader.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Loader.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Loader~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Loader.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Node.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Node.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Node~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Node.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/NowTag.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/NowTag.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/NowTag~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/NowTag.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Parser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Parser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Parser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Template.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Template.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Template~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Template.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Tokenizer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Tokenizer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Tokenizer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Tokenizer.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Stencil.git--1965434089792355796/Sources/Variable.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Variable.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Variable~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/Stencil.build/Variable.swiftdeps"
+  }
+}

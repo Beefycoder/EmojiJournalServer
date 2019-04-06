@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/HeliumLogger.build/HeliumLogger.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/HeliumLogger.build/HeliumLogger.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/HeliumLogger.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/HeliumLogger.git--2755194721864153837/Sources/HeliumLogger/HeliumLogger.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/HeliumLogger.build/HeliumLogger.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/HeliumLogger.build/HeliumLogger~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/HeliumLogger.build/HeliumLogger.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/HeliumLogger.git--2755194721864153837/Sources/HeliumLogger/HeliumStreamLogger.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/HeliumLogger.build/HeliumStreamLogger.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/HeliumLogger.build/HeliumStreamLogger~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/HeliumLogger.build/HeliumStreamLogger.swiftdeps"
+  }
+}

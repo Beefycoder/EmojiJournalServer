@@ -1,0 +1,758 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RequestError"
+- "CodableHelpers"
+provides-nominal:
+- "6Kitura14CodableHelpersV"
+provides-member:
+- ["6Kitura6RouterC", ""]
+- ["6Kitura14CodableHelpersV", ""]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "put"]
+- ["6Kitura6RouterC", "patch"]
+- ["6Kitura6RouterC", "pathHasSingleParamIdAsSuffix"]
+- ["6Kitura6RouterC", "pathSyntaxIsValid"]
+- ["6Kitura6RouterC", "join"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- !private "<"
+- !private "=="
+- !private ">"
+- !private ">="
+- !private "??"
+- !private "AssignmentPrecedence"
+- "Bool"
+- "CastingPrecedence"
+- "Codable"
+- "CodableArrayClosure"
+- "CodableArrayResultClosure"
+- "CodableClosure"
+- "CodableHelpers"
+- "CodableIdentifierClosure"
+- "CodableResultClosure"
+- !private "DecodingError"
+- !private "ExtendedGraphemeClusterType"
+- "HTTPStatusCode"
+- "Identifier"
+- "IdentifierCodableArrayClosure"
+- "IdentifierCodableArrayResultClosure"
+- "IdentifierCodableClosure"
+- "IdentifierCodableResultClosure"
+- "IdentifierNonCodableClosure"
+- "IdentifierSimpleCodableClosure"
+- "KituraContracts"
+- !private "Log"
+- "NonCodableClosure"
+- !private "QueryDecoder"
+- "QueryParams"
+- "RequestError"
+- "ResultClosure"
+- "Router"
+- "RouterRequest"
+- "RouterResponse"
+- "SimpleCodableClosure"
+- "String"
+- "TernaryPrecedence"
+- !private "UnicodeScalarType"
+- "Void"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "map"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "contains"]
+- !private ["SK", "count"]
+- !private ["SK", "dropFirst"]
+- !private ["SK", "dropLast"]
+- !private ["SK", "hasPrefix"]
+- !private ["SK", "hasSuffix"]
+- !private ["SK", "init"]
+- !private ["SK", "map"]
+- !private ["SK", "split"]
+- !private ["SK", "subscript"]
+- !private ["15KituraContracts11BodyDecoderP", "decode"]
+- !private ["15KituraContracts11BodyDecoderP", "init"]
+- !private ["15KituraContracts10BodyFormatV", "json"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "dropFirst"]
+- !private ["s7CVarArgP", "dropLast"]
+- !private ["s7CVarArgP", "hasPrefix"]
+- !private ["s7CVarArgP", "hasSuffix"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "split"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["9KituraNet14HTTPStatusCodeO5ClassO", "successful"]
+- ["6Kitura14CodableHelpersV", "Bool"]
+- ["6Kitura14CodableHelpersV", "Codable"]
+- ["6Kitura14CodableHelpersV", "CodableResultClosure"]
+- !private ["6Kitura14CodableHelpersV", "DecodingError"]
+- ["6Kitura14CodableHelpersV", "HTTPStatusCode"]
+- ["6Kitura14CodableHelpersV", "Identifier"]
+- ["6Kitura14CodableHelpersV", "IdentifierCodableArrayResultClosure"]
+- ["6Kitura14CodableHelpersV", "IdentifierCodableResultClosure"]
+- !private ["6Kitura14CodableHelpersV", "Log"]
+- ["6Kitura14CodableHelpersV", "RequestError"]
+- ["6Kitura14CodableHelpersV", "ResultClosure"]
+- ["6Kitura14CodableHelpersV", "RouterRequest"]
+- ["6Kitura14CodableHelpersV", "RouterResponse"]
+- !private ["6Kitura14CodableHelpersV", "String"]
+- ["6Kitura14CodableHelpersV", "Void"]
+- ["6Kitura14CodableHelpersV", "constructIdentOutResultHandler"]
+- ["6Kitura14CodableHelpersV", "constructOutResultHandler"]
+- ["6Kitura14CodableHelpersV", "constructResultHandler"]
+- ["6Kitura14CodableHelpersV", "constructTupleArrayOutResultHandler"]
+- ["6Kitura14CodableHelpersV", "httpStatusCode"]
+- ["6Kitura14CodableHelpersV", "init"]
+- ["6Kitura14CodableHelpersV", "isContentTypeJSON"]
+- ["6Kitura14CodableHelpersV", "isContentTypeURLEncoded"]
+- ["6Kitura14CodableHelpersV", "parseIdOrSetResponseStatus"]
+- ["6Kitura14CodableHelpersV", "readCodableOrSetResponseStatus"]
+- !private ["15KituraContracts5CoderC", "decode"]
+- !private ["15KituraContracts5CoderC", "init"]
+- !private ["Sl", "contains"]
+- !private ["Sl", "count"]
+- !private ["Sl", "dropFirst"]
+- !private ["Sl", "dropLast"]
+- !private ["Sl", "hasPrefix"]
+- !private ["Sl", "hasSuffix"]
+- !private ["Sl", "init"]
+- !private ["Sl", "map"]
+- !private ["Sl", "setType"]
+- !private ["Sl", "split"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "contains"]
+- !private ["SL", "dropFirst"]
+- !private ["SL", "dropLast"]
+- !private ["SL", "encodeBody"]
+- !private ["SL", "hasPrefix"]
+- !private ["SL", "hasSuffix"]
+- !private ["SL", "httpCode"]
+- !private ["SL", "init"]
+- !private ["SL", "rawValue"]
+- !private ["SL", "split"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "dropFirst"]
+- !private ["s28CustomDebugStringConvertibleP", "dropLast"]
+- !private ["s28CustomDebugStringConvertibleP", "hasPrefix"]
+- !private ["s28CustomDebugStringConvertibleP", "hasSuffix"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "split"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "dropFirst"]
+- !private ["s17CustomReflectableP", "dropLast"]
+- !private ["s17CustomReflectableP", "hasPrefix"]
+- !private ["s17CustomReflectableP", "hasSuffix"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "split"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "dropFirst"]
+- !private ["s23CustomStringConvertibleP", "dropLast"]
+- !private ["s23CustomStringConvertibleP", "encodeBody"]
+- !private ["s23CustomStringConvertibleP", "hasPrefix"]
+- !private ["s23CustomStringConvertibleP", "hasSuffix"]
+- !private ["s23CustomStringConvertibleP", "httpCode"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "rawValue"]
+- !private ["s23CustomStringConvertibleP", "split"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "contains"]
+- !private ["Se", "count"]
+- !private ["Se", "dropFirst"]
+- !private ["Se", "dropLast"]
+- !private ["Se", "hasPrefix"]
+- !private ["Se", "hasSuffix"]
+- !private ["Se", "init"]
+- !private ["Se", "map"]
+- !private ["Se", "split"]
+- !private ["Se", "subscript"]
+- !private ["Se", "value"]
+- !private ["s7DecoderP", "decode"]
+- !private ["s7DecoderP", "init"]
+- !private ["s13DecodingErrorO", "humanReadableDescription"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "count"]
+- !private ["SD", "subscript"]
+- !private ["11TypeDecoder010DictionaryA0P", "count"]
+- !private ["11TypeDecoder010DictionaryA0P", "subscript"]
+- !private ["SE", "contains"]
+- !private ["SE", "count"]
+- !private ["SE", "dropFirst"]
+- !private ["SE", "dropLast"]
+- !private ["SE", "hasPrefix"]
+- !private ["SE", "hasSuffix"]
+- !private ["SE", "init"]
+- !private ["SE", "map"]
+- !private ["SE", "split"]
+- !private ["SE", "subscript"]
+- !private ["SE", "value"]
+- !private ["SQ", "OK"]
+- !private ["SQ", "badRequest"]
+- !private ["SQ", "class"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "count"]
+- !private ["SQ", "created"]
+- !private ["SQ", "dropFirst"]
+- !private ["SQ", "dropLast"]
+- !private ["SQ", "encodeBody"]
+- !private ["SQ", "hasPrefix"]
+- !private ["SQ", "hasSuffix"]
+- !private ["SQ", "httpCode"]
+- !private ["SQ", "init"]
+- !private ["SQ", "internalServerError"]
+- !private ["SQ", "json"]
+- !private ["SQ", "map"]
+- !private ["SQ", "noContent"]
+- !private ["SQ", "rawValue"]
+- !private ["SQ", "split"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "successful"]
+- !private ["SQ", "unknown"]
+- !private ["SQ", "unprocessableEntity"]
+- !private ["SQ", "unsupportedMediaType"]
+- !private ["s5ErrorP", "encodeBody"]
+- !private ["s5ErrorP", "httpCode"]
+- !private ["s5ErrorP", "humanReadableDescription"]
+- !private ["s5ErrorP", "rawValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "count"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "dropFirst"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "dropLast"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasPrefix"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "split"]
+- !private ["s32ExpressibleByStringInterpolationP", "contains"]
+- !private ["s32ExpressibleByStringInterpolationP", "dropFirst"]
+- !private ["s32ExpressibleByStringInterpolationP", "dropLast"]
+- !private ["s32ExpressibleByStringInterpolationP", "hasPrefix"]
+- !private ["s32ExpressibleByStringInterpolationP", "hasSuffix"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "split"]
+- !private ["s26ExpressibleByStringLiteralP", "contains"]
+- !private ["s26ExpressibleByStringLiteralP", "dropFirst"]
+- !private ["s26ExpressibleByStringLiteralP", "dropLast"]
+- !private ["s26ExpressibleByStringLiteralP", "hasPrefix"]
+- !private ["s26ExpressibleByStringLiteralP", "hasSuffix"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "split"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "contains"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "dropFirst"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "dropLast"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hasPrefix"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "split"]
+- !private ["9KituraNet14HTTPStatusCodeO", "OK"]
+- !private ["9KituraNet14HTTPStatusCodeO", "badRequest"]
+- !private ["9KituraNet14HTTPStatusCodeO", "class"]
+- !private ["9KituraNet14HTTPStatusCodeO", "created"]
+- !private ["9KituraNet14HTTPStatusCodeO", "init"]
+- !private ["9KituraNet14HTTPStatusCodeO", "internalServerError"]
+- !private ["9KituraNet14HTTPStatusCodeO", "noContent"]
+- !private ["9KituraNet14HTTPStatusCodeO", "unknown"]
+- !private ["9KituraNet14HTTPStatusCodeO", "unprocessableEntity"]
+- !private ["9KituraNet14HTTPStatusCodeO", "unsupportedMediaType"]
+- !private ["SH", "OK"]
+- !private ["SH", "badRequest"]
+- !private ["SH", "class"]
+- !private ["SH", "contains"]
+- !private ["SH", "count"]
+- !private ["SH", "created"]
+- !private ["SH", "dropFirst"]
+- !private ["SH", "dropLast"]
+- !private ["SH", "encodeBody"]
+- !private ["SH", "hasPrefix"]
+- !private ["SH", "hasSuffix"]
+- !private ["SH", "httpCode"]
+- !private ["SH", "init"]
+- !private ["SH", "internalServerError"]
+- !private ["SH", "map"]
+- !private ["SH", "noContent"]
+- !private ["SH", "rawValue"]
+- !private ["SH", "split"]
+- !private ["SH", "subscript"]
+- !private ["SH", "successful"]
+- !private ["SH", "unknown"]
+- !private ["SH", "unprocessableEntity"]
+- !private ["SH", "unsupportedMediaType"]
+- !private ["6Kitura7HeadersV", "deinit"]
+- !private ["6Kitura7HeadersV", "setType"]
+- !private ["6Kitura7HeadersV", "subscript"]
+- !private ["15KituraContracts10IdentifierP", "contains"]
+- !private ["15KituraContracts10IdentifierP", "dropFirst"]
+- !private ["15KituraContracts10IdentifierP", "dropLast"]
+- !private ["15KituraContracts10IdentifierP", "hasPrefix"]
+- !private ["15KituraContracts10IdentifierP", "hasSuffix"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["15KituraContracts10IdentifierP", "split"]
+- !private ["15KituraContracts10IdentifierP", "value"]
+- !private ["10Foundation14LocalizedErrorP", "humanReadableDescription"]
+- !private ["9LoggerAPI3LogC", "debug"]
+- !private ["9LoggerAPI3LogC", "error"]
+- !private ["9LoggerAPI3LogC", "info"]
+- !private ["9LoggerAPI3LogC", "verbose"]
+- !private ["s25LosslessStringConvertibleP", "contains"]
+- !private ["s25LosslessStringConvertibleP", "dropFirst"]
+- !private ["s25LosslessStringConvertibleP", "dropLast"]
+- !private ["s25LosslessStringConvertibleP", "hasPrefix"]
+- !private ["s25LosslessStringConvertibleP", "hasSuffix"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "split"]
+- !private ["s10MirrorPathP", "contains"]
+- !private ["s10MirrorPathP", "dropFirst"]
+- !private ["s10MirrorPathP", "dropLast"]
+- !private ["s10MirrorPathP", "hasPrefix"]
+- !private ["s10MirrorPathP", "hasSuffix"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "split"]
+- !private ["SM", "count"]
+- !private ["SM", "map"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "contains"]
+- !private ["So8NSCodingP", "dropFirst"]
+- !private ["So8NSCodingP", "dropLast"]
+- !private ["So8NSCodingP", "hasPrefix"]
+- !private ["So8NSCodingP", "hasSuffix"]
+- !private ["So8NSCodingP", "split"]
+- !private ["So9NSCopyingP", "contains"]
+- !private ["So9NSCopyingP", "dropFirst"]
+- !private ["So9NSCopyingP", "dropLast"]
+- !private ["So9NSCopyingP", "hasPrefix"]
+- !private ["So9NSCopyingP", "hasSuffix"]
+- !private ["So9NSCopyingP", "split"]
+- !private ["So21NSItemProviderReadingP", "contains"]
+- !private ["So21NSItemProviderReadingP", "dropFirst"]
+- !private ["So21NSItemProviderReadingP", "dropLast"]
+- !private ["So21NSItemProviderReadingP", "hasPrefix"]
+- !private ["So21NSItemProviderReadingP", "hasSuffix"]
+- !private ["So21NSItemProviderReadingP", "split"]
+- !private ["So21NSItemProviderWritingP", "contains"]
+- !private ["So21NSItemProviderWritingP", "dropFirst"]
+- !private ["So21NSItemProviderWritingP", "dropLast"]
+- !private ["So21NSItemProviderWritingP", "hasPrefix"]
+- !private ["So21NSItemProviderWritingP", "hasSuffix"]
+- !private ["So21NSItemProviderWritingP", "split"]
+- !private ["So16NSMutableCopyingP", "contains"]
+- !private ["So16NSMutableCopyingP", "dropFirst"]
+- !private ["So16NSMutableCopyingP", "dropLast"]
+- !private ["So16NSMutableCopyingP", "hasPrefix"]
+- !private ["So16NSMutableCopyingP", "hasSuffix"]
+- !private ["So16NSMutableCopyingP", "split"]
+- !private ["So8NSObjectC", "contains"]
+- !private ["So8NSObjectC", "dropFirst"]
+- !private ["So8NSObjectC", "dropLast"]
+- !private ["So8NSObjectC", "hasPrefix"]
+- !private ["So8NSObjectC", "hasSuffix"]
+- !private ["So8NSObjectC", "split"]
+- !private ["So8NSObjectP", "contains"]
+- !private ["So8NSObjectP", "dropFirst"]
+- !private ["So8NSObjectP", "dropLast"]
+- !private ["So8NSObjectP", "hasPrefix"]
+- !private ["So8NSObjectP", "hasSuffix"]
+- !private ["So8NSObjectP", "split"]
+- !private ["So14NSSecureCodingP", "contains"]
+- !private ["So14NSSecureCodingP", "dropFirst"]
+- !private ["So14NSSecureCodingP", "dropLast"]
+- !private ["So14NSSecureCodingP", "hasPrefix"]
+- !private ["So14NSSecureCodingP", "hasSuffix"]
+- !private ["So14NSSecureCodingP", "split"]
+- !private ["So8NSStringC", "contains"]
+- !private ["So8NSStringC", "dropFirst"]
+- !private ["So8NSStringC", "dropLast"]
+- !private ["So8NSStringC", "hasPrefix"]
+- !private ["So8NSStringC", "hasSuffix"]
+- !private ["So8NSStringC", "split"]
+- !private ["15KituraContracts12QueryDecoderC", "decode"]
+- !private ["15KituraContracts12QueryDecoderC", "init"]
+- !private ["Sk", "count"]
+- !private ["Sk", "map"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "contains"]
+- !private ["Sm", "count"]
+- !private ["Sm", "dropFirst"]
+- !private ["Sm", "dropLast"]
+- !private ["Sm", "hasPrefix"]
+- !private ["Sm", "hasSuffix"]
+- !private ["Sm", "init"]
+- !private ["Sm", "map"]
+- !private ["Sm", "split"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "OK"]
+- !private ["SY", "badRequest"]
+- !private ["SY", "class"]
+- !private ["SY", "created"]
+- !private ["SY", "encodeBody"]
+- !private ["SY", "httpCode"]
+- !private ["SY", "init"]
+- !private ["SY", "internalServerError"]
+- !private ["SY", "noContent"]
+- !private ["SY", "rawValue"]
+- !private ["SY", "unknown"]
+- !private ["SY", "unprocessableEntity"]
+- !private ["SY", "unsupportedMediaType"]
+- !private ["15KituraContracts12RequestErrorV", "encodeBody"]
+- !private ["15KituraContracts12RequestErrorV", "httpCode"]
+- !private ["15KituraContracts12RequestErrorV", "rawValue"]
+- ["6Kitura6RouterC", "Bool"]
+- ["6Kitura6RouterC", "Codable"]
+- ["6Kitura6RouterC", "CodableArrayClosure"]
+- ["6Kitura6RouterC", "CodableArrayResultClosure"]
+- ["6Kitura6RouterC", "CodableClosure"]
+- !private ["6Kitura6RouterC", "CodableHelpers"]
+- ["6Kitura6RouterC", "CodableIdentifierClosure"]
+- ["6Kitura6RouterC", "CodableResultClosure"]
+- ["6Kitura6RouterC", "Identifier"]
+- ["6Kitura6RouterC", "IdentifierCodableArrayClosure"]
+- ["6Kitura6RouterC", "IdentifierCodableClosure"]
+- ["6Kitura6RouterC", "IdentifierNonCodableClosure"]
+- ["6Kitura6RouterC", "IdentifierSimpleCodableClosure"]
+- !private ["6Kitura6RouterC", "Log"]
+- ["6Kitura6RouterC", "NonCodableClosure"]
+- !private ["6Kitura6RouterC", "QueryDecoder"]
+- ["6Kitura6RouterC", "QueryParams"]
+- ["6Kitura6RouterC", "ResultClosure"]
+- ["6Kitura6RouterC", "SimpleCodableClosure"]
+- ["6Kitura6RouterC", "String"]
+- ["6Kitura6RouterC", "Void"]
+- ["6Kitura6RouterC", "delete"]
+- !private ["6Kitura6RouterC", "deleteSafely"]
+- ["6Kitura6RouterC", "get"]
+- !private ["6Kitura6RouterC", "getSafely"]
+- ["6Kitura6RouterC", "join"]
+- ["6Kitura6RouterC", "patch"]
+- !private ["6Kitura6RouterC", "patchSafely"]
+- ["6Kitura6RouterC", "pathHasSingleParamIdAsSuffix"]
+- ["6Kitura6RouterC", "pathSyntaxIsValid"]
+- ["6Kitura6RouterC", "post"]
+- !private ["6Kitura6RouterC", "postSafely"]
+- !private ["6Kitura6RouterC", "postSafelyWithId"]
+- ["6Kitura6RouterC", "put"]
+- !private ["6Kitura6RouterC", "putSafely"]
+- !private ["6Kitura6RouterC", "registerDeleteRoute"]
+- !private ["6Kitura6RouterC", "registerGetRoute"]
+- !private ["6Kitura6RouterC", "registerPatchRoute"]
+- !private ["6Kitura6RouterC", "registerPostRoute"]
+- !private ["6Kitura6RouterC", "registerPutRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "CodableHelpers"]
+- !private ["6Kitura16RouterMiddlewareP", "Log"]
+- !private ["6Kitura16RouterMiddlewareP", "QueryDecoder"]
+- !private ["6Kitura16RouterMiddlewareP", "String"]
+- !private ["6Kitura16RouterMiddlewareP", "delete"]
+- !private ["6Kitura16RouterMiddlewareP", "deleteSafely"]
+- !private ["6Kitura16RouterMiddlewareP", "get"]
+- !private ["6Kitura16RouterMiddlewareP", "getSafely"]
+- !private ["6Kitura16RouterMiddlewareP", "join"]
+- !private ["6Kitura16RouterMiddlewareP", "patch"]
+- !private ["6Kitura16RouterMiddlewareP", "patchSafely"]
+- !private ["6Kitura16RouterMiddlewareP", "pathHasSingleParamIdAsSuffix"]
+- !private ["6Kitura16RouterMiddlewareP", "pathSyntaxIsValid"]
+- !private ["6Kitura16RouterMiddlewareP", "post"]
+- !private ["6Kitura16RouterMiddlewareP", "postSafely"]
+- !private ["6Kitura16RouterMiddlewareP", "postSafelyWithId"]
+- !private ["6Kitura16RouterMiddlewareP", "put"]
+- !private ["6Kitura16RouterMiddlewareP", "putSafely"]
+- !private ["6Kitura16RouterMiddlewareP", "registerDeleteRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerGetRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerPatchRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerPostRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerPutRoute"]
+- !private ["6Kitura13RouterRequestC", "decoder"]
+- !private ["6Kitura13RouterRequestC", "hasBodyParserBeenUsed"]
+- !private ["6Kitura13RouterRequestC", "headers"]
+- !private ["6Kitura13RouterRequestC", "parameters"]
+- !private ["6Kitura13RouterRequestC", "queryParameters"]
+- !private ["6Kitura13RouterRequestC", "read"]
+- !private ["6Kitura14RouterResponseC", "headers"]
+- !private ["6Kitura14RouterResponseC", "send"]
+- !private ["6Kitura14RouterResponseC", "status"]
+- !private ["ST", "contains"]
+- !private ["ST", "count"]
+- !private ["ST", "dropFirst"]
+- !private ["ST", "dropLast"]
+- !private ["ST", "hasPrefix"]
+- !private ["ST", "hasSuffix"]
+- !private ["ST", "init"]
+- !private ["ST", "map"]
+- !private ["ST", "setType"]
+- !private ["ST", "split"]
+- !private ["ST", "subscript"]
+- !private ["9KituraNet14ServerDelegateP", "CodableHelpers"]
+- !private ["9KituraNet14ServerDelegateP", "Log"]
+- !private ["9KituraNet14ServerDelegateP", "QueryDecoder"]
+- !private ["9KituraNet14ServerDelegateP", "String"]
+- !private ["9KituraNet14ServerDelegateP", "delete"]
+- !private ["9KituraNet14ServerDelegateP", "deleteSafely"]
+- !private ["9KituraNet14ServerDelegateP", "get"]
+- !private ["9KituraNet14ServerDelegateP", "getSafely"]
+- !private ["9KituraNet14ServerDelegateP", "join"]
+- !private ["9KituraNet14ServerDelegateP", "patch"]
+- !private ["9KituraNet14ServerDelegateP", "patchSafely"]
+- !private ["9KituraNet14ServerDelegateP", "pathHasSingleParamIdAsSuffix"]
+- !private ["9KituraNet14ServerDelegateP", "pathSyntaxIsValid"]
+- !private ["9KituraNet14ServerDelegateP", "post"]
+- !private ["9KituraNet14ServerDelegateP", "postSafely"]
+- !private ["9KituraNet14ServerDelegateP", "postSafelyWithId"]
+- !private ["9KituraNet14ServerDelegateP", "put"]
+- !private ["9KituraNet14ServerDelegateP", "putSafely"]
+- !private ["9KituraNet14ServerDelegateP", "registerDeleteRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerGetRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerPatchRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerPostRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerPutRoute"]
+- !private ["SS", "contains"]
+- !private ["SS", "dropFirst"]
+- !private ["SS", "dropLast"]
+- !private ["SS", "hasPrefix"]
+- !private ["SS", "hasSuffix"]
+- !private ["SS", "init"]
+- !private ["SS", "split"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "contains"]
+- !private ["Sy", "dropFirst"]
+- !private ["Sy", "dropLast"]
+- !private ["Sy", "hasPrefix"]
+- !private ["Sy", "hasSuffix"]
+- !private ["Sy", "init"]
+- !private ["Sy", "split"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "contains"]
+- !private ["s16TextOutputStreamP", "dropFirst"]
+- !private ["s16TextOutputStreamP", "dropLast"]
+- !private ["s16TextOutputStreamP", "hasPrefix"]
+- !private ["s16TextOutputStreamP", "hasSuffix"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "split"]
+- !private ["s20TextOutputStreamableP", "contains"]
+- !private ["s20TextOutputStreamableP", "dropFirst"]
+- !private ["s20TextOutputStreamableP", "dropLast"]
+- !private ["s20TextOutputStreamableP", "hasPrefix"]
+- !private ["s20TextOutputStreamableP", "hasSuffix"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "split"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "contains"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "dropFirst"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "dropLast"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hasPrefix"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hasSuffix"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "split"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "dropFirst"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "dropLast"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasPrefix"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "split"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "contains"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "dropFirst"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "dropLast"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hasPrefix"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hasSuffix"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "split"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "contains"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "dropFirst"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "dropLast"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasPrefix"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "split"]
+- !private ["s19_HasContiguousBytesP", "contains"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "dropFirst"]
+- !private ["s19_HasContiguousBytesP", "dropLast"]
+- !private ["s19_HasContiguousBytesP", "hasPrefix"]
+- !private ["s19_HasContiguousBytesP", "hasSuffix"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s19_HasContiguousBytesP", "split"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "dropFirst"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "dropLast"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hasPrefix"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hasSuffix"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "split"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contains"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dropFirst"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dropLast"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasPrefix"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasSuffix"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "split"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "dropFirst"]
+- !private ["s21_ObjectiveCBridgeableP", "dropLast"]
+- !private ["s21_ObjectiveCBridgeableP", "hasPrefix"]
+- !private ["s21_ObjectiveCBridgeableP", "hasSuffix"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "split"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "15KituraContracts11BodyDecoderP"
+- !private "15KituraContracts10BodyFormatV"
+- !private "s7CVarArgP"
+- !private "9KituraNet14HTTPStatusCodeO5ClassO"
+- "6Kitura14CodableHelpersV"
+- !private "15KituraContracts5CoderC"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "s7DecoderP"
+- !private "s13DecodingErrorO"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "11TypeDecoder010DictionaryA0P"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9KituraNet14HTTPStatusCodeO"
+- !private "SH"
+- !private "6Kitura7HeadersV"
+- !private "15KituraContracts10IdentifierP"
+- !private "10Foundation14LocalizedErrorP"
+- !private "9LoggerAPI3LogC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "15KituraContracts12QueryDecoderC"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "15KituraContracts12RequestErrorV"
+- "6Kitura6RouterC"
+- !private "6Kitura16RouterMiddlewareP"
+- !private "6Kitura13RouterRequestC"
+- !private "6Kitura14RouterResponseC"
+- !private "ST"
+- !private "9KituraNet14ServerDelegateP"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0a4215fe5f88d5f5b987a24cbc6e4888"

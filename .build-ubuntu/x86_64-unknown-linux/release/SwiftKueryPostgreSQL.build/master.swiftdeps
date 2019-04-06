@@ -1,0 +1,10 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "14db3c5057945b3fbd8914ce888a902a"
+build_time: [1554239862, 502094300]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/ConnectionOptions.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/PostgreSQLConnection.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/PostgreSQLPreparedStatement.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/PostgreSQLResultFetcher.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/PostgreSQLType.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Swift-Kuery-PostgreSQL.git-4822078967080229839/Sources/SwiftKueryPostgreSQL/Utils.swift": [9223372036, 854775807]

@@ -1,0 +1,62 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/KituraSession.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/KituraSession.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/CookieCryptography.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/CookieCryptography.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/CookieCryptography~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/CookieCryptography.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/CookieManagement.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/CookieManagement.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/CookieManagement~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/CookieManagement.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/CookieParameter.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/CookieParameter.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/CookieParameter~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/CookieParameter.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/InMemoryStore.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/InMemoryStore.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/InMemoryStore~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/InMemoryStore.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/RouterRequest+Session.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/RouterRequest+Session.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/RouterRequest+Session~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/RouterRequest+Session.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/Session.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/Session.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/Session~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/Session.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/SessionCookie.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/SessionCookie.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/SessionCookie~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/SessionCookie.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/SessionState.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/SessionState.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/SessionState~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/SessionState.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/Store.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/Store.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/Store~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/Store.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/StoreError.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/StoreError.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/StoreError~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/StoreError.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/TypeSafeSession.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/TypeSafeSession.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/TypeSafeSession~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraSession.build/TypeSafeSession.swiftdeps"
+  }
+}

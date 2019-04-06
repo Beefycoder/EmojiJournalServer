@@ -1,0 +1,6 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "7809dc19dc4186f758d03583d655a51b"
+build_time: [1553552546, 743627112]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftBAMDC/SwiftDataCollector.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftBAMDC/SwiftMetricsBAMConfig.swift": [9223372036, 854775807]

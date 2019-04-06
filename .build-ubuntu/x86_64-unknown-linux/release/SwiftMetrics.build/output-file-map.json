@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/SwiftMetrics.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/SwiftMetrics.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetrics/SwiftMetrics.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/SwiftMetrics.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/SwiftMetrics~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/SwiftMetrics.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetrics/SwiftMonitor.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/SwiftMonitor.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/SwiftMonitor~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetrics.build/SwiftMonitor.swiftdeps"
+  }
+}

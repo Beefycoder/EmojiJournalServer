@@ -1,0 +1,4 @@
+module envplugin {
+    umbrella header "/swift-project/.build-ubuntu/checkouts/omr-agentcore--7541127466014459218/src/envplugin/include/envplugin.h"
+    export *
+}

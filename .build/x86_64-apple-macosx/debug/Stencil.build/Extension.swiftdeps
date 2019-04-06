@@ -1,0 +1,275 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Extension"
+- "DefaultExtension"
+- "FilterType"
+- "Filter"
+provides-nominal:
+- "7Stencil9ExtensionC"
+- "7Stencil16DefaultExtensionC"
+- "7Stencil10FilterTypeP"
+- "7Stencil6FilterO"
+provides-member:
+- ["7Stencil9ExtensionC", ""]
+- ["7Stencil16DefaultExtensionC", ""]
+- ["7Stencil10FilterTypeP", ""]
+- ["7Stencil6FilterO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- "AssignmentPrecedence"
+- !private "BlockNode"
+- "Bool"
+- "Context"
+- "DefaultExtension"
+- !private "ExtendsNode"
+- "Extension"
+- "Filter"
+- !private "FilterNode"
+- "FilterType"
+- !private "ForNode"
+- !private "IfNode"
+- !private "IncludeNode"
+- "NodeType"
+- !private "NowNode"
+- !private "SimpleNode"
+- "String"
+- !private "StringLiteralType"
+- !private "TemplateSyntaxError"
+- "Token"
+- "TokenParser"
+- !private "capitalise"
+- !private "defaultFilter"
+- !private "indentFilter"
+- !private "joinFilter"
+- !private "lowercase"
+- !private "splitFilter"
+- !private "uppercase"
+depends-member:
+- !private ["7Stencil11AnyOptionalP", "arguments"]
+- !private ["7Stencil11AnyOptionalP", "simple"]
+- !private ["Sa", "isEmpty"]
+- !private ["SK", "isEmpty"]
+- !private ["7Stencil9BlockNodeC", "parse"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "subscript"]
+- ["Sl", "init"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "arguments"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "simple"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "arguments"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "simple"]
+- !private ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["Se", "arguments"]
+- ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "simple"]
+- !private ["Se", "subscript"]
+- !private ["7Stencil16DefaultExtensionC", "BlockNode"]
+- !private ["7Stencil16DefaultExtensionC", "ExtendsNode"]
+- !private ["7Stencil16DefaultExtensionC", "FilterNode"]
+- !private ["7Stencil16DefaultExtensionC", "ForNode"]
+- !private ["7Stencil16DefaultExtensionC", "IfNode"]
+- !private ["7Stencil16DefaultExtensionC", "IncludeNode"]
+- !private ["7Stencil16DefaultExtensionC", "NowNode"]
+- !private ["7Stencil16DefaultExtensionC", "capitalise"]
+- !private ["7Stencil16DefaultExtensionC", "defaultFilter"]
+- !private ["7Stencil16DefaultExtensionC", "indentFilter"]
+- ["7Stencil16DefaultExtensionC", "init"]
+- !private ["7Stencil16DefaultExtensionC", "joinFilter"]
+- !private ["7Stencil16DefaultExtensionC", "lowercase"]
+- !private ["7Stencil16DefaultExtensionC", "registerDefaultFilters"]
+- !private ["7Stencil16DefaultExtensionC", "registerDefaultTags"]
+- !private ["7Stencil16DefaultExtensionC", "registerFilter"]
+- !private ["7Stencil16DefaultExtensionC", "registerTag"]
+- !private ["7Stencil16DefaultExtensionC", "splitFilter"]
+- !private ["7Stencil16DefaultExtensionC", "uppercase"]
+- ["SD", "init"]
+- !private ["SD", "subscript"]
+- !private ["SE", "arguments"]
+- ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "simple"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "arguments"]
+- ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "simple"]
+- !private ["SQ", "subscript"]
+- !private ["s5ErrorP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "arguments"]
+- !private ["s23ExpressibleByNilLiteralP", "simple"]
+- !private ["7Stencil11ExtendsNodeC", "parse"]
+- !private ["7Stencil9ExtensionC", "BlockNode"]
+- ["7Stencil9ExtensionC", "Bool"]
+- ["7Stencil9ExtensionC", "Context"]
+- !private ["7Stencil9ExtensionC", "ExtendsNode"]
+- ["7Stencil9ExtensionC", "Filter"]
+- !private ["7Stencil9ExtensionC", "FilterNode"]
+- !private ["7Stencil9ExtensionC", "ForNode"]
+- !private ["7Stencil9ExtensionC", "IfNode"]
+- !private ["7Stencil9ExtensionC", "IncludeNode"]
+- ["7Stencil9ExtensionC", "NodeType"]
+- !private ["7Stencil9ExtensionC", "NowNode"]
+- !private ["7Stencil9ExtensionC", "SimpleNode"]
+- ["7Stencil9ExtensionC", "String"]
+- ["7Stencil9ExtensionC", "TagParser"]
+- ["7Stencil9ExtensionC", "Token"]
+- ["7Stencil9ExtensionC", "TokenParser"]
+- ["7Stencil9ExtensionC", ""]
+- !private ["7Stencil9ExtensionC", "capitalise"]
+- !private ["7Stencil9ExtensionC", "defaultFilter"]
+- ["7Stencil9ExtensionC", "filters"]
+- !private ["7Stencil9ExtensionC", "indentFilter"]
+- ["7Stencil9ExtensionC", "init"]
+- !private ["7Stencil9ExtensionC", "joinFilter"]
+- !private ["7Stencil9ExtensionC", "lowercase"]
+- ["7Stencil9ExtensionC", "registerDefaultFilters"]
+- ["7Stencil9ExtensionC", "registerDefaultTags"]
+- ["7Stencil9ExtensionC", "registerFilter"]
+- ["7Stencil9ExtensionC", "registerSimpleTag"]
+- ["7Stencil9ExtensionC", "registerTag"]
+- !private ["7Stencil9ExtensionC", "splitFilter"]
+- ["7Stencil9ExtensionC", "tags"]
+- !private ["7Stencil9ExtensionC", "uppercase"]
+- !private ["7Stencil6FilterO", "TemplateSyntaxError"]
+- ["7Stencil6FilterO", "arguments"]
+- ["7Stencil6FilterO", "deinit"]
+- ["7Stencil6FilterO", "invoke"]
+- ["7Stencil6FilterO", "simple"]
+- !private ["7Stencil10FilterNodeC", "parse"]
+- !private ["7Stencil10FilterTypeP", "TemplateSyntaxError"]
+- ["7Stencil10FilterTypeP", ""]
+- ["7Stencil10FilterTypeP", "arguments"]
+- ["7Stencil10FilterTypeP", "invoke"]
+- ["7Stencil10FilterTypeP", "simple"]
+- !private ["7Stencil7ForNodeC", "parse"]
+- !private ["SH", "arguments"]
+- ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "simple"]
+- !private ["SH", "subscript"]
+- !private ["7Stencil6IfNodeC", "parse"]
+- !private ["7Stencil6IfNodeC", "parse_ifnot"]
+- !private ["7Stencil11IncludeNodeC", "parse"]
+- !private ["SM", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["7Stencil8NodeTypeP", "init"]
+- !private ["7Stencil8NodeTypeP", "parse"]
+- !private ["7Stencil8NodeTypeP", "parse_ifnot"]
+- ["7Stencil12NormalizableP", "init"]
+- !private ["7Stencil12NormalizableP", "isEmpty"]
+- !private ["7Stencil12NormalizableP", "subscript"]
+- !private ["7Stencil7NowNodeC", "parse"]
+- !private ["Sq", "arguments"]
+- !private ["Sq", "simple"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sm", "isEmpty"]
+- ["ST", "init"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "subscript"]
+- !private ["7Stencil10SimpleNodeC", "deinit"]
+- !private ["7Stencil10SimpleNodeC", "init"]
+- !private ["7Stencil19TemplateSyntaxErrorV", "deinit"]
+- !private ["7Stencil19TemplateSyntaxErrorV", "init"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "arguments"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "simple"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "7Stencil11AnyOptionalP"
+- !private "Sa"
+- !private "SK"
+- !private "7Stencil9BlockNodeC"
+- "s7CVarArgP"
+- "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "Se"
+- "7Stencil16DefaultExtensionC"
+- "SD"
+- "SE"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "7Stencil11ExtendsNodeC"
+- "7Stencil9ExtensionC"
+- "7Stencil6FilterO"
+- !private "7Stencil10FilterNodeC"
+- "7Stencil10FilterTypeP"
+- !private "7Stencil7ForNodeC"
+- "SH"
+- !private "7Stencil6IfNodeC"
+- !private "7Stencil11IncludeNodeC"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "7Stencil8NodeTypeP"
+- "7Stencil12NormalizableP"
+- !private "7Stencil7NowNodeC"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- "ST"
+- !private "7Stencil10SimpleNodeC"
+- !private "7Stencil19TemplateSyntaxErrorV"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b00ac401ab1a69aa25f6bb7ae272bd27"

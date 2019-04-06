@@ -1,0 +1,389 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FileKit"
+provides-nominal:
+- "7FileKitAAC"
+provides-member:
+- ["7FileKitAAC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "!="
+- "+"
+- "..<"
+- "??"
+- "Bool"
+- "Bundle"
+- "CommandLine"
+- "FileKit"
+- "FileManager"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "Log"
+- "String"
+- "StringLiteralType"
+- "URL"
+- "UnicodeScalarType"
+- "||"
+depends-member:
+- ["Sa", "subscript"]
+- ["SK", "hasSuffix"]
+- ["SK", "lowerBound"]
+- ["SK", "range"]
+- ["SK", "subscript"]
+- ["So8NSBundleC", "executableURL"]
+- ["So8NSBundleC", "main"]
+- ["s7CVarArgP", "executableURL"]
+- ["s7CVarArgP", "fileExists"]
+- ["s7CVarArgP", "hasSuffix"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "main"]
+- ["s7CVarArgP", "range"]
+- ["s7CVarArgP", "subscript"]
+- ["Sl", "hasSuffix"]
+- ["Sl", "lowerBound"]
+- ["Sl", "range"]
+- ["Sl", "subscript"]
+- ["s11CommandLineO", "arguments"]
+- ["SL", "hasSuffix"]
+- ["SL", "range"]
+- ["SL", "subscript"]
+- ["10Foundation15ContiguousBytesP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "appendPathComponent"]
+- ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- ["s28CustomDebugStringConvertibleP", "executableURL"]
+- ["s28CustomDebugStringConvertibleP", "fileExists"]
+- ["s28CustomDebugStringConvertibleP", "hasSuffix"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "lowerBound"]
+- ["s28CustomDebugStringConvertibleP", "main"]
+- ["s28CustomDebugStringConvertibleP", "path"]
+- ["s28CustomDebugStringConvertibleP", "range"]
+- ["s28CustomDebugStringConvertibleP", "resolvingSymlinksInPath"]
+- ["s28CustomDebugStringConvertibleP", "standardize"]
+- ["s28CustomDebugStringConvertibleP", "standardized"]
+- ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s17CustomReflectableP", "hasSuffix"]
+- ["s17CustomReflectableP", "lowerBound"]
+- ["s17CustomReflectableP", "range"]
+- ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "appendPathComponent"]
+- ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- ["s23CustomStringConvertibleP", "executableURL"]
+- ["s23CustomStringConvertibleP", "fileExists"]
+- ["s23CustomStringConvertibleP", "hasSuffix"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "lowerBound"]
+- ["s23CustomStringConvertibleP", "main"]
+- ["s23CustomStringConvertibleP", "path"]
+- ["s23CustomStringConvertibleP", "range"]
+- ["s23CustomStringConvertibleP", "resolvingSymlinksInPath"]
+- ["s23CustomStringConvertibleP", "standardize"]
+- ["s23CustomStringConvertibleP", "standardized"]
+- ["s23CustomStringConvertibleP", "subscript"]
+- ["10Foundation12DataProtocolP", "subscript"]
+- ["Se", "appendPathComponent"]
+- ["Se", "appendingPathComponent"]
+- ["Se", "hasSuffix"]
+- ["Se", "init"]
+- ["Se", "lowerBound"]
+- ["Se", "path"]
+- ["Se", "range"]
+- ["Se", "resolvingSymlinksInPath"]
+- ["Se", "standardize"]
+- ["Se", "standardized"]
+- ["Se", "subscript"]
+- ["SE", "appendPathComponent"]
+- ["SE", "appendingPathComponent"]
+- ["SE", "hasSuffix"]
+- ["SE", "init"]
+- ["SE", "lowerBound"]
+- ["SE", "path"]
+- ["SE", "range"]
+- ["SE", "resolvingSymlinksInPath"]
+- ["SE", "standardize"]
+- ["SE", "standardized"]
+- ["SE", "subscript"]
+- ["SQ", "appendPathComponent"]
+- ["SQ", "appendingPathComponent"]
+- ["SQ", "executableURL"]
+- ["SQ", "fileExists"]
+- ["SQ", "hasSuffix"]
+- ["SQ", "init"]
+- ["SQ", "lowerBound"]
+- ["SQ", "main"]
+- ["SQ", "path"]
+- ["SQ", "range"]
+- ["SQ", "resolvingSymlinksInPath"]
+- ["SQ", "standardize"]
+- ["SQ", "standardized"]
+- ["SQ", "subscript"]
+- ["s25ExpressibleByArrayLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "range"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- ["s32ExpressibleByStringInterpolationP", "hasSuffix"]
+- ["s32ExpressibleByStringInterpolationP", "range"]
+- ["s32ExpressibleByStringInterpolationP", "subscript"]
+- ["s26ExpressibleByStringLiteralP", "hasSuffix"]
+- ["s26ExpressibleByStringLiteralP", "range"]
+- ["s26ExpressibleByStringLiteralP", "subscript"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "hasSuffix"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "range"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- ["7FileKitAAC", "Bool"]
+- ["7FileKitAAC", "Bundle"]
+- ["7FileKitAAC", "CommandLine"]
+- ["7FileKitAAC", "FileManager"]
+- ["7FileKitAAC", "Log"]
+- ["7FileKitAAC", "String"]
+- ["7FileKitAAC", "URL"]
+- ["7FileKitAAC", "executableFolder"]
+- ["7FileKitAAC", "executableFolderURL"]
+- ["7FileKitAAC", "executableURL"]
+- ["7FileKitAAC", "init"]
+- ["7FileKitAAC", "isRanFromXCTest"]
+- ["7FileKitAAC", "isRanInsideXcode"]
+- ["7FileKitAAC", "projectFolder"]
+- ["7FileKitAAC", "projectFolderURL"]
+- ["7FileKitAAC", "projectHeadIterator"]
+- ["7FileKitAAC", "sourceFileURL"]
+- ["7FileKitAAC", "workingDirectory"]
+- ["7FileKitAAC", "workingDirectoryURL"]
+- ["So13NSFileManagerC", "fileExists"]
+- ["So13NSFileManagerC", "init"]
+- ["SH", "appendPathComponent"]
+- ["SH", "appendingPathComponent"]
+- ["SH", "executableURL"]
+- ["SH", "fileExists"]
+- ["SH", "hasSuffix"]
+- ["SH", "init"]
+- ["SH", "lowerBound"]
+- ["SH", "main"]
+- ["SH", "path"]
+- ["SH", "range"]
+- ["SH", "resolvingSymlinksInPath"]
+- ["SH", "standardize"]
+- ["SH", "standardized"]
+- ["SH", "subscript"]
+- ["9LoggerAPI3LogC", "debug"]
+- ["9LoggerAPI3LogC", "warning"]
+- ["s25LosslessStringConvertibleP", "hasSuffix"]
+- ["s25LosslessStringConvertibleP", "range"]
+- ["s25LosslessStringConvertibleP", "subscript"]
+- ["s10MirrorPathP", "hasSuffix"]
+- ["s10MirrorPathP", "range"]
+- ["s10MirrorPathP", "subscript"]
+- ["SM", "subscript"]
+- ["10Foundation19MutableDataProtocolP", "subscript"]
+- ["So8NSCodingP", "hasSuffix"]
+- ["So8NSCodingP", "range"]
+- ["So8NSCodingP", "subscript"]
+- ["So9NSCopyingP", "hasSuffix"]
+- ["So9NSCopyingP", "range"]
+- ["So9NSCopyingP", "subscript"]
+- ["So21NSItemProviderReadingP", "hasSuffix"]
+- ["So21NSItemProviderReadingP", "range"]
+- ["So21NSItemProviderReadingP", "subscript"]
+- ["So21NSItemProviderWritingP", "hasSuffix"]
+- ["So21NSItemProviderWritingP", "range"]
+- ["So21NSItemProviderWritingP", "subscript"]
+- ["So16NSMutableCopyingP", "hasSuffix"]
+- ["So16NSMutableCopyingP", "range"]
+- ["So16NSMutableCopyingP", "subscript"]
+- ["So8NSObjectC", "executableURL"]
+- ["So8NSObjectC", "fileExists"]
+- ["So8NSObjectC", "hasSuffix"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "range"]
+- ["So8NSObjectC", "subscript"]
+- ["So8NSObjectP", "executableURL"]
+- ["So8NSObjectP", "fileExists"]
+- ["So8NSObjectP", "hasSuffix"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "main"]
+- ["So8NSObjectP", "range"]
+- ["So8NSObjectP", "subscript"]
+- ["So14NSSecureCodingP", "hasSuffix"]
+- ["So14NSSecureCodingP", "range"]
+- ["So14NSSecureCodingP", "subscript"]
+- ["So8NSStringC", "hasSuffix"]
+- ["So8NSStringC", "range"]
+- ["So8NSStringC", "subscript"]
+- ["Sk", "lowerBound"]
+- ["Sk", "subscript"]
+- ["Sn", "lowerBound"]
+- ["SX", "lowerBound"]
+- ["Sm", "hasSuffix"]
+- ["Sm", "range"]
+- ["Sm", "subscript"]
+- ["10Foundation20ReferenceConvertibleP", "appendPathComponent"]
+- ["10Foundation20ReferenceConvertibleP", "appendingPathComponent"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- ["10Foundation20ReferenceConvertibleP", "path"]
+- ["10Foundation20ReferenceConvertibleP", "resolvingSymlinksInPath"]
+- ["10Foundation20ReferenceConvertibleP", "standardize"]
+- ["10Foundation20ReferenceConvertibleP", "standardized"]
+- ["ST", "hasSuffix"]
+- ["ST", "lowerBound"]
+- ["ST", "range"]
+- ["ST", "subscript"]
+- ["SS", "hasSuffix"]
+- ["SS", "range"]
+- ["SS", "subscript"]
+- ["Sy", "hasSuffix"]
+- ["Sy", "range"]
+- ["Sy", "subscript"]
+- ["s16TextOutputStreamP", "hasSuffix"]
+- ["s16TextOutputStreamP", "range"]
+- ["s16TextOutputStreamP", "subscript"]
+- ["s20TextOutputStreamableP", "hasSuffix"]
+- ["s20TextOutputStreamableP", "range"]
+- ["s20TextOutputStreamableP", "subscript"]
+- ["10Foundation3URLV", "appendPathComponent"]
+- ["10Foundation3URLV", "appendingPathComponent"]
+- ["10Foundation3URLV", "init"]
+- ["10Foundation3URLV", "path"]
+- ["10Foundation3URLV", "resolvingSymlinksInPath"]
+- ["10Foundation3URLV", "standardize"]
+- ["10Foundation3URLV", "standardized"]
+- ["s14_ArrayProtocolP", "subscript"]
+- ["s30_CustomPlaygroundQuickLookableP", "appendPathComponent"]
+- ["s30_CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- ["s30_CustomPlaygroundQuickLookableP", "hasSuffix"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s30_CustomPlaygroundQuickLookableP", "path"]
+- ["s30_CustomPlaygroundQuickLookableP", "range"]
+- ["s30_CustomPlaygroundQuickLookableP", "resolvingSymlinksInPath"]
+- ["s30_CustomPlaygroundQuickLookableP", "standardize"]
+- ["s30_CustomPlaygroundQuickLookableP", "standardized"]
+- ["s30_CustomPlaygroundQuickLookableP", "subscript"]
+- ["s24_DestructorSafeContainerP", "subscript"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "range"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "subscript"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "hasSuffix"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "range"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "subscript"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasSuffix"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "range"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "subscript"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "appendPathComponent"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "appendingPathComponent"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "path"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "resolvingSymlinksInPath"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "standardize"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "standardized"]
+- ["s19_HasContiguousBytesP", "hasSuffix"]
+- ["s19_HasContiguousBytesP", "range"]
+- ["s19_HasContiguousBytesP", "subscript"]
+- ["s35_HasCustomAnyHashableRepresentationP", "hasSuffix"]
+- ["s35_HasCustomAnyHashableRepresentationP", "range"]
+- ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "executableURL"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "fileExists"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "hasSuffix"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "range"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "subscript"]
+- ["s21_ObjectiveCBridgeableP", "appendPathComponent"]
+- ["s21_ObjectiveCBridgeableP", "appendingPathComponent"]
+- ["s21_ObjectiveCBridgeableP", "hasSuffix"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "path"]
+- ["s21_ObjectiveCBridgeableP", "range"]
+- ["s21_ObjectiveCBridgeableP", "resolvingSymlinksInPath"]
+- ["s21_ObjectiveCBridgeableP", "standardize"]
+- ["s21_ObjectiveCBridgeableP", "standardized"]
+- ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- "Sa"
+- "SK"
+- "So8NSBundleC"
+- "s7CVarArgP"
+- "Sl"
+- "s11CommandLineO"
+- "SL"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation12DataProtocolP"
+- "Se"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "7FileKitAAC"
+- "So13NSFileManagerC"
+- "SH"
+- "9LoggerAPI3LogC"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- "Sk"
+- "Sn"
+- "SX"
+- "Sm"
+- "10Foundation20ReferenceConvertibleP"
+- "ST"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "10Foundation3URLV"
+- "s14_ArrayProtocolP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s34_ExpressibleByFileReferenceLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "038e237200d3aa8e20e33e7d7795723c"

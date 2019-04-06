@@ -1,0 +1,153 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Condition"
+provides-nominal:
+- "10SwiftKuery9ConditionO"
+provides-member:
+- ["10SwiftKuery9ConditionO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "Buildable"
+- "Condition"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "QueryBuilder"
+- "String"
+- !private "UnicodeScalarType"
+depends-member:
+- ["10SwiftKuery9BuildableP", "=="]
+- ["10SwiftKuery9BuildableP", ""]
+- ["10SwiftKuery9BuildableP", "_rawHashValue"]
+- ["10SwiftKuery9BuildableP", "and"]
+- ["10SwiftKuery9BuildableP", "between"]
+- ["10SwiftKuery9BuildableP", "build"]
+- ["10SwiftKuery9BuildableP", "equal"]
+- ["10SwiftKuery9BuildableP", "exists"]
+- ["10SwiftKuery9BuildableP", "greaterThan"]
+- ["10SwiftKuery9BuildableP", "greaterThanOrEqual"]
+- ["10SwiftKuery9BuildableP", "hash"]
+- ["10SwiftKuery9BuildableP", "hashValue"]
+- ["10SwiftKuery9BuildableP", "in"]
+- ["10SwiftKuery9BuildableP", "isNotNull"]
+- ["10SwiftKuery9BuildableP", "isNull"]
+- ["10SwiftKuery9BuildableP", "lessThan"]
+- ["10SwiftKuery9BuildableP", "lessThanOrEqual"]
+- ["10SwiftKuery9BuildableP", "like"]
+- ["10SwiftKuery9BuildableP", "notBetween"]
+- ["10SwiftKuery9BuildableP", "notEqual"]
+- ["10SwiftKuery9BuildableP", "notExists"]
+- ["10SwiftKuery9BuildableP", "notIn"]
+- ["10SwiftKuery9BuildableP", "notLike"]
+- ["10SwiftKuery9BuildableP", "or"]
+- ["10SwiftKuery9ConditionO", "=="]
+- ["10SwiftKuery9ConditionO", "QueryBuilder"]
+- ["10SwiftKuery9ConditionO", "String"]
+- ["10SwiftKuery9ConditionO", "__derived_enum_equals"]
+- ["10SwiftKuery9ConditionO", "_rawHashValue"]
+- ["10SwiftKuery9ConditionO", "and"]
+- ["10SwiftKuery9ConditionO", "between"]
+- ["10SwiftKuery9ConditionO", "build"]
+- ["10SwiftKuery9ConditionO", "deinit"]
+- ["10SwiftKuery9ConditionO", "equal"]
+- ["10SwiftKuery9ConditionO", "exists"]
+- ["10SwiftKuery9ConditionO", "greaterThan"]
+- ["10SwiftKuery9ConditionO", "greaterThanOrEqual"]
+- ["10SwiftKuery9ConditionO", "hash"]
+- ["10SwiftKuery9ConditionO", "hashValue"]
+- ["10SwiftKuery9ConditionO", "in"]
+- ["10SwiftKuery9ConditionO", "isNotNull"]
+- ["10SwiftKuery9ConditionO", "isNull"]
+- ["10SwiftKuery9ConditionO", "lessThan"]
+- ["10SwiftKuery9ConditionO", "lessThanOrEqual"]
+- ["10SwiftKuery9ConditionO", "like"]
+- ["10SwiftKuery9ConditionO", "notBetween"]
+- ["10SwiftKuery9ConditionO", "notEqual"]
+- ["10SwiftKuery9ConditionO", "notExists"]
+- ["10SwiftKuery9ConditionO", "notIn"]
+- ["10SwiftKuery9ConditionO", "notLike"]
+- ["10SwiftKuery9ConditionO", "or"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "and"]
+- ["SQ", "between"]
+- ["SQ", "build"]
+- ["SQ", "equal"]
+- ["SQ", "exists"]
+- ["SQ", "greaterThan"]
+- ["SQ", "greaterThanOrEqual"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "in"]
+- ["SQ", "isNotNull"]
+- ["SQ", "isNull"]
+- ["SQ", "lessThan"]
+- ["SQ", "lessThanOrEqual"]
+- ["SQ", "like"]
+- ["SQ", "notBetween"]
+- ["SQ", "notEqual"]
+- ["SQ", "notExists"]
+- ["SQ", "notIn"]
+- ["SQ", "notLike"]
+- ["SQ", "or"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "and"]
+- ["SH", "between"]
+- ["SH", "build"]
+- ["SH", "equal"]
+- ["SH", "exists"]
+- ["SH", "greaterThan"]
+- ["SH", "greaterThanOrEqual"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "in"]
+- ["SH", "isNotNull"]
+- ["SH", "isNull"]
+- ["SH", "lessThan"]
+- ["SH", "lessThanOrEqual"]
+- ["SH", "like"]
+- ["SH", "notBetween"]
+- ["SH", "notEqual"]
+- ["SH", "notExists"]
+- ["SH", "notIn"]
+- ["SH", "notLike"]
+- ["SH", "or"]
+- !private ["s6HasherV", "combine"]
+depends-nominal:
+- "10SwiftKuery9BuildableP"
+- "10SwiftKuery9ConditionO"
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "4f0478041c32ae753bbc24311632ee7a"

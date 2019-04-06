@@ -1,0 +1,5 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "4a4e7e47bf7a75dc3a480d0ebf7d4c6c"
+build_time: [1553552557, 229459125]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetricsDash/SwiftMetricsDash.swift": [9223372036, 854775807]

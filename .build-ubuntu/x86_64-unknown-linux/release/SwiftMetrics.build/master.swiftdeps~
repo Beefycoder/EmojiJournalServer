@@ -1,0 +1,6 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "8ff336d69bc0cbc50e9698fbdce5d465"
+build_time: [1553552515, 546270951]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetrics/SwiftMetrics.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetrics/SwiftMonitor.swift": [9223372036, 854775807]

@@ -1,0 +1,448 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "JournalEntry"
+- "JournalEntryParams"
+- "UserJournalEntry"
+- "UserQuery"
+- "UserJournalEntryParams"
+provides-nominal:
+- "11Application12JournalEntryV"
+- "11Application18JournalEntryParamsV"
+- "11Application16UserJournalEntryV"
+- "11Application9UserQueryV"
+- "11Application22UserJournalEntryParamsV"
+provides-member:
+- ["11Application12JournalEntryV", ""]
+- ["11Application18JournalEntryParamsV", ""]
+- ["11Application16UserJournalEntryV", ""]
+- ["11Application9UserQueryV", ""]
+- ["11Application22UserJournalEntryParamsV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "=="
+- "AssignmentPrecedence"
+- !private "Database"
+- "Date"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "JournalEntry"
+- "JournalEntryParams"
+- "Model"
+- "QueryParams"
+- "RequestError"
+- "String"
+- !private "StringLiteralType"
+- "UserAuth"
+- "UserJournalEntry"
+- "UserJournalEntryParams"
+- "UserQuery"
+- "Void"
+- !private "~="
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "init"]
+- !private ["SK", "append"]
+- !private ["SK", "init"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "init"]
+- ["s9CodingKeyP", "=="]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- !private ["Sl", "append"]
+- !private ["Sl", "init"]
+- !private ["SL", "forbidden"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "=="]
+- !private ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "forbidden"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["13SwiftKueryORM8DatabaseC", "default"]
+- !private ["Se", "Database"]
+- !private ["Se", "JournalEntry"]
+- !private ["Se", "RequestError"]
+- !private ["Se", "UserJournalEntry"]
+- !private ["Se", "UserJournalEntryParams"]
+- !private ["Se", "UserQuery"]
+- ["Se", ""]
+- !private ["Se", "append"]
+- ["Se", "createTable"]
+- ["Se", "createTableSync"]
+- !private ["Se", "date"]
+- ["Se", "delete"]
+- ["Se", "deleteAll"]
+- ["Se", "dropTable"]
+- ["Se", "dropTableSync"]
+- !private ["Se", "emoji"]
+- ["Se", "encode"]
+- ["Se", "find"]
+- ["Se", "findAll"]
+- !private ["Se", "fortune"]
+- ["Se", "getTable"]
+- !private ["Se", "id"]
+- ["Se", "idColumnName"]
+- ["Se", "idColumnType"]
+- ["Se", "init"]
+- ["Se", "save"]
+- ["Se", "tableName"]
+- ["Se", "update"]
+- !private ["Se", "user"]
+- !private ["s7DecoderP", "container"]
+- !private ["SE", "Database"]
+- !private ["SE", "JournalEntry"]
+- !private ["SE", "RequestError"]
+- !private ["SE", "UserJournalEntry"]
+- !private ["SE", "UserJournalEntryParams"]
+- !private ["SE", "UserQuery"]
+- ["SE", ""]
+- !private ["SE", "append"]
+- ["SE", "createTable"]
+- ["SE", "createTableSync"]
+- !private ["SE", "date"]
+- ["SE", "delete"]
+- ["SE", "deleteAll"]
+- ["SE", "dropTable"]
+- ["SE", "dropTableSync"]
+- !private ["SE", "emoji"]
+- ["SE", "encode"]
+- ["SE", "find"]
+- ["SE", "findAll"]
+- !private ["SE", "fortune"]
+- ["SE", "getTable"]
+- !private ["SE", "id"]
+- ["SE", "idColumnName"]
+- ["SE", "idColumnType"]
+- ["SE", "init"]
+- ["SE", "save"]
+- ["SE", "tableName"]
+- ["SE", "update"]
+- !private ["SE", "user"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- !private ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "append"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- !private ["SQ", "forbidden"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- ["SQ", "stringValue"]
+- !private ["s5ErrorP", "forbidden"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- ["SH", "=="]
+- !private ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "append"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- !private ["SH", "forbidden"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- ["SH", "stringValue"]
+- !private ["s6HasherV", "combine"]
+- !private ["11Application12JournalEntryV", "Database"]
+- ["11Application12JournalEntryV", "Date"]
+- ["11Application12JournalEntryV", "JournalEntry"]
+- ["11Application12JournalEntryV", "JournalEntryParams"]
+- ["11Application12JournalEntryV", "RequestError"]
+- ["11Application12JournalEntryV", "String"]
+- ["11Application12JournalEntryV", "UserAuth"]
+- ["11Application12JournalEntryV", "UserJournalEntry"]
+- !private ["11Application12JournalEntryV", "UserJournalEntryParams"]
+- !private ["11Application12JournalEntryV", "UserQuery"]
+- ["11Application12JournalEntryV", "Void"]
+- ["11Application12JournalEntryV", "createTable"]
+- ["11Application12JournalEntryV", "createTableSync"]
+- ["11Application12JournalEntryV", "date"]
+- ["11Application12JournalEntryV", "deinit"]
+- ["11Application12JournalEntryV", "delete"]
+- ["11Application12JournalEntryV", "deleteAll"]
+- ["11Application12JournalEntryV", "dropTable"]
+- ["11Application12JournalEntryV", "dropTableSync"]
+- ["11Application12JournalEntryV", "emoji"]
+- ["11Application12JournalEntryV", "encode"]
+- ["11Application12JournalEntryV", "find"]
+- ["11Application12JournalEntryV", "findAll"]
+- ["11Application12JournalEntryV", "fortune"]
+- ["11Application12JournalEntryV", "getTable"]
+- ["11Application12JournalEntryV", "id"]
+- ["11Application12JournalEntryV", "idColumnName"]
+- ["11Application12JournalEntryV", "idColumnType"]
+- ["11Application12JournalEntryV", "init"]
+- ["11Application12JournalEntryV", "save"]
+- ["11Application12JournalEntryV", "tableName"]
+- ["11Application12JournalEntryV", "update"]
+- ["11Application18JournalEntryParamsV", "String"]
+- ["11Application18JournalEntryParamsV", "deinit"]
+- ["11Application18JournalEntryParamsV", "emoji"]
+- ["11Application18JournalEntryParamsV", "encode"]
+- ["11Application18JournalEntryParamsV", "init"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- !private ["13SwiftKueryORM5ModelP", "Database"]
+- !private ["13SwiftKueryORM5ModelP", "JournalEntry"]
+- !private ["13SwiftKueryORM5ModelP", "RequestError"]
+- !private ["13SwiftKueryORM5ModelP", "UserJournalEntry"]
+- !private ["13SwiftKueryORM5ModelP", "UserJournalEntryParams"]
+- !private ["13SwiftKueryORM5ModelP", "UserQuery"]
+- ["13SwiftKueryORM5ModelP", ""]
+- ["13SwiftKueryORM5ModelP", "createTable"]
+- ["13SwiftKueryORM5ModelP", "createTableSync"]
+- !private ["13SwiftKueryORM5ModelP", "date"]
+- ["13SwiftKueryORM5ModelP", "delete"]
+- ["13SwiftKueryORM5ModelP", "deleteAll"]
+- ["13SwiftKueryORM5ModelP", "dropTable"]
+- ["13SwiftKueryORM5ModelP", "dropTableSync"]
+- !private ["13SwiftKueryORM5ModelP", "emoji"]
+- ["13SwiftKueryORM5ModelP", "encode"]
+- ["13SwiftKueryORM5ModelP", "find"]
+- ["13SwiftKueryORM5ModelP", "findAll"]
+- !private ["13SwiftKueryORM5ModelP", "fortune"]
+- ["13SwiftKueryORM5ModelP", "getTable"]
+- !private ["13SwiftKueryORM5ModelP", "id"]
+- ["13SwiftKueryORM5ModelP", "idColumnName"]
+- ["13SwiftKueryORM5ModelP", "idColumnType"]
+- ["13SwiftKueryORM5ModelP", "init"]
+- ["13SwiftKueryORM5ModelP", "save"]
+- ["13SwiftKueryORM5ModelP", "tableName"]
+- ["13SwiftKueryORM5ModelP", "update"]
+- !private ["13SwiftKueryORM5ModelP", "user"]
+- !private ["SM", "append"]
+- !private ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["7Stencil12NormalizableP", "append"]
+- !private ["7Stencil12NormalizableP", "init"]
+- ["15KituraContracts11QueryParamsP", ""]
+- !private ["15KituraContracts11QueryParamsP", "emoji"]
+- ["15KituraContracts11QueryParamsP", "encode"]
+- ["15KituraContracts11QueryParamsP", "init"]
+- !private ["15KituraContracts11QueryParamsP", "user"]
+- !private ["Sk", "append"]
+- !private ["Sk", "init"]
+- !private ["Sm", "append"]
+- !private ["Sm", "init"]
+- !private ["SY", "forbidden"]
+- !private ["15KituraContracts12RequestErrorV", "forbidden"]
+- !private ["ST", "append"]
+- !private ["ST", "init"]
+- !private ["11Credentials08TypeSafeA0P", "id"]
+- !private ["15CredentialsHTTP17TypeSafeHTTPBasicP", "id"]
+- !private ["6Kitura18TypeSafeMiddlewareP", "id"]
+- !private ["11Application8UserAuthV", "deinit"]
+- !private ["11Application8UserAuthV", "id"]
+- ["11Application16UserJournalEntryV", "Date"]
+- ["11Application16UserJournalEntryV", "JournalEntry"]
+- ["11Application16UserJournalEntryV", "String"]
+- ["11Application16UserJournalEntryV", "UserAuth"]
+- ["11Application16UserJournalEntryV", "createTable"]
+- ["11Application16UserJournalEntryV", "createTableSync"]
+- ["11Application16UserJournalEntryV", "date"]
+- ["11Application16UserJournalEntryV", "deinit"]
+- ["11Application16UserJournalEntryV", "delete"]
+- ["11Application16UserJournalEntryV", "deleteAll"]
+- ["11Application16UserJournalEntryV", "dropTable"]
+- ["11Application16UserJournalEntryV", "dropTableSync"]
+- ["11Application16UserJournalEntryV", "emoji"]
+- ["11Application16UserJournalEntryV", "encode"]
+- ["11Application16UserJournalEntryV", "find"]
+- ["11Application16UserJournalEntryV", "findAll"]
+- ["11Application16UserJournalEntryV", "fortune"]
+- ["11Application16UserJournalEntryV", "getTable"]
+- ["11Application16UserJournalEntryV", "id"]
+- ["11Application16UserJournalEntryV", "idColumnName"]
+- ["11Application16UserJournalEntryV", "idColumnType"]
+- ["11Application16UserJournalEntryV", "init"]
+- ["11Application16UserJournalEntryV", "save"]
+- ["11Application16UserJournalEntryV", "tableName"]
+- ["11Application16UserJournalEntryV", "update"]
+- ["11Application16UserJournalEntryV", "user"]
+- ["11Application22UserJournalEntryParamsV", "JournalEntryParams"]
+- ["11Application22UserJournalEntryParamsV", "String"]
+- ["11Application22UserJournalEntryParamsV", "UserAuth"]
+- ["11Application22UserJournalEntryParamsV", "deinit"]
+- ["11Application22UserJournalEntryParamsV", "emoji"]
+- ["11Application22UserJournalEntryParamsV", "encode"]
+- ["11Application22UserJournalEntryParamsV", "init"]
+- ["11Application22UserJournalEntryParamsV", "user"]
+- ["11Application9UserQueryV", "String"]
+- ["11Application9UserQueryV", "UserAuth"]
+- ["11Application9UserQueryV", "deinit"]
+- ["11Application9UserQueryV", "encode"]
+- ["11Application9UserQueryV", "init"]
+- ["11Application9UserQueryV", "user"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- "s9CodingKeyP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "13SwiftKueryORM8DatabaseC"
+- "Se"
+- !private "s7DecoderP"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- !private "s6HasherV"
+- "11Application12JournalEntryV"
+- "11Application18JournalEntryParamsV"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "13SwiftKueryORM5ModelP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "7Stencil12NormalizableP"
+- "15KituraContracts11QueryParamsP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "15KituraContracts12RequestErrorV"
+- !private "ST"
+- !private "11Credentials08TypeSafeA0P"
+- !private "15CredentialsHTTP17TypeSafeHTTPBasicP"
+- !private "6Kitura18TypeSafeMiddlewareP"
+- !private "11Application8UserAuthV"
+- "11Application16UserJournalEntryV"
+- "11Application22UserJournalEntryParamsV"
+- "11Application9UserQueryV"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraOpenAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftKueryPostgreSQL.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftKueryORM.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsREST.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsKitura.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsDash.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Health.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Stencil.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraStencil.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraSession.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CircuitBreaker.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Cryptor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetrics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Credentials.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsPrometheus.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraWebSocket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/FileKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CloudEnvironment.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftyRequest.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CloudFoundryEnv.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsBluemix.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftKuery.swiftmodule"
+- "/usr/local/include/libpq-fe.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CLibpq.git--2899667586558652332/shim.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/omr-agentcore-1273195304195151760/src/agentcore/include/AgentExtensions.h"
+- "/usr/local/include/pg_config_ext.h"
+- "/usr/local/include/postgres_ext.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CLibpq.git--2899667586558652332/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8b1a34046505759a62ca9014d7fc419e"

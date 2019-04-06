@@ -1,0 +1,273 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["6Kitura6RouterC", ""]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "get"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "put"]
+- ["6Kitura6RouterC", "put"]
+- ["6Kitura6RouterC", "put"]
+- ["6Kitura6RouterC", "patch"]
+- ["6Kitura6RouterC", "patch"]
+- ["6Kitura6RouterC", "patch"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private ">"
+- !private "??"
+- !private "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "Codable"
+- "CodableArrayResultClosure"
+- !private "CodableHelpers"
+- "CodableResultClosure"
+- "FloatLiteralType"
+- "Identifier"
+- "IdentifierCodableArrayResultClosure"
+- "IdentifierCodableResultClosure"
+- "IntegerLiteralType"
+- !private "Log"
+- !private "QueryDecoder"
+- "QueryParams"
+- !private "RequestError"
+- "ResultClosure"
+- "Router"
+- "RouterRequest"
+- "RouterResponse"
+- "String"
+- "StringLiteralType"
+- "TypeSafeMiddleware"
+- "Void"
+depends-member:
+- !private ["15KituraContracts11BodyDecoderP", "decode"]
+- !private ["15KituraContracts11BodyDecoderP", "init"]
+- !private ["s7CVarArgP", "count"]
+- !private ["6Kitura14CodableHelpersV", "constructIdentOutResultHandler"]
+- !private ["6Kitura14CodableHelpersV", "constructOutResultHandler"]
+- !private ["6Kitura14CodableHelpersV", "constructResultHandler"]
+- !private ["6Kitura14CodableHelpersV", "constructTupleArrayOutResultHandler"]
+- !private ["6Kitura14CodableHelpersV", "httpStatusCode"]
+- !private ["6Kitura14CodableHelpersV", "parseIdOrSetResponseStatus"]
+- !private ["6Kitura14CodableHelpersV", "readCodableOrSetResponseStatus"]
+- !private ["15KituraContracts5CoderC", "decode"]
+- !private ["15KituraContracts5CoderC", "init"]
+- !private ["Sl", "count"]
+- !private ["SL", "internalServerError"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "internalServerError"]
+- !private ["Se", "count"]
+- !private ["s7DecoderP", "decode"]
+- !private ["s7DecoderP", "init"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "count"]
+- !private ["11TypeDecoder010DictionaryA0P", "count"]
+- !private ["SE", "count"]
+- !private ["SQ", "badRequest"]
+- !private ["SQ", "count"]
+- !private ["SQ", "created"]
+- !private ["SQ", "internalServerError"]
+- !private ["s5ErrorP", "internalServerError"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "count"]
+- !private ["9KituraNet14HTTPStatusCodeO", "badRequest"]
+- !private ["9KituraNet14HTTPStatusCodeO", "created"]
+- !private ["SH", "badRequest"]
+- !private ["SH", "count"]
+- !private ["SH", "created"]
+- !private ["SH", "internalServerError"]
+- !private ["9LoggerAPI3LogC", "verbose"]
+- !private ["15KituraContracts12QueryDecoderC", "decode"]
+- !private ["15KituraContracts12QueryDecoderC", "init"]
+- !private ["SY", "badRequest"]
+- !private ["SY", "created"]
+- !private ["SY", "internalServerError"]
+- !private ["15KituraContracts12RequestErrorV", "internalServerError"]
+- ["6Kitura6RouterC", "Codable"]
+- ["6Kitura6RouterC", "CodableArrayResultClosure"]
+- !private ["6Kitura6RouterC", "CodableHelpers"]
+- ["6Kitura6RouterC", "CodableResultClosure"]
+- ["6Kitura6RouterC", "Identifier"]
+- ["6Kitura6RouterC", "IdentifierCodableArrayResultClosure"]
+- ["6Kitura6RouterC", "IdentifierCodableResultClosure"]
+- !private ["6Kitura6RouterC", "Log"]
+- !private ["6Kitura6RouterC", "QueryDecoder"]
+- ["6Kitura6RouterC", "QueryParams"]
+- !private ["6Kitura6RouterC", "RequestError"]
+- ["6Kitura6RouterC", "ResultClosure"]
+- ["6Kitura6RouterC", "RouterRequest"]
+- ["6Kitura6RouterC", "RouterResponse"]
+- ["6Kitura6RouterC", "String"]
+- ["6Kitura6RouterC", "TypeSafeMiddleware"]
+- ["6Kitura6RouterC", "Void"]
+- ["6Kitura6RouterC", "delete"]
+- ["6Kitura6RouterC", "get"]
+- !private ["6Kitura6RouterC", "handleMiddleware"]
+- !private ["6Kitura6RouterC", "join"]
+- ["6Kitura6RouterC", "patch"]
+- !private ["6Kitura6RouterC", "pathSyntaxIsValid"]
+- ["6Kitura6RouterC", "post"]
+- ["6Kitura6RouterC", "put"]
+- !private ["6Kitura6RouterC", "registerDeleteRoute"]
+- !private ["6Kitura6RouterC", "registerGetRoute"]
+- !private ["6Kitura6RouterC", "registerPatchRoute"]
+- !private ["6Kitura6RouterC", "registerPostRoute"]
+- !private ["6Kitura6RouterC", "registerPutRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "CodableHelpers"]
+- !private ["6Kitura16RouterMiddlewareP", "Log"]
+- !private ["6Kitura16RouterMiddlewareP", "QueryDecoder"]
+- !private ["6Kitura16RouterMiddlewareP", "delete"]
+- !private ["6Kitura16RouterMiddlewareP", "get"]
+- !private ["6Kitura16RouterMiddlewareP", "handleMiddleware"]
+- !private ["6Kitura16RouterMiddlewareP", "join"]
+- !private ["6Kitura16RouterMiddlewareP", "patch"]
+- !private ["6Kitura16RouterMiddlewareP", "pathSyntaxIsValid"]
+- !private ["6Kitura16RouterMiddlewareP", "post"]
+- !private ["6Kitura16RouterMiddlewareP", "put"]
+- !private ["6Kitura16RouterMiddlewareP", "registerDeleteRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerGetRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerPatchRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerPostRoute"]
+- !private ["6Kitura16RouterMiddlewareP", "registerPutRoute"]
+- !private ["6Kitura13RouterRequestC", "queryParameters"]
+- !private ["6Kitura14RouterResponseC", "status"]
+- !private ["ST", "count"]
+- !private ["9KituraNet14ServerDelegateP", "CodableHelpers"]
+- !private ["9KituraNet14ServerDelegateP", "Log"]
+- !private ["9KituraNet14ServerDelegateP", "QueryDecoder"]
+- !private ["9KituraNet14ServerDelegateP", "delete"]
+- !private ["9KituraNet14ServerDelegateP", "get"]
+- !private ["9KituraNet14ServerDelegateP", "handleMiddleware"]
+- !private ["9KituraNet14ServerDelegateP", "join"]
+- !private ["9KituraNet14ServerDelegateP", "patch"]
+- !private ["9KituraNet14ServerDelegateP", "pathSyntaxIsValid"]
+- !private ["9KituraNet14ServerDelegateP", "post"]
+- !private ["9KituraNet14ServerDelegateP", "put"]
+- !private ["9KituraNet14ServerDelegateP", "registerDeleteRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerGetRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerPatchRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerPostRoute"]
+- !private ["9KituraNet14ServerDelegateP", "registerPutRoute"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["6Kitura18TypeSafeMiddlewareP", "handle"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+depends-nominal:
+- !private "15KituraContracts11BodyDecoderP"
+- !private "s7CVarArgP"
+- !private "6Kitura14CodableHelpersV"
+- !private "15KituraContracts5CoderC"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "s7DecoderP"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "11TypeDecoder010DictionaryA0P"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "9KituraNet14HTTPStatusCodeO"
+- !private "SH"
+- !private "9LoggerAPI3LogC"
+- !private "15KituraContracts12QueryDecoderC"
+- !private "SY"
+- !private "15KituraContracts12RequestErrorV"
+- "6Kitura6RouterC"
+- !private "6Kitura16RouterMiddlewareP"
+- !private "6Kitura13RouterRequestC"
+- !private "6Kitura14RouterResponseC"
+- !private "ST"
+- !private "9KituraNet14ServerDelegateP"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "6Kitura18TypeSafeMiddlewareP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "92976b8b711c8f817b150f005e79b1d1"

@@ -1,0 +1,4 @@
+module cpuplugin {
+    umbrella header "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/omr-agentcore-1273195304195151760/src/cpuplugin/include/cpuplugin.h"
+    export *
+}

@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "2c76a32ae4158a3b480e4a6ff973e146"
+build_time: [1554331711, 634939000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/Crypto.swift": [1553213964, 498383553]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/Cryptor.swift": [1553213964, 498603361]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/Digest.swift": [1553213964, 498785987]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/HMAC.swift": [1553213964, 498929059]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/KeyDerivation.swift": [1553213964, 499161062]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/Random.swift": [1553213964, 499269044]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/SSLPointerTricks.swift": [1553213964, 499366129]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/Status.swift": [1553213964, 499505400]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/StreamCryptor.swift": [1553213964, 499668656]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/Updatable.swift": [1553213964, 499804812]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueCryptor.git--348833033154319928/Sources/Cryptor/Utilities.swift": [1553213964, 499941969]

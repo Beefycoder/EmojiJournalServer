@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "d772092a7963ba5c73ab0441f0cb944c"
+build_time: [1554334944, 702733000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/Application.swift": [1554334800, 873922608]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/InitializationError.swift": [1553213933, 894371577]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/Metrics.swift": [1553213933, 898201141]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/Models/Fortune.swift": [1553811851, 23574662]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/Models/JournalEntry.swift": [1553737552, 582049947]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/Models/Persistence.swift": [1553640559, 180234906]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/Models/UserAuth.swift": [1553637353, 337454859]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/Routes/EntryRoutes.swift": [1553737950, 191268831]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/Routes/HealthRoutes.swift": [1553213933, 901847195]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/Routes/UserRoutes.swift": [1553652467, 2924182]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/Sources/Application/Routes/WebClientRoutes.swift": [1553731456, 459177070]

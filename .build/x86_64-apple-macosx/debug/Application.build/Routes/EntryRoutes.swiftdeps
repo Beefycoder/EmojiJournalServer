@@ -1,0 +1,469 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DateError"
+- "journalEntryDecoder"
+- "initializeEntryRoutes"
+- "addEntry"
+- "getEntries"
+- "deleteEntry"
+- "modifyEntry"
+- "getOneEntry"
+provides-nominal:
+- "11Application9DateErrorO"
+provides-member:
+- ["11Application9DateErrorO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "App"
+- "AssignmentPrecedence"
+- "BodyDecoder"
+- "Calendar"
+- "Date"
+- "DateError"
+- "DateFormatter"
+- "Double"
+- "Error"
+- "FloatLiteralType"
+- !private "FortuneClient"
+- "IntegerLiteralType"
+- "JSONDecoder"
+- "JournalEntry"
+- "JournalEntryParams"
+- "Locale"
+- !private "Log"
+- "RequestError"
+- "String"
+- "StringLiteralType"
+- "TimeInterval"
+- "TimeZone"
+- !private "UUID"
+- "UserAuth"
+- "Void"
+- !private "_findStringSwitchCase"
+- "addEntry"
+- "deleteEntry"
+- "getEntries"
+- "getOneEntry"
+- "initializeEntryRoutes"
+- "journalEntryDecoder"
+- "modifyEntry"
+- !private "~="
+depends-member:
+- ["s18AdditiveArithmeticP", "init"]
+- !private ["11Application3AppC", "router"]
+- ["SB", "init"]
+- ["15KituraContracts11BodyDecoderP", "dateDecodingStrategy"]
+- ["15KituraContracts11BodyDecoderP", "init"]
+- ["s7CVarArgP", "calendar"]
+- ["s7CVarArgP", "date"]
+- ["s7CVarArgP", "dateFormat"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "locale"]
+- !private ["s7CVarArgP", "subscript"]
+- ["s7CVarArgP", "timeZone"]
+- ["10Foundation8CalendarV", "init"]
+- !private ["Sl", "subscript"]
+- ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "calendar"]
+- ["s28CustomDebugStringConvertibleP", "date"]
+- ["s28CustomDebugStringConvertibleP", "dateFormat"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "locale"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "timeZone"]
+- !private ["s28CustomDebugStringConvertibleP", "uuidString"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "uuidString"]
+- ["s23CustomStringConvertibleP", "calendar"]
+- ["s23CustomStringConvertibleP", "date"]
+- ["s23CustomStringConvertibleP", "dateFormat"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "json"]
+- ["s23CustomStringConvertibleP", "locale"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- ["s23CustomStringConvertibleP", "timeZone"]
+- !private ["s23CustomStringConvertibleP", "uuidString"]
+- ["10Foundation4DateV", "init"]
+- ["10Foundation11JSONDecoderC20DateDecodingStrategyO", "custom"]
+- ["11Application9DateErrorO", "=="]
+- ["11Application9DateErrorO", "RawValue"]
+- ["11Application9DateErrorO", "_Default_RawValue"]
+- ["11Application9DateErrorO", "_code"]
+- ["11Application9DateErrorO", "_domain"]
+- !private ["11Application9DateErrorO", "_findStringSwitchCase"]
+- ["11Application9DateErrorO", "_getEmbeddedNSError"]
+- ["11Application9DateErrorO", "_rawHashValue"]
+- ["11Application9DateErrorO", "_userInfo"]
+- ["11Application9DateErrorO", "deinit"]
+- ["11Application9DateErrorO", "hash"]
+- ["11Application9DateErrorO", "hashValue"]
+- ["11Application9DateErrorO", "init"]
+- ["11Application9DateErrorO", "invalidDate"]
+- ["11Application9DateErrorO", "rawValue"]
+- ["So15NSDateFormatterC", "calendar"]
+- ["So15NSDateFormatterC", "date"]
+- ["So15NSDateFormatterC", "dateFormat"]
+- ["So15NSDateFormatterC", "init"]
+- ["So15NSDateFormatterC", "locale"]
+- ["So15NSDateFormatterC", "timeZone"]
+- !private ["Se", "delete"]
+- !private ["Se", "find"]
+- !private ["Se", "findAll"]
+- !private ["Se", "fortune"]
+- !private ["Se", "id"]
+- ["Se", "init"]
+- !private ["Se", "save"]
+- !private ["Se", "subscript"]
+- !private ["Se", "update"]
+- !private ["Se", "uuidString"]
+- ["s7DecoderP", "singleValueContainer"]
+- !private ["SD", "subscript"]
+- !private ["11TypeDecoder010DictionaryA0P", "subscript"]
+- ["Sd", "init"]
+- !private ["SE", "delete"]
+- !private ["SE", "find"]
+- !private ["SE", "findAll"]
+- !private ["SE", "fortune"]
+- !private ["SE", "id"]
+- ["SE", "init"]
+- !private ["SE", "save"]
+- !private ["SE", "subscript"]
+- !private ["SE", "update"]
+- !private ["SE", "uuidString"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_code"]
+- ["SQ", "_domain"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_getEmbeddedNSError"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "_userInfo"]
+- ["SQ", "calendar"]
+- ["SQ", "date"]
+- ["SQ", "dateFormat"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "invalidDate"]
+- ["SQ", "iso8601"]
+- !private ["SQ", "json"]
+- ["SQ", "locale"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "subscript"]
+- ["SQ", "timeZone"]
+- !private ["SQ", "uuidString"]
+- ["s5ErrorP", "=="]
+- ["s5ErrorP", "RawValue"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_Default_RawValue"]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- !private ["s5ErrorP", "_findStringSwitchCase"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_rawHashValue"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "hash"]
+- ["s5ErrorP", "hashValue"]
+- ["s5ErrorP", "init"]
+- ["s5ErrorP", "invalidDate"]
+- ["s5ErrorP", "rawValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s25ExpressibleByFloatLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["SF", "init"]
+- ["So11NSFormatterC", "calendar"]
+- ["So11NSFormatterC", "date"]
+- ["So11NSFormatterC", "dateFormat"]
+- ["So11NSFormatterC", "init"]
+- ["So11NSFormatterC", "locale"]
+- ["So11NSFormatterC", "timeZone"]
+- !private ["11Application13FortuneClientC", "getFortune"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_code"]
+- ["SH", "_domain"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_getEmbeddedNSError"]
+- ["SH", "_rawHashValue"]
+- ["SH", "_userInfo"]
+- ["SH", "calendar"]
+- ["SH", "date"]
+- ["SH", "dateFormat"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "invalidDate"]
+- ["SH", "iso8601"]
+- !private ["SH", "json"]
+- ["SH", "locale"]
+- ["SH", "rawValue"]
+- !private ["SH", "subscript"]
+- ["SH", "timeZone"]
+- !private ["SH", "uuidString"]
+- ["15KituraContracts10IdentifierP", "init"]
+- ["10Foundation8CalendarV10IdentifierO", "iso8601"]
+- ["13SwiftyRequest13JSONDecodableP", "init"]
+- ["10Foundation11JSONDecoderC", "dateDecodingStrategy"]
+- ["10Foundation11JSONDecoderC", "init"]
+- !private ["11Application12JournalEntryV", "deinit"]
+- !private ["11Application12JournalEntryV", "delete"]
+- !private ["11Application12JournalEntryV", "find"]
+- !private ["11Application12JournalEntryV", "findAll"]
+- !private ["11Application12JournalEntryV", "fortune"]
+- !private ["11Application12JournalEntryV", "id"]
+- !private ["11Application12JournalEntryV", "save"]
+- !private ["11Application12JournalEntryV", "update"]
+- !private ["11Application18JournalEntryParamsV", "deinit"]
+- ["10Foundation6LocaleV", "init"]
+- !private ["9LoggerAPI3LogC", "info"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["6Kitura9MediaTypeV", "json"]
+- !private ["13SwiftKueryORM5ModelP", "delete"]
+- !private ["13SwiftKueryORM5ModelP", "find"]
+- !private ["13SwiftKueryORM5ModelP", "findAll"]
+- !private ["13SwiftKueryORM5ModelP", "fortune"]
+- !private ["13SwiftKueryORM5ModelP", "id"]
+- !private ["13SwiftKueryORM5ModelP", "save"]
+- !private ["13SwiftKueryORM5ModelP", "update"]
+- ["So8NSCodingP", "calendar"]
+- ["So8NSCodingP", "date"]
+- ["So8NSCodingP", "dateFormat"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "locale"]
+- ["So8NSCodingP", "timeZone"]
+- ["So9NSCopyingP", "calendar"]
+- ["So9NSCopyingP", "date"]
+- ["So9NSCopyingP", "dateFormat"]
+- ["So9NSCopyingP", "init"]
+- ["So9NSCopyingP", "locale"]
+- ["So9NSCopyingP", "timeZone"]
+- ["So8NSObjectC", "calendar"]
+- ["So8NSObjectC", "date"]
+- ["So8NSObjectC", "dateFormat"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "locale"]
+- ["So8NSObjectC", "timeZone"]
+- ["So8NSObjectP", "calendar"]
+- ["So8NSObjectP", "date"]
+- ["So8NSObjectP", "dateFormat"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "locale"]
+- ["So8NSObjectP", "timeZone"]
+- !private ["7Stencil12NormalizableP", "subscript"]
+- ["Sj", "init"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_code"]
+- ["SY", "_domain"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_getEmbeddedNSError"]
+- ["SY", "_rawHashValue"]
+- ["SY", "_userInfo"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "invalidDate"]
+- ["SY", "rawValue"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "uuidString"]
+- !private ["6Kitura6RouterC", "decoders"]
+- !private ["6Kitura6RouterC", "delete"]
+- !private ["6Kitura6RouterC", "get"]
+- !private ["6Kitura6RouterC", "post"]
+- !private ["6Kitura6RouterC", "put"]
+- !private ["6Kitura16RouterMiddlewareP", "decoders"]
+- !private ["6Kitura16RouterMiddlewareP", "delete"]
+- !private ["6Kitura16RouterMiddlewareP", "get"]
+- !private ["6Kitura16RouterMiddlewareP", "post"]
+- !private ["6Kitura16RouterMiddlewareP", "put"]
+- ["s10SIMDScalarP", "init"]
+- ["10SwiftKuery11SQLDataTypeP", "init"]
+- !private ["10SwiftKuery11SQLDataTypeP", "uuidString"]
+- !private ["ST", "subscript"]
+- !private ["9KituraNet14ServerDelegateP", "decoders"]
+- !private ["9KituraNet14ServerDelegateP", "delete"]
+- !private ["9KituraNet14ServerDelegateP", "get"]
+- !private ["9KituraNet14ServerDelegateP", "post"]
+- !private ["9KituraNet14ServerDelegateP", "put"]
+- ["s13SignedNumericP", "init"]
+- ["s28SingleValueDecodingContainerP", "decode"]
+- ["Sx", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["10Foundation8TimeZoneV", "init"]
+- !private ["10Foundation4UUIDV", "init"]
+- !private ["10Foundation4UUIDV", "uuidString"]
+- !private ["11Application8UserAuthV", "deinit"]
+- ["11TypeDecoder29ValidKeyedCodingValueProviderP", "init"]
+- !private ["11TypeDecoder30ValidSingleCodingValueProviderP", "init"]
+- !private ["11TypeDecoder30ValidSingleCodingValueProviderP", "uuidString"]
+- ["s15_CVarArgAlignedP", "init"]
+- ["s22_CVarArgPassedAsDoubleP", "init"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "calendar"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "date"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "dateFormat"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "locale"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "timeZone"]
+- ["10Foundation14_MutableBoxingP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "uuidString"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- !private "11Application3AppC"
+- "SB"
+- "15KituraContracts11BodyDecoderP"
+- "s7CVarArgP"
+- "10Foundation8CalendarV"
+- !private "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DateV"
+- "10Foundation11JSONDecoderC20DateDecodingStrategyO"
+- "11Application9DateErrorO"
+- "So15NSDateFormatterC"
+- "Se"
+- "s7DecoderP"
+- !private "SD"
+- !private "11TypeDecoder010DictionaryA0P"
+- "Sd"
+- "SE"
+- "SQ"
+- "s5ErrorP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "SF"
+- "So11NSFormatterC"
+- !private "11Application13FortuneClientC"
+- "SH"
+- "15KituraContracts10IdentifierP"
+- "10Foundation8CalendarV10IdentifierO"
+- "13SwiftyRequest13JSONDecodableP"
+- "10Foundation11JSONDecoderC"
+- !private "11Application12JournalEntryV"
+- !private "11Application18JournalEntryParamsV"
+- "10Foundation6LocaleV"
+- !private "9LoggerAPI3LogC"
+- "s25LosslessStringConvertibleP"
+- !private "6Kitura9MediaTypeV"
+- !private "13SwiftKueryORM5ModelP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "7Stencil12NormalizableP"
+- "Sj"
+- "SY"
+- "10Foundation20ReferenceConvertibleP"
+- !private "6Kitura6RouterC"
+- !private "6Kitura16RouterMiddlewareP"
+- "s10SIMDScalarP"
+- "10SwiftKuery11SQLDataTypeP"
+- !private "ST"
+- !private "9KituraNet14ServerDelegateP"
+- "s13SignedNumericP"
+- "s28SingleValueDecodingContainerP"
+- "Sx"
+- "s20TextOutputStreamableP"
+- "10Foundation8TimeZoneV"
+- !private "10Foundation4UUIDV"
+- !private "11Application8UserAuthV"
+- "11TypeDecoder29ValidKeyedCodingValueProviderP"
+- !private "11TypeDecoder30ValidSingleCodingValueProviderP"
+- "s15_CVarArgAlignedP"
+- "s22_CVarArgPassedAsDoubleP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation14_MutableBoxingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftBAMDC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraOpenAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftKueryPostgreSQL.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftKueryORM.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CredentialsHTTP.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsREST.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsKitura.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsDash.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Health.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Stencil.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraStencil.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraSession.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CircuitBreaker.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Cryptor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetrics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Credentials.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsPrometheus.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraWebSocket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/FileKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CloudEnvironment.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftyRequest.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CloudFoundryEnv.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftMetricsBluemix.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftKuery.swiftmodule"
+- "/usr/local/include/libpq-fe.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CLibpq.git--2899667586558652332/shim.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/omr-agentcore-1273195304195151760/src/agentcore/include/AgentExtensions.h"
+- "/usr/local/include/pg_config_ext.h"
+- "/usr/local/include/postgres_ext.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/CLibpq.git--2899667586558652332/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0a0c187270b6a3d200168604ab2bbb18"

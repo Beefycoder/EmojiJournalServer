@@ -1,0 +1,187 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/KituraNet.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/KituraNet.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/BufferList.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/BufferList.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/BufferList~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/BufferList.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/ClientRequest.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ClientRequest.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ClientRequest~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ClientRequest.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/ClientResponse.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ClientResponse.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ClientResponse~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ClientResponse.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/ConnectionUpgradeFactory.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ConnectionUpgradeFactory.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ConnectionUpgradeFactory~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ConnectionUpgradeFactory.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/ConnectionUpgrader.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ConnectionUpgrader.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ConnectionUpgrader~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ConnectionUpgrader.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/Error.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/Error.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/Error.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/FastCGI/FastCGI.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGI/FastCGI.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGI~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGI.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/FastCGI/FastCGIRecordCreate.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGI/FastCGIRecordCreate.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGIRecordCreate~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGIRecordCreate.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/FastCGI/FastCGIRecordParser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGI/FastCGIRecordParser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGIRecordParser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGIRecordParser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/FastCGI/FastCGIServer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGI/FastCGIServer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGIServer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGIServer.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/FastCGI/FastCGIServerRequest.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGI/FastCGIServerRequest.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGIServerRequest~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGIServerRequest.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/FastCGI/FastCGIServerResponse.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGI/FastCGIServerResponse.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGIServerResponse~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/FastCGIServerResponse.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HTTP/HTTP.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTP/HTTP.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTP~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTP.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HTTP/HTTPServer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTP/HTTPServer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPServer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPServer.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HTTP/HTTPServerRequest.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTP/HTTPServerRequest.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPServerRequest~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPServerRequest.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HTTP/HTTPServerResponse.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTP/HTTPServerResponse.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPServerResponse~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPServerResponse.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HTTP/IncomingHTTPSocketProcessor.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTP/IncomingHTTPSocketProcessor.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingHTTPSocketProcessor~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingHTTPSocketProcessor.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HTTP/KeepAliveState.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTP/KeepAliveState.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/KeepAliveState~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/KeepAliveState.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HTTPParser/HTTPParser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPParser/HTTPParser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPParser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPParser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HTTPParser/HTTPParserStatus.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPParser/HTTPParserStatus.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPParserStatus~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPParserStatus.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HTTPParser/ParseResults.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPParser/ParseResults.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ParseResults~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ParseResults.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HTTPParser/URLParser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HTTPParser/URLParser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/URLParser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/URLParser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/HeadersContainer.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HeadersContainer.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HeadersContainer~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/HeadersContainer.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/IncomingSocketHandler.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketHandler.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketHandler~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketHandler.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/IncomingSocketManager.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketManager.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketManager~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketManager.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/IncomingSocketProcessor.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketProcessor.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketProcessor~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketProcessor.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/IncomingSocketProcessorCreator.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketProcessorCreator.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketProcessorCreator~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/IncomingSocketProcessorCreator.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/ListenerGroup.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ListenerGroup.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ListenerGroup~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ListenerGroup.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/SPIUtils.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/SPIUtils.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/SPIUtils~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/SPIUtils.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/Server/Server.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/Server/Server.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/Server~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/Server.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/Server/ServerDelegate.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/Server/ServerDelegate.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerDelegate~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerDelegate.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/Server/ServerLifecycleListener.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/Server/ServerLifecycleListener.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerLifecycleListener~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerLifecycleListener.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/Server/ServerMonitor.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/Server/ServerMonitor.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerMonitor~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerMonitor.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/Server/ServerState.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/Server/ServerState.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerState~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerState.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/ServerRequest.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerRequest.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerRequest~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerRequest.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-net.git-7390991459529078729/Sources/KituraNet/ServerResponse.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerResponse.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerResponse~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraNet.build/ServerResponse.swiftdeps"
+  }
+}

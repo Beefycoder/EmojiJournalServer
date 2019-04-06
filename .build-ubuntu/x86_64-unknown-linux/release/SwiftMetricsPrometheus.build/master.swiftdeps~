@@ -1,0 +1,5 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "e0e8988b332bc25d763cdf299e4830ff"
+build_time: [1553552546, 743224451]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetricsPrometheus/SwiftMetricsPrometheus.swift": [9223372036, 854775807]

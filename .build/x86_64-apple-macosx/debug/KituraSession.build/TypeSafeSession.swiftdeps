@@ -1,0 +1,294 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TypeSafeSession"
+provides-nominal:
+- "13KituraSession08TypeSafeB0P"
+provides-member:
+- ["13KituraSession08TypeSafeB0P", ""]
+- ["13KituraSession08TypeSafeB0P", "handle"]
+- ["13KituraSession08TypeSafeB0P", "save"]
+- ["13KituraSession08TypeSafeB0P", "destroy"]
+- ["13KituraSession08TypeSafeB0P", "touch"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "Codable"
+- !private "Data"
+- "Error"
+- !private "FloatLiteralType"
+- !private "InMemoryStore"
+- !private "IntegerLiteralType"
+- !private "JSONDecoder"
+- !private "JSONEncoder"
+- !private "Log"
+- "RequestError"
+- "RouterRequest"
+- "RouterResponse"
+- "SessionCookie"
+- "Store"
+- !private "StoreError"
+- "String"
+- !private "StringLiteralType"
+- "TypeSafeMiddleware"
+- "TypeSafeSession"
+- "Void"
+depends-member:
+- !private ["SK", "init"]
+- !private ["15KituraContracts11BodyDecoderP", "decode"]
+- !private ["15KituraContracts11BodyDecoderP", "init"]
+- !private ["15KituraContracts11BodyEncoderP", "encode"]
+- !private ["15KituraContracts11BodyEncoderP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "internalServerError"]
+- !private ["13KituraSession16CookieManagementC", "addCookie"]
+- !private ["13KituraSession16CookieManagementC", "getSessionId"]
+- !private ["7Cryptor12CryptoDigestP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "internalServerError"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "internalServerError"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "internalServerError"]
+- !private ["Se", "Data"]
+- ["Se", "Error"]
+- !private ["Se", "InMemoryStore"]
+- !private ["Se", "JSONDecoder"]
+- !private ["Se", "JSONEncoder"]
+- !private ["Se", "Log"]
+- ["Se", "RequestError"]
+- ["Se", "RouterRequest"]
+- ["Se", "RouterResponse"]
+- ["Se", "SessionCookie"]
+- ["Se", "Store"]
+- !private ["Se", "StoreError"]
+- ["Se", "String"]
+- ["Se", "Void"]
+- ["Se", ""]
+- ["Se", "destroy"]
+- ["Se", "init"]
+- !private ["Se", "internalServerError"]
+- ["Se", "save"]
+- ["Se", "sessionCookie"]
+- ["Se", "sessionId"]
+- ["Se", "store"]
+- ["Se", "touch"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SE", "Data"]
+- ["SE", "Error"]
+- !private ["SE", "InMemoryStore"]
+- !private ["SE", "JSONDecoder"]
+- !private ["SE", "JSONEncoder"]
+- !private ["SE", "Log"]
+- ["SE", "RequestError"]
+- ["SE", "RouterRequest"]
+- ["SE", "RouterResponse"]
+- ["SE", "SessionCookie"]
+- ["SE", "Store"]
+- !private ["SE", "StoreError"]
+- ["SE", "String"]
+- ["SE", "Void"]
+- ["SE", ""]
+- ["SE", "destroy"]
+- ["SE", "init"]
+- !private ["SE", "internalServerError"]
+- ["SE", "save"]
+- ["SE", "sessionCookie"]
+- ["SE", "sessionId"]
+- ["SE", "store"]
+- ["SE", "touch"]
+- !private ["SQ", "init"]
+- !private ["SQ", "internalServerError"]
+- !private ["s5ErrorP", "internalServerError"]
+- !private ["s5ErrorP", "nilStore"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "internalServerError"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "internalServerError"]
+- !private ["15KituraContracts10IdentifierP", "init"]
+- !private ["13KituraSession13InMemoryStoreC", "deinit"]
+- !private ["13KituraSession13InMemoryStoreC", "init"]
+- !private ["10Foundation11JSONDecoderC", "decode"]
+- !private ["10Foundation11JSONDecoderC", "init"]
+- !private ["10Foundation11JSONEncoderC", "encode"]
+- !private ["10Foundation11JSONEncoderC", "init"]
+- !private ["9LoggerAPI3LogC", "error"]
+- !private ["9LoggerAPI3LogC", "info"]
+- !private ["9LoggerAPI3LogC", "verbose"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["Sq", "internalServerError"]
+- !private ["Sm", "init"]
+- !private ["SY", "internalServerError"]
+- !private ["15KituraContracts12RequestErrorV", "internalServerError"]
+- !private ["6Kitura13RouterRequestC", "hostname"]
+- !private ["ST", "init"]
+- !private ["13KituraSession0B6CookieV", "cookieManager"]
+- !private ["13KituraSession5StoreP", "delete"]
+- !private ["13KituraSession5StoreP", "init"]
+- !private ["13KituraSession5StoreP", "load"]
+- !private ["13KituraSession5StoreP", "save"]
+- !private ["13KituraSession5StoreP", "touch"]
+- !private ["13KituraSession10StoreErrorO", "deinit"]
+- !private ["13KituraSession10StoreErrorO", "nilStore"]
+- !private ["SS", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["6Kitura18TypeSafeMiddlewareP", "Data"]
+- ["6Kitura18TypeSafeMiddlewareP", "Error"]
+- !private ["6Kitura18TypeSafeMiddlewareP", "InMemoryStore"]
+- !private ["6Kitura18TypeSafeMiddlewareP", "JSONDecoder"]
+- !private ["6Kitura18TypeSafeMiddlewareP", "JSONEncoder"]
+- !private ["6Kitura18TypeSafeMiddlewareP", "Log"]
+- ["6Kitura18TypeSafeMiddlewareP", "RequestError"]
+- ["6Kitura18TypeSafeMiddlewareP", "RouterRequest"]
+- ["6Kitura18TypeSafeMiddlewareP", "RouterResponse"]
+- ["6Kitura18TypeSafeMiddlewareP", "SessionCookie"]
+- ["6Kitura18TypeSafeMiddlewareP", "Store"]
+- !private ["6Kitura18TypeSafeMiddlewareP", "StoreError"]
+- ["6Kitura18TypeSafeMiddlewareP", "String"]
+- ["6Kitura18TypeSafeMiddlewareP", "Void"]
+- ["6Kitura18TypeSafeMiddlewareP", ""]
+- ["6Kitura18TypeSafeMiddlewareP", "destroy"]
+- ["6Kitura18TypeSafeMiddlewareP", "init"]
+- ["6Kitura18TypeSafeMiddlewareP", "save"]
+- ["6Kitura18TypeSafeMiddlewareP", "sessionCookie"]
+- ["6Kitura18TypeSafeMiddlewareP", "sessionId"]
+- ["6Kitura18TypeSafeMiddlewareP", "store"]
+- ["6Kitura18TypeSafeMiddlewareP", "touch"]
+- !private ["13KituraSession08TypeSafeB0P", "Data"]
+- ["13KituraSession08TypeSafeB0P", "Error"]
+- !private ["13KituraSession08TypeSafeB0P", "InMemoryStore"]
+- !private ["13KituraSession08TypeSafeB0P", "JSONDecoder"]
+- !private ["13KituraSession08TypeSafeB0P", "JSONEncoder"]
+- !private ["13KituraSession08TypeSafeB0P", "Log"]
+- ["13KituraSession08TypeSafeB0P", "RequestError"]
+- ["13KituraSession08TypeSafeB0P", "RouterRequest"]
+- ["13KituraSession08TypeSafeB0P", "RouterResponse"]
+- ["13KituraSession08TypeSafeB0P", "SessionCookie"]
+- ["13KituraSession08TypeSafeB0P", "Store"]
+- !private ["13KituraSession08TypeSafeB0P", "StoreError"]
+- ["13KituraSession08TypeSafeB0P", "String"]
+- ["13KituraSession08TypeSafeB0P", "Void"]
+- ["13KituraSession08TypeSafeB0P", "destroy"]
+- ["13KituraSession08TypeSafeB0P", "handle"]
+- ["13KituraSession08TypeSafeB0P", "init"]
+- ["13KituraSession08TypeSafeB0P", "save"]
+- ["13KituraSession08TypeSafeB0P", "sessionCookie"]
+- ["13KituraSession08TypeSafeB0P", "sessionId"]
+- ["13KituraSession08TypeSafeB0P", "store"]
+- ["13KituraSession08TypeSafeB0P", "touch"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "internalServerError"]
+depends-nominal:
+- !private "SK"
+- !private "15KituraContracts11BodyDecoderP"
+- !private "15KituraContracts11BodyEncoderP"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "13KituraSession16CookieManagementC"
+- !private "7Cryptor12CryptoDigestP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- !private "15KituraContracts10IdentifierP"
+- !private "13KituraSession13InMemoryStoreC"
+- !private "10Foundation11JSONDecoderC"
+- !private "10Foundation11JSONEncoderC"
+- !private "9LoggerAPI3LogC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "Sq"
+- !private "Sm"
+- !private "SY"
+- !private "15KituraContracts12RequestErrorV"
+- !private "6Kitura13RouterRequestC"
+- !private "ST"
+- !private "13KituraSession0B6CookieV"
+- !private "13KituraSession5StoreP"
+- !private "13KituraSession10StoreErrorO"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "6Kitura18TypeSafeMiddlewareP"
+- "13KituraSession08TypeSafeB0P"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Kitura.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraTemplateEngine.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Cryptor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraNet.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "edf51c8dd4d63771e1618017063003f9"

@@ -1,0 +1,919 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SMData"
+- "CPUData"
+- "MemData"
+- "EnvData"
+- "InitData"
+- "LatencyData"
+- "swiftMon"
+- "SwiftMetrics"
+provides-nominal:
+- "12SwiftMetrics6SMDataP"
+- "12SwiftMetrics7CPUDataV"
+- "12SwiftMetrics7MemDataV"
+- "12SwiftMetrics7EnvDataV"
+- "12SwiftMetrics8InitDataV"
+- "12SwiftMetrics11LatencyDataV"
+- "12SwiftMetricsAAC"
+provides-member:
+- ["12SwiftMetrics6SMDataP", ""]
+- ["12SwiftMetrics7CPUDataV", ""]
+- ["12SwiftMetrics7MemDataV", ""]
+- ["12SwiftMetrics7EnvDataV", ""]
+- ["12SwiftMetrics8InitDataV", ""]
+- ["12SwiftMetrics11LatencyDataV", ""]
+- ["12SwiftMetricsAAC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "..<"
+- !private "<="
+- !private "=="
+- !private ">"
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- !private "Bundle"
+- "CChar"
+- "CPUData"
+- "CUnsignedInt"
+- "CastingPrecedence"
+- !private "CommandLine"
+- !private "ConfigurationManager"
+- !private "Date"
+- "DispatchQueue"
+- "Double"
+- "EnvData"
+- !private "FileManager"
+- "Float"
+- "FloatLiteralType"
+- "InitData"
+- "Int"
+- "IntegerLiteralType"
+- "LatencyData"
+- "MemData"
+- !private "NSNotFound"
+- !private "NSRange"
+- !private "NSString"
+- !private "OpaquePointer"
+- !private "RTLD_LAZY"
+- "SMData"
+- "String"
+- "StringLiteralType"
+- "SwiftMetrics"
+- "SwiftMonitor"
+- "UInt32"
+- "URL"
+- !private "UnicodeScalarType"
+- "UnsafeMutableRawPointer"
+- "UnsafePointer"
+- "Void"
+- !private "debug"
+- !private "dlerror"
+- !private "dlopen"
+- !private "dlsym"
+- !private "fine"
+- !private "info"
+- !private "initialized"
+- "loaderCoreFunctions"
+- !private "loader_entrypoint"
+- !private "print"
+- !private "receiveAgentCoreData"
+- !private "sleep"
+- "swiftMon"
+- !private "unsafeBitCast"
+- !private "warning"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "count"]
+- !private ["Sa", "filter"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "contains"]
+- !private ["SK", "count"]
+- !private ["SK", "filter"]
+- !private ["SK", "hasSuffix"]
+- !private ["SK", "init"]
+- !private ["SK", "lowerBound"]
+- !private ["SK", "range"]
+- !private ["SK", "subscript"]
+- !private ["Sz", "init"]
+- !private ["So8NSBundleC", "allBundles"]
+- !private ["So8NSBundleC", "bundlePath"]
+- !private ["So8NSBundleC", "bundleURL"]
+- !private ["So8NSBundleC", "executableURL"]
+- !private ["So8NSBundleC", "isLoaded"]
+- !private ["So8NSBundleC", "main"]
+- ["12SwiftMetrics7CPUDataV", "Float"]
+- ["12SwiftMetrics7CPUDataV", "Int"]
+- ["12SwiftMetrics7CPUDataV", "deinit"]
+- ["12SwiftMetrics7CPUDataV", "init"]
+- ["12SwiftMetrics7CPUDataV", "percentUsedByApplication"]
+- ["12SwiftMetrics7CPUDataV", "percentUsedBySystem"]
+- ["12SwiftMetrics7CPUDataV", "timeOfSample"]
+- !private ["s7CVarArgP", "allBundles"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "bundlePath"]
+- !private ["s7CVarArgP", "bundleURL"]
+- !private ["s7CVarArgP", "changeCurrentDirectoryPath"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "contentsOfDirectory"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "currentDirectoryPath"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "executableURL"]
+- !private ["s7CVarArgP", "fileExists"]
+- !private ["s7CVarArgP", "filter"]
+- !private ["s7CVarArgP", "global"]
+- !private ["s7CVarArgP", "hasSuffix"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isLoaded"]
+- !private ["s7CVarArgP", "length"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "pointee"]
+- !private ["s7CVarArgP", "range"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "substring"]
+- !private ["Sl", "contains"]
+- !private ["Sl", "count"]
+- !private ["Sl", "filter"]
+- !private ["Sl", "hasSuffix"]
+- !private ["Sl", "init"]
+- !private ["Sl", "lowerBound"]
+- !private ["Sl", "range"]
+- !private ["Sl", "subscript"]
+- !private ["s11CommandLineO", "arguments"]
+- !private ["SL", "contains"]
+- !private ["SL", "hasSuffix"]
+- !private ["SL", "init"]
+- !private ["SL", "pointee"]
+- !private ["SL", "range"]
+- !private ["SL", "subscript"]
+- !private ["SL", "timeIntervalSince1970"]
+- !private ["So22NSStringCompareOptionsV", "backwards"]
+- !private ["13Configuration0A7ManagerC", "init"]
+- !private ["13Configuration0A7ManagerC", "isLocal"]
+- !private ["13Configuration0A7ManagerC", "load"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "filter"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "allBundles"]
+- !private ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "bundlePath"]
+- !private ["s28CustomDebugStringConvertibleP", "bundleURL"]
+- !private ["s28CustomDebugStringConvertibleP", "changeCurrentDirectoryPath"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "contentsOfDirectory"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "currentDirectoryPath"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "executableURL"]
+- !private ["s28CustomDebugStringConvertibleP", "fileExists"]
+- !private ["s28CustomDebugStringConvertibleP", "filter"]
+- !private ["s28CustomDebugStringConvertibleP", "global"]
+- !private ["s28CustomDebugStringConvertibleP", "hasSuffix"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isFileURL"]
+- !private ["s28CustomDebugStringConvertibleP", "isLoaded"]
+- !private ["s28CustomDebugStringConvertibleP", "lastPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "length"]
+- !private ["s28CustomDebugStringConvertibleP", "location"]
+- !private ["s28CustomDebugStringConvertibleP", "lowerBound"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "pointee"]
+- !private ["s28CustomDebugStringConvertibleP", "range"]
+- !private ["s28CustomDebugStringConvertibleP", "standardized"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "substring"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "filter"]
+- !private ["s17CustomReflectableP", "hasSuffix"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "location"]
+- !private ["s17CustomReflectableP", "lowerBound"]
+- !private ["s17CustomReflectableP", "pointee"]
+- !private ["s17CustomReflectableP", "range"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "timeIntervalSince1970"]
+- !private ["s23CustomStringConvertibleP", "allBundles"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "bundlePath"]
+- !private ["s23CustomStringConvertibleP", "bundleURL"]
+- !private ["s23CustomStringConvertibleP", "changeCurrentDirectoryPath"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "contentsOfDirectory"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "currentDirectoryPath"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "executableURL"]
+- !private ["s23CustomStringConvertibleP", "fileExists"]
+- !private ["s23CustomStringConvertibleP", "filter"]
+- !private ["s23CustomStringConvertibleP", "global"]
+- !private ["s23CustomStringConvertibleP", "hasSuffix"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isFileURL"]
+- !private ["s23CustomStringConvertibleP", "isLoaded"]
+- !private ["s23CustomStringConvertibleP", "lastPathComponent"]
+- !private ["s23CustomStringConvertibleP", "length"]
+- !private ["s23CustomStringConvertibleP", "location"]
+- !private ["s23CustomStringConvertibleP", "lowerBound"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "range"]
+- !private ["s23CustomStringConvertibleP", "standardized"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "substring"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "filter"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["10Foundation4DateV", "timeIntervalSince1970"]
+- !private ["Se", "appendingPathComponent"]
+- !private ["Se", "contains"]
+- !private ["Se", "count"]
+- !private ["Se", "filter"]
+- !private ["Se", "hasSuffix"]
+- !private ["Se", "init"]
+- !private ["Se", "isFileURL"]
+- !private ["Se", "lastPathComponent"]
+- !private ["Se", "location"]
+- !private ["Se", "lowerBound"]
+- !private ["Se", "path"]
+- !private ["Se", "pointee"]
+- !private ["Se", "range"]
+- !private ["Se", "standardized"]
+- !private ["Se", "subscript"]
+- !private ["Se", "timeIntervalSince1970"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- !private ["So18OS_dispatch_objectC", "global"]
+- ["So18OS_dispatch_objectC", "init"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- !private ["So17OS_dispatch_queueC", "global"]
+- ["So17OS_dispatch_queueC", "init"]
+- !private ["SE", "appendingPathComponent"]
+- !private ["SE", "contains"]
+- !private ["SE", "count"]
+- !private ["SE", "filter"]
+- !private ["SE", "hasSuffix"]
+- !private ["SE", "init"]
+- !private ["SE", "isFileURL"]
+- !private ["SE", "lastPathComponent"]
+- !private ["SE", "location"]
+- !private ["SE", "lowerBound"]
+- !private ["SE", "path"]
+- !private ["SE", "pointee"]
+- !private ["SE", "range"]
+- !private ["SE", "standardized"]
+- !private ["SE", "subscript"]
+- !private ["SE", "timeIntervalSince1970"]
+- ["12SwiftMetrics7EnvDataV", "String"]
+- ["12SwiftMetrics7EnvDataV", "data"]
+- ["12SwiftMetrics7EnvDataV", "deinit"]
+- ["12SwiftMetrics7EnvDataV", "init"]
+- !private ["SQ", "allBundles"]
+- !private ["SQ", "appendingPathComponent"]
+- !private ["SQ", "async"]
+- !private ["SQ", "backwards"]
+- !private ["SQ", "bundlePath"]
+- !private ["SQ", "bundleURL"]
+- !private ["SQ", "changeCurrentDirectoryPath"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "contentsOfDirectory"]
+- !private ["SQ", "count"]
+- !private ["SQ", "currentDirectoryPath"]
+- !private ["SQ", "default"]
+- !private ["SQ", "environmentVariables"]
+- !private ["SQ", "executableURL"]
+- !private ["SQ", "fileExists"]
+- !private ["SQ", "filter"]
+- !private ["SQ", "global"]
+- !private ["SQ", "hasSuffix"]
+- ["SQ", "init"]
+- !private ["SQ", "isFileURL"]
+- !private ["SQ", "isLoaded"]
+- !private ["SQ", "lastPathComponent"]
+- !private ["SQ", "length"]
+- !private ["SQ", "location"]
+- !private ["SQ", "lowerBound"]
+- !private ["SQ", "main"]
+- !private ["SQ", "path"]
+- !private ["SQ", "pointee"]
+- !private ["SQ", "range"]
+- !private ["SQ", "standardized"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "substring"]
+- !private ["SQ", "timeIntervalSince1970"]
+- !private ["s25ExpressibleByArrayLiteralP", "backwards"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "filter"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "length"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "range"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "substring"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "pointee"]
+- !private ["s32ExpressibleByStringInterpolationP", "contains"]
+- !private ["s32ExpressibleByStringInterpolationP", "hasSuffix"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "range"]
+- !private ["s32ExpressibleByStringInterpolationP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "contains"]
+- !private ["s26ExpressibleByStringLiteralP", "hasSuffix"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "length"]
+- !private ["s26ExpressibleByStringLiteralP", "range"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "substring"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "contains"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "length"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "range"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "substring"]
+- !private ["So13NSFileManagerC", "changeCurrentDirectoryPath"]
+- !private ["So13NSFileManagerC", "contentsOfDirectory"]
+- !private ["So13NSFileManagerC", "currentDirectoryPath"]
+- !private ["So13NSFileManagerC", "default"]
+- !private ["So13NSFileManagerC", "fileExists"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "allBundles"]
+- !private ["SH", "appendingPathComponent"]
+- !private ["SH", "async"]
+- !private ["SH", "bundlePath"]
+- !private ["SH", "bundleURL"]
+- !private ["SH", "changeCurrentDirectoryPath"]
+- !private ["SH", "contains"]
+- !private ["SH", "contentsOfDirectory"]
+- !private ["SH", "count"]
+- !private ["SH", "currentDirectoryPath"]
+- !private ["SH", "default"]
+- !private ["SH", "environmentVariables"]
+- !private ["SH", "executableURL"]
+- !private ["SH", "fileExists"]
+- !private ["SH", "filter"]
+- !private ["SH", "global"]
+- !private ["SH", "hasSuffix"]
+- ["SH", "init"]
+- !private ["SH", "isFileURL"]
+- !private ["SH", "isLoaded"]
+- !private ["SH", "lastPathComponent"]
+- !private ["SH", "length"]
+- !private ["SH", "location"]
+- !private ["SH", "lowerBound"]
+- !private ["SH", "main"]
+- !private ["SH", "path"]
+- !private ["SH", "pointee"]
+- !private ["SH", "range"]
+- !private ["SH", "standardized"]
+- !private ["SH", "subscript"]
+- !private ["SH", "substring"]
+- !private ["SH", "timeIntervalSince1970"]
+- ["12SwiftMetrics8InitDataV", "String"]
+- ["12SwiftMetrics8InitDataV", "data"]
+- ["12SwiftMetrics8InitDataV", "deinit"]
+- ["12SwiftMetrics8InitDataV", "init"]
+- !private ["Si", "init"]
+- ["12SwiftMetrics11LatencyDataV", "Double"]
+- ["12SwiftMetrics11LatencyDataV", "Int"]
+- ["12SwiftMetrics11LatencyDataV", "deinit"]
+- ["12SwiftMetrics11LatencyDataV", "duration"]
+- ["12SwiftMetrics11LatencyDataV", "init"]
+- ["12SwiftMetrics11LatencyDataV", "timeOfSample"]
+- !private ["s25LosslessStringConvertibleP", "contains"]
+- !private ["s25LosslessStringConvertibleP", "hasSuffix"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "range"]
+- !private ["s25LosslessStringConvertibleP", "subscript"]
+- ["12SwiftMetrics7MemDataV", "Int"]
+- ["12SwiftMetrics7MemDataV", "applicationAddressSpaceSize"]
+- ["12SwiftMetrics7MemDataV", "applicationPrivateSize"]
+- ["12SwiftMetrics7MemDataV", "applicationRAMUsed"]
+- ["12SwiftMetrics7MemDataV", "deinit"]
+- ["12SwiftMetrics7MemDataV", "init"]
+- ["12SwiftMetrics7MemDataV", "timeOfSample"]
+- ["12SwiftMetrics7MemDataV", "totalRAMFree"]
+- ["12SwiftMetrics7MemDataV", "totalRAMOnSystem"]
+- ["12SwiftMetrics7MemDataV", "totalRAMUsed"]
+- !private ["s10MirrorPathP", "contains"]
+- !private ["s10MirrorPathP", "hasSuffix"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "range"]
+- !private ["s10MirrorPathP", "subscript"]
+- !private ["SM", "count"]
+- !private ["SM", "filter"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "filter"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "contains"]
+- !private ["So8NSCodingP", "hasSuffix"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "length"]
+- !private ["So8NSCodingP", "range"]
+- !private ["So8NSCodingP", "subscript"]
+- !private ["So8NSCodingP", "substring"]
+- !private ["So9NSCopyingP", "contains"]
+- !private ["So9NSCopyingP", "hasSuffix"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "length"]
+- !private ["So9NSCopyingP", "range"]
+- !private ["So9NSCopyingP", "subscript"]
+- !private ["So9NSCopyingP", "substring"]
+- !private ["So21NSItemProviderReadingP", "contains"]
+- !private ["So21NSItemProviderReadingP", "hasSuffix"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "length"]
+- !private ["So21NSItemProviderReadingP", "range"]
+- !private ["So21NSItemProviderReadingP", "subscript"]
+- !private ["So21NSItemProviderReadingP", "substring"]
+- !private ["So21NSItemProviderWritingP", "contains"]
+- !private ["So21NSItemProviderWritingP", "hasSuffix"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "length"]
+- !private ["So21NSItemProviderWritingP", "range"]
+- !private ["So21NSItemProviderWritingP", "subscript"]
+- !private ["So21NSItemProviderWritingP", "substring"]
+- !private ["So16NSMutableCopyingP", "contains"]
+- !private ["So16NSMutableCopyingP", "hasSuffix"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "length"]
+- !private ["So16NSMutableCopyingP", "range"]
+- !private ["So16NSMutableCopyingP", "subscript"]
+- !private ["So16NSMutableCopyingP", "substring"]
+- !private ["So8NSObjectC", "allBundles"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "bundlePath"]
+- !private ["So8NSObjectC", "bundleURL"]
+- !private ["So8NSObjectC", "changeCurrentDirectoryPath"]
+- !private ["So8NSObjectC", "contains"]
+- !private ["So8NSObjectC", "contentsOfDirectory"]
+- !private ["So8NSObjectC", "currentDirectoryPath"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "executableURL"]
+- !private ["So8NSObjectC", "fileExists"]
+- !private ["So8NSObjectC", "global"]
+- !private ["So8NSObjectC", "hasSuffix"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isLoaded"]
+- !private ["So8NSObjectC", "length"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "range"]
+- !private ["So8NSObjectC", "subscript"]
+- !private ["So8NSObjectC", "substring"]
+- !private ["So8NSObjectP", "allBundles"]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "bundlePath"]
+- !private ["So8NSObjectP", "bundleURL"]
+- !private ["So8NSObjectP", "changeCurrentDirectoryPath"]
+- !private ["So8NSObjectP", "contains"]
+- !private ["So8NSObjectP", "contentsOfDirectory"]
+- !private ["So8NSObjectP", "currentDirectoryPath"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "executableURL"]
+- !private ["So8NSObjectP", "fileExists"]
+- !private ["So8NSObjectP", "global"]
+- !private ["So8NSObjectP", "hasSuffix"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isLoaded"]
+- !private ["So8NSObjectP", "length"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "range"]
+- !private ["So8NSObjectP", "subscript"]
+- !private ["So8NSObjectP", "substring"]
+- !private ["So14NSSecureCodingP", "contains"]
+- !private ["So14NSSecureCodingP", "hasSuffix"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "length"]
+- !private ["So14NSSecureCodingP", "range"]
+- !private ["So14NSSecureCodingP", "subscript"]
+- !private ["So14NSSecureCodingP", "substring"]
+- !private ["So8NSStringC", "contains"]
+- !private ["So8NSStringC", "hasSuffix"]
+- !private ["So8NSStringC", "init"]
+- !private ["So8NSStringC", "length"]
+- !private ["So8NSStringC", "range"]
+- !private ["So8NSStringC", "subscript"]
+- !private ["So8NSStringC", "substring"]
+- !private ["Sj", "init"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "global"]
+- ["So9OS_objectC", "init"]
+- !private ["s13OpaquePointerV", "init"]
+- !private ["s9OptionSetP", "backwards"]
+- !private ["Sq", "pointee"]
+- !private ["Sk", "count"]
+- !private ["Sk", "filter"]
+- !private ["Sk", "lowerBound"]
+- !private ["Sk", "subscript"]
+- !private ["Sn", "lowerBound"]
+- !private ["SX", "lowerBound"]
+- !private ["Sm", "contains"]
+- !private ["Sm", "count"]
+- !private ["Sm", "filter"]
+- !private ["Sm", "hasSuffix"]
+- !private ["Sm", "init"]
+- !private ["Sm", "range"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "backwards"]
+- !private ["10Foundation20ReferenceConvertibleP", "appendingPathComponent"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "isFileURL"]
+- !private ["10Foundation20ReferenceConvertibleP", "lastPathComponent"]
+- !private ["10Foundation20ReferenceConvertibleP", "path"]
+- !private ["10Foundation20ReferenceConvertibleP", "standardized"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSince1970"]
+- !private ["s10SIMDScalarP", "init"]
+- ["12SwiftMetrics6SMDataP", ""]
+- !private ["12SwiftMetrics6SMDataP", "init"]
+- !private ["ST", "contains"]
+- !private ["ST", "count"]
+- !private ["ST", "filter"]
+- !private ["ST", "hasSuffix"]
+- !private ["ST", "init"]
+- !private ["ST", "lowerBound"]
+- !private ["ST", "range"]
+- !private ["ST", "subscript"]
+- !private ["s10SetAlgebraP", "backwards"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["13Configuration0A7ManagerC6SourceO", "environmentVariables"]
+- !private ["Sx", "init"]
+- !private ["Sx", "pointee"]
+- !private ["SS", "contains"]
+- !private ["SS", "hasSuffix"]
+- !private ["SS", "init"]
+- !private ["SS", "range"]
+- !private ["SS", "subscript"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "contains"]
+- !private ["Sy", "hasSuffix"]
+- !private ["Sy", "init"]
+- !private ["Sy", "range"]
+- !private ["Sy", "subscript"]
+- ["12SwiftMetricsAAC", "Bool"]
+- !private ["12SwiftMetricsAAC", "Bundle"]
+- ["12SwiftMetricsAAC", "CChar"]
+- ["12SwiftMetricsAAC", "CLOUD_LIBRARY_PATH"]
+- ["12SwiftMetricsAAC", "CUnsignedInt"]
+- !private ["12SwiftMetricsAAC", "CommandLine"]
+- !private ["12SwiftMetricsAAC", "ConfigurationManager"]
+- !private ["12SwiftMetricsAAC", "Date"]
+- ["12SwiftMetricsAAC", "DispatchQueue"]
+- !private ["12SwiftMetricsAAC", "FileManager"]
+- !private ["12SwiftMetricsAAC", "Int"]
+- ["12SwiftMetricsAAC", "LatencyData"]
+- !private ["12SwiftMetricsAAC", "NSNotFound"]
+- !private ["12SwiftMetricsAAC", "NSRange"]
+- !private ["12SwiftMetricsAAC", "NSString"]
+- !private ["12SwiftMetricsAAC", "RTLD_LAZY"]
+- ["12SwiftMetricsAAC", "SMData"]
+- ["12SwiftMetricsAAC", "SWIFTMETRICS_VERSION"]
+- ["12SwiftMetricsAAC", "String"]
+- ["12SwiftMetricsAAC", "SwiftMonitor"]
+- ["12SwiftMetricsAAC", "UInt32"]
+- ["12SwiftMetricsAAC", "URL"]
+- ["12SwiftMetricsAAC", "UnsafeMutableRawPointer"]
+- ["12SwiftMetricsAAC", "UnsafePointer"]
+- ["12SwiftMetricsAAC", "Void"]
+- !private ["12SwiftMetricsAAC", "cloudLibraryPath"]
+- !private ["12SwiftMetricsAAC", "debug"]
+- ["12SwiftMetricsAAC", "deinit"]
+- ["12SwiftMetricsAAC", "disable"]
+- !private ["12SwiftMetricsAAC", "dlerror"]
+- !private ["12SwiftMetricsAAC", "dlopen"]
+- !private ["12SwiftMetricsAAC", "dlsym"]
+- ["12SwiftMetricsAAC", "emitData"]
+- ["12SwiftMetricsAAC", "enable"]
+- !private ["12SwiftMetricsAAC", "executableFolderURL"]
+- !private ["12SwiftMetricsAAC", "fileJoin"]
+- !private ["12SwiftMetricsAAC", "fine"]
+- !private ["12SwiftMetricsAAC", "getDefaultLibraryPath"]
+- !private ["12SwiftMetricsAAC", "getMonitorApiFunction"]
+- !private ["12SwiftMetricsAAC", "info"]
+- ["12SwiftMetricsAAC", "init"]
+- !private ["12SwiftMetricsAAC", "initMonitorApi"]
+- !private ["12SwiftMetricsAAC", "initialized"]
+- !private ["12SwiftMetricsAAC", "isMonitorApiValid"]
+- ["12SwiftMetricsAAC", "isRunningOnCloud"]
+- ["12SwiftMetricsAAC", "jobsQueue"]
+- ["12SwiftMetricsAAC", "latencyEnabled"]
+- !private ["12SwiftMetricsAAC", "linuxLibraryFileName"]
+- !private ["12SwiftMetricsAAC", "loadProperties"]
+- ["12SwiftMetricsAAC", "loaderApi"]
+- ["12SwiftMetricsAAC", "loaderCoreFunctions"]
+- !private ["12SwiftMetricsAAC", "loader_entrypoint"]
+- ["12SwiftMetricsAAC", "localConnect"]
+- ["12SwiftMetricsAAC", "localSourceDirectory"]
+- !private ["12SwiftMetricsAAC", "macOSLibraryFileName"]
+- ["12SwiftMetricsAAC", "monitor"]
+- !private ["12SwiftMetricsAAC", "monitorApiLibraryHandle"]
+- !private ["12SwiftMetricsAAC", "monitorApiLibraryHandleCache"]
+- ["12SwiftMetricsAAC", "monitorPushData"]
+- ["12SwiftMetricsAAC", "monitorRegisterListener"]
+- ["12SwiftMetricsAAC", "monitorSendControl"]
+- !private ["12SwiftMetricsAAC", "openLibrary"]
+- !private ["12SwiftMetricsAAC", "platformLibraryFileName"]
+- !private ["12SwiftMetricsAAC", "pluginSearchLibraryPath"]
+- !private ["12SwiftMetricsAAC", "pluginSearchPath"]
+- !private ["12SwiftMetricsAAC", "print"]
+- ["12SwiftMetricsAAC", "pushData"]
+- !private ["12SwiftMetricsAAC", "receiveAgentCoreData"]
+- ["12SwiftMetricsAAC", "registerListener"]
+- ["12SwiftMetricsAAC", "running"]
+- ["12SwiftMetricsAAC", "sendControl"]
+- ["12SwiftMetricsAAC", "setConfig"]
+- ["12SwiftMetricsAAC", "setPluginSearch"]
+- !private ["12SwiftMetricsAAC", "sleep"]
+- ["12SwiftMetricsAAC", "sleepInterval"]
+- ["12SwiftMetricsAAC", "start"]
+- ["12SwiftMetricsAAC", "stop"]
+- !private ["12SwiftMetricsAAC", "swiftMon"]
+- !private ["12SwiftMetricsAAC", "testLatency"]
+- !private ["12SwiftMetricsAAC", "unsafeBitCast"]
+- !private ["12SwiftMetricsAAC", "warning"]
+- !private ["12SwiftMetricsAAC", "xcodeLibraryPath"]
+- !private ["12SwiftMetrics0A7MonitorC", "init"]
+- !private ["12SwiftMetrics0A7MonitorC", "raiseCoreEvent"]
+- !private ["12SwiftMetrics0A7MonitorC", "raiseEvent"]
+- !private ["12SwiftMetrics0A7MonitorC", "stop"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "contains"]
+- !private ["s16TextOutputStreamP", "hasSuffix"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "range"]
+- !private ["s16TextOutputStreamP", "subscript"]
+- !private ["s20TextOutputStreamableP", "contains"]
+- !private ["s20TextOutputStreamableP", "hasSuffix"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "range"]
+- !private ["s20TextOutputStreamableP", "subscript"]
+- !private ["10Foundation3URLV", "appendingPathComponent"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["10Foundation3URLV", "isFileURL"]
+- !private ["10Foundation3URLV", "lastPathComponent"]
+- !private ["10Foundation3URLV", "path"]
+- !private ["10Foundation3URLV", "standardized"]
+- !private ["Sp", "pointee"]
+- !private ["SP", "init"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "filter"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "contains"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hasSuffix"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "isFileURL"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "lastPathComponent"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "length"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "location"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "path"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "pointee"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "range"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "standardized"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "substring"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "filter"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "range"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "contains"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hasSuffix"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "range"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "subscript"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "contains"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "range"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "subscript"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "appendingPathComponent"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "isFileURL"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "lastPathComponent"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "path"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "standardized"]
+- !private ["s19_HasContiguousBytesP", "contains"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "filter"]
+- !private ["s19_HasContiguousBytesP", "hasSuffix"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "range"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "filter"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hasSuffix"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "length"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "range"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "substring"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "allBundles"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bundlePath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bundleURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "changeCurrentDirectoryPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contains"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentsOfDirectory"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentDirectoryPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "executableURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fileExists"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "global"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasSuffix"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isLoaded"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "length"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "range"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "substring"]
+- !private ["So8_NSRangeV", "init"]
+- !private ["So8_NSRangeV", "location"]
+- !private ["s21_ObjectiveCBridgeableP", "appendingPathComponent"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "filter"]
+- !private ["s21_ObjectiveCBridgeableP", "hasSuffix"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isFileURL"]
+- !private ["s21_ObjectiveCBridgeableP", "lastPathComponent"]
+- !private ["s21_ObjectiveCBridgeableP", "location"]
+- !private ["s21_ObjectiveCBridgeableP", "path"]
+- !private ["s21_ObjectiveCBridgeableP", "pointee"]
+- !private ["s21_ObjectiveCBridgeableP", "range"]
+- !private ["s21_ObjectiveCBridgeableP", "standardized"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSince1970"]
+- !private ["s8_PointerP", "init"]
+- !private ["s8_PointerP", "pointee"]
+- !private ["So19loaderCoreFunctionsV", "addPlugin"]
+- !private ["So19loaderCoreFunctionsV", "getAgentVersion"]
+- !private ["So19loaderCoreFunctionsV", "getProperty"]
+- !private ["So19loaderCoreFunctionsV", "initialize"]
+- !private ["So19loaderCoreFunctionsV", "loadPropertiesFile"]
+- !private ["So19loaderCoreFunctionsV", "logMessage"]
+- !private ["So19loaderCoreFunctionsV", "setLogLevels"]
+- !private ["So19loaderCoreFunctionsV", "setProperty"]
+- !private ["So19loaderCoreFunctionsV", "shutdown"]
+- !private ["So19loaderCoreFunctionsV", "start"]
+- !private ["So19loaderCoreFunctionsV", "stop"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "SK"
+- !private "Sz"
+- !private "So8NSBundleC"
+- "12SwiftMetrics7CPUDataV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "s11CommandLineO"
+- !private "SL"
+- !private "So22NSStringCompareOptionsV"
+- !private "13Configuration0A7ManagerC"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- "So18OS_dispatch_objectC"
+- "So17OS_dispatch_queueC"
+- !private "SE"
+- "12SwiftMetrics7EnvDataV"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So13NSFileManagerC"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- "12SwiftMetrics8InitDataV"
+- !private "Si"
+- "12SwiftMetrics11LatencyDataV"
+- !private "s25LosslessStringConvertibleP"
+- "12SwiftMetrics7MemDataV"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sj"
+- "So9OS_objectC"
+- !private "s13OpaquePointerV"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sn"
+- !private "SX"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s10SIMDScalarP"
+- "12SwiftMetrics6SMDataP"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "13Configuration0A7ManagerC6SourceO"
+- !private "Sx"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- "12SwiftMetricsAAC"
+- !private "12SwiftMetrics0A7MonitorC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "10Foundation3URLV"
+- !private "Sp"
+- !private "SP"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "So8_NSRangeV"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+- !private "So19loaderCoreFunctionsV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/FileKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CloudFoundryEnv.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/omr-agentcore-1273195304195151760/src/agentcore/include/AgentExtensions.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "da494ccba15cc77f8f9b7ae41916205d"

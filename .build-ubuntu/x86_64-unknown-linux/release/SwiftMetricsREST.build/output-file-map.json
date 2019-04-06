@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsREST.build/SwiftMetricsREST.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsREST.build/SwiftMetricsREST.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsREST.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftMetricsREST/SwiftMetricsREST.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsREST.build/SwiftMetricsREST.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsREST.build/SwiftMetricsREST~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftMetricsREST.build/SwiftMetricsREST.swiftdeps"
+  }
+}

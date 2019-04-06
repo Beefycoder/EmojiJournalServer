@@ -1,0 +1,15 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "da0e2759d752c70d4e0f06ba058859a4"
+build_time: [1553635603, 996589100]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/CookieCryptography.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/CookieManagement.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/CookieParameter.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/InMemoryStore.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/RouterRequest+Session.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/Session.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/SessionCookie.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/SessionState.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/Store.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/StoreError.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Session.git--775421907458397930/Sources/KituraSession/TypeSafeSession.swift": [9223372036, 854775807]

@@ -1,0 +1,5 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "df0b9b8077315ecad3835d7515bfda71"
+build_time: [1553552500, 374223841]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/BlueSignals.git--7130819659919173415/Sources/Signals/Signals.swift": [9223372036, 854775807]

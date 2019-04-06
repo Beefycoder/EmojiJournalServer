@@ -1,0 +1,52 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/SwiftyRequest.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/SwiftyRequest.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/CodableExtensions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/CodableExtensions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/CodableExtensions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/CodableExtensions.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/HTTPMethod.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/HTTPMethod.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/HTTPMethod~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/HTTPMethod.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/JSON.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/JSON.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/JSON~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/JSON.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/JSONWrapper.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/JSONWrapper.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/JSONWrapper~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/JSONWrapper.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/MultipartFormData.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/MultipartFormData.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/MultipartFormData~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/MultipartFormData.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/RestRequest.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/RestRequest.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/RestRequest~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/RestRequest.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/RestToken.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/RestToken.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/RestToken~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/RestToken.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/RestUtilities.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/RestUtilities.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/RestUtilities~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/RestUtilities.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftyRequest.git-5423864447077811277/Sources/SwiftyRequest/StringExtensions.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/StringExtensions.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/StringExtensions~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftyRequest.build/StringExtensions.swiftdeps"
+  }
+}

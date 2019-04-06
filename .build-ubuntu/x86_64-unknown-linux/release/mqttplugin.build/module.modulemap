@@ -1,0 +1,4 @@
+module mqttplugin {
+    umbrella "/swift-project/.build-ubuntu/checkouts/omr-agentcore--7541127466014459218/src/mqttplugin/include"
+    export *
+}

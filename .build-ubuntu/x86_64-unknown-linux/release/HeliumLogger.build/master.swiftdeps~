@@ -1,0 +1,6 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "3b5019527a2630e4e146d43c1075e5f6"
+build_time: [1553552502, 596014501]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/HeliumLogger.git--2755194721864153837/Sources/HeliumLogger/HeliumLogger.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/HeliumLogger.git--2755194721864153837/Sources/HeliumLogger/HeliumStreamLogger.swift": [9223372036, 854775807]

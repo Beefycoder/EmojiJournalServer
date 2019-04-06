@@ -1,0 +1,22 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "80988ca88edef747c576361992094471"
+build_time: [1554239860, 361432600]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/AlertNotificationCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/AppIDCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/AutoScalingCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/CloudEnv.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/CloudFunctionsCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/CloudantCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/Credentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/DB2Credentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/HDBaaSCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/MongoDBCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/MySQLCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/NaturalLanguageUnderstandingCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/ObjectStorageCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/PostgreSQLCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/PushSDKCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/RedisCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/WatsonAssistantCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/CloudEnvironment.git-6141420778759122082/Sources/CloudEnvironment/WeatherDataCompanyCredentials.swift": [9223372036, 854775807]

@@ -1,0 +1,152 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FastCGI"
+provides-nominal:
+- "9KituraNet7FastCGIC"
+- "9KituraNet7FastCGIC9ConstantsV"
+- "9KituraNet7FastCGIC12RecordErrorsO"
+provides-member:
+- ["9KituraNet7FastCGIC", ""]
+- ["9KituraNet7FastCGIC9ConstantsV", ""]
+- ["9KituraNet7FastCGIC12RecordErrorsO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "FastCGI"
+- "FastCGIServer"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "String"
+- "StringLiteralType"
+- "Swift"
+- "UInt16"
+- "UInt8"
+depends-member:
+- ["9KituraNet7FastCGIC9ConstantsV", "FASTCGI_DEFAULT_REQUEST_ID"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FASTCGI_PROTOCOL_VERSION"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_BEGIN_REQUEST"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_CANT_MPX_CONN"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_END_REQUEST"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_KEEP_CONN"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_NO_ROLE"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_NO_TYPE"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_PARAMS"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_REQUEST_COMPLETE"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_RESPONDER"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_STDIN"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_STDOUT"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_SUBTYPE_NO_TYPE"]
+- ["9KituraNet7FastCGIC9ConstantsV", "FCGI_UNKNOWN_ROLE"]
+- ["9KituraNet7FastCGIC9ConstantsV", "HEADER_HTTP_HOST"]
+- ["9KituraNet7FastCGIC9ConstantsV", "HEADER_REQUEST_METHOD"]
+- ["9KituraNet7FastCGIC9ConstantsV", "HEADER_REQUEST_SCHEME"]
+- ["9KituraNet7FastCGIC9ConstantsV", "HEADER_REQUEST_URI"]
+- ["9KituraNet7FastCGIC9ConstantsV", "String"]
+- ["9KituraNet7FastCGIC9ConstantsV", "UInt16"]
+- ["9KituraNet7FastCGIC9ConstantsV", "UInt8"]
+- ["9KituraNet7FastCGIC9ConstantsV", "init"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_code"]
+- ["SQ", "_domain"]
+- ["SQ", "_getEmbeddedNSError"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "_userInfo"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["s5ErrorP", "=="]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_rawHashValue"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "hash"]
+- ["s5ErrorP", "hashValue"]
+- ["9KituraNet7FastCGIC", "Constants"]
+- ["9KituraNet7FastCGIC", "FastCGIServer"]
+- ["9KituraNet7FastCGIC", "RecordErrors"]
+- ["9KituraNet7FastCGIC", "String"]
+- ["9KituraNet7FastCGIC", "Swift"]
+- ["9KituraNet7FastCGIC", "UInt16"]
+- ["9KituraNet7FastCGIC", "UInt8"]
+- ["9KituraNet7FastCGIC", "createServer"]
+- ["9KituraNet7FastCGIC", "init"]
+- !private ["9KituraNet13FastCGIServerC", "init"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_code"]
+- ["SH", "_domain"]
+- ["SH", "_getEmbeddedNSError"]
+- ["SH", "_rawHashValue"]
+- ["SH", "_userInfo"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["s6HasherV", "combine"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "=="]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "__derived_enum_equals"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "_code"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "_domain"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "_getEmbeddedNSError"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "_rawHashValue"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "_userInfo"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "bufferExhausted"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "deinit"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "emptyParameters"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "hash"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "hashValue"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "internalError"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "invalidRequestId"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "invalidRole"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "invalidSubType"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "invalidType"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "invalidVersion"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "oversizeData"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "protocolError"]
+- ["9KituraNet7FastCGIC12RecordErrorsO", "unsupportedRole"]
+- !private ["9KituraNet6ServerP", "init"]
+depends-nominal:
+- "9KituraNet7FastCGIC9ConstantsV"
+- "SQ"
+- "s5ErrorP"
+- "9KituraNet7FastCGIC"
+- !private "9KituraNet13FastCGIServerC"
+- "SH"
+- !private "s6HasherV"
+- "9KituraNet7FastCGIC12RecordErrorsO"
+- !private "9KituraNet6ServerP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "238a23c6c952f96ebe73bbcb4ecbbd33"

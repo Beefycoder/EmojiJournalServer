@@ -1,0 +1,263 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Snapshot"
+provides-nominal:
+- "14CircuitBreaker8SnapshotV"
+provides-member:
+- ["14CircuitBreaker8SnapshotV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "Codable"
+- !private "Date"
+- "Double"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "Snapshot"
+- "State"
+- "Stats"
+- "String"
+- "StringLiteralType"
+- !private "~="
+depends-member:
+- ["s9CodingKeyP", "=="]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- !private ["SL", "init"]
+- !private ["SL", "timeIntervalSinceNow"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSinceNow"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "timeIntervalSinceNow"]
+- ["s23CustomStringConvertibleP", "=="]
+- !private ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSinceNow"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["10Foundation4DateV", "timeIntervalSinceNow"]
+- !private ["Se", "Date"]
+- ["Se", ""]
+- !private ["Se", "currentTime"]
+- ["Se", "encode"]
+- !private ["Se", "errorCount"]
+- !private ["Se", "errorPercentage"]
+- !private ["Se", "group"]
+- ["Se", "init"]
+- !private ["Se", "isCircuitBreakerOpen"]
+- !private ["Se", "latencyExecute"]
+- !private ["Se", "latencyExecute_mean"]
+- !private ["Se", "latencyTotal"]
+- !private ["Se", "latencyTotal_mean"]
+- !private ["Se", "name"]
+- !private ["Se", "requestCount"]
+- !private ["Se", "rollingCountFailure"]
+- !private ["Se", "rollingCountShortCircuited"]
+- !private ["Se", "rollingCountSuccess"]
+- !private ["Se", "rollingCountTimeout"]
+- !private ["Se", "timeIntervalSinceNow"]
+- !private ["s7DecoderP", "container"]
+- !private ["SE", "Date"]
+- ["SE", ""]
+- !private ["SE", "currentTime"]
+- ["SE", "encode"]
+- !private ["SE", "errorCount"]
+- !private ["SE", "errorPercentage"]
+- !private ["SE", "group"]
+- ["SE", "init"]
+- !private ["SE", "isCircuitBreakerOpen"]
+- !private ["SE", "latencyExecute"]
+- !private ["SE", "latencyExecute_mean"]
+- !private ["SE", "latencyTotal"]
+- !private ["SE", "latencyTotal_mean"]
+- !private ["SE", "name"]
+- !private ["SE", "requestCount"]
+- !private ["SE", "rollingCountFailure"]
+- !private ["SE", "rollingCountShortCircuited"]
+- !private ["SE", "rollingCountSuccess"]
+- !private ["SE", "rollingCountTimeout"]
+- !private ["SE", "timeIntervalSinceNow"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- !private ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- !private ["SQ", "open"]
+- ["SQ", "stringValue"]
+- !private ["SQ", "timeIntervalSinceNow"]
+- ["SH", "=="]
+- !private ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- !private ["SH", "open"]
+- ["SH", "stringValue"]
+- !private ["SH", "timeIntervalSinceNow"]
+- !private ["s6HasherV", "combine"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSinceNow"]
+- ["14CircuitBreaker8SnapshotV", "Bool"]
+- !private ["14CircuitBreaker8SnapshotV", "Date"]
+- ["14CircuitBreaker8SnapshotV", "Double"]
+- ["14CircuitBreaker8SnapshotV", "Int"]
+- ["14CircuitBreaker8SnapshotV", "State"]
+- ["14CircuitBreaker8SnapshotV", "Stats"]
+- ["14CircuitBreaker8SnapshotV", "String"]
+- ["14CircuitBreaker8SnapshotV", "currentConcurrentExecutionCount"]
+- ["14CircuitBreaker8SnapshotV", "currentTime"]
+- ["14CircuitBreaker8SnapshotV", "deinit"]
+- ["14CircuitBreaker8SnapshotV", "encode"]
+- ["14CircuitBreaker8SnapshotV", "errorCount"]
+- ["14CircuitBreaker8SnapshotV", "errorPercentage"]
+- ["14CircuitBreaker8SnapshotV", "group"]
+- ["14CircuitBreaker8SnapshotV", "init"]
+- ["14CircuitBreaker8SnapshotV", "isCircuitBreakerOpen"]
+- ["14CircuitBreaker8SnapshotV", "latencyExecute"]
+- ["14CircuitBreaker8SnapshotV", "latencyExecute_mean"]
+- ["14CircuitBreaker8SnapshotV", "latencyTotal"]
+- ["14CircuitBreaker8SnapshotV", "latencyTotal_mean"]
+- ["14CircuitBreaker8SnapshotV", "name"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_circuitBreakerEnabled"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_circuitBreakerErrorThresholdPercentage"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_circuitBreakerForceClosed"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_circuitBreakerForceOpen"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_circuitBreakerRequestVolumeThreshold"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_circuitBreakerSleepWindowInMilliseconds"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_executionIsolationSemaphoreMaxConcurrentRequests"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_executionIsolationStrategy"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_executionIsolationThreadInterruptOnTimeout"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_executionIsolationThreadPoolKeyOverride"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_executionIsolationThreadTimeoutInMilliseconds"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_fallbackIsolationSemaphoreMaxConcurrentRequests"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_metricsRollingStatisticalWindowInMilliseconds"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_requestCacheEnabled"]
+- ["14CircuitBreaker8SnapshotV", "propertyValue_requestLogEnabled"]
+- ["14CircuitBreaker8SnapshotV", "reportingHosts"]
+- ["14CircuitBreaker8SnapshotV", "requestCount"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountBadRequests"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountCollapsedRequests"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountExceptionsThrown"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountFailure"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountFallbackFailure"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountFallbackRejection"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountFallbackSuccess"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountResponsesFromCache"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountSemaphoreRejected"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountShortCircuited"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountSuccess"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountThreadPoolRejected"]
+- ["14CircuitBreaker8SnapshotV", "rollingCountTimeout"]
+- ["14CircuitBreaker8SnapshotV", "type"]
+- !private ["14CircuitBreaker5StateO", "deinit"]
+- !private ["14CircuitBreaker5StateO", "open"]
+- !private ["14CircuitBreaker5StatsC", "errorCount"]
+- !private ["14CircuitBreaker5StatsC", "errorPercentage"]
+- !private ["14CircuitBreaker5StatsC", "failed"]
+- !private ["14CircuitBreaker5StatsC", "latencyExecute"]
+- !private ["14CircuitBreaker5StatsC", "latencyTotal"]
+- !private ["14CircuitBreaker5StatsC", "meanExecutionLatency"]
+- !private ["14CircuitBreaker5StatsC", "meanTotalLatency"]
+- !private ["14CircuitBreaker5StatsC", "rejectedRequests"]
+- !private ["14CircuitBreaker5StatsC", "successful"]
+- !private ["14CircuitBreaker5StatsC", "timeouts"]
+- !private ["14CircuitBreaker5StatsC", "totalRequests"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSinceNow"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSinceNow"]
+depends-nominal:
+- "s9CodingKeyP"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- "Se"
+- !private "s7DecoderP"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- !private "10Foundation20ReferenceConvertibleP"
+- "14CircuitBreaker8SnapshotV"
+- !private "14CircuitBreaker5StateO"
+- !private "14CircuitBreaker5StatsC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f37487f42ae8862aefb64ba1c54bd50e"

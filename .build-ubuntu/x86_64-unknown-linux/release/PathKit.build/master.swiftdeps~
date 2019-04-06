@@ -1,0 +1,5 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "d25ee35fee6c417455d515c2a78a3533"
+build_time: [1553895202, 65743700]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/PathKit.git--3899465251797534586/Sources/PathKit.swift": [9223372036, 854775807]

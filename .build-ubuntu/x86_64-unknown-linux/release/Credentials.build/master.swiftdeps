@@ -1,0 +1,12 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "2e4c3f43330f61099302b88ba5b1977e"
+build_time: [1554239912, 678077100]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/BaseCacheElement.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/Credentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/CredentialsPluginProtocol.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/MultiTypeSafeCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/RouterRequest+UserProfile.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/TypeSafeCredentials.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/UserProfile.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-Credentials.git--4328626129484885885/Sources/Credentials/UserProfileDelegate.swift": [9223372036, 854775807]

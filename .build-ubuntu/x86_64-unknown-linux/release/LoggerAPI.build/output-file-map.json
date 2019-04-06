@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/LoggerAPI.build/LoggerAPI.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/LoggerAPI.build/LoggerAPI.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/LoggerAPI.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/LoggerAPI.git-6606357628668312832/Sources/LoggerAPI/Logger.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/LoggerAPI.build/Logger.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/LoggerAPI.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/LoggerAPI.build/Logger.swiftdeps"
+  }
+}

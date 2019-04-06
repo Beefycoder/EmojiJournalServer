@@ -1,0 +1,9 @@
+version: "Swift version 4.2.3 (swift-4.2.3-RELEASE)"
+options: "9a4efbf4272581fab169d7eb83adba65"
+build_time: [1553635612, 597774800]
+inputs:
+  "/swift-project/.build-ubuntu/checkouts/Kitura-CredentialsHTTP.git--1059086216428736389/Sources/CredentialsHTTP/CredentialsHTTPBasic.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-CredentialsHTTP.git--1059086216428736389/Sources/CredentialsHTTP/CredentialsHTTPDigest.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-CredentialsHTTP.git--1059086216428736389/Sources/CredentialsHTTP/TypeSafeHTTPBasic.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-CredentialsHTTP.git--1059086216428736389/Sources/CredentialsHTTP/UserProfileLoader.swift": [9223372036, 854775807]
+  "/swift-project/.build-ubuntu/checkouts/Kitura-CredentialsHTTP.git--1059086216428736389/Sources/CredentialsHTTP/VerifyPassword.swift": [9223372036, 854775807]

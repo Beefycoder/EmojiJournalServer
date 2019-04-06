@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/FileKit.build/FileKit.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/FileKit.build/FileKit.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/FileKit.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/FileKit.git-1898581877501902326/Sources/FileKit/FileKit.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/FileKit.build/FileKit.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/FileKit.build/FileKit~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/FileKit.build/FileKit.swiftdeps"
+  }
+}

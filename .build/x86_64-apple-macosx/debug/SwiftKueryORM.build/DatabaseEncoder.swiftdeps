@@ -1,0 +1,283 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DatabaseEncoder"
+provides-nominal:
+- "13SwiftKueryORM15DatabaseEncoderC"
+provides-member:
+- ["13SwiftKueryORM15DatabaseEncoderC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "AnyHashable"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "CodingKey"
+- "CodingUserInfoKey"
+- !private "Data"
+- "DatabaseEncoder"
+- !private "Date"
+- "Encodable"
+- "Encoder"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "KeyedEncodingContainer"
+- "KeyedEncodingContainerProtocol"
+- !private "RequestError"
+- "SingleValueEncodingContainer"
+- "String"
+- !private "StringLiteralType"
+- !private "URL"
+- !private "UUID"
+- "UnkeyedEncodingContainer"
+- "_DatabaseEncoder"
+- !private "_DatabaseEncodingContainer"
+- !private "_DatabaseKeyedEncodingContainer"
+depends-member:
+- ["Sa", "init"]
+- !private ["SK", "base64EncodedString"]
+- ["SK", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s9CodingKeyP", "stringValue"]
+- !private ["Sl", "base64EncodedString"]
+- ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["SL", "ormDatabaseEncodingError"]
+- !private ["SL", "timeIntervalSinceReferenceDate"]
+- !private ["10Foundation15ContiguousBytesP", "base64EncodedString"]
+- ["10Foundation15ContiguousBytesP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "absoluteString"]
+- !private ["s28CustomDebugStringConvertibleP", "base64EncodedString"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSinceReferenceDate"]
+- !private ["s28CustomDebugStringConvertibleP", "uuidString"]
+- !private ["s17CustomReflectableP", "base64EncodedString"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "timeIntervalSinceReferenceDate"]
+- !private ["s17CustomReflectableP", "uuidString"]
+- !private ["s23CustomStringConvertibleP", "absoluteString"]
+- !private ["s23CustomStringConvertibleP", "base64EncodedString"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "ormDatabaseEncodingError"]
+- !private ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSinceReferenceDate"]
+- !private ["s23CustomStringConvertibleP", "uuidString"]
+- !private ["10Foundation4DataV", "base64EncodedString"]
+- !private ["10Foundation12DataProtocolP", "base64EncodedString"]
+- ["10Foundation12DataProtocolP", "init"]
+- ["13SwiftKueryORM15DatabaseEncoderC", "Encodable"]
+- ["13SwiftKueryORM15DatabaseEncoderC", "String"]
+- ["13SwiftKueryORM15DatabaseEncoderC", "_DatabaseEncoder"]
+- !private ["13SwiftKueryORM15DatabaseEncoderC", "databaseEncoder"]
+- ["13SwiftKueryORM15DatabaseEncoderC", "encode"]
+- ["13SwiftKueryORM15DatabaseEncoderC", "init"]
+- !private ["10Foundation4DateV", "timeIntervalSinceReferenceDate"]
+- !private ["Se", "absoluteString"]
+- !private ["Se", "base64EncodedString"]
+- ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["Se", "timeIntervalSinceReferenceDate"]
+- !private ["Se", "uuidString"]
+- !private ["SD", "subscript"]
+- !private ["11TypeDecoder010DictionaryA0P", "subscript"]
+- !private ["SE", "absoluteString"]
+- !private ["SE", "base64EncodedString"]
+- !private ["SE", "encode"]
+- ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SE", "timeIntervalSinceReferenceDate"]
+- !private ["SE", "uuidString"]
+- ["s7EncoderP", "CodingKey"]
+- !private ["s7EncoderP", "KeyedEncodingContainer"]
+- !private ["s7EncoderP", ""]
+- !private ["s7EncoderP", "_DatabaseEncodingContainer"]
+- !private ["s7EncoderP", "_DatabaseKeyedEncodingContainer"]
+- ["s7EncoderP", "codingPath"]
+- ["s7EncoderP", "container"]
+- ["s7EncoderP", "init"]
+- ["s7EncoderP", "singleValueContainer"]
+- ["s7EncoderP", "unkeyedContainer"]
+- ["s7EncoderP", "userInfo"]
+- !private ["s7EncoderP", "values"]
+- !private ["SQ", "absoluteString"]
+- !private ["SQ", "base64EncodedString"]
+- ["SQ", "init"]
+- !private ["SQ", "ormDatabaseEncodingError"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "timeIntervalSinceReferenceDate"]
+- !private ["SQ", "uuidString"]
+- !private ["s5ErrorP", "init"]
+- !private ["s5ErrorP", "ormDatabaseEncodingError"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["SH", "absoluteString"]
+- !private ["SH", "base64EncodedString"]
+- ["SH", "init"]
+- !private ["SH", "ormDatabaseEncodingError"]
+- !private ["SH", "subscript"]
+- !private ["SH", "timeIntervalSinceReferenceDate"]
+- !private ["SH", "uuidString"]
+- !private ["s22KeyedEncodingContainerV", "init"]
+- ["s30KeyedEncodingContainerProtocolP", "CodingKey"]
+- ["s30KeyedEncodingContainerProtocolP", "Key"]
+- !private ["s30KeyedEncodingContainerProtocolP", "RequestError"]
+- !private ["s30KeyedEncodingContainerProtocolP", ""]
+- !private ["s30KeyedEncodingContainerProtocolP", "_DatabaseEncoder"]
+- ["s30KeyedEncodingContainerProtocolP", "codingPath"]
+- ["s30KeyedEncodingContainerProtocolP", "encode"]
+- ["s30KeyedEncodingContainerProtocolP", "encodeConditional"]
+- ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- ["s30KeyedEncodingContainerProtocolP", "encodeNil"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encoder"]
+- !private ["s30KeyedEncodingContainerProtocolP", "init"]
+- ["s30KeyedEncodingContainerProtocolP", "nestedContainer"]
+- ["s30KeyedEncodingContainerProtocolP", "nestedUnkeyedContainer"]
+- ["s30KeyedEncodingContainerProtocolP", "superEncoder"]
+- !private ["SM", "base64EncodedString"]
+- ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "base64EncodedString"]
+- ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["Sk", "base64EncodedString"]
+- ["Sk", "init"]
+- !private ["Sm", "base64EncodedString"]
+- ["Sm", "init"]
+- !private ["SY", "init"]
+- !private ["SY", "ormDatabaseEncodingError"]
+- !private ["10Foundation20ReferenceConvertibleP", "absoluteString"]
+- !private ["10Foundation20ReferenceConvertibleP", "base64EncodedString"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSinceReferenceDate"]
+- !private ["10Foundation20ReferenceConvertibleP", "uuidString"]
+- !private ["15KituraContracts12RequestErrorV", "init"]
+- !private ["15KituraContracts12RequestErrorV", "ormDatabaseEncodingError"]
+- !private ["10SwiftKuery11SQLDataTypeP", "uuidString"]
+- !private ["ST", "base64EncodedString"]
+- ["ST", "init"]
+- !private ["ST", "subscript"]
+- ["s28SingleValueEncodingContainerP", "CodingKey"]
+- !private ["s28SingleValueEncodingContainerP", ""]
+- ["s28SingleValueEncodingContainerP", "codingPath"]
+- ["s28SingleValueEncodingContainerP", "count"]
+- ["s28SingleValueEncodingContainerP", "encode"]
+- ["s28SingleValueEncodingContainerP", "encodeConditional"]
+- ["s28SingleValueEncodingContainerP", "encodeNil"]
+- !private ["s28SingleValueEncodingContainerP", "encoder"]
+- !private ["s28SingleValueEncodingContainerP", "init"]
+- ["s28SingleValueEncodingContainerP", "nestedContainer"]
+- ["s28SingleValueEncodingContainerP", "nestedUnkeyedContainer"]
+- ["s28SingleValueEncodingContainerP", "superEncoder"]
+- !private ["10Foundation3URLV", "absoluteString"]
+- !private ["10Foundation4UUIDV", "uuidString"]
+- ["s24UnkeyedEncodingContainerP", "CodingKey"]
+- !private ["s24UnkeyedEncodingContainerP", ""]
+- ["s24UnkeyedEncodingContainerP", "codingPath"]
+- ["s24UnkeyedEncodingContainerP", "count"]
+- ["s24UnkeyedEncodingContainerP", "encode"]
+- ["s24UnkeyedEncodingContainerP", "encodeConditional"]
+- ["s24UnkeyedEncodingContainerP", "encodeNil"]
+- !private ["s24UnkeyedEncodingContainerP", "encoder"]
+- !private ["s24UnkeyedEncodingContainerP", "init"]
+- ["s24UnkeyedEncodingContainerP", "nestedContainer"]
+- ["s24UnkeyedEncodingContainerP", "nestedUnkeyedContainer"]
+- ["s24UnkeyedEncodingContainerP", "superEncoder"]
+- !private ["11TypeDecoder29ValidKeyedCodingValueProviderP", "absoluteString"]
+- !private ["11TypeDecoder30ValidSingleCodingValueProviderP", "uuidString"]
+- ["s14_ArrayProtocolP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "absoluteString"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSinceReferenceDate"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "absoluteString"]
+- ["s19_HasContiguousBytesP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "absoluteString"]
+- !private ["s21_ObjectiveCBridgeableP", "base64EncodedString"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSinceReferenceDate"]
+- !private ["s21_ObjectiveCBridgeableP", "uuidString"]
+depends-nominal:
+- "Sa"
+- "SK"
+- "s7CVarArgP"
+- !private "s9CodingKeyP"
+- "Sl"
+- !private "SL"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- "10Foundation12DataProtocolP"
+- "13SwiftKueryORM15DatabaseEncoderC"
+- !private "10Foundation4DateV"
+- "Se"
+- !private "SD"
+- !private "11TypeDecoder010DictionaryA0P"
+- "SE"
+- "s7EncoderP"
+- "SQ"
+- !private "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "SH"
+- !private "s22KeyedEncodingContainerV"
+- "s30KeyedEncodingContainerProtocolP"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- "Sk"
+- "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "15KituraContracts12RequestErrorV"
+- !private "10SwiftKuery11SQLDataTypeP"
+- "ST"
+- "s28SingleValueEncodingContainerP"
+- !private "10Foundation3URLV"
+- !private "10Foundation4UUIDV"
+- "s24UnkeyedEncodingContainerP"
+- !private "11TypeDecoder29ValidKeyedCodingValueProviderP"
+- !private "11TypeDecoder30ValidSingleCodingValueProviderP"
+- "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/TypeDecoder.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/KituraContracts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SwiftKuery.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f020f15a94346685261d48a9c36f4b6f"

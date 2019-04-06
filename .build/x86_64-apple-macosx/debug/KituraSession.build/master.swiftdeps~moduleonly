@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "24d3f9fe2428150b087bb7720ec6b3fe"
+build_time: [1554331725, 521720000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/CookieCryptography.swift": [1553578533, 340607377]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/CookieManagement.swift": [1553578533, 340744526]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/CookieParameter.swift": [1553578533, 340846675]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/InMemoryStore.swift": [1553578533, 340958205]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/RouterRequest+Session.swift": [1553578533, 341076062]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/Session.swift": [1553578533, 341190295]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/SessionCookie.swift": [1553578533, 341295353]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/SessionState.swift": [1553578533, 341408587]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/Store.swift": [1553578533, 341507220]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/StoreError.swift": [1553578533, 341598506]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-Session/Sources/KituraSession/TypeSafeSession.swift": [1553578533, 341732974]

@@ -1,0 +1,131 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "App"
+provides-nominal:
+- "15CloudFoundryEnv3AppV"
+- "15CloudFoundryEnv3AppV7BuilderC"
+- "15CloudFoundryEnv3AppV6LimitsV"
+provides-member:
+- ["15CloudFoundryEnv3AppV", ""]
+- ["15CloudFoundryEnv3AppV7BuilderC", ""]
+- ["15CloudFoundryEnv3AppV6LimitsV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "App"
+- "AssignmentPrecedence"
+- "Date"
+- "Int"
+- "String"
+- "TimeInterval"
+depends-member:
+- ["15CloudFoundryEnv3AppV", "App"]
+- ["15CloudFoundryEnv3AppV", "Builder"]
+- ["15CloudFoundryEnv3AppV", "Date"]
+- ["15CloudFoundryEnv3AppV", "Int"]
+- ["15CloudFoundryEnv3AppV", "Limits"]
+- ["15CloudFoundryEnv3AppV", "String"]
+- ["15CloudFoundryEnv3AppV", "TimeInterval"]
+- ["15CloudFoundryEnv3AppV", "id"]
+- !private ["15CloudFoundryEnv3AppV", "init"]
+- ["15CloudFoundryEnv3AppV", "instanceId"]
+- ["15CloudFoundryEnv3AppV", "instanceIndex"]
+- ["15CloudFoundryEnv3AppV", "limits"]
+- ["15CloudFoundryEnv3AppV", "name"]
+- ["15CloudFoundryEnv3AppV", "port"]
+- ["15CloudFoundryEnv3AppV", "spaceId"]
+- ["15CloudFoundryEnv3AppV", "startedAt"]
+- ["15CloudFoundryEnv3AppV", "startedAtTs"]
+- ["15CloudFoundryEnv3AppV", "uris"]
+- ["15CloudFoundryEnv3AppV", "version"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "App"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "Builder"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "Date"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "Int"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "Limits"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "String"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "build"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "id"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "init"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "instanceId"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "instanceIndex"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "limits"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "name"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "port"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "setId"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "setInstanceId"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "setInstanceIndex"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "setLimits"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "setName"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "setPort"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "setSpaceId"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "setStartedAt"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "setUris"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "setVersion"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "spaceId"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "startedAt"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "uris"]
+- ["15CloudFoundryEnv3AppV7BuilderC", "version"]
+- !private ["SL", "timeIntervalSince1970"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s17CustomReflectableP", "timeIntervalSince1970"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- !private ["10Foundation4DateV", "timeIntervalSince1970"]
+- !private ["Se", "timeIntervalSince1970"]
+- !private ["SE", "timeIntervalSince1970"]
+- !private ["SQ", "timeIntervalSince1970"]
+- !private ["SH", "timeIntervalSince1970"]
+- ["15CloudFoundryEnv3AppV6LimitsV", "Int"]
+- ["15CloudFoundryEnv3AppV6LimitsV", "disk"]
+- ["15CloudFoundryEnv3AppV6LimitsV", "fds"]
+- ["15CloudFoundryEnv3AppV6LimitsV", "init"]
+- ["15CloudFoundryEnv3AppV6LimitsV", "memory"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSince1970"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSince1970"]
+depends-nominal:
+- "15CloudFoundryEnv3AppV"
+- "15CloudFoundryEnv3AppV7BuilderC"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "SH"
+- "15CloudFoundryEnv3AppV6LimitsV"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Configuration.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/FileKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "00a933c6f26309c9b52861afa53f5ff7"

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "2792c80a31d19ce456885e091d2157e0"
+build_time: [1554331721, 108466000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueSSLService.git--8843875201781687970/Sources/SSLService/SSLPointerTricks.swift": [1553213965, 131160877]
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/BlueSSLService.git--8843875201781687970/Sources/SSLService/SSLService.swift": [1553213965, 131445955]

@@ -1,0 +1,4 @@
+module memplugin {
+    umbrella "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/omr-agentcore-1273195304195151760/src/memplugin/include"
+    export *
+}

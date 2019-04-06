@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/PathKit.build/PathKit.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/PathKit.build/PathKit.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/PathKit.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/PathKit.git--3899465251797534586/Sources/PathKit.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/PathKit.build/PathKit.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/PathKit.build/PathKit~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/PathKit.build/PathKit.swiftdeps"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftBAMDC.build/SwiftBAMDC.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftBAMDC.build/SwiftBAMDC.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftBAMDC.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftBAMDC/SwiftDataCollector.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftBAMDC.build/SwiftDataCollector.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftBAMDC.build/SwiftDataCollector~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftBAMDC.build/SwiftDataCollector.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/SwiftMetrics.git--6750798277894355985/Sources/SwiftBAMDC/SwiftMetricsBAMConfig.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftBAMDC.build/SwiftMetricsBAMConfig.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftBAMDC.build/SwiftMetricsBAMConfig~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/SwiftBAMDC.build/SwiftMetricsBAMConfig.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module cpuplugin {
+    umbrella header "/swift-project/.build-ubuntu/checkouts/omr-agentcore--7541127466014459218/src/cpuplugin/include/cpuplugin.h"
+    export *
+}

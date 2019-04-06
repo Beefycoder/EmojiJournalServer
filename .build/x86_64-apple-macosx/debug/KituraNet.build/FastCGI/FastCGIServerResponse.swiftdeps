@@ -1,0 +1,493 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FastCGIServerResponse"
+provides-nominal:
+- "9KituraNet21FastCGIServerResponseC"
+provides-member:
+- ["Sn", ""]
+- ["9KituraNet21FastCGIServerResponseC", ""]
+- ["Sn", "iterate"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- "*"
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "..<"
+- !private "<"
+- !private ">"
+- "AssignmentPrecedence"
+- "BinaryInteger"
+- "Bool"
+- "Data"
+- !private "FastCGI"
+- !private "FastCGIRecordCreate"
+- "FastCGIServerRequest"
+- "FastCGIServerResponse"
+- !private "HTTP"
+- "HTTPStatusCode"
+- "HeadersContainer"
+- !private "Monitor"
+- "Range"
+- !private "SPIUtils"
+- "ServerResponse"
+- "Socket"
+- "String"
+- "UInt16"
+- "UInt8"
+depends-member:
+- !private ["SK", "append"]
+- !private ["SK", "clamped"]
+- !private ["SK", "count"]
+- !private ["SK", "data"]
+- ["SK", "init"]
+- !private ["SK", "iterate"]
+- !private ["SK", "lowerBound"]
+- !private ["SK", "subdata"]
+- !private ["SK", "upperBound"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "data"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "append"]
+- !private ["Sl", "clamped"]
+- !private ["Sl", "count"]
+- !private ["Sl", "data"]
+- !private ["Sl", "headers"]
+- ["Sl", "init"]
+- !private ["Sl", "iterate"]
+- !private ["Sl", "lowerBound"]
+- !private ["Sl", "subdata"]
+- !private ["Sl", "subscript"]
+- !private ["Sl", "upperBound"]
+- !private ["SL", "append"]
+- !private ["SL", "data"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FASTCGI_DEFAULT_REQUEST_ID"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_CANT_MPX_CONN"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_END_REQUEST"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_REQUEST_COMPLETE"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_STDOUT"]
+- !private ["9KituraNet7FastCGIC9ConstantsV", "FCGI_UNKNOWN_ROLE"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- ["10Foundation15ContiguousBytesP", "init"]
+- !private ["10Foundation15ContiguousBytesP", "subdata"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "clamped"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "iterate"]
+- !private ["s28CustomDebugStringConvertibleP", "lowerBound"]
+- !private ["s28CustomDebugStringConvertibleP", "subdata"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "upperBound"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "clamped"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "data"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "iterate"]
+- !private ["s17CustomReflectableP", "lowerBound"]
+- !private ["s17CustomReflectableP", "subdata"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "upperBound"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "clamped"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "iterate"]
+- !private ["s23CustomStringConvertibleP", "lowerBound"]
+- !private ["s23CustomStringConvertibleP", "subdata"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "upperBound"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["10Foundation4DataV", "append"]
+- !private ["10Foundation4DataV", "count"]
+- ["10Foundation4DataV", "init"]
+- !private ["10Foundation4DataV", "subdata"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- ["10Foundation12DataProtocolP", "init"]
+- !private ["10Foundation12DataProtocolP", "subdata"]
+- !private ["Se", "append"]
+- !private ["Se", "clamped"]
+- !private ["Se", "count"]
+- !private ["Se", "data"]
+- ["Se", "init"]
+- !private ["Se", "iterate"]
+- !private ["Se", "lowerBound"]
+- !private ["Se", "subdata"]
+- !private ["Se", "subscript"]
+- !private ["Se", "upperBound"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "subscript"]
+- !private ["SE", "append"]
+- !private ["SE", "clamped"]
+- !private ["SE", "count"]
+- !private ["SE", "data"]
+- ["SE", "init"]
+- !private ["SE", "iterate"]
+- !private ["SE", "lowerBound"]
+- !private ["SE", "subdata"]
+- !private ["SE", "subscript"]
+- !private ["SE", "upperBound"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- ["SQ", "OK"]
+- !private ["SQ", "append"]
+- !private ["SQ", "clamped"]
+- !private ["SQ", "count"]
+- !private ["SQ", "data"]
+- ["SQ", "init"]
+- !private ["SQ", "internalError"]
+- !private ["SQ", "iterate"]
+- !private ["SQ", "lowerBound"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "subdata"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "upperBound"]
+- !private ["SQ", "utf8"]
+- !private ["s5ErrorP", "internalError"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "append"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "data"]
+- !private ["s32ExpressibleByStringInterpolationP", "append"]
+- !private ["s32ExpressibleByStringInterpolationP", "data"]
+- !private ["s26ExpressibleByStringLiteralP", "append"]
+- !private ["s26ExpressibleByStringLiteralP", "data"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "append"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "data"]
+- !private ["9KituraNet7FastCGIC", "Constants"]
+- !private ["9KituraNet7FastCGIC", "RecordErrors"]
+- !private ["9KituraNet19FastCGIRecordCreateC", "create"]
+- !private ["9KituraNet19FastCGIRecordCreateC", "data"]
+- !private ["9KituraNet19FastCGIRecordCreateC", "init"]
+- !private ["9KituraNet19FastCGIRecordCreateC", "protocolStatus"]
+- !private ["9KituraNet19FastCGIRecordCreateC", "recordType"]
+- !private ["9KituraNet19FastCGIRecordCreateC", "requestId"]
+- !private ["9KituraNet20FastCGIServerRequestC", "deinit"]
+- !private ["9KituraNet20FastCGIServerRequestC", "requestId"]
+- ["9KituraNet21FastCGIServerResponseC", "Bool"]
+- ["9KituraNet21FastCGIServerResponseC", "Data"]
+- !private ["9KituraNet21FastCGIServerResponseC", "FastCGI"]
+- !private ["9KituraNet21FastCGIServerResponseC", "FastCGIRecordCreate"]
+- ["9KituraNet21FastCGIServerResponseC", "FastCGIServerRequest"]
+- ["9KituraNet21FastCGIServerResponseC", "FastCGIServerResponse"]
+- !private ["9KituraNet21FastCGIServerResponseC", "HTTP"]
+- ["9KituraNet21FastCGIServerResponseC", "HTTPStatusCode"]
+- ["9KituraNet21FastCGIServerResponseC", "HeadersContainer"]
+- !private ["9KituraNet21FastCGIServerResponseC", "Monitor"]
+- !private ["9KituraNet21FastCGIServerResponseC", "SPIUtils"]
+- ["9KituraNet21FastCGIServerResponseC", "Socket"]
+- ["9KituraNet21FastCGIServerResponseC", "String"]
+- ["9KituraNet21FastCGIServerResponseC", "UInt16"]
+- ["9KituraNet21FastCGIServerResponseC", "UInt8"]
+- !private ["9KituraNet21FastCGIServerResponseC", "buffer"]
+- ["9KituraNet21FastCGIServerResponseC", "bufferSize"]
+- !private ["9KituraNet21FastCGIServerResponseC", "concludeResponse"]
+- ["9KituraNet21FastCGIServerResponseC", "deinit"]
+- ["9KituraNet21FastCGIServerResponseC", "end"]
+- !private ["9KituraNet21FastCGIServerResponseC", "flush"]
+- !private ["9KituraNet21FastCGIServerResponseC", "getEndRequestMessage"]
+- !private ["9KituraNet21FastCGIServerResponseC", "getMessage"]
+- !private ["9KituraNet21FastCGIServerResponseC", "getNoMultiplexingMessage"]
+- !private ["9KituraNet21FastCGIServerResponseC", "getRequestCompleteMessage"]
+- !private ["9KituraNet21FastCGIServerResponseC", "getUnsupportedRoleMessage"]
+- ["9KituraNet21FastCGIServerResponseC", "headers"]
+- ["9KituraNet21FastCGIServerResponseC", "init"]
+- ["9KituraNet21FastCGIServerResponseC", "rejectMultiplexConnecton"]
+- ["9KituraNet21FastCGIServerResponseC", "rejectUnsupportedRole"]
+- ["9KituraNet21FastCGIServerResponseC", "reset"]
+- !private ["9KituraNet21FastCGIServerResponseC", "serverRequest"]
+- !private ["9KituraNet21FastCGIServerResponseC", "socket"]
+- !private ["9KituraNet21FastCGIServerResponseC", "startFlushed"]
+- !private ["9KituraNet21FastCGIServerResponseC", "startResponse"]
+- !private ["9KituraNet21FastCGIServerResponseC", "status"]
+- ["9KituraNet21FastCGIServerResponseC", "statusCode"]
+- ["9KituraNet21FastCGIServerResponseC", "write"]
+- !private ["9KituraNet21FastCGIServerResponseC", "writeToSocket"]
+- !private ["9KituraNet4HTTPC", "statusCodes"]
+- ["9KituraNet14HTTPStatusCodeO", "OK"]
+- ["9KituraNet14HTTPStatusCodeO", "deinit"]
+- !private ["9KituraNet14HTTPStatusCodeO", "init"]
+- ["9KituraNet14HTTPStatusCodeO", "rawValue"]
+- ["SH", "OK"]
+- !private ["SH", "append"]
+- !private ["SH", "clamped"]
+- !private ["SH", "count"]
+- !private ["SH", "data"]
+- ["SH", "init"]
+- !private ["SH", "internalError"]
+- !private ["SH", "iterate"]
+- !private ["SH", "lowerBound"]
+- ["SH", "rawValue"]
+- !private ["SH", "subdata"]
+- !private ["SH", "subscript"]
+- !private ["SH", "upperBound"]
+- !private ["SH", "utf8"]
+- !private ["9KituraNet16HeadersContainerC", "deinit"]
+- !private ["9KituraNet16HeadersContainerC", "headers"]
+- ["9KituraNet16HeadersContainerC", "init"]
+- !private ["9KituraNet16HeadersContainerC", "subscript"]
+- !private ["s25LosslessStringConvertibleP", "append"]
+- !private ["s25LosslessStringConvertibleP", "data"]
+- !private ["s10MirrorPathP", "append"]
+- !private ["s10MirrorPathP", "data"]
+- !private ["9KituraNet7MonitorV", "delegate"]
+- !private ["SM", "append"]
+- !private ["SM", "count"]
+- ["SM", "init"]
+- !private ["SM", "subdata"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "subdata"]
+- !private ["So8NSCodingP", "append"]
+- !private ["So8NSCodingP", "data"]
+- !private ["So9NSCopyingP", "append"]
+- !private ["So9NSCopyingP", "data"]
+- !private ["So21NSItemProviderReadingP", "append"]
+- !private ["So21NSItemProviderReadingP", "data"]
+- !private ["So21NSItemProviderWritingP", "append"]
+- !private ["So21NSItemProviderWritingP", "data"]
+- !private ["So16NSMutableCopyingP", "append"]
+- !private ["So16NSMutableCopyingP", "data"]
+- !private ["So8NSObjectC", "append"]
+- !private ["So8NSObjectC", "data"]
+- !private ["So8NSObjectP", "append"]
+- !private ["So8NSObjectP", "data"]
+- !private ["So14NSSecureCodingP", "append"]
+- !private ["So14NSSecureCodingP", "data"]
+- !private ["So8NSStringC", "append"]
+- !private ["So8NSStringC", "data"]
+- !private ["Sk", "append"]
+- !private ["Sk", "clamped"]
+- !private ["Sk", "count"]
+- ["Sk", "init"]
+- !private ["Sk", "iterate"]
+- !private ["Sk", "lowerBound"]
+- !private ["Sk", "subdata"]
+- !private ["Sk", "upperBound"]
+- ["Sn", "BinaryInteger"]
+- ["Sn", "Range"]
+- !private ["Sn", "clamped"]
+- ["Sn", "iterate"]
+- !private ["Sn", "lowerBound"]
+- !private ["Sn", "upperBound"]
+- !private ["SX", "clamped"]
+- !private ["SX", "iterate"]
+- !private ["SX", "lowerBound"]
+- !private ["SX", "upperBound"]
+- !private ["Sm", "append"]
+- !private ["Sm", "count"]
+- !private ["Sm", "data"]
+- ["Sm", "init"]
+- !private ["Sm", "subdata"]
+- ["SY", "OK"]
+- !private ["SY", "init"]
+- ["SY", "rawValue"]
+- !private ["SY", "utf8"]
+- !private ["9KituraNet7FastCGIC12RecordErrorsO", "deinit"]
+- !private ["9KituraNet7FastCGIC12RecordErrorsO", "internalError"]
+- !private ["10Foundation20ReferenceConvertibleP", "append"]
+- !private ["10Foundation20ReferenceConvertibleP", "count"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "subdata"]
+- !private ["9KituraNet8SPIUtilsC", "httpDate"]
+- !private ["ST", "append"]
+- !private ["ST", "clamped"]
+- !private ["ST", "count"]
+- !private ["ST", "data"]
+- !private ["ST", "headers"]
+- ["ST", "init"]
+- !private ["ST", "iterate"]
+- !private ["ST", "lowerBound"]
+- !private ["ST", "subdata"]
+- !private ["ST", "subscript"]
+- !private ["ST", "upperBound"]
+- !private ["9KituraNet13ServerMonitorP", "finished"]
+- !private ["9KituraNet13ServerRequestP", "requestId"]
+- ["9KituraNet14ServerResponseP", "Data"]
+- !private ["9KituraNet14ServerResponseP", "FastCGI"]
+- !private ["9KituraNet14ServerResponseP", "FastCGIRecordCreate"]
+- ["9KituraNet14ServerResponseP", "FastCGIServerResponse"]
+- !private ["9KituraNet14ServerResponseP", "HTTP"]
+- ["9KituraNet14ServerResponseP", "HTTPStatusCode"]
+- ["9KituraNet14ServerResponseP", "HeadersContainer"]
+- !private ["9KituraNet14ServerResponseP", "Monitor"]
+- !private ["9KituraNet14ServerResponseP", "SPIUtils"]
+- ["9KituraNet14ServerResponseP", ""]
+- !private ["9KituraNet14ServerResponseP", "buffer"]
+- ["9KituraNet14ServerResponseP", "bufferSize"]
+- !private ["9KituraNet14ServerResponseP", "concludeResponse"]
+- ["9KituraNet14ServerResponseP", "end"]
+- !private ["9KituraNet14ServerResponseP", "flush"]
+- !private ["9KituraNet14ServerResponseP", "getEndRequestMessage"]
+- !private ["9KituraNet14ServerResponseP", "getMessage"]
+- !private ["9KituraNet14ServerResponseP", "getNoMultiplexingMessage"]
+- !private ["9KituraNet14ServerResponseP", "getRequestCompleteMessage"]
+- !private ["9KituraNet14ServerResponseP", "getUnsupportedRoleMessage"]
+- ["9KituraNet14ServerResponseP", "headers"]
+- ["9KituraNet14ServerResponseP", "reset"]
+- !private ["9KituraNet14ServerResponseP", "serverRequest"]
+- !private ["9KituraNet14ServerResponseP", "socket"]
+- !private ["9KituraNet14ServerResponseP", "startFlushed"]
+- !private ["9KituraNet14ServerResponseP", "startResponse"]
+- !private ["9KituraNet14ServerResponseP", "status"]
+- ["9KituraNet14ServerResponseP", "statusCode"]
+- ["9KituraNet14ServerResponseP", "write"]
+- !private ["9KituraNet14ServerResponseP", "writeToSocket"]
+- !private ["6SocketAAC", "close"]
+- !private ["6SocketAAC", "write"]
+- !private ["6Socket0A6ReaderP", "close"]
+- !private ["6Socket0A6ReaderP", "write"]
+- !private ["6Socket0A6WriterP", "close"]
+- !private ["6Socket0A6WriterP", "write"]
+- !private ["SS", "append"]
+- !private ["SS", "data"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "append"]
+- !private ["Sy", "data"]
+- !private ["s16TextOutputStreamP", "append"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "data"]
+- !private ["s20TextOutputStreamableP", "append"]
+- !private ["s20TextOutputStreamableP", "data"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "append"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "data"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "append"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "data"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "append"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "data"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "append"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "data"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "data"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "data"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "append"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "data"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subdata"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- "SK"
+- !private "s7CVarArgP"
+- "Sl"
+- !private "SL"
+- !private "9KituraNet7FastCGIC9ConstantsV"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DataV"
+- "10Foundation12DataProtocolP"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- "SE"
+- !private "SS10FoundationE8EncodingV"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9KituraNet7FastCGIC"
+- !private "9KituraNet19FastCGIRecordCreateC"
+- !private "9KituraNet20FastCGIServerRequestC"
+- "9KituraNet21FastCGIServerResponseC"
+- !private "9KituraNet4HTTPC"
+- "9KituraNet14HTTPStatusCodeO"
+- "SH"
+- "9KituraNet16HeadersContainerC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "9KituraNet7MonitorV"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "Sk"
+- "Sn"
+- !private "SX"
+- "Sm"
+- "SY"
+- !private "9KituraNet7FastCGIC12RecordErrorsO"
+- "10Foundation20ReferenceConvertibleP"
+- !private "9KituraNet8SPIUtilsC"
+- "ST"
+- !private "9KituraNet13ServerMonitorP"
+- !private "9KituraNet13ServerRequestP"
+- "9KituraNet14ServerResponseP"
+- !private "6SocketAAC"
+- !private "6Socket0A6ReaderP"
+- !private "6Socket0A6WriterP"
+- !private "SS"
+- !private "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/LoggerAPI.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/SSLService.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/Socket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CHTTPParser/include/utils.h"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/agentcore.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/hcapiplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/memplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/mqttplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/cpuplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/envplugin.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/paho.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/x86_64-apple-macosx/debug/CHTTPParser.build/module.modulemap"
+- "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/Kitura-net.git-4378304010554470451/Sources/CCurl/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ba823f5803afa5b91d0e7e8f47862df0"

@@ -1,0 +1,57 @@
+{
+  "": {
+    "dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/KituraWebSocket.d",
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/KituraWebSocket.o",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/master.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WSConnectionUpgradeFactory.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSConnectionUpgradeFactory.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSConnectionUpgradeFactory~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSConnectionUpgradeFactory.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WSFrame.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSFrame.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSFrame~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSFrame.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WSFrameParser.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSFrameParser.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSFrameParser~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSFrameParser.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WSServerRequest.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSServerRequest.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSServerRequest~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSServerRequest.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WSSocketProcessor.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSSocketProcessor.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSSocketProcessor~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WSSocketProcessor.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WebSocket.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocket.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocket~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocket.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WebSocketCloseReasonCode.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketCloseReasonCode.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketCloseReasonCode~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketCloseReasonCode.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WebSocketConnection.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketConnection.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketConnection~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketConnection.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WebSocketError.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketError.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketError~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketError.swiftdeps"
+  },
+  "/swift-project/.build-ubuntu/checkouts/Kitura-WebSocket.git-5621039470567069169/Sources/KituraWebSocket/WebSocketService.swift": {
+    "object": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketService.swift.o",
+    "swiftmodule": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketService~partial.swiftmodule",
+    "swift-dependencies": "/swift-project/.build-ubuntu/x86_64-unknown-linux/release/KituraWebSocket.build/WebSocketService.swiftdeps"
+  }
+}

@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled 
+20421e0c7890a2a9b1515eb1321ebcd76ad7231f refs/heads/master
+0c43b72fd5d45e4f101484f7cc9f07c8515674e0 refs/heads/revert-2-swift4
+c2b47913be5ba252aacbfd8a99af633809616d57 refs/pull/2/head
+bd64697c7216ff52c60ac2c2cb1a0780bd9b69f2 refs/tags/0.0.1
+^49b3a90559bcf1bc9b598d75c2c503a3a9d91801
+349345bd8b0f321f5d1ff2ab4b4b9bda4a08cc04 refs/tags/0.0.2
+^50e0cd97a20e5e8a573eabc295cd20bd99dde023
+573a448cc9ff64bfe99b5a947adc084065985e13 refs/tags/0.1.0
+^50e0cd97a20e5e8a573eabc295cd20bd99dde023
+d3bb26cb5843fcda0be3d2bceb7bdb834b005f13 refs/tags/0.1.1
+^f6c2c89489d009c1e52b36f92a53c49dda23f547
+20421e0c7890a2a9b1515eb1321ebcd76ad7231f refs/tags/0.1.2

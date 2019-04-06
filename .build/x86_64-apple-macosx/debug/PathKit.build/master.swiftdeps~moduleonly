@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "16238534a6939cad267a3cd8b774d0c1"
+build_time: [1554331711, 452471000]
+inputs:
+  "/Users/patbutler/Developer/Server/Kitura/EmojiJournalServer/.build/checkouts/PathKit/Sources/PathKit.swift": [1553654954, 634183869]
